@@ -699,8 +699,8 @@
 !FILE:ProLogueData/extract_PACK/dat_game_title.bin/file001.PACK
 1=file001.NCGR
 2=file001.NCLR
-3=file004.NSCR
-4=file001.NSCR
+3=file001.NSCR
+4=file001b.NSCR
 5=file002.NCGR
 6=file002.NCLR
 7=file002.NSCR
