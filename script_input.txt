@@ -206,20 +206,20 @@
 トラップの解除方法を|@fR【Ｌに聞ける回数】が増えた！=
 !FILE:dat_script.bin/file003_PACK2/file006.bin
 イベントスキップ？=
-──中米・クリエラ共和国。|\t|カリブ海に臨むこの国では、この数年、|政府軍と反政府武装勢力による内戦が|続いており、その影響で多くの市民が|難民と化していた。=
-難民救済のため、世界各国からＮＰＯが|現地入りし、苦しむ人々を支えるように|なってしばらく経った頃、人々の間に|奇妙な噂が流れ始めた──=
-あるＮＰＯが担当した難民が消えた……=
-一方、その頃──アメリカ合衆国各地で|何者かに殺害された外国人が|多数発見される事件が続発していた。|\t|捜査に乗り出した連邦捜査局・ＦＢＩは、|驚くべき事実を発見する。|\t|事件の被害者は、クリエラから消えた|難民たちだった。=
-問題のＮＰＯ──『クリエラの月』の|正体は、難民救済を隠れ蓑にして|武器を売りさばく闇ブローカーだった。\v彼らは、「救済」した難民の一部を|なかば強制的に組織に組み入れて|急速に規模を拡大し、合衆国各地に|武器取引の中継点を作りつつあった。\v当初は、生きるためにやむなく|組織に従っていた難民たちだったが、|同胞の命を奪う武器を売ることに|耐え切れず、集団で逃亡を図った。|\t|しかし、組織がそれを許すはずもなく、|逃亡者は見せしめのため抹殺された。\v集団殺人事件の被害者は、|『クリエラの月』に始末された|難民たちだったのである……=
-ＦＢＩは難民救出および組織の摘発に|乗り出したが、作戦は困難を極めた。|\t|作戦遂行の最大の障害となったのは|難民の逃亡を防ぐために仕掛けられた|巧妙なトラップの数々──=
-死傷者の数は、捜査官・難民を合わせて|数十名を越えた……|\t|窮地に追い込まれたＦＢＩに、|１人の犯罪捜査のエキスパートが協力を|申し出た。=
-通称──〝Ｌ〟=
-名前も居場所も、顔を知る者さえいない|正体不明のその人物は、これまで幾度も|人知れず世界の迷宮入り事件を|解決してきた。|\t|いわば、犯罪捜査の切り札である。=
-ＬはＦＢＩの強制捜査班を無線で指揮。|\t|現場からの中継映像のみでトラップの|有無や種類を判断し、的確な解除方法を|現場に伝えた。|\t|Ｌの協力により、ＦＢＩは闇ブローカー|組織の壊滅に成功──事件は解決した。=
-それから１年。|\t|クリエラでは、政府側と反政府側双方が|和平交渉のテーブルに着くことに合意。|\t|ようやく内戦終結への道筋が見え始めて|いたのだが……=
-そんな中、『クリエラの月』が|活動を再開したとの情報をつかんだ|ＦＢＩは、ただちに捜査を始めた。=
-@n1、捜査命令は受け取ったか？\t|今度の事件のバックアップは、僕が担当|することになった。\v前回の難民救出作戦では、初任務だった|ことから君にはバックアップを担当して|もらったが、今回はフォワードだ。=
-目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたそうだ。\v準備が出来次第、すぐに出発するぞ。=
+──中米・クリエラ共和国。|\t|カリブ海に臨むこの国では、この数年、|政府軍と反政府武装勢力による内戦が|続いており、その影響で多くの市民が|難民と化していた。=Central America - Republic of Criella|\t|For many years, this country in the Caribbean Sea suffered a terrible civil war between rebels and government forces turning citizens into refugees.
+難民救済のため、世界各国からＮＰＯが|現地入りし、苦しむ人々を支えるように|なってしばらく経った頃、人々の間に|奇妙な噂が流れ始めた──=NPOs from across the globe flew in to support refugee relief, but a rumor began to spread amongst the people soon after.
+あるＮＰＯが担当した難民が消えた……=Refugees under NPO care had begun disappearing.
+一方、その頃──アメリカ合衆国各地で|何者かに殺害された外国人が|多数発見される事件が続発していた。|\t|捜査に乗り出した連邦捜査局・ＦＢＩは、|驚くべき事実を発見する。|\t|事件の被害者は、クリエラから消えた|難民たちだった。=Meanwhile, a series of incidents had swept over the United States with the murder of foreigners.|/t|The Federal Bureau of Investigation launched an investigation which led to a startling discovery.|/t|The victims were themselves refugees who had disappeared from Criella.
+問題のＮＰＯ──『クリエラの月』の|正体は、難民救済を隠れ蓑にして|武器を売りさばく闇ブローカーだった。\v彼らは、「救済」した難民の一部を|なかば強制的に組織に組み入れて|急速に規模を拡大し、合衆国各地に|武器取引の中継点を作りつつあった。\v当初は、生きるためにやむなく|組織に従っていた難民たちだったが、|同胞の命を奪う武器を売ることに|耐え切れず、集団で逃亡を図った。|\t|しかし、組織がそれを許すはずもなく、|逃亡者は見せしめのため抹殺された。\v集団殺人事件の被害者は、|『クリエラの月』に始末された|難民たちだったのである……=The NPO in question, Criella Moon, in fact used refugees as a front to sell weapons on the black market.\vThe organization expanded rapidly forcing the "rescued" refugees into their ranks to create relay points throughout the United States for their arms trade.\vThey followed directives at first in order to survive, but selling the very weapons which would kill their fellow countrymen led them to try to escape.|\t|The organization then assassinated these fugitives to set an example for the others.\vThe series of murders were in fact the refugees killed by Criella Moon.
+ＦＢＩは難民救出および組織の摘発に|乗り出したが、作戦は困難を極めた。|\t|作戦遂行の最大の障害となったのは|難民の逃亡を防ぐために仕掛けられた|巧妙なトラップの数々──=The FBI was then tasked with the detection and rescue of refugees, but the operation proved difficult.|\t|The operation's largest obstacle was the number of intricate traps which had been put into place to prevent the refugees' escape.
+死傷者の数は、捜査官・難民を合わせて|数十名を越えた……|\t|窮地に追い込まれたＦＢＩに、|１人の犯罪捜査のエキスパートが協力を|申し出た。=The number of casualties, including investigators and refugees, quickly reached double digits.|\t|The FBI, in dire straits, was then approached by an expert of criminal investigation.
+通称──〝Ｌ〟=Alias: L
+名前も居場所も、顔を知る者さえいない|正体不明のその人物は、これまで幾度も|人知れず世界の迷宮入り事件を|解決してきた。|\t|いわば、犯罪捜査の切り札である。=The unidentified person whose name, face, and whereabouts remained unknown had previously solved numerous cases thought to be unsolvable.|\t|The secret weapon of criminal investigation.
+ＬはＦＢＩの強制捜査班を無線で指揮。|\t|現場からの中継映像のみでトラップの|有無や種類を判断し、的確な解除方法を|現場に伝えた。|\t|Ｌの協力により、ＦＢＩは闇ブローカー|組織の壊滅に成功──事件は解決した。=L took over command of the FBI investigation wirelessly.|\t|Through only live video from the site, he was able to detect the presence of traps and provide instruction on their deactivation.|\t|Through L's assistance, the FBI succeeded in dismantling the shadow organization, and the case was solved.
+それから１年。|\t|クリエラでは、政府側と反政府側双方が|和平交渉のテーブルに着くことに合意。|\t|ようやく内戦終結への道筋が見え始めて|いたのだが……=One year later...|\t|The Criellan government and the rebels agreed to begin peace talks.|\t|At last, a path toward the end of the civil war was in sight.
+そんな中、『クリエラの月』が|活動を再開したとの情報をつかんだ|ＦＢＩは、ただちに捜査を始めた。=Meanwhile, Criella Moon had resumed its activities, and the FBI's investigation began once more.
+@n1、捜査命令は受け取ったか？\t|今度の事件のバックアップは、僕が担当|することになった。\v前回の難民救出作戦では、初任務だった|ことから君にはバックアップを担当して|もらったが、今回はフォワードだ。=@n1, you received the investigation orders, correct? I have been tasked to provide you with assistance on this case.\vThe last refugee rescue operation was your first mission, but you're not on backup this time around.
+目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたそうだ。\v準備が出来次第、すぐに出発するぞ。=We're headed to Key West, Florida. The organization seems to have a new base in the West Coast Bay Area.\vWe can leave immediately.
 僕が外を見張る。\t|その間に君は倉庫の内部を探れ。\t|何かあればすぐ無線で知らせる。=
 事件はまだ初動捜査の段階であり、|ＦＢＩ上層部はＬの手を借りるまでも|ないと判断していた──だが。=
 しまった、罠だ！　逃げろ@n1！\t|僕も負傷した……聞こえるか@n1！\t|撤退！　撤退するんだ！=
@@ -249,7 +249,7 @@
 さあ、これからが本番ですよ。\t|お手並み、拝見させていただきます。\t|月並みですが…神のご加護を。=
 長い９時間になりそうですね…=
 !FILE:dat_script.bin/file003_PACK2/file010.bin
-甘いものはお好きですか？=
+甘いものはお好きですか？=Do you like sweets?
 !FILE:dat_script.bin/file004_PACK2/file006.bin
 楽しんでいただけていますか、|私の復讐ゲームを？=
 人の命を軽々しく扱うような|悪趣味なゲームを楽しむほど|私はひねくれていませんよ。=
