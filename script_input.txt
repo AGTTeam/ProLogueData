@@ -77,9 +77,9 @@
 ダメージが蓄積してきましたね……\t|体力を回復できるようなアイテムは|持っていますか？=
 今の体力でトラップ解除に失敗すると|最悪、命に関わります。\t|くれぐれも気をつけて。=
 大丈夫ですか？\t|無理しないでください。=
-残念ながら、あなたが自力で|そこから脱出する可能性に|賭けるしかない状況です。=
-何かヒントがあるかもしれません。\t|室内をきちんと調べていきましょう。=
-室内を調べる時は、タッチしながら|ペンでなぞるようにすると、|怪しい場所を見つけやすいですよ。=
+残念ながら、あなたが自力で|そこから脱出する可能性に|賭けるしかない状況です。=Unfortunately, you have no choice but to try to escape on your own and hope for the best.
+何かヒントがあるかもしれません。\t|室内をきちんと調べていきましょう。=There may be a hint somewhere. \tInspect the room thoroughly.
+室内を調べる時は、タッチしながら|ペンでなぞるようにすると、|怪しい場所を見つけやすいですよ。=While examining a room, sliding the stylus across the screen will make it easier to find suspicious places.
 ここがホテルなら、周辺は|市街地である可能性が高いですね。\t|ということは……=
 致命的なミスを犯さない限り、|小型のトラップは緊急回避が可能です。\t|多少のダメージは避けられませんが。=
 …あ、失礼。\t|甘い物を食べないと|推理力が鈍るんです。=
@@ -220,15 +220,15 @@
 そんな中、『クリエラの月』が|活動を再開したとの情報をつかんだ|ＦＢＩは、ただちに捜査を始めた。=Meanwhile, Criella Moon had resumed its activities, and the FBI's investigation began once more.
 @n1、捜査命令は受け取ったか？\t|今度の事件のバックアップは、僕が担当|することになった。\v前回の難民救出作戦では、初任務だった|ことから君にはバックアップを担当して|もらったが、今回はフォワードだ。=@n1, you received the investigation orders, correct? I have been tasked to provide you with assistance on this case.\vThe last refugee rescue operation was your first mission, but you're not on backup this time around.
 目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたそうだ。\v準備が出来次第、すぐに出発するぞ。=We're headed to Key West, Florida. The organization seems to have a new base in the West Coast Bay Area.\vWe can leave immediately.
-僕が外を見張る。\t|その間に君は倉庫の内部を探れ。\t|何かあればすぐ無線で知らせる。=
-事件はまだ初動捜査の段階であり、|ＦＢＩ上層部はＬの手を借りるまでも|ないと判断していた──だが。=
+僕が外を見張る。\t|その間に君は倉庫の内部を探れ。\t|何かあればすぐ無線で知らせる。=#male
+事件はまだ初動捜査の段階であり、|ＦＢＩ上層部はＬの手を借りるまでも|ないと判断していた──だが。=The FBI directors had deemed L's assistance not to be necessary at these early stages of the case. However—
 しまった、罠だ！　逃げろ@n1！\t|僕も負傷した……聞こえるか@n1！\t|撤退！　撤退するんだ！=
 背後からスタンガンで一撃され、|レイの声を聞きながら@n1は|意識を失った……=
 @n1、捜査命令は受け取ったわね？\t|今度の事件のバックアップは、私が担当|することになったわ。\v前回の難民救出作戦では、初任務だった|あなたにはバックアップを任せたけど|今回はフォワードをやってもらうわ。=
 目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたらしいの。\v準備が出来次第、すぐに出発よ。=
-私が外を見張るわ。\t|その間に君は倉庫の内部を探って。\t|何かあればすぐ無線で知らせるわ。=
-しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=
-背後からスタンガンで一撃され、|ナオミの声を聞きながら@n1は|意識を失った……=
+私が外を見張るわ。\t|その間に君は倉庫の内部を探って。\t|何かあればすぐ無線で知らせるわ。=You take a look in the warehouse. I'll keep watch out here and radio you if anything happens.#female
+しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=Damn! It's a trap!\t|I've been hit... Nnngh...\t|@n1, get out of there!
+背後からスタンガンで一撃され、|ナオミの声を聞きながら@n1は|意識を失った……=@n1 was hit from behind with a stun gun and lost consciousness as Naomi's cries rang in her ears.
 !FILE:dat_script.bin/file003_PACK2/file007.bin
 さすがはＬ。\t遅かれ早かれ気づかれると|思っていましたが、予想以上にあっさり|見破られてしまいましたね。=
 あなたは何者ですか？=
@@ -715,57 +715,57 @@
 !FILE:dat_script_f01.bin/file003_PACK2/file011.bin
 扉を開きます。|よろしいですか？=
 !FILE:dat_script_f01.bin/file004_PACK2/file006.bin
-……聞こえますか？　私はＬです。\v聞こえたら返事をしてください。\t|あなたは@n0さんですね？=
-あなたは@n0ですか？=
-電波状況がよくないようですね…\t|もう一度、呼びかけてみましょうか…=
-よかった、無事でしたか。\t|いきなりですが、状況を説明します。=
-３日前、あなたは誘拐されました。\t|『クリエラの月』の新たな拠点だと|思われる場所を捜査中のことです。\v犯人はネゴシエイターに私を指名し、|本日、通信機を送りつけて来ました。\t|今、その通信機で話をしています。\vおそらく、新拠点の情報は|あなたを誘拐するための罠として|意図的に流されたのでしょう。\v前回の作戦で、組織を壊滅させた私と|ＦＢＩへの復讐が犯行の動機ではないか|と思われます。\tそう──\v今回の事件には『クリエラの月』が|関与している可能性が高い。\t|となると問題は\t──トラップです。\v救助隊を派遣したいところですが、|まだ、あなたの居場所を特定するには|至っていません。\v３日あれば世界中のどこにでも移動は|可能ですし、当然、通信機の逆探知は|できないように細工されています。\vつまり、あなたは私との交信のみで|そこから脱出するしかないのです。\t|状況は把握できましたか？=
-把握できましたか？=
-では、もう一度説明します。\t|よく聞いていてください。=
-では、早速、始めましょう。=
-まずは、あなたのいる場所ですが、|どんなところなのでしょうか？=
-よくわからない=
-薄暗い=
-ホコリくさい=
-そうですか。\tいえ、無理に説明されて|先入観を与えられるより、不明なものは|不明だと言ってもらう方が良いです。=
-照明がないのか、地下なのか…\t|それとも周囲の天気が悪いのか…\t|判断するには情報不足ですね。=
-あまり清潔な場所ではないということ|でしょうか…\tそれとも…\t|とにかく情報が足りませんね。=
-では、ＰＤＡのカメラを使って、|周囲の情報を送ってください。=
-なるほど…\tどこかの部屋のようですね。\t|では、室内を調べていただきます。\v@fRタッチペン@fWを使って、|気になる場所を調べてみてください。\vベッドやイス、机…\t|どんな小さな事でもかまいません。\t|情報を集めてください。=
-調べられる場所をタッチすると|@fRカーソル@fWが吸い付きます。\v@fRカーソルをもう一度タッチ@fWすると|その場所を調べることができます。=
+……聞こえますか？　私はＬです。\v聞こえたら返事をしてください。\t|あなたは@n0さんですね？=Can you hear me? I'm L.\vRespond if you can hear me.\t|You're Ms. @n0, correct?
+あなたは@n0ですか？=Are you @n0?
+電波状況がよくないようですね…\t|もう一度、呼びかけてみましょうか…=There must be some interference with the signal. I'll call you back.#no
+よかった、無事でしたか。\t|いきなりですが、状況を説明します。=Good. I'm glad you're safe. Now, let me explain the current situation.#yes
+３日前、あなたは誘拐されました。\t|『クリエラの月』の新たな拠点だと|思われる場所を捜査中のことです。\v犯人はネゴシエイターに私を指名し、|本日、通信機を送りつけて来ました。\t|今、その通信機で話をしています。\vおそらく、新拠点の情報は|あなたを誘拐するための罠として|意図的に流されたのでしょう。\v前回の作戦で、組織を壊滅させた私と|ＦＢＩへの復讐が犯行の動機ではないか|と思われます。\tそう──\v今回の事件には『クリエラの月』が|関与している可能性が高い。\t|となると問題は\t──トラップです。\v救助隊を派遣したいところですが、|まだ、あなたの居場所を特定するには|至っていません。\v３日あれば世界中のどこにでも移動は|可能ですし、当然、通信機の逆探知は|できないように細工されています。\vつまり、あなたは私との交信のみで|そこから脱出するしかないのです。\t|状況は把握できましたか？=You were kidnapped three days ago while investigating what was believed to be Criella Moon's new base of operations.\vThe perpetrator requested I act as the negotiator and sent me this wireless communicator.\vThe new base's location may have been leaked deliberately to lure you into a trap.\vTheir motivation seems to be revenge for mine and the FBI involvement shutting down their previous operations.\vYes, there is a high possibility that Criella Moon is behind this.\t|Which introduces a new problem... \tTraps.\vI would like to send in a rescue team, but I haven't yet been able to pinpoint your exact whereabouts.\vThree days is sufficient for you to have been moved anywhere in the world. And this communicator was constructed specifically to prevent us from locating you through it.\vOur only option will be to work together to get you out of there.\t|Do you understand the situation?
+把握できましたか？=Do you understand?
+では、もう一度説明します。\t|よく聞いていてください。=Let me explain it again. Listen carefully.#no
+では、早速、始めましょう。=Alright, then let's get started.#yes
+まずは、あなたのいる場所ですが、|どんなところなのでしょうか？=First of all, where are you? Describe your surroundings.
+よくわからない=I'm not sure.
+薄暗い=It's dimly lit.
+ホコリくさい=It's covered in filth.
+そうですか。\tいえ、無理に説明されて|先入観を与えられるより、不明なものは|不明だと言ってもらう方が良いです。=That's not helpful. But I suppose it is better for you don't know than to become overwhelmed and give questionable information.#answer1
+照明がないのか、地下なのか…\t|それとも周囲の天気が悪いのか…\t|判断するには情報不足ですね。=Poor lighting could mean you are underground. Or that the weather near you is bad. That won't be enough to go on.#answer2
+あまり清潔な場所ではないということ|でしょうか…\tそれとも…\t|とにかく情報が足りませんね。=So you're somewhere not very clean...\t|No, I'm afraid that won't be enough to go off of.#answer3
+では、ＰＤＡのカメラを使って、|周囲の情報を送ってください。=Alright, use the camera on your PDA so you can send me visuals of your location.
+なるほど…\tどこかの部屋のようですね。\t|では、室内を調べていただきます。\v@fRタッチペン@fWを使って、|気になる場所を調べてみてください。\vベッドやイス、机…\t|どんな小さな事でもかまいません。\t|情報を集めてください。=I see. \tIt would appear you're in some sort of bedroom or apartment. \tOkay, let's take a look around the room.\vUse the @fRstylus@fW to inspect anything that grabs your attention.\vThe bed, the chair, the desk. Even something quite small could provide us with useful information.
+調べられる場所をタッチすると|@fRカーソル@fWが吸い付きます。\v@fRカーソルをもう一度タッチ@fWすると|その場所を調べることができます。=If you tap on something that can be examined, the @fRcursor@fR will latch onto it.\vBy @fRtapping the cursor again@fW, you can inspect that location.
 !FILE:dat_script_f01.bin/file004_PACK2/file007.bin
 部屋を移動します。|@fWよろしいですか？=
-部屋を移動します。|よろしいですか？=
+部屋を移動します。|よろしいですか？=Leave room?
 !FILE:dat_script_f01.bin/file004_PACK2/file012.bin
-ソファーを調べた。=
-このソファーは高級ブランドの…\t|しかし、今では生産されていない型の|はずです…=
-わかりました。\t|どうやらあなたがいるのは、長い間|使われていないホテル跡のようです。=
-情報キーワード|@fR【ホテル風な室内】@fW|を入手した。=
-@fR情報キーワード@fWは|Ｌが推理を行う@fR「推理モード」@fWで|使用します。\v綿密に調査を進めるほど|多くのキーワードを|集めることができます。=
-この部屋の情報は十分手に入りました。\t|特に何か仕掛けられている様子は|ありませんが…油断は大敵です。=
-慎重に調べながら移動してください。=
-@fR【部屋から出る】@fWボタンが|有効になった。=
+ソファーを調べた。=Examined chair.
+このソファーは高級ブランドの…\t|しかし、今では生産されていない型の|はずです…=That chair is a luxury brand, but they don't produce them in that syle anymore.
+わかりました。\t|どうやらあなたがいるのは、長い間|使われていないホテル跡のようです。=I see.\t|If I am correct, you seem to be in a room of a long-abandoned hotel.
+情報キーワード|@fR【ホテル風な室内】@fW|を入手した。=Keyword added:|@fR"Hotel Room"@fW
+@fR情報キーワード@fWは|Ｌが推理を行う@fR「推理モード」@fWで|使用します。\v綿密に調査を進めるほど|多くのキーワードを|集めることができます。=L will use @fRkeywords@fW to make deductions in @fRReasoning Mode@fW.\vThe more you investigate, the more keywords you can collect.
+この部屋の情報は十分手に入りました。\t|特に何か仕掛けられている様子は|ありませんが…油断は大敵です。=I think we have all that we need from this room. \tWe didn't find anything of much use, but you can never be too careful.
+慎重に調べながら移動してください。=Remain observant as you move.
+@fR【部屋から出る】@fWボタンが|有効になった。=The @fR"Leave Room"@fW button has been enabled.
 !FILE:dat_script_f01.bin/file004_PACK2/file013.bin
-テーブルを調べた。=
-これは２０年前に流行したテーブル…\t|手入れはあまり行き届いていませんね。=
+テーブルを調べた。=Table examined.
+これは２０年前に流行したテーブル…\t|手入れはあまり行き届いていませんね。=These sorts of tables were quite popular 20 years ago.\t|It's definitely beginning to show its age.
 !FILE:dat_script_f01.bin/file004_PACK2/file014.bin
-ベッドを調べた。=
-ずいぶんと薄汚れたベッドですね。\t|ここで安眠できそうにありませんね…=
+ベッドを調べた。=Bed examined.
+ずいぶんと薄汚れたベッドですね。\t|ここで安眠できそうにありませんね…=The bed is very unclean.\t|It would be difficult to sleep in.
 !FILE:dat_script_f01.bin/file004_PACK2/file015.bin
-キャビネットを調べた。=
-このキャビネットは…\t一般家庭では|あまり使われていない形のものですね。=
+キャビネットを調べた。=Examined cabinet.
+このキャビネットは…\t一般家庭では|あまり使われていない形のものですね。=Cabinets in that style aren't commonly found in most households.
 !FILE:dat_script_f01.bin/file004_PACK2/file016.bin
-テレビを調べた。=
-丸みを帯びたブラウン管だ。=
+テレビを調べた。=Examined television.
+丸みを帯びたブラウン管だ。=A cathode ray tube TV with a rounded screen.
 !FILE:dat_script_f01.bin/file004_PACK2/file017.bin
-卓上ランプを調べた。=
-アンティーク品のようだが|光源としては物足りない。=
+卓上ランプを調べた。=Table lamp examined.
+アンティーク品のようだが|光源としては物足りない。=It looks like an antique, but it doesn't give off much light.
 !FILE:dat_script_f01.bin/file004_PACK2/file018.bin
-椅子を調べた。=
-ゲスト用の小さな椅子だ。=
+椅子を調べた。=Examined ottoman.
+ゲスト用の小さな椅子だ。=A small ottoman for guests.
 !FILE:dat_script_f01.bin/file005_PACK2/file006.bin
-もし必要ならば@n0さんの方から|話しかけてきてください。=
-@fR【Ｌ】@fWボタンが|有効になった。\vＬから現状やヒントを|聞くことができます。=
+もし必要ならば@n0さんの方から|話しかけてきてください。=Contact me if you ever need to discuss something.
+@fR【Ｌ】@fWボタンが|有効になった。\vＬから現状やヒントを|聞くことができます。=The @fR"L"@fW button has been enabled.\vUse it to get hints or info about your current situation from L.
 !FILE:dat_script_f01.bin/file006_PACK2/file006.bin
 では、この部屋も調査してください。\t|何があるかわかりません…|くれぐれも用心してください。=
 !FILE:dat_script_f01.bin/file006_PACK2/file010.bin
