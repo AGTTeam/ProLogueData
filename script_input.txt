@@ -804,12 +804,13 @@
 !FILE:dat_script_f01.bin/file007_PACK2/file011.bin
 やられました…トラップです。\t|まずいことになりましたね。=Hold it... It's a trap.\t|No more playing around.
 処理を誤れば──ドカン。\t|一巻の終わりです。\vでも、落ち着いてください。\t|この型のトラップはこれまでに何度も|処理したことがあります。\v私の指示に従って、冷静に処理すれば|必ず解除できるはずです。\t|始めましょう。=One wrong step and—Boom.\t|End of the line.\vJust try to stay calm, okay?\t|I've dealt with this sort of trap on numerous occasions.\vFollow my every instruction and don't panic, and everything will be fine.\t|Now, let's get started.
-このトラップ、仕掛けは単純ですが|よくできています。=
-とはいえ、あなたの解除の手つきも|なかなかのものでしたよ。\t|この調子で今後も解除してください。=
+このトラップ、仕掛けは単純ですが|よくできています。=The mechanism for that trap was simple, but well-implemented.
+とはいえ、あなたの解除の手つきも|なかなかのものでしたよ。\t|この調子で今後も解除してください。=Nonetheless, you did an excellent job disengaging it.\t|Take them all on with that same approach.
 @n0さん、大丈夫ですか？\t|あなたの命が最優先です。\t|危ない時は逃げてください。\v解除ミスを気にすることはありません。\t|このトラップ、仕掛けは単純ですが|よくできていますから。=
-ところで、@n0さん、\t|私は気になることが出てきました。\t|あなたは何か感じませんか？=
-ここはどこだろうか？=
-トラップの出来が良すぎる=
+ところで、@n0さん、\t|私は気になることが出てきました。\t|あなたは何か感じませんか？=By the way, @n0, I have this ominous feeling.\t|Do you feel it as well?
+ここはどこだろうか？=This place, what is it?
+トラップの出来が良すぎる=That trap was too sophisticated.
+ホコリくさい=What's with all this dust?#repeated option text, different translation
 確かにそれは気になりますね。\vしかし、今ある情報だけでは|ホテル跡かもしれないことくらいしか|分かりません。\v@n0さんには悪いですが、|私は他に気になることがあります。=
 そう、私もそのことが|気になっていました。=
 そんなにくさいんですか？\t|少し興味が出てきました。\vですが、私が気になっているのは|そんなことではありません。=
@@ -1963,10 +1964,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 シリンダーからコードが伸びている。\vダミーのコードを切断すると|起爆装置が作動するかもしれない。=
 複数のコードがある。\vしかし全てが起爆センサーと|繋がっているわけではないようだ。=
 接続部分が確認できるようになった。\vメインセンサーと無関係な|衝撃や信号を伝えるコードを|見分けられるようになった。=
-ハサミを使った。=
+ハサミを使った。=Used Scissors.
 メインセンサー以外のコードを切った。=
 起爆装置が作動してしまった！=
-カッターを使った。=
+カッターを使った。=Used Utility Knife.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file014.bin
 下のケースはスライド式で|開けられそうだ。\vしかし今は少ししか動かない。=
 爆薬からのコードがつながっている。\v下のケースの中に|起爆装置があるらしい。=
@@ -2140,13 +2141,13 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 待ってください。\t|まずは最後の目標を確認しましょう。=
 むき出しのボタンだ。\vあからさまなところが、とても怪しい。\v触れない方が良さそうだ。=
 このボタンは押してはいけません。=
-ボタンを押さない=
+ボタンを押さない=Do not press the button
 怪しいボタンだ。\v起爆装置に接続されている事は|間違いないようだ。=
 まだ押してはいけません。=
 ただの爆発ボタンではなさそうだが、|何の対策もなく押すのは危険すぎる。=
 もう少し押さないでおいてください。=
 プラグをはめた事で、|さっきまでと別の機能に|なっているはずです。\v爆薬との回路を切る事が|できるかもしれません。=
-ボタンを押す=
+ボタンを押す=Press the button
 押すのは１回で十分です。=
 しかしハンマーは壊れてしまった。=
 ボタンを叩いた！=
@@ -3320,10 +3321,10 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 緑のコードだ。=
 起爆装置から外されている。=
 起爆装置と爆薬を繋いでいる。=
-コードを外す=
-コードを外さない=
+コードを外す=Disconnect the wire
+コードを外さない=Do not disconnect the wire
 電流の流れが分かった。=
-コードを外した。=
+コードを外した。=Disconnected the wire.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file048.bin
 ランプが点滅している。=The lights are blinking.
 思い出してください、|これと同じ仕掛けのトラップが|前にもあったはずです。\v光っている順番が重要な|ポイントです。=
@@ -3561,16 +3562,16 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file004_PACK2/file017.bin
 トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば何とかなりそうだ。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file006.bin
-では、順を追って|トラップ解除について説明します。\vどんなトラップも、@fR制限時間@fW内に|一定の@fR解除ステップ@fWを実行する事で|解除できます。これが基本です。\v@fR制限時間@fWは、トラップの周囲にある|@fRタイムゲージ@fWで確認できます。\v@fR解除ステップの総数@fWは、|@fR下画面の右上@fWに表示されています。\v難易度の高いトラップほど|総数が多くなっていくのですが…\t|今回は１ステップですね。楽勝です。\vとはいえ、どこから手をつけるか|わからなければ、解除のしようが|ありません。\vまずは、@fRタッチペン@fWで|トラップの各部を調査して、|解除の@fR目標@fWを見つけ出してください。=Let's go over releasing traps step by step.\vThe basic dismantling of any trap is done by performing certain @fRsteps@fW within a @fRtime limit@fW.\vYou can check the @fRtime limit@fW using the @fRtime gauge@fW that goes around the trap.\vThe @fRnumber of steps@fW is displayed in the upper right corner of the bottom screen.\vThe more complex the trap, the more steps involved.\t|This simple trap only has one.\vHowever, you'll need to know where to start if you're going to release it.\vFirst, use the @fRstylus@fW to inspect the trap and find the objective.
+では、順を追って|トラップ解除について説明します。\vどんなトラップも、@fR制限時間@fW内に|一定の@fR解除ステップ@fWを実行する事で|解除できます。これが基本です。\v@fR制限時間@fWは、トラップの周囲にある|@fRタイムゲージ@fWで確認できます。\v@fR解除ステップの総数@fWは、|@fR下画面の右上@fWに表示されています。\v難易度の高いトラップほど|総数が多くなっていくのですが…\t|今回は１ステップですね。楽勝です。\vとはいえ、どこから手をつけるか|わからなければ、解除のしようが|ありません。\vまずは、@fRタッチペン@fWで|トラップの各部を調査して、|解除の@fR目標@fWを見つけ出してください。=Let's go over releasing traps step by step.\vThe basic disengaging of any trap is done by performing certain @fRsteps@fW within a @fRtime limit@fW.\vYou can check the @fRtime limit@fW using the @fRtime gauge@fW that goes around the trap.\vThe @fRnumber of steps@fW is displayed in the upper right corner of the bottom screen.\vThe more complex the trap, the more steps involved.\t|This simple trap only has one.\vHowever, you'll need to know where to start if you're going to release it.\vFirst, use the @fRstylus@fW to inspect the trap and find the objective.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file007.bin
 正面から離れる！=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file010.bin
-では、いよいよ|解除ステップを@fR【実行】@fWしましょう。\v@fRテクニカルゲージ@fWをうまく止められれば|成功です。\v逆に、失敗すると|制限時間が大幅に減ってしまいます。\v@fR下画面をタッチ@fWして、ゲージ中央の|@fRセーフティゾーン@fW内で止めてください。|\t成功を祈ります。\vちなみに、@fR成功率が100％@fWの時は|@fRテクニカルゲージ@fWは出ません。|\t無条件で成功になります。=
-起爆装置を外した!=
-次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=
+では、いよいよ|解除ステップを@fR【実行】@fWしましょう。\v@fRテクニカルゲージ@fWをうまく止められれば|成功です。\v逆に、失敗すると|制限時間が大幅に減ってしまいます。\v@fR下画面をタッチ@fWして、ゲージ中央の|@fRセーフティゾーン@fW内で止めてください。|\t成功を祈ります。\vちなみに、@fR成功率が100％@fWの時は|@fRテクニカルゲージ@fWは出ません。|\t無条件で成功になります。=Alright, let's @fRexecute@fW the final step and disengage the trap.\vAll you need to do is stop the @fRTechnical Gauge@fW at the right time, and you'll be successful.\vConversely, if you fail, the time limit will be greatly reduced.\v@fRTap the lower screen@fW while the center of the gauge is within the @fRsafety zone@fW.\t|I wish you luck.\vI should mention, if the @fRsuccess rate is at 100%@fW, the @fRTechnical Gauge@fW won't be displayed.\t|You will succeed without fail.
+起爆装置を外した!=Detonator removed!
+次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The "@fRL@fW" button will be enabled for future traps.\vYou can refer to L as necessary to @fRdiscover the objective@fW or @fRdisengage the trap@fW.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file011.bin
 起爆装置と爆薬がくっついているだけの|単純なトラップです。=
-これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=
+これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=Now, you can use the "@fRExecute@fW" button to attempt to disengage it.\tHowever...\vTake a look at the @fRSuccess Rate@fW to the bottom right of the trap.\vIf you press the "@fRExecute@fW" button while the success rate is low, there is a strong likelihood that you will fail.\vYou can increase the success rate by @fRinvestigating@fW each part of the trap or by using @fRitems@fW when appropriate.\vI would recommend raising the rate above 50% before @fRexecuting@fW.
 ランプの点灯する順番と、|ケーブルの色がポイントですね。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file012.bin
 何かのボタンだ。=There's some kind of button.
@@ -3579,35 +3580,35 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 できそうな事は、全てやりました。\t|あとはこのボタンの出番ですね。=
 何かの装置が動いた。=
 コードを外す事でボタンが|動作するようになったようですね。=
-むやみに触らない方が|良いと思いますが…=
-今回は大丈夫でしたが、|危険な事はやめましょう。=
+むやみに触らない方が|良いと思いますが…=I think it would be best not to touch that until we're absolutely certain it's safe.
+今回は大丈夫でしたが、|危険な事はやめましょう。=You got lucky, but let's not tempt fate a second time.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file013.bin
 細かい部分は後回しです。\t|まずは起爆装置を特定しましょう。=Leave the small details for later.\t|First, locate the detonator.
-光っている順番は一定ですね。\t|意味があると考えて良いでしょう。=
+光っている順番は一定ですね。\t|意味があると考えて良いでしょう。=They always flash in the same order, it would seem.\t|That could be significant.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file019.bin
-ケーブルだ。\v起爆装置と爆薬を繋いでいる。=
+ケーブルだ。\v起爆装置と爆薬を繋いでいる。=A cable.\vIt connects the detonator to the explosive.
 ケーブルだ。\v起爆装置と爆薬を繋いでいるが、|切れ目が入っている。=
-これを外すのは大変ですね。|\t何か@fR切断@fWできるアイテムを|持っていませんか？=
-ケーブルに切れ目を入れた。=
+これを外すのは大変ですね。|\t何か@fR切断@fWできるアイテムを|持っていませんか？=That could be tricky to disconnect.|\tDo you have any items you could use to @fRsever@fW it?
+ケーブルに切れ目を入れた。=Severed the cable.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file021.bin
-黄色のコードだ。\v起爆装置と爆薬を繋いでいる。=
+黄色のコードだ。\v起爆装置と爆薬を繋いでいる。=A yellow wire.\vIt connects the detonator to the explosive.
 黄色のコードだ。\v起爆装置から外されている。=
 このコードはＯＫですね。=
-簡単に外せそうですね。=
+簡単に外せそうですね。=Looks trivial to disconnect.
 簡単に外せそうですね。\t|ランプの光っている順番を|参考にして外してみましょう。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file023.bin
-緑色のコードだ。\v起爆装置と爆薬を繋いでいる。=
+緑色のコードだ。\v起爆装置と爆薬を繋いでいる。=A green wire.\vIt connects the detonator to the explosive.
 緑色のコードだ。\v起爆装置から外さないる。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file025.bin
-赤色のコードだ。\v起爆装置と爆薬を繋いでいる。=
+赤色のコードだ。\v起爆装置と爆薬を繋いでいる。=A red wire.\vIt connects the detonator to the explosive.
 赤色のコードだ。\v起爆装置から外されている。=
-簡単に外せそうですね。\vランプの光っている順番を|参考にして外してみましょう。=
+簡単に外せそうですね。\vランプの光っている順番を|参考にして外してみましょう。=Should be easy enough to disconnect.\vDisconnect the wires according to the order in which the lights flash.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file027.bin
 起爆装置だ。\v下の爆薬から外せば|爆発の恐れはなくなるだろう。=That's the detonator.\vIf you can remove it from the explosive below, there shouldn't be any danger.
 @fR目標@fWを見つけたようですね。=@fRObjective@fW identified.
 起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file028.bin
-爆薬が入っている。=
+爆薬が入っている。=Contains the explosive.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file007.bin
 床に伏せる！=
 遠くへ投げる！=
@@ -3695,7 +3696,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file024.bin
 上の小箱を外したので、|このボタンは安全でしょう。=
 !FILE:dat_script_trapsmall.bin/file009_PACK2/file019.bin
-ハサミを使った。|=
+ハサミを使った。|=Used Scissors.
 !FILE:dat_script_trapsmall.bin/file009_PACK2/file020.bin
 小箱だ。|接着剤で固定されている。=
 小箱だ。\v接着剤で固定されている。\v@fRスキマ@fWからこじ開ける事が|できそうだ。\v中には小さな爆薬が入っている。=
@@ -4073,7 +4074,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 できそうな事は、全てやりました。|\tあとはこのボタンの出番ですね。=
 他にできそうな事もありませんし、|そろそろこのボタンの出番のような|気がします。=
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file019.bin
-カッターを使った。|=
+カッターを使った。|=Used Utility Knife.
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file023.bin
 緑のコードだ。\v起爆装置と爆薬を繋いでいる。=
 緑のコードだ。\v起爆装置から外されている。=
