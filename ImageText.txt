@@ -1,5 +1,4 @@
-﻿
-child003.bin\file001_PACK2\file004.png
+﻿child003.bin\file001_PACK2\file004.pn
 Ｌを呼び出す Call L
 応答する Reply
 終了する Quit
@@ -19,7 +18,7 @@ child007.bin\file001_PACK2\file002.png
 L
 ワタリ
 
-dat_adv_bg.bin\file042_PACK2\file001.png
+dat_adv_bg.bin\file042_PACK2\file001.png#done
 title screen
 L - the ProLogue to Death Note: Spiraling Trap
 
@@ -32,18 +31,18 @@ L
 ジェフリー
 ハウスキーパー
 
-dat_adv_menu.bin\file005_PACK2\file001.png
+dat_adv_menu.bin\file005_PACK2\file001.png#done
 はい Yes
 いいえ No
 
 dat_adv_menu.bin\file008_PACK2\file001.png
 分経過
 
-dat_adv_menu.bin\file012_PACK2\file001.png
-戻る Cancel
+dat_adv_menu.bin\file012_PACK2\file001.png#done
+戻る Cancel#changed to Back
 
-dat_adv_menu.bin\file012_PACK2\file002.png
-戻る Cancel
+dat_adv_menu.bin\file012_PACK2\file002.png#done
+戻る Cancel#changed to Back
 
 dat_bustup.bin\file005_PACK2\file001.png
 緊急回避
@@ -160,29 +159,29 @@ DEATH NOTE原作 = Death Note Original Work
 制作=Original Work#or ‘Presented By’ as in Kira Game credits
 株式会社コナミデジタルエンタテインメント=Konami Digital Entertainment Co. Ltd.
 
-dat_extra.bin\file002_PACK2\file001.png
-Lコミュニケーター配布 Distribute
+dat_extra.bin\file002_PACK2\file001.png#done
+Lコミュニケーター配布 Distribute#changed to Send Demo
 アルバム　Album
 サウンド Sound Test
 戻る Cancel
 はい Yes
 いいえ No
-バストアップ
-イベント
+バストアップ=Bust
+イベント=Event
 BGM
-ボイス
-背景
+ボイス=Voice
+背景=BG
 
 dat_extra_menu.bin\file001_PACK2\file001.png
 as above
 
-dat_game_title.bin\file001_PACK2\file001.png
+dat_game_title.bin\file001_PACK2\file001.png#done
 画面をタッチしてください (already translated)
 
-dat_game_title.bin\file001_PACK2\file002.png
+dat_game_title.bin\file001_PACK2\file002.png#done
 title
 
-dat_game_title.bin\file001_PACK2\file003.png
+dat_game_title.bin\file001_PACK2\file003.png#done
 title
 
 dat_guidemap.bin\file002_PACK2\file001.png
@@ -201,26 +200,26 @@ dat_item_etc.bin\file001_PACK2\file004.png
 戻る Cancel
 使用 Use
 
-dat_lsimu_menu.bin\file001_PACK2\file001.png (dupe)
+dat_lsimu_menu.bin\file001_PACK2\file001.png (dupe)#done
 話しかける Talk
 スウィーツ Sweets
 壁紙の変更 Wallpaper
 戻る Back
 次へ Next
 
-dat_lsimu_menu.bin\file001_PACK2\file002.png (dupe)
+dat_lsimu_menu.bin\file001_PACK2\file002.png (dupe)#done
 L
 ワタリ
 
-dat_lsimu_swsel.bin\file001_PACK2\file001.png (dupe)
+dat_lsimu_swsel.bin\file001_PACK2\file001.png (dupe)#done
 戻る Cancel
 決定 Decide
 
-dat_lsimu_wait.bin\file001_PACK2\file004.png
+dat_lsimu_wait.bin\file001_PACK2\file004.png#done
 Ｌを呼び出す Call L
 応答する Reply
 終了する Quit
-セーブしました。
+セーブしました。=Progress Saved
 
 dat_mainmenu.bin\file002_PACK2\file001.png
 戻る Cancel
@@ -247,13 +246,13 @@ dat_mbp.bin\file001_PACK2\file002.png
 はい Yes
 いいえ No
 
-dat_name_input.bin\file001_PACK2\file001.png
-かな選択
-英数
-記号
-かな/漢字
-戻る Cancel
-決定 Decide
+dat_name_input.bin\file001_PACK2\file001.png#done
+かな選択=あいう#other ideas?
+英数=ABC
+記号=ETC.
+かな/漢字=Kana/Kanji
+戻る Cancel#changed to back
+決定 Decide#changed to done
 
 dat_search.bin\file001_PACK2\file001.png
 部屋から出る Go Out
@@ -263,11 +262,11 @@ dat_search.bin\file001_PACK2\file001.png
 次へ Next
 W
 
-dat_title_menu.bin\file001_PACK2\file004.png
+dat_title_menu.bin\file001_PACK2\file004.png#done
 ゲームスタート Game Start
 エクストラ Extra
 データ消去　Delete
-戻る Cancel
+戻る Cancel#changed to back
 捜査再開 Continue
 Lコミュニケーター L Communicator
 戻る Cancel
@@ -440,6 +439,7 @@ L
 J
 ジェフリー
 ハウスキーパー
+
 dat_word_battle.bin\BATTLE_OBJ_01_PACK2\file001.png
 推理続行 Continue
 推理終了 End
