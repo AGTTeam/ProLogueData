@@ -16,7 +16,7 @@ child007.bin\file001_PACK2\file001.png
 
 child007.bin\file001_PACK2\file002.png
 L
-ワタリ
+ワタリ=Watari
 
 dat_adv_bg.bin\file042_PACK2\file001.png#done
 title screen
@@ -28,8 +28,14 @@ dat_adv_menu.bin\file001_PACK2\file001.png
 dat_adv_menu.bin\file003_PACK2\file002.png
 ???
 L
-ジェフリー
-ハウスキーパー
+ワタリ=Watari
+レイ=Raye
+ナオミ=Naomi
+ジェフリー=Jeffrey
+ハウスキーパー=Housekeeper
+アロイス=Alois
+J
+A
 
 dat_adv_menu.bin\file005_PACK2\file001.png#done
 はい Yes
@@ -193,10 +199,10 @@ dat_guidemap.bin\file002_PACK2\file001.png
 戻る Cancel
 移動 Move
 
-dat_item_etc.bin\file001_PACK2\file004.png
-消費アイテム Disposable Item
-キーアイテム Key Item
-レシピ Recipe
+dat_item_etc.bin\file001_PACK2\file004.png#done
+消費アイテム Disposable Item#qc not enough room – can only fit ‘Disposable’. Changed to ‘Tools’, does it work ok in context?
+キーアイテム Key Item#s
+レシピ Recipe#s
 戻る Cancel
 使用 Use
 
@@ -221,8 +227,8 @@ dat_lsimu_wait.bin\file001_PACK2\file004.png#done
 終了する Quit
 セーブしました。=Progress Saved
 
-dat_mainmenu.bin\file002_PACK2\file001.png
-戻る Cancel
+dat_mainmenu.bin\file002_PACK2\file001.png#done
+戻る Cancel#changed to back
 決定 Decide
 アイテム確認 Property#Inventory?
 全体マップ Whole Map
@@ -231,18 +237,18 @@ dat_mainmenu.bin\file002_PACK2\file001.png
 再挑戦 Retry
 キーワードリスト Keyword List
 
-dat_mainmenu.bin\file002_PACK2\file003.png
+dat_mainmenu.bin\file002_PACK2\file003.png#done
 BGM
 SE
-ボイス
-メッセージスピード
+ボイス=Voice
+メッセージスピード=Text
 戻る Cancel
-遅い
-普通
-速い
+遅い=Slow
+普通=Norm
+速い=Fast
 
-dat_mbp.bin\file001_PACK2\file002.png
-戻る Cancel
+dat_mbp.bin\file001_PACK2\file002.png#done
+戻る Cancel#changed to back
 はい Yes
 いいえ No
 
@@ -254,8 +260,8 @@ dat_name_input.bin\file001_PACK2\file001.png#done
 戻る Cancel#changed to back
 決定 Decide#changed to done
 
-dat_search.bin\file001_PACK2\file001.png
-部屋から出る Go Out
+dat_search.bin\file001_PACK2\file001.png#done
+部屋から出る Go Out#changed to Exit Room
 戻る Go Back
 Ｌ
 メニュー Menu
@@ -278,7 +284,7 @@ Lコミュニケーター L Communicator
 dat_trap_etc.bin\file001_PACK2\file002.png
 調査 Examine
 アイテム Item
-実行　Excecute
+実行　Execute
 L
 中断 Stop
 はい Yes
@@ -294,8 +300,8 @@ dat_trap_etc.bin\file002_PACK2\file001.png
 回避せよ！
 残り時間
 
-dat_trap_etc.bin\file003_PACK2\file001.png
-決定 Decide
+dat_trap_etc.bin\file003_PACK2\file001.png#done
+決定 Decide#changed to Select
 
 dat_trap_etc.bin\file004_PACK2\file001.png
 トラップ解除開始
@@ -588,6 +594,7 @@ dat_word_battle.bin\VS_KEY11_PACK2\file001.png
 
 dat_word_battle.bin\VS_KEY12_PACK2\file001.png
 復讐ゲーム
+
 dat_word_battle.bin\VS_KEY13_PACK2\file001.png
 遠隔スイッチ
 
@@ -765,5 +772,5 @@ dat_word_battle.bin\VS_KEY99_PACK2\file001.png
 dat_word_battle.bin\VS_UOBJ09_PACK2\file001.png
 推理モード発動
 
-dat_word_view.bin\file001_PACK2\file004.png
+dat_word_view.bin\file001_PACK2\file004.png#done
 戻る Cancel
