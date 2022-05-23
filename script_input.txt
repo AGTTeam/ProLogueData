@@ -800,7 +800,7 @@
 念のために状況を確認しておいて|ください。=Just to be on the safe side, please confirm the situation.
 @fR【メニュー】@fWボタンが|有効になった。\vアイテムや状況の確認、|セーブなどが可能です。=@fR"Menu"@fW button enabled.\vAmong other things, you can check your items and status and save the game from the menu.
 !FILE:dat_script_f01.bin/file007_PACK2/file010.bin
-１０１号室=
+１０１号室=Room 101
 !FILE:dat_script_f01.bin/file007_PACK2/file011.bin
 やられました…トラップです。\t|まずいことになりましたね。=Hold it... It's a trap.\t|No more playing around.
 処理を誤れば──ドカン。\t|一巻の終わりです。\vでも、落ち着いてください。\t|この型のトラップはこれまでに何度も|処理したことがあります。\v私の指示に従って、冷静に処理すれば|必ず解除できるはずです。\t|始めましょう。=One wrong step and—Boom.\t|End of the line.\vJust try to stay calm, okay?\t|I've dealt with this sort of trap on numerous occasions.\vFollow my every instruction and don't panic, and everything will be fine.\t|Now, let's get started.
@@ -811,12 +811,12 @@
 ここはどこだろうか？=This place, what is it?
 トラップの出来が良すぎる=That trap was too sophisticated.
 ホコリくさい=What's with all this dust?#repeated option text, different translation
-確かにそれは気になりますね。\vしかし、今ある情報だけでは|ホテル跡かもしれないことくらいしか|分かりません。\v@n0さんには悪いですが、|私は他に気になることがあります。=
-そう、私もそのことが|気になっていました。=
-そんなにくさいんですか？\t|少し興味が出てきました。\vですが、私が気になっているのは|そんなことではありません。=
-誘拐犯が作ったにしては、|このトラップは出来が良すぎる…\t|そう思いませんか？=
-情報キーワード|@fR【上出来なトラップ】@fW|を入手した。=
-さて、これでドアは開くはずです。\t|気をつけて進んでください。=
+確かにそれは気になりますね。\vしかし、今ある情報だけでは|ホテル跡かもしれないことくらいしか|分かりません。\v@n0さんには悪いですが、|私は他に気になることがあります。=That is certainly a concern.\vBut currently we can only assume you are at the site of a dilapidated old hotel.\vThat is, of course, unfortunate for you, but there is something else which worries me.
+そう、私もそのことが|気になっていました。=Yes. That is my concern as well.
+そんなにくさいんですか？\t|少し興味が出てきました。\vですが、私が気になっているのは|そんなことではありません。=Is it really so dirty?\t|That is interesting.\vBut that's not exactly what was on my mind.
+誘拐犯が作ったにしては、|このトラップは出来が良すぎる…\t|そう思いませんか？=That trap...\t|It was far too sophisticated for an ordinary kidnapper, don't you think?
+情報キーワード|@fR【上出来なトラップ】@fW|を入手した。=Keyword added:|@fR"Sophisticated Trap"@fW
+さて、これでドアは開くはずです。\t|気をつけて進んでください。=The door should be open now.\t|Proceed with caution.
 !FILE:dat_script_f01.bin/file008_PACK2/file006.bin
 トラップを仕掛けてこちらの行動を|制限しているというのに、肝心の部屋が|施錠されていないのは不思議ですね。=
 情報キーワード|@fR【自由な人質】@fW|を入手した。=
@@ -833,7 +833,7 @@
 !FILE:dat_script_f01.bin/file008_PACK2/file024.bin
 部屋全体がもう少し明るくてもいい。=
 !FILE:dat_script_f01.bin/file009_PACK2/file010.bin
-１０２号室=
+１０２号室=Room 102
 !FILE:dat_script_f01.bin/file010_PACK2/file010.bin
 ダンボールを調べた。=
 役立ちそうなものですね。\t|大事に持っていてください。=
@@ -855,7 +855,7 @@
 !FILE:dat_script_f01.bin/file010_PACK2/file024.bin
 意外と眩しい。=
 !FILE:dat_script_f01.bin/file011_PACK2/file010.bin
-１０３号室=
+１０３号室=Room 103
 !FILE:dat_script_f01.bin/file011_PACK2/file011.bin
 トラップが発動したようですね。\t|解除キーを使わないと作動するように|セットしてあったのですね。\v少々やっかいなタイプですが、|なんとかするしかありません。\t|私と一緒に解除しましょう。=
 よくやってくれました。\t|このトラップ、構造はシンプルでも|内部が非常にデリケートなんです。=
@@ -903,7 +903,7 @@
 !FILE:dat_script_f02.bin/file003_PACK2/file027.bin
 ベッドの下を調べた。=
 !FILE:dat_script_f02.bin/file004_PACK2/file010.bin
-２０１号室=
+２０１号室=Room 201
 !FILE:dat_script_f02.bin/file005_PACK2/file006.bin
 部屋全体の空気が温まっており、|とても暑い。=
 !FILE:dat_script_f02.bin/file005_PACK2/file010.bin
@@ -937,7 +937,7 @@
 ストーブの熱で氷が溶けるまでの間は、|別の調査をしておきましょう。\t|時々部屋をのぞきに戻れば十分です。=
 状況から見て、燃料は犯人が補充したと|考えるべきでしょう…\t|ストーブには意味があるはずです…=
 !FILE:dat_script_f02.bin/file006_PACK2/file010.bin
-２０２号室=
+２０２号室=Room 202
 !FILE:dat_script_f02.bin/file006_PACK2/file011.bin
 内側から鍵がかかっているようだ。=
 !FILE:dat_script_f02.bin/file007_PACK2/file010.bin
@@ -952,7 +952,7 @@
 !FILE:dat_script_f02.bin/file007_PACK2/file019.bin
 スリッパを調べた。=
 !FILE:dat_script_f02.bin/file008_PACK2/file010.bin
-２０３号室=
+２０３号室=Room 203
 !FILE:dat_script_f02.bin/file008_PACK2/file011.bin
 扉の鍵が開いた。=
 !FILE:dat_script_f02.bin/file009_PACK2/file010.bin
@@ -982,7 +982,7 @@
 !FILE:dat_script_f02.bin/file010_PACK2/file022.bin
 本棚を調べた。=
 !FILE:dat_script_f02.bin/file011_PACK2/file010.bin
-２０４号室=
+２０４号室=Room 204
 !FILE:dat_script_f02.bin/file012_PACK2/file010.bin
 電源を管理するパネルのようだ。\vスイッチはオンになっている。=
 電源を管理するパネルのようだ。\vスイッチがある。=
@@ -1073,7 +1073,7 @@
 !FILE:dat_script_f03.bin/file005_PACK2/file029.bin
 古びた鏡だ。=
 !FILE:dat_script_f03.bin/file006_PACK2/file010.bin
-３０１号室=
+３０１号室=Room 301
 !FILE:dat_script_f03.bin/file007_PACK2/file010.bin
 小さな箱だ。\v台の上に固定され、固く閉じられている。=
 !FILE:dat_script_f03.bin/file007_PACK2/file011.bin
@@ -1084,7 +1084,7 @@
 ん…\t今、突然気になったのですが、|そのホテルの通路…意外と狭いですね。\t|見たところ、幅１．５ｍ弱くらい…\vかなり小さなホテル…\tいや、しかし。|内装の豪華さとくらべて、この狭さは|ギャップを感じますね…=
 情報キーワード|@fR【狭い通路】@fW|を入手した。=
 !FILE:dat_script_f03.bin/file008_PACK2/file010.bin
-３０２号室=
+３０２号室=Room 302
 !FILE:dat_script_f03.bin/file009_PACK2/file011.bin
 大理石の台座だ。=
 台座を動かします。|よろしいですか？=
@@ -1093,7 +1093,7 @@
 !FILE:dat_script_f03.bin/file009_PACK2/file021.bin
 低反発素材だ。=
 !FILE:dat_script_f03.bin/file010_PACK2/file010.bin
-３０４号室=
+３０４号室=Room 304
 !FILE:dat_script_f03.bin/file010_PACK2/file011.bin
 Ｌ、\tハウスキーパーに関する資料を|用意しました。\t|今、そちらに転送します。=
 情報キーワード|@fR【ハウスキーパーの生い立ち】@fW|を入手した。=
@@ -1105,7 +1105,7 @@
 !FILE:dat_script_f03.bin/file011_PACK2/file016.bin
 砂嵐しか流れてこない。=
 !FILE:dat_script_f03.bin/file012_PACK2/file010.bin
-３０３号室=
+３０３号室=Room 303
 !FILE:dat_script_f03.bin/file012_PACK2/file011.bin
 ハウスキーパーのトラップ、噂どおり|ですね…\vその場にあるものを有効活用する…\t|爆弾の配線の色使いに法則性がない…\t|構造にクセがない…\vその法則性のなさが、このトラップは|ハウスキーパーの作品だと教えてくれて|います…=
 情報キーワード|@fR【法則性のないトラップ構造】@fW|を入手した。=
@@ -1125,7 +1125,7 @@
 女の子が好きそうな可愛いデザインの|ツートンカラーのクマのぬいぐるみだ。=
 なぜ、こんなものがあるんでしょうね。\t|でも安全そうなので無視して下さい。=
 !FILE:dat_script_f03.bin/file014_PACK2/file010.bin
-３０５号室=
+３０５号室=Room 305
 !FILE:dat_script_f03.bin/file014_PACK2/file011.bin
 扉は固くロックされている。=
 !FILE:dat_script_f03.bin/file014_PACK2/file014.bin
@@ -1162,13 +1162,13 @@ debug jump?=
 !FILE:dat_script_f04.bin/file005_PACK2/file011.bin
 勇ましいライオンの絵だ。=
 !FILE:dat_script_f04.bin/file006_PACK2/file010.bin
-４０２号室=
+４０２号室=Room 402
 !FILE:dat_script_f04.bin/file007_PACK2/file011.bin
 詳しく調査します。|よろしいですか？=
 !FILE:dat_script_f04.bin/file007_PACK2/file020.bin
 恐ろしい狼の絵だ。=
 !FILE:dat_script_f04.bin/file008_PACK2/file010.bin
-４０１号室=
+４０１号室=Room 401
 !FILE:dat_script_f04.bin/file008_PACK2/file011.bin
 今回のトラップは、昨年までの犯行で|使われていたトラップとはいくつか|違いがあるようです…\vまず、部品が高価で精巧なものばかり。\t|ありものででっちあげるのが手口のはず|なのですが…\v部品以外にも、今回は色々とコストが|かかっています…\tハウスキーパーの犯行|としては珍しいケースです。=
 情報キーワード|@fR【高価なトラップ】@fW|を入手した。=
@@ -1190,7 +1190,7 @@ debug jump?=
 !FILE:dat_script_f04.bin/file010_PACK2/file014.bin
 愛らしいウサギの絵だ。=
 !FILE:dat_script_f04.bin/file011_PACK2/file010.bin
-４０４号室=
+４０４号室=Room 404
 !FILE:dat_script_f04.bin/file012_PACK2/file007.bin
 ４０４号室へ移動します。|よろしいですか？=
 !FILE:dat_script_f04.bin/file012_PACK2/file010.bin
@@ -1209,7 +1209,7 @@ debug jump?=
 !FILE:dat_script_f04.bin/file013_PACK2/file015.bin
 狼のブロンズ像だ。=
 !FILE:dat_script_f04.bin/file014_PACK2/file010.bin
-４０３号室=
+４０３号室=Room 403
 !FILE:dat_script_f04.bin/file015_PACK2/file010.bin
 像が置かれている=
 !FILE:dat_script_f04.bin/file015_PACK2/file015.bin
@@ -1283,7 +1283,7 @@ debug jump?=
 金庫だ。\v数値を入力するパネルがついている。=
 数値を入力しますか？=
 !FILE:dat_script_f05.bin/file004_PACK2/file010.bin
-５０２号室=
+５０２号室=Room 502
 !FILE:dat_script_f05.bin/file005_PACK2/file010.bin
 ここは開きそうだ。=
 開けますか？=
@@ -1293,7 +1293,7 @@ debug jump?=
 ボタンをＯＦＦにした。=
 ボタンをＯＮにした。=
 !FILE:dat_script_f05.bin/file006_PACK2/file010.bin
-５０１号室=
+５０１号室=Room 501
 !FILE:dat_script_f05.bin/file007_PACK2/file010.bin
 ライトだ。\v赤い光が出ている。=
 ライトだ。\v赤いセロファンが張られている。=
@@ -1325,16 +1325,16 @@ debug jump?=
 光を受ける台だ。\v特に異常はない。=
 光を受ける台だ。\v中に何かある。=
 !FILE:dat_script_f05.bin/file008_PACK2/file010.bin
-５０５号室=
+５０５号室=Room 505
 !FILE:dat_script_f05.bin/file009_PACK2/file019.bin
 中に何か入っているようだ。=
 ダンボールを開けます。|よろしいですか？=
 !FILE:dat_script_f05.bin/file009_PACK2/file021.bin
 ダンボールの中を調べた。=
 !FILE:dat_script_f05.bin/file010_PACK2/file010.bin
-５０４号室=
+５０４号室=Room 504
 !FILE:dat_script_f05.bin/file012_PACK2/file010.bin
-５０３号室=
+５０３号室=Room 503
 !FILE:dat_script_f05.bin/file013_PACK2/file006.bin
 スタッフルームの内装…\tおや？|壁の各所の塗装がはがれている上に|サビていますな。\vおまけに、床のじゅうたんもカビている|ようですね…\tクリエラは湿気の少ない国|ですので、気になりますぞ。\vＬに伝言しておきましょう。=
 情報キーワード|@fR【スタッフルームの荒れ具合】@fW|を入手した。=
@@ -1376,7 +1376,7 @@ debug jump?=
 !FILE:dat_script_f06.bin/file003_PACK2/file016.bin
 本を調べた。=
 !FILE:dat_script_f06.bin/file004_PACK2/file010.bin
-６０１号室=
+６０１号室=Room 601
 !FILE:dat_script_f06.bin/file004_PACK2/file011.bin
 @n0さん、クイズです。\t|これから入る部屋の内装は、|何階の内装と同じでしょうか？=
 １階=
@@ -1397,7 +1397,7 @@ debug jump?=
 !FILE:dat_script_f06.bin/file007_PACK2/file021.bin
 円柱形の箱だ。\v中にはもう、何もない。=
 !FILE:dat_script_f06.bin/file008_PACK2/file010.bin
-６０３号室=
+６０３号室=Room 603
 !FILE:dat_script_f06.bin/file009_PACK2/file007.bin
 ６０３号室へ移動します。|よろしいですか？=
 !FILE:dat_script_f06.bin/file009_PACK2/file010.bin
@@ -1421,7 +1421,7 @@ debug jump?=
 !FILE:dat_script_f06.bin/file014_PACK2/file017.bin
 変わった形の箱だ。=
 !FILE:dat_script_f06.bin/file015_PACK2/file010.bin
-６０２号室=
+６０２号室=Room 602
 !FILE:dat_script_f06.bin/file016_PACK2/file010.bin
 へこんだ部分がある。\v何かをはめ込むことができそうだ。=
 箱が開いた。=
@@ -1946,7 +1946,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_b.bin/file006_PACK2/file010.bin
 エンジンルーム=
 !FILE:dat_script_map.bin/file001_PACK2/file006.bin
-タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=
+タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus and press the @fR"Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room move in front of a door.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file010.bin
 上のケースを開けた！=
 しかしケース内に起爆装置は|見当たらない。=
