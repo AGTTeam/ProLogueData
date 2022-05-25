@@ -208,7 +208,7 @@ dat_item_etc.bin\file001_PACK2\file004.png#done
 
 dat_lsimu_menu.bin\file001_PACK2\file001.png (dupe)#done
 話しかける Talk
-スウィーツ Sweets
+スウィーツ Sweets#changed to snacks
 壁紙の変更 Wallpaper
 戻る Back
 次へ Next
