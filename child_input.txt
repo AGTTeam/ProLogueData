@@ -99,7 +99,7 @@
 体験版では、そのあたりの機能が|限定されていますので、あしからず。=I’m afraid the trial version’s functions are limited. I hope you understand.#L
 ピンク色が可愛らしい|ロリポップキャンディ。|女の子に人気のイチゴ味。|=A lollipop with a pretty pink color.|Strawberry flavor is very popular with girls.
 ドーナツより、ドーナッツと言う方が、|言葉の響きは良いような気がします。=I think the word “doughnut” sounds better than “donut”.
-体験版で使えるコマンドは、|#R【話しかける】【スウィーツ】#Wの|２つです。=In this version, only the #R【Talk】#W and #R【Snacks】#W commands are available.#L3
+体験版で使えるコマンドは、|#R【話しかける】【スウィーツ】#Wの|２つです。=In this version, only the #R“Talk”#W and #R“Snacks”#W commands are available.#L3
 お団子はもっちりですが…|鋭くとがった串は、場合によって|凶器に変わります。=The dango are squishy, but the sharp point of the skewer can be used as a weapon in some cases.
 しゃぶり続けても決して溶けない、|神秘のキャンディの噂は、|都市伝承でしょうか。=Do you think the rumors about the mysterious lollipop that never gets any smaller no matter how much you suck is just an urban legend?
 薄く焼き上げたクレープの中にも|いちごがいっぱい。|甘酸っぱい、フレッシュな一品です。|=The thin crepe is generously stuffed with strawberries. It’s a sweet, tangy and refreshing dish.#I know it means fresh as in ‘fresh juice’, but I didn’t how to make that work here.

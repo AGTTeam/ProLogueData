@@ -209,8 +209,8 @@
 ──中米・クリエラ共和国。|\t|カリブ海に臨むこの国では、この数年、|政府軍と反政府武装勢力による内戦が|続いており、その影響で多くの市民が|難民と化していた。=Central America - Republic of Criella|\t|For many years, this country in the Caribbean Sea suffered a terrible civil war between rebels and government forces turning citizens into refugees.
 難民救済のため、世界各国からＮＰＯが|現地入りし、苦しむ人々を支えるように|なってしばらく経った頃、人々の間に|奇妙な噂が流れ始めた──=NPOs from across the globe flew in to support refugee relief, but a rumor began to spread amongst the people soon after.
 あるＮＰＯが担当した難民が消えた……=Refugees under NPO care had begun disappearing.
-一方、その頃──アメリカ合衆国各地で|何者かに殺害された外国人が|多数発見される事件が続発していた。|\t|捜査に乗り出した連邦捜査局・ＦＢＩは、|驚くべき事実を発見する。|\t|事件の被害者は、クリエラから消えた|難民たちだった。=Meanwhile, a series of incidents had swept over the United States with the murder of foreigners.|/t|The Federal Bureau of Investigation launched an investigation which led to a startling discovery.|/t|The victims were themselves refugees who had disappeared from Criella.
-問題のＮＰＯ──『クリエラの月』の|正体は、難民救済を隠れ蓑にして|武器を売りさばく闇ブローカーだった。\v彼らは、「救済」した難民の一部を|なかば強制的に組織に組み入れて|急速に規模を拡大し、合衆国各地に|武器取引の中継点を作りつつあった。\v当初は、生きるためにやむなく|組織に従っていた難民たちだったが、|同胞の命を奪う武器を売ることに|耐え切れず、集団で逃亡を図った。|\t|しかし、組織がそれを許すはずもなく、|逃亡者は見せしめのため抹殺された。\v集団殺人事件の被害者は、|『クリエラの月』に始末された|難民たちだったのである……=The NPO in question, Criella Moon, in fact used refugees as a front to sell weapons on the black market.\vThe organization expanded rapidly forcing the "rescued" refugees into their ranks to create relay points throughout the United States for their arms trade.\vThey followed directives at first in order to survive, but selling the very weapons which would kill their fellow countrymen led them to try to escape.|\t|The organization then assassinated these fugitives to set an example for the others.\vThe series of murders were in fact the refugees killed by Criella Moon.
+一方、その頃──アメリカ合衆国各地で|何者かに殺害された外国人が|多数発見される事件が続発していた。|\t|捜査に乗り出した連邦捜査局・ＦＢＩは、|驚くべき事実を発見する。|\t|事件の被害者は、クリエラから消えた|難民たちだった。=Meanwhile, a series of incidents had swept over the United States with the murder of foreigners.|\t|The Federal Bureau of Investigation launched an investigation which led to a startling discovery.|\t|The victims were themselves refugees who had disappeared from Criella.
+問題のＮＰＯ──『クリエラの月』の|正体は、難民救済を隠れ蓑にして|武器を売りさばく闇ブローカーだった。\v彼らは、「救済」した難民の一部を|なかば強制的に組織に組み入れて|急速に規模を拡大し、合衆国各地に|武器取引の中継点を作りつつあった。\v当初は、生きるためにやむなく|組織に従っていた難民たちだったが、|同胞の命を奪う武器を売ることに|耐え切れず、集団で逃亡を図った。|\t|しかし、組織がそれを許すはずもなく、|逃亡者は見せしめのため抹殺された。\v集団殺人事件の被害者は、|『クリエラの月』に始末された|難民たちだったのである……=The NPO in question, Criella Moon, in fact used refugees as a front to sell weapons on the black market.\vThe organization expanded rapidly forcing the “rescued" refugees into their ranks to create relay points throughout the United States for their arms trade.\vThey followed directives at first in order to survive, but selling the very weapons which would kill their fellow countrymen led them to try to escape.|\t|The organization then assassinated these fugitives to set an example for the others.\vThe series of murders were in fact the refugees killed by Criella Moon.
 ＦＢＩは難民救出および組織の摘発に|乗り出したが、作戦は困難を極めた。|\t|作戦遂行の最大の障害となったのは|難民の逃亡を防ぐために仕掛けられた|巧妙なトラップの数々──=The FBI was then tasked with the detection and rescue of refugees, but the operation proved difficult.|\t|The operation's largest obstacle was the number of intricate traps which had been put into place to prevent the refugees' escape.
 死傷者の数は、捜査官・難民を合わせて|数十名を越えた……|\t|窮地に追い込まれたＦＢＩに、|１人の犯罪捜査のエキスパートが協力を|申し出た。=The number of casualties, including investigators and refugees, quickly reached double digits.|\t|The FBI, in dire straits, was then approached by an expert of criminal investigation.
 通称──〝Ｌ〟=Alias: L
@@ -220,14 +220,14 @@
 そんな中、『クリエラの月』が|活動を再開したとの情報をつかんだ|ＦＢＩは、ただちに捜査を始めた。=Meanwhile, Criella Moon had resumed its activities, and the FBI's investigation began once more.
 @n1、捜査命令は受け取ったか？\t|今度の事件のバックアップは、僕が担当|することになった。\v前回の難民救出作戦では、初任務だった|ことから君にはバックアップを担当して|もらったが、今回はフォワードだ。=@n1, you received the investigation orders, correct? I have been tasked to provide you with assistance on this case.\vThe last refugee rescue operation was your first mission, but you're not on backup this time around.
 目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたそうだ。\v準備が出来次第、すぐに出発するぞ。=We're headed to Key West, Florida. The organization seems to have a new base in the West Coast Bay Area.\vWe can leave immediately.
-僕が外を見張る。\t|その間に君は倉庫の内部を探れ。\t|何かあればすぐ無線で知らせる。=#male
+僕が外を見張る。\t|その間に君は倉庫の内部を探れ。\t|何かあればすぐ無線で知らせる。=I’ll keep watch out here, you go check out the warehouse.\t|I’ll radio in if anything changes.
 事件はまだ初動捜査の段階であり、|ＦＢＩ上層部はＬの手を借りるまでも|ないと判断していた──だが。=The FBI directors had deemed L's assistance not to be necessary at these early stages of the case. However—
-しまった、罠だ！　逃げろ@n1！\t|僕も負傷した……聞こえるか@n1！\t|撤退！　撤退するんだ！=
-背後からスタンガンで一撃され、|レイの声を聞きながら@n1は|意識を失った……=
-@n1、捜査命令は受け取ったわね？\t|今度の事件のバックアップは、私が担当|することになったわ。\v前回の難民救出作戦では、初任務だった|あなたにはバックアップを任せたけど|今回はフォワードをやってもらうわ。=
-目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたらしいの。\v準備が出来次第、すぐに出発よ。=
+しまった、罠だ！　逃げろ@n1！\t|僕も負傷した……聞こえるか@n1！\t|撤退！　撤退するんだ！=Damn! It's a trap!\t|They got me... Can you hear me, @n1!?\t|Get out of there!
+背後からスタンガンで一撃され、|レイの声を聞きながら@n1は|意識を失った……=@n1 was hit from behind with a stun gun and lost consciousness as Raye's voice rang in his ears.
+@n1、捜査命令は受け取ったわね？\t|今度の事件のバックアップは、私が担当|することになったわ。\v前回の難民救出作戦では、初任務だった|あなたにはバックアップを任せたけど|今回はフォワードをやってもらうわ。=@n1, you’ve already received the orders for this investigation, right?\tI’ve been asked to act as your backup.\t|You were on backup for that last refugee rescue operation seeing as it was your first mission, but this time you’ll be in the lead.
+目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたらしいの。\v準備が出来次第、すぐに出発よ。=We’ll be flying to Key West, Florida.\t|It seems the organization have set up a new base in the West Coast Bay Area.\vWe’ll leave as soon you’re ready.
 私が外を見張るわ。\t|その間に君は倉庫の内部を探って。\t|何かあればすぐ無線で知らせるわ。=You take a look in the warehouse. I'll keep watch out here and radio you if anything happens.#female
-しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=Damn! It's a trap!\t|I've been hit... Nnngh...\t|@n1, get out of there!
+しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=Shoot! It was a trap! Run, @n1!\t|I've been hit... Nnngh...\t|@n1, get out of there!!
 背後からスタンガンで一撃され、|ナオミの声を聞きながら@n1は|意識を失った……=@n1 was hit from behind with a stun gun and lost consciousness as Naomi's cries rang in her ears.
 !FILE:dat_script.bin/file003_PACK2/file007.bin
 さすがはＬ。\t遅かれ早かれ気づかれると|思っていましたが、予想以上にあっさり|見破られてしまいましたね。=
@@ -289,7 +289,7 @@
 たとえば…私にとって最も嫌なことは|私の指示のミスによって@n0さんが|傷付くことです。=
 そういうことは十分起こりうると|思いますが？=
 ええ…\tしかし、それを偶然に任せるのは|いささか手ぬるいのではないか、と私は|言っているんです…=
-情報キーワード|@fR【復讐ゲーム】@fW|を入手した。=
+情報キーワード|@fR【復讐ゲーム】@fW|を入手した。=Keyword added:|@fR“Revenge Game"@fW
 どう手ぬるいのですか？=
 解除成功と見せかけて、何をやっても|爆破するようにしたり…\vあるいは、成功して気が緩んだところで|意図的に爆破させてしまったり…\vいくらでもひどいことはできると|思いますよ？=
 そんなこと、どうやったらできると|言うのですか？=
@@ -323,7 +323,7 @@
 ただの、無駄話ですよ…\t|では、トラップ解除に戻ります。=
 食えない人ですね…=
 Ｊは右利きですか…\t|覚えておきましょう。=
-情報キーワード|@fR【Ｊの利き腕】@fW|を入手した。=
+情報キーワード|@fR【Ｊの利き腕】@fW|を入手した。=Keyword added:|@fR“J’s Dominant Hand"@fW
 !FILE:dat_script.bin/file005_PACK2/file007.bin
 やりますね、Ｌ…\t私が精魂込めて|仕掛けた、かわいいトラップたちも|あなたに解かれて本望でしょう…=
 あなたが作ったトラップ？=
@@ -469,7 +469,7 @@
 …感じの悪い質問ですね。=
 ふん。客は@n1だけだ。\t|外から出入できないように、出入口は|コンピューターで管理している。=
 なるほど……=
-情報キーワード|@fR【他の乗船者】@fW|を入手した。=
+情報キーワード|@fR【他の乗船者】@fW|を入手した。=Keyword added:|@fR“Other Passengers"@fW
 !FILE:dat_script.bin/file009_PACK2/file010.bin
 ワタリ、この船の現在位置を、|軍事衛星を使って特定できませんか？=
 裏ルートで軍関係者にアクセスしている|ところですが…\vグラナダ号の表面が改装されてしまって|いる場合、特定は容易ではないと|思われます…=
@@ -537,7 +537,7 @@
 そうならないための努力です。\t|爆発の惨劇も、紛争も、あなただって|見たくはないでしょう？=
 Ｌ…私は…！=
 （…状況は確かに絶望的だが…|　ジェフリーの態度は極端すぎる…|　米軍の介入をなぜそこまで望む？）=
-情報キーワード|@fR【米軍介入】@fW|を入手した。=
+情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“U.S. Military Intervention"@fW
 …………\t|ジェフリー、あなたはまだ何か|隠していますね。=
 えっ？=
 あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=
@@ -696,7 +696,7 @@
 Ｌからの信頼度が上がった！=L's trust in you has grown!
 @fR【Ｌに聞ける回数】@fW|の上限が増えた！=
 世の中、こんなに都合よく欲しいものが|落ちていることはないのですが…=
-情報キーワード|@fR【意図的な落し物】@fW|を入手した。=Keyword added:|@fR"Lost and Found"@fW
+情報キーワード|@fR【意図的な落し物】@fW|を入手した。=Keyword added:|@fR“Lost and Found"@fW
 @n0さん、あなたの観察力は|なかなか鋭いものがありますね。=
 あなたがＦＢＩの捜査官でよかった。\t|民間人では、なかなかこうは行きません|からね…=
 情報キーワード|@fR【ＦＢＩ捜査官】@fW|を入手した。=
@@ -715,7 +715,7 @@
 !FILE:dat_script_f01.bin/file003_PACK2/file011.bin
 扉を開きます。|よろしいですか？=Open door?
 !FILE:dat_script_f01.bin/file004_PACK2/file006.bin
-……聞こえますか？　私はＬです。\v聞こえたら返事をしてください。\t|あなたは@n0さんですね？=Can you hear me? I'm L.\vRespond if you can hear me.\t|You're Ms. @n0, correct?
+……聞こえますか？　私はＬです。\v聞こえたら返事をしてください。\t|あなたは@n0さんですね？=Can you hear me? I'm L.\vRespond if you can hear me.\t|You're Agent @n0, correct?#gender neutral
 あなたは@n0ですか？=Are you @n0?
 電波状況がよくないようですね…\t|もう一度、呼びかけてみましょうか…=There must be some interference with the signal. I'll call you back.#no
 よかった、無事でしたか。\t|いきなりですが、状況を説明します。=Good. I'm glad you're safe. Now, let me explain the current situation.#yes
@@ -734,17 +734,17 @@
 なるほど…\tどこかの部屋のようですね。\t|では、室内を調べていただきます。\v@fRタッチペン@fWを使って、|気になる場所を調べてみてください。\vベッドやイス、机…\t|どんな小さな事でもかまいません。\t|情報を集めてください。=I see. \tIt would appear you're in some sort of bedroom or apartment. \tOkay, let's take a look around the room.\vUse the @fRstylus@fW to inspect anything that grabs your attention.\vThe bed, the chair, the desk. Even something quite small could provide us with useful information.
 調べられる場所をタッチすると|@fRカーソル@fWが吸い付きます。\v@fRカーソルをもう一度タッチ@fWすると|その場所を調べることができます。=If you tap on something that can be examined, the @fRcursor@fR will latch onto it.\vBy @fRtapping the cursor again@fW, you can inspect that location.
 !FILE:dat_script_f01.bin/file004_PACK2/file007.bin
-部屋を移動します。|@fWよろしいですか？=
+部屋を移動します。|@fWよろしいですか？=Leave room?
 部屋を移動します。|よろしいですか？=Leave room?
 !FILE:dat_script_f01.bin/file004_PACK2/file012.bin
 ソファーを調べた。=Examined chair.
-このソファーは高級ブランドの…\t|しかし、今では生産されていない型の|はずです…=That chair is a luxury brand, but they don't produce them in that syle anymore.
-わかりました。\t|どうやらあなたがいるのは、長い間|使われていないホテル跡のようです。=I see.\t|If I am correct, you seem to be in a room of a long-abandoned hotel.
-情報キーワード|@fR【ホテル風な室内】@fW|を入手した。=Keyword added:|@fR"Hotel Room"@fW
+このソファーは高級ブランドの…\t|しかし、今では生産されていない型の|はずです…=That chair is a luxury brand, but they don't produce them in that style anymore.
+わかりました。\t|どうやらあなたがいるのは、長い間|使われていないホテル跡のようです。=I see.\t|If I am correct, you seem to be in a room of a long-abandoned hotel.#this section doesn’t seem to be working in-game
+情報キーワード|@fR【ホテル風な室内】@fW|を入手した。=Keyword added:|@fR“Hotel Room"@fW
 @fR情報キーワード@fWは|Ｌが推理を行う@fR「推理モード」@fWで|使用します。\v綿密に調査を進めるほど|多くのキーワードを|集めることができます。=L will use @fRkeywords@fW to make deductions in @fRReasoning Mode@fW.\vThe more you investigate, the more keywords you can collect.
 この部屋の情報は十分手に入りました。\t|特に何か仕掛けられている様子は|ありませんが…油断は大敵です。=I think we have all that we need from this room. \tWe didn't find anything of much use, but you can never be too careful.
 慎重に調べながら移動してください。=Remain observant as you move.
-@fR【部屋から出る】@fWボタンが|有効になった。=The @fR"Leave Room"@fW button has been enabled.
+@fR【部屋から出る】@fWボタンが|有効になった。=The @fR“Leave Room"@fW button has been enabled.
 !FILE:dat_script_f01.bin/file004_PACK2/file013.bin
 テーブルを調べた。=Table examined.
 これは２０年前に流行したテーブル…\t|手入れはあまり行き届いていませんね。=These sorts of tables were quite popular 20 years ago.\t|It's definitely beginning to show its age.
@@ -765,7 +765,7 @@
 ゲスト用の小さな椅子だ。=A small chair for guests.
 !FILE:dat_script_f01.bin/file005_PACK2/file006.bin
 もし必要ならば@n0さんの方から|話しかけてきてください。=Contact me if you ever need to discuss something.
-@fR【Ｌ】@fWボタンが|有効になった。\vＬから現状やヒントを|聞くことができます。=The @fR"L"@fW button has been enabled.\vUse it to get hints or info about your current situation from L.
+@fR【Ｌ】@fWボタンが|有効になった。\vＬから現状やヒントを|聞くことができます。=The @fR“L"@fW button has been enabled.\vUse it to get hints or info about your current situation from L.
 !FILE:dat_script_f01.bin/file006_PACK2/file006.bin
 では、この部屋も調査してください。\t|何があるかわかりません…|くれぐれも用心してください。=We don't know what might be in this room, so please inspect it.\t|And please do be cautious.
 !FILE:dat_script_f01.bin/file006_PACK2/file010.bin
@@ -798,7 +798,7 @@
 古い机だが埃は拭き取られている。=
 !FILE:dat_script_f01.bin/file007_PACK2/file006.bin
 念のために状況を確認しておいて|ください。=Just to be on the safe side, please confirm the situation.
-@fR【メニュー】@fWボタンが|有効になった。\vアイテムや状況の確認、|セーブなどが可能です。=@fR"Menu"@fW button enabled.\vAmong other things, you can check your items and status and save the game from the menu.
+@fR【メニュー】@fWボタンが|有効になった。\vアイテムや状況の確認、|セーブなどが可能です。=@fR“Menu"@fW button enabled.\vAmong other things, you can check your items and status and save the game from the menu.
 !FILE:dat_script_f01.bin/file007_PACK2/file010.bin
 １０１号室=Room 101
 !FILE:dat_script_f01.bin/file007_PACK2/file011.bin
@@ -815,7 +815,7 @@
 そう、私もそのことが|気になっていました。=Yes. That is my concern as well.
 そんなにくさいんですか？\t|少し興味が出てきました。\vですが、私が気になっているのは|そんなことではありません。=Is it really so dirty?\t|That is interesting.\vBut that's not exactly what was on my mind.
 誘拐犯が作ったにしては、|このトラップは出来が良すぎる…\t|そう思いませんか？=That trap...\t|It was far too sophisticated for an ordinary kidnapper, don't you think?
-情報キーワード|@fR【上出来なトラップ】@fW|を入手した。=Keyword added:|@fR"Sophisticated Trap"@fW
+情報キーワード|@fR【上出来なトラップ】@fW|を入手した。=Keyword added:|@fR“Sophisticated Trap"@fW
 さて、これでドアは開くはずです。\t|気をつけて進んでください。=The door should be open now.\t|Proceed with caution.
 !FILE:dat_script_f01.bin/file008_PACK2/file006.bin
 トラップを仕掛けてこちらの行動を|制限しているというのに、肝心の部屋が|施錠されていないのは不思議ですね。=
@@ -1082,7 +1082,7 @@
 箱のフタが開いた。=
 !FILE:dat_script_f03.bin/file008_PACK2/file006.bin
 ん…\t今、突然気になったのですが、|そのホテルの通路…意外と狭いですね。\t|見たところ、幅１．５ｍ弱くらい…\vかなり小さなホテル…\tいや、しかし。|内装の豪華さとくらべて、この狭さは|ギャップを感じますね…=
-情報キーワード|@fR【狭い通路】@fW|を入手した。=
+情報キーワード|@fR【狭い通路】@fW|を入手した。=Keyword added:|@fR“Narrow Corridor"@Fw#qc
 !FILE:dat_script_f03.bin/file008_PACK2/file010.bin
 ３０２号室=Room 302
 !FILE:dat_script_f03.bin/file009_PACK2/file011.bin
@@ -1245,7 +1245,7 @@ debug jump?=
 地震…？\t|@n0さん、気をつけて！=
 収まったようですね…\t|物が落ちたり、壁が壊れたりしなかった|のは幸いでしたね。\vゆったりしていましたが、このレベルの|大きな揺れなら観測されているはず。\vワタリ、今の地震の観測情報を調べて|みてください。=
 了解しました。大至急調べます。=
-情報キーワード|@fR【大きな地震】@fW|を入手した。=
+情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Huge Earthquake"@Fw#qc
 !FILE:dat_script_f04.bin/file020_PACK2/file010.bin
 壁の質感が違うようだ。=
 壁の質感が違うようですね。|\t廊下をふさぐために壁を追加したように|見えますが…\vこの先に何かあるというのでしょうか…=
@@ -1662,7 +1662,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 …わかりました。\t|無事、生き延びてください…=
 @n0さん、ありがとう。|パートナーがあなたでよかった。\t|急いで先へ進みましょう。=
 そこにあるのは救命ボートですね。\t|見たところ、新しいものを取り付けて|あるようです。\v使わずに済ませたいですが、|いざという場合のために、一応、|覚えておきましょう。=
-情報キーワード|@fR【救命ボート】@fW|を入手した。=
+情報キーワード|@fR【救命ボート】@fW|を入手した。=Keyword added:|@fR“Lifeboats"@fW
 !FILE:dat_script_f08_a.bin/file014_PACK2/file010.bin
 救命ボートだ。=
 !FILE:dat_script_f08_a.bin/file014_PACK2/file011.bin
@@ -1946,7 +1946,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_b.bin/file006_PACK2/file010.bin
 エンジンルーム=
 !FILE:dat_script_map.bin/file001_PACK2/file006.bin
-タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus and press the @fR"Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room move in front of a door.
+タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus and press the @fR“Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room move in front of a door.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file010.bin
 上のケースを開けた！=
 しかしケース内に起爆装置は|見当たらない。=
@@ -3568,10 +3568,10 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file010.bin
 では、いよいよ|解除ステップを@fR【実行】@fWしましょう。\v@fRテクニカルゲージ@fWをうまく止められれば|成功です。\v逆に、失敗すると|制限時間が大幅に減ってしまいます。\v@fR下画面をタッチ@fWして、ゲージ中央の|@fRセーフティゾーン@fW内で止めてください。|\t成功を祈ります。\vちなみに、@fR成功率が100％@fWの時は|@fRテクニカルゲージ@fWは出ません。|\t無条件で成功になります。=Alright, let's @fRexecute@fW the final step and disengage the trap.\vAll you need to do is stop the @fRTechnical Gauge@fW at the right time, and you'll be successful.\vConversely, if you fail, the time limit will be greatly reduced.\v@fRTap the lower screen@fW while the center of the gauge is within the @fRsafety zone@fW.\t|I wish you luck.\vI should mention, if the @fRsuccess rate is at 100%@fW, the @fRTechnical Gauge@fW won't be displayed.\t|You will succeed without fail.
 起爆装置を外した!=Detonator removed!
-次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The "@fRL@fW" button will be enabled for future traps.\vYou can refer to L as necessary to @fRdiscover the objective@fW or @fRdisengage the trap@fW.
+次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The “@fRL@fW" button will be enabled for future traps.\vYou can refer to L as necessary to @fRdiscover the objective@fW or @fRdisengage the trap@fW.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file011.bin
 起爆装置と爆薬がくっついているだけの|単純なトラップです。=
-これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=Now, you can use the "@fRExecute@fW" button to attempt to disengage it.\tHowever...\vTake a look at the @fRSuccess Rate@fW to the bottom right of the trap.\vIf you press the "@fRExecute@fW" button while the success rate is low, there is a strong likelihood that you will fail.\vYou can increase the success rate by @fRinvestigating@fW each part of the trap or by using @fRitems@fW when appropriate.\vI would recommend raising the rate above 50% before @fRexecuting@fW.
+これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=Now, you can use the “@fRExecute@fW" button to attempt to disengage it.\tHowever...\vTake a look at the @fRSuccess Rate@fW to the bottom right of the trap.\vIf you press the “@fRExecute@fW" button while the success rate is low, there is a strong likelihood that you will fail.\vYou can increase the success rate by @fRinvestigating@fW each part of the trap or by using @fRitems@fW when appropriate.\vI would recommend raising the rate above 50% before @fRexecuting@fW.
 ランプの点灯する順番と、|ケーブルの色がポイントですね。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file012.bin
 何かのボタンだ。=There's some kind of button.
