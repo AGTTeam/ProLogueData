@@ -195,7 +195,7 @@
 最後のトラップ解除は|万全の態勢で臨んでください。\t|何があるかわかりませんから。=
 ＠未設定=
 !FILE:dat_script.bin/file002_PACK2/file012.bin
-ＤＳワイヤレス通信機能を使って、|ダウンロード配信を開始します。|よろしいですか？=
+ＤＳワイヤレス通信機能を使って、|ダウンロード配信を開始します。|よろしいですか？=Send a demo to a friend using DS Download Play? 
 !FILE:dat_script.bin/file002_PACK2/file013.bin
 破損データを削除しました。|電源を切って|カードを差し込みなおしてください。=
 データを読み込めませんでした。|電源を切って|カードを差し込みなおしてください。=
@@ -803,7 +803,7 @@
 １０１号室=Room 101
 !FILE:dat_script_f01.bin/file007_PACK2/file011.bin
 やられました…トラップです。\t|まずいことになりましたね。=Hold it... It's a trap.\t|No more playing around.
-処理を誤れば──ドカン。\t|一巻の終わりです。\vでも、落ち着いてください。\t|この型のトラップはこれまでに何度も|処理したことがあります。\v私の指示に従って、冷静に処理すれば|必ず解除できるはずです。\t|始めましょう。=One wrong step and—Boom.\t|End of the line.\vJust try to stay calm, okay?\t|I've dealt with this sort of trap on numerous occasions.\vFollow my every instruction and don't panic, and everything will be fine.\t|Now, let's get started.
+処理を誤れば──ドカン。\t|一巻の終わりです。\vでも、落ち着いてください。\t|この型のトラップはこれまでに何度も|処理したことがあります。\v私の指示に従って、冷静に処理すれば|必ず解除できるはずです。\t|始めましょう。=One wrong step and-Boom.\t|End of the line.\vJust try to stay calm, okay?\t|I've dealt with this sort of trap on numerous occasions.\vFollow my every instruction and don't panic, and everything will be fine.\t|Now, let's get started.
 このトラップ、仕掛けは単純ですが|よくできています。=The mechanism for that trap was simple, but well-implemented.
 とはいえ、あなたの解除の手つきも|なかなかのものでしたよ。\t|この調子で今後も解除してください。=Nonetheless, you did an excellent job disengaging it.\t|Take them all on with that same approach.
 @n0さん、大丈夫ですか？\t|あなたの命が最優先です。\t|危ない時は逃げてください。\v解除ミスを気にすることはありません。\t|このトラップ、仕掛けは単純ですが|よくできていますから。=
