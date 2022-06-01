@@ -52,7 +52,7 @@
 ５０％…|いや３０％か。=50%...|No, 30%.
 １００％スッキリしたい。=I want to feel 100% refreshed.#tc
 そういえば…そうだった。=Come to think of it... That’s right.
-が、|追加されました。=
+が、|追加されました。=|added.
 スウィーツ…糖分の補給…=Sweets... My sugar fix...
 夜…今日も終わりですか。=Night-time... I guess the day’s already over.
 夜になってしまいました。=The day has gone by so fast.
@@ -85,7 +85,7 @@
 昼ですね。|なんとなく口寂しい気がします。=It’s lunch time. I can feel my mouth watering.
 あなた、どうやら…|あ、失礼、忘れて下さい。=You’re kind of...|Ah, no, forget I said anything.
 クレープの焼き色は、|砂糖の量で変わります。=The color of a cooked crepe depends on the amount of sugar in it.
-夕方になってしまった…|時間はどんどん過ぎる。=It’s already evening...|Time really does fly.
+夕方になってしまった…|時間はどんどん過ぎる。=It’s already evening...|Time keeps passing me by.
 今日はいったい、|どんな一日になるのでしょうか。=I wonder what today is going to bring.
 あなた、退屈してませんか？|大きなお世話ですね。=Aren’t you bored? Perhaps you should mind your own business.#tc
 ドーナツの基本形。|シンプルで飽きないおいしさ。|=A doughnut in its purest form.|Its simple but delicious taste is impossible to tire of.
@@ -96,7 +96,7 @@
 あなたは早起きが得意ですか？|べつにどうでもいいですが。=Are you a morning person?|Not that it really matters, but...
 じっくりやれば証拠は必ず出る。|それがあらゆる捜査の基本か。=If you take your time, you will always find evidence. Isn’t that the true for all investigations?
 それでは、|電源が切られるまでの間ですが|よろしくお願いします。=Well, until you decide to turn the power off, please enjoy.
-体験版では、そのあたりの機能が|限定されていますので、あしからず。=I’m afraid the trial version’s functions are limited. I hope you understand.#L
+体験版では、そのあたりの機能が|限定されていますので、あしからず。=I’m afraid the trial version’s functions are limited. I hope you understand.#L5
 ピンク色が可愛らしい|ロリポップキャンディ。|女の子に人気のイチゴ味。|=A lollipop with a pretty pink color.|Strawberry flavor is very popular with girls.
 ドーナツより、ドーナッツと言う方が、|言葉の響きは良いような気がします。=I think the word “doughnut” sounds better than “donut”.
 体験版で使えるコマンドは、|#R【話しかける】【スウィーツ】#Wの|２つです。=In this version, only the #R“Talk”#W and #R“Snacks”#W commands are available.#L3
