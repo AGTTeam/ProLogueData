@@ -282,7 +282,7 @@ Lコミュニケーター L Communicator
 いいえ No
 
 dat_trap_etc.bin\file001_PACK2\file002.png
-調査 Examine
+調査 Examine#Examine & Execute are a bit too long. “Look” and “Act”/“Disarm” or try smaller font size?
 アイテム Item
 実行　Execute
 L
