@@ -20,7 +20,7 @@
 ＣＬＮ=CLN
 検討中=Under Investigation
 ブラフ=Bluff
-狭い通路=Narrow Corridor#qc
+狭い通路=Narrow Corridors
 米軍介入=U.S. Military Intervention
 大きな地震=Huge Earthquake
 リブート社=

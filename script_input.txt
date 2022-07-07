@@ -203,7 +203,7 @@
 通信エラーです。|電源を切って|カードを差し込みなおしてください。=
 未知のエラーです。|電源を切って|カードを差し込みなおしてください。=
 !FILE:dat_script.bin/file002_PACK2/file014.bin
-トラップの解除方法を|@fR【Ｌに聞ける回数】が増えた！=
+トラップの解除方法を|@fR【Ｌに聞ける回数】が増えた！=The @fRnumber of times you can ask L for help with traps@fW has increased!
 !FILE:dat_script.bin/file003_PACK2/file006.bin
 イベントスキップ？=
 ──中米・クリエラ共和国。|\t|カリブ海に臨むこの国では、この数年、|政府軍と反政府武装勢力による内戦が|続いており、その影響で多くの市民が|難民と化していた。=Central America - Republic of Criella|\t|For many years, this country in the Caribbean Sea suffered a terrible civil war between rebels and government forces turning citizens into refugees.
@@ -307,22 +307,22 @@
 おもしろい仮説ですが…ずいぶんと|思い切った思考の飛び方ですよ。\t|説明、していただけるんでしょうね？=That’s an interesting theory, but it’s really quite a leap.\t I’d love to hear your reasoning.
 ええ、もちろんです…=Yes, of course.
 !FILE:dat_script.bin/file004_PACK2/file010.bin
-ＰＤＡの電波の逆探知に成功しました。\t|発信源を動的に変化させているようで|正確な位置はまだ不明ですが…\v中米クリエラ共和国の国内であることは|まちがいありません。=
-クリエラ…\t内戦中の国で、古いホテルが|放置されているなどということは|ありえない…\v攻撃のポイントとしてどちらかの勢力が|占拠するか、敵に使われないように|破壊してしまうか、どちらかです。=
-これをどう説明すればいい…=
-『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=
-無駄話はこのくらいにしましょう。\t|爆発まで残り時間はどれくらいですか？|あまりゆとりはないと思いますよ？=
-その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=
-何をわけのわからないことを？\t|せいぜい、がんばってください。\t|では、また…=
+ＰＤＡの電波の逆探知に成功しました。\t|発信源を動的に変化させているようで|正確な位置はまだ不明ですが…\v中米クリエラ共和国の国内であることは|まちがいありません。=We have succeeding in tracing the PDA’s radio signal.\t|However, the exact location is still unknown, as the source of the signal seems to be actively changing...\vWhat I can say for certain, is that it is within the Republic of Criella, Central America.
+クリエラ…\t内戦中の国で、古いホテルが|放置されているなどということは|ありえない…\v攻撃のポイントとしてどちらかの勢力が|占拠するか、敵に使われないように|破壊してしまうか、どちらかです。=Criella...\t A country in the middle of a civil war, where it’s hard to imagine they’d just leave an old hotel abandoned...\vEither one of the sides would have occupied it to use as a base, or destroyed it so that the enemy couldn’t take advantage.
+これをどう説明すればいい…=So how do you explain this...?
+『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=It was occupied by the remnants of Criella Moon.\t|That fits, doesn’t it?
+無駄話はこのくらいにしましょう。\t|爆発まで残り時間はどれくらいですか？|あまりゆとりはないと思いますよ？=Enough with this talk.\t|How long is there left until things go boom?|I don't think you have time to waste, do you?
+その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=I agree with you on that point.\t|Right now, it’s more important that @n0 and I work together to stop the explosion.\vBy the way Mister J, do you have any women working with you?
+何をわけのわからないことを？\t|せいぜい、がんばってください。\t|では、また…=What in the world are you on about?\t|You’d better stop messing around.\t|Good luck...
 !FILE:dat_script.bin/file005_PACK2/file006.bin
-Ｌ、無駄話をしているヒマはないと|思いますよ？=
-無駄話…\tそういう見方もありますね。\t|よろしければＪ、あなたは何利きか|教えていただけませんか？=
-…右ですよ。\t|右投げ右打ち、利き目も右です。|そういうあなたは？=
-鉛筆やスプーン…テニスラケットは、|右手で使っていますから、きっと|右利きなのではないでしょうか。=
-これは、なんの誘導尋問ですか？=
-ただの、無駄話ですよ…\t|では、トラップ解除に戻ります。=
-食えない人ですね…=
-Ｊは右利きですか…\t|覚えておきましょう。=
+Ｌ、無駄話をしているヒマはないと|思いますよ？=Is now really a good time for idle chit-chat, L?
+無駄話…\tそういう見方もありますね。\t|よろしければＪ、あなたは何利きか|教えていただけませんか？=Idle chit-chat?\t I suppose you could see it that way.\t Speaking of which, J, would you mind telling me what your dominant hand is?
+…右ですよ。\t|右投げ右打ち、利き目も右です。|そういうあなたは？=...I’m right-handed.\t I throw with my right, catch with my right, and my dominant eye is also my right.|And you?
+鉛筆やスプーン…テニスラケットは、|右手で使っていますから、きっと|右利きなのではないでしょうか。=I use a pencil, a spoon, and a tennis racket with my right hand, so I suppose I must be right-handed.
+これは、なんの誘導尋問ですか？=Was that another one of your leading questions?
+ただの、無駄話ですよ…\t|では、トラップ解除に戻ります。=It’s simply idle-chit chat...\t|Well then, we’d best get back to disabling these traps.
+食えない人ですね…=You’re a hard man to read...
+Ｊは右利きですか…\t|覚えておきましょう。=J is right-handed...\t|That’s worth keeping a note of.
 情報キーワード|@fR【Ｊの利き腕】@fW|を入手した。=Keyword added:|@fR“J’s Dominant Hand"@fW
 !FILE:dat_script.bin/file005_PACK2/file007.bin
 やりますね、Ｌ…\t私が精魂込めて|仕掛けた、かわいいトラップたちも|あなたに解かれて本望でしょう…=
@@ -971,7 +971,7 @@
 !FILE:dat_script_f02.bin/file009_PACK2/file016.bin
 穴の開いた箱だ。\t|上部には、雷のマークが記されている。=A box with a hole in it.\t|The lid is marked with a lightning symbol.
 !FILE:dat_script_f02.bin/file010_PACK2/file006.bin
-どうやら、このフロアの最大の難関は|切り抜けたようですね…=It looks like you’ve cleared the last boss on this floor.
+どうやら、このフロアの最大の難関は|切り抜けたようですね…=It looks like you’ve made it through the last obstacle on this floor.
 それにしても、一連のトラップの構成は|気になりますね…=Though, the layout of these traps has certainly caught my attention.
 その場にあるものを上手く利用して|最大限の効果を引き出すやり方…\t|かなりのスキルが必要なはずです。=Taking whatever items were just lying around and using them to maximum effect...\t That takes skill.
 情報キーワード|@fR【環境を利用したトラップ】@fW|を入手した。=Keyword added:|@fR“Inventive Traps"@fW
@@ -1016,11 +1016,11 @@
 鍵穴だ。\v扉はもう開いている。=
 !FILE:dat_script_f03.bin/file002_PACK2/file011.bin
 開かない。\v鍵がかかっているようだ。=It won’t budge.\vThe door must be locked.
-…なるほど、間違いありません。\t|わかりました、トラップの製作者が…\vこれは、ハウスキーパーと呼ばれる|爆弾魔の〝作品〟です。\vあなたを誘拐するためのトラップを|仕掛けたのもハウスキーパーです。=
-情報キーワード|@fR【爆弾魔ハウスキーパー】@fW|を入手した。=
-…ハウスキーパーについては、情報を|集めておきたいところですね…\vワタリ、\tハウスキーパーの情報収集と|Ｊのプロファイリングをお願いします。=
-了解しました。\tしばしお待ちを。=
-大至急でお願いします。=
+…なるほど、間違いありません。\t|わかりました、トラップの製作者が…\vこれは、ハウスキーパーと呼ばれる|爆弾魔の〝作品〟です。\vあなたを誘拐するためのトラップを|仕掛けたのもハウスキーパーです。=...Yes, I get it now.\t The person who made these traps...\vThis is the handiwork of a bomber known as the “Housekeeper”.\vHe’s also the one who set up the trap to kidnap you.
+情報キーワード|@fR【爆弾魔ハウスキーパー】@fW|を入手した。=Keyword added:|@fR“The Bomber"@fW
+…ハウスキーパーについては、情報を|集めておきたいところですね…\vワタリ、\tハウスキーパーの情報収集と|Ｊのプロファイリングをお願いします。=...I need to know more about the Housekeeper.\vWatari,\t gather anything you can find to build a profile on the Housekeeper and J.
+了解しました。\tしばしお待ちを。=Understood.\t Please give me some time.
+大至急でお願いします。=Make it top priority.
 !FILE:dat_script_f03.bin/file003_PACK2/file006.bin
 それと、これまでの階にはドアがなく|気づきませんでしたが、ここに|エレベーターがあったのですね…\vエレベーターはヒジカタ社のＳＹＧ型…\t|２０年前まで世界中で販売されていた、|定番のものです。\v自由に使わせてくれるとは思いませんが|この階で存在を我々に知らせるのなら、|今まで隠しておいた理由は一体…=
 見てください。\t扉の脇に残っているのは|あなたが解除したトラップです。\t|どういうことかわかりますか？=
@@ -1036,71 +1036,71 @@
 !FILE:dat_script_f03.bin/file003_PACK2/file010.bin
 反応がない。=
 !FILE:dat_script_f03.bin/file004_PACK2/file010.bin
-エレベーターホール=
+エレベーターホール=Elevator Hall
 !FILE:dat_script_f03.bin/file004_PACK2/file011.bin
-配線盤だ。=
-気をつけてください。\t|何かを感じます…=
-配線盤を調べます。|よろしいですか？=
+配線盤だ。=It’s a wiring board.
+気をつけてください。\t|何かを感じます…=Something’s not right...\t|Be careful.
+配線盤を調べます。|よろしいですか？=Examine the wiring board?
 …無事に解除できたようですね。\t|@n0さん、お見事でした。=
 しばらくお休みくださいと言いたい|ところですが、状況が状況です。\t|休まずに先へ進みましょう。=
 !FILE:dat_script_f03.bin/file005_PACK2/file006.bin
-お待たせしました。\t|Ｊのプロファイリングが終了しました。\t|すぐにそちらに転送します。=
-情報キーワード|@fR【Ｊのプロファイリング結果】@fW|を入手した。=
-…ワタリ、ごくろうさまでした。=
-英語のネイティブではない…|中々興味深い情報ですね…\vそれに、この声の緊張…=
-論理ではなく、心理を揺さぶれば|面白い反応が出るかもしれませんね…=
+お待たせしました。\t|Ｊのプロファイリングが終了しました。\t|すぐにそちらに転送します。=I apologize for the delay.\t|I have completed the profile on L.\t|I will forward it to you right away.
+情報キーワード|@fR【Ｊのプロファイリング結果】@fW|を入手した。=Keyword added:|@fR“J’s Profile”@fW
+…ワタリ、ごくろうさまでした。=...Thank you for your hard work, Watari.
+英語のネイティブではない…|中々興味深い情報ですね…\vそれに、この声の緊張…=Not a native English speaker...|That’s interesting.\vNot to mention the strain in his voice...
+論理ではなく、心理を揺さぶれば|面白い反応が出るかもしれませんね…=If I pressure him psychologically instead of with facts, there may be some interesting results.
 !FILE:dat_script_f03.bin/file005_PACK2/file010.bin
-古い南京錠だ。=
+古い南京錠だ。=There’s an old padlock.
 !FILE:dat_script_f03.bin/file005_PACK2/file011.bin
-ショーケースだ。\v鍵がかけられており、外すことはできない。=
+ショーケースだ。\v鍵がかけられており、外すことはできない。=A showcase.\vIt’s been locked, and can’t be opened.
 !FILE:dat_script_f03.bin/file005_PACK2/file012.bin
-写真だ。\v椅子に座った若い女性が写っている。=
+写真だ。\v椅子に座った若い女性が写っている。=A photograph.\vIt shows a young woman sitting in a chair.
 !FILE:dat_script_f03.bin/file005_PACK2/file014.bin
-写真だ。\v田園風景の中に教会が写っている。=
+写真だ。\v田園風景の中に教会が写っている。=A photograph.\vIt’s a picture of a church in the countryside.
 !FILE:dat_script_f03.bin/file005_PACK2/file015.bin
-写真だ。\vやせ細った子供が写っている。=
+写真だ。\vやせ細った子供が写っている。=A photograph.\vIt shows a dangerously thin child.
 !FILE:dat_script_f03.bin/file005_PACK2/file018.bin
-床に置かれたショーケースだ。\vもう用は無い。=
+床に置かれたショーケースだ。\vもう用は無い。=The glass lid of the showcase has been placed on the floor.\vIt’s served its purpose.
 !FILE:dat_script_f03.bin/file005_PACK2/file020.bin
-照明を調べた。=
+照明を調べた。=Examined light.
 !FILE:dat_script_f03.bin/file005_PACK2/file026.bin
-ボタンだ。=
-ボタンは既に押されている。=
-特に変化は見られない。=
+ボタンだ。=There’s a button.
+ボタンは既に押されている。=The button has already been pressed.
+特に変化は見られない。=It doesn’t seem like anything’s changed.
 !FILE:dat_script_f03.bin/file005_PACK2/file027.bin
-古びた鏡だ。\vずいぶんと汚れている。=
-鏡を調べます。|よろしいですか？=
-鏡の裏に何か隠されているようだ。=
+古びた鏡だ。\vずいぶんと汚れている。=An old mirror.\vIt is rather dirty.
+鏡を調べます。|よろしいですか？=Examine the mirror?
+鏡の裏に何か隠されているようだ。=There's something hidden behind the mirror.
 !FILE:dat_script_f03.bin/file005_PACK2/file029.bin
-古びた鏡だ。=
+古びた鏡だ。=An old mirror.
 !FILE:dat_script_f03.bin/file006_PACK2/file010.bin
 ３０１号室=Room 301
 !FILE:dat_script_f03.bin/file007_PACK2/file010.bin
-小さな箱だ。\v台の上に固定され、固く閉じられている。=
+小さな箱だ。\v台の上に固定され、固く閉じられている。=A small box.\vIt’s been stuck to the table and sealed shut.
 !FILE:dat_script_f03.bin/file007_PACK2/file011.bin
-箱の中を調べた。=
+箱の中を調べた。=Examined the boxes.
 !FILE:dat_script_f03.bin/file007_PACK2/file026.bin
-箱のフタが開いた。=
+箱のフタが開いた。=The lid of a box opened.
 !FILE:dat_script_f03.bin/file008_PACK2/file006.bin
-ん…\t今、突然気になったのですが、|そのホテルの通路…意外と狭いですね。\t|見たところ、幅１．５ｍ弱くらい…\vかなり小さなホテル…\tいや、しかし。|内装の豪華さとくらべて、この狭さは|ギャップを感じますね…=
-情報キーワード|@fR【狭い通路】@fW|を入手した。=Keyword added:|@fR“Narrow Corridor"@Fw#qc
+ん…\t今、突然気になったのですが、|そのホテルの通路…意外と狭いですね。\t|見たところ、幅１．５ｍ弱くらい…\vかなり小さなホテル…\tいや、しかし。|内装の豪華さとくらべて、この狭さは|ギャップを感じますね…=Hmm...\t I’ve only just noticed, but for a hotel, these corridors seem rather narrow.\t|From what I can tell, they’re about 1.5 meters wide.\vIt’s quite a small hotel...\tNo, even so.
+情報キーワード|@fR【狭い通路】@fW|を入手した。=Keyword added:|@fR“Narrow Corridors”@fW
 !FILE:dat_script_f03.bin/file008_PACK2/file010.bin
 ３０２号室=Room 302
 !FILE:dat_script_f03.bin/file009_PACK2/file011.bin
-大理石の台座だ。=
-台座を動かします。|よろしいですか？=
+大理石の台座だ。=It’s a marble stand.
+台座を動かします。|よろしいですか？=Move the stand?
 !FILE:dat_script_f03.bin/file009_PACK2/file012.bin
-台座を動かした形跡がある。=
+台座を動かした形跡がある。=There are traces of the stand having been moved.
 !FILE:dat_script_f03.bin/file009_PACK2/file021.bin
-低反発素材だ。=
+低反発素材だ。=It’s made from memory foam.
 !FILE:dat_script_f03.bin/file010_PACK2/file010.bin
 ３０４号室=Room 304
 !FILE:dat_script_f03.bin/file010_PACK2/file011.bin
-Ｌ、\tハウスキーパーに関する資料を|用意しました。\t|今、そちらに転送します。=
-情報キーワード|@fR【ハウスキーパーの生い立ち】@fW|を入手した。=
-…ワタリ、ごくろうさまでした。\t|ハウスキーパーは、かなりのベテラン|犯罪者です…気が抜けませんね…=
+Ｌ、\tハウスキーパーに関する資料を|用意しました。\t|今、そちらに転送します。=L,\tI have prepared a list of materials on the Housekeeper.\t|I will forward them to you now.
+情報キーワード|@fR【ハウスキーパーの生い立ち】@fW|を入手した。=Keyword added:|@fR“The Houskeeper’s History”@fW
+…ワタリ、ごくろうさまでした。\t|ハウスキーパーは、かなりのベテラン|犯罪者です…気が抜けませんね…=...Thank you, Watari.\t|The housekeeper is quite the seasoned criminal... We can’t let our guard now...
 !FILE:dat_script_f03.bin/file011_PACK2/file011.bin
-クッションの下に何かある。=
+クッションの下に何かある。=There’s something under the cushion.
 !FILE:dat_script_f03.bin/file011_PACK2/file012.bin
 移動したクッションだ。=
 !FILE:dat_script_f03.bin/file011_PACK2/file016.bin
@@ -1108,18 +1108,18 @@
 !FILE:dat_script_f03.bin/file012_PACK2/file010.bin
 ３０３号室=Room 303
 !FILE:dat_script_f03.bin/file012_PACK2/file011.bin
-ハウスキーパーのトラップ、噂どおり|ですね…\vその場にあるものを有効活用する…\t|爆弾の配線の色使いに法則性がない…\t|構造にクセがない…\vその法則性のなさが、このトラップは|ハウスキーパーの作品だと教えてくれて|います…=
-情報キーワード|@fR【法則性のないトラップ構造】@fW|を入手した。=
-@n0さん…ひとつ質問があります。\t|あなた、利き腕はどちらですか？=
-右利き=
-左利き=
-両利き=
-右ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=
-左ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=
-両利きですか…\t珍しいですね。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=
+ハウスキーパーのトラップ、噂どおり|ですね…\vその場にあるものを有効活用する…\t|爆弾の配線の色使いに法則性がない…\t|構造にクセがない…\vその法則性のなさが、このトラップは|ハウスキーパーの作品だと教えてくれて|います…=The Housekeeper’s traps are just like the reports...\vThey make use of whatever happens to be around.\t|There’s no rules about the coloring of the wires,\t and no particularities in the construction.\vIt’s the lack of consistency which marks it as his work.
+情報キーワード|@fR【法則性のないトラップ構造】@fW|を入手した。=Keyword added:|@fR“Inconsistent Trap Designs”@fW
+@n0さん…ひとつ質問があります。\t|あなた、利き腕はどちらですか？=@n0... May I ask you a question?\t|Which is your dominant hand?
+右利き=Right-handed
+左利き=Left-handed
+両利き=Ambidextrous
+右ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re right-handed...\t No, I was just curious.\t|By the way, apparently left-handed people only make up for 11% of the total population.
+左ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re left-handed...\t No, I was just curious.\t|By the way, apparently left-handed people only make up for 11% of the total population.
+両利きですか…\t珍しいですね。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re ambidextrous...?\t That’s quite rare.\t|By the way, apparently strictly left-handed only people make up for 11% of the total population.
 !FILE:dat_script_f03.bin/file012_PACK2/file014.bin
-ドアノブが外されている。=
-ピタリとはまった。=
+ドアノブが外されている。=The doorknob has been removed.
+ピタリとはまった。=It fits perfectly.
 !FILE:dat_script_f03.bin/file013_PACK2/file012.bin
 入手した部品を組合わせると|スタンガンになった。=
 !FILE:dat_script_f03.bin/file013_PACK2/file019.bin
@@ -1128,11 +1128,11 @@
 !FILE:dat_script_f03.bin/file014_PACK2/file010.bin
 ３０５号室=Room 305
 !FILE:dat_script_f03.bin/file014_PACK2/file011.bin
-扉は固くロックされている。=
+扉は固くロックされている。=The door is locked tight.
 !FILE:dat_script_f03.bin/file014_PACK2/file014.bin
 debug jump?=
-黒い金属製の箱だ。=
-嫌な予感がする……\v今は触れないでおこう。=
+黒い金属製の箱だ。=A black metal box.
+嫌な予感がする……\v今は触れないでおこう。=There’s something ominous about it...\vBetter not to touch it right now.
 中を調べます。|よろしいですか？=
 扉のロックが解除されたようだ。=
 !FILE:dat_script_f03.bin/file014_PACK2/file015.bin
@@ -2421,8 +2421,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ロックを外せば、|爆薬が外せそうですね。=
 爆薬をロックしているのは、|起爆装置の一部ですね。\v仕組みは単純ですが|きちんと外さないと|解除できません。=
 !FILE:dat_script_trapbig.bin/file005_PACK2/file013.bin
-カバーを固定しているネジは|緩められている。=
-カバーを固定している@fRネジ@fWだ。=
+カバーを固定しているネジは|緩められている。=The screws holding the cover in place are loose.
+カバーを固定している@fRネジ@fWだ。=There are @fRscrews@fW holding the cover in place.
 !FILE:dat_script_trapbig.bin/file005_PACK2/file015.bin
 トラップを覆っているカバーだ。\v全体を覆っているわけではなく、|むき出しになっている部分もある。=
 トラップを覆っているカバーだ。\v全体を覆っているわけではなく、|むき出しになっている部分もある。|中から何かが回転するような音が聞こえる。=
@@ -2827,7 +2827,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金属カバーだ。\v@fR金具@fWや@fRネジ@fWで固定されている。=
 固定されている部分を|何とかできれば|簡単に外せそうです。\vこのカバー自体も、|有る程度の@fR衝撃@fWには耐えられる|みたいですね。=
 カバーがへこんで、@fRスキマ@fWができた。=
-カバーのスキマをこじ開けた。=
+カバーのスキマをこじ開けた。=Widened the gap in the cover.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file020.bin
 何かをはめ込む穴だ。\v回せるようになっている。=
 これ以上ハンドルを回す必要は|無さそうだ。=
@@ -3205,7 +3205,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 下の装置の全体が|見えるようになった。=
 やはり、まだ続きがあるようですね。|仕方ありません、|解除を続けましょう。=
 装置の起動が完了した！=
-液晶画面に数字が表示されている。=
+液晶画面に数字が表示されている。=Numbers are displayed on the LCD screen.
 装置の分解に成功して、|外す事ができた。=
 中から起爆装置が出てきた。=
 !FILE:dat_script_trapbig.bin/file011_PACK2/file011.bin
@@ -3286,8 +3286,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 放っておけばまたすぐに|熱くなってくるでしょう。|\t早く外してしまいましょう。=
 オーバーヒートしているようです。|\tロック解除が原因でしょうか。\vとにかく、早く外してしまいましょう。|\t危険です。=
 !FILE:dat_script_trapbig.bin/file011_PACK2/file031.bin
-上向きの矢印が書かれたボタンだ。=
-下向きの矢印が書かれたボタンだ。=
+上向きの矢印が書かれたボタンだ。=A button with an up arrow on it.
+下向きの矢印が書かれたボタンだ。=A button with a down arrow on it.
 ボタンを押してみたが|反応が無かった。\vまだ起動途中のようだ。=
 ボタンを押してみたが|反応が無かった。\v電源が入っていないようだ。=
 ボタンを押した。\v液晶画面の表示が|変化したようだ=
@@ -3642,10 +3642,10 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file010.bin
 中には小箱のついた装置があった。=There is a device attached to a small box inside.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file011.bin
-このままではどうしようもありません。\t|まずは外装を外して|中を見てみましょう。=
-正しいボタンを押せば|ロックが外れます。\t|簡単ですね。=
-起爆装置を外してしまえば、|爆弾を無力化できます。=
-小箱の処理がポイントです。\t|そこさえクリアできれば|たいした爆弾ではありません。=
+このままではどうしようもありません。\t|まずは外装を外して|中を見てみましょう。=We can’t do anything with the case on.\t|Let’s start by removing that and having a look inside.
+正しいボタンを押せば|ロックが外れます。\t|簡単ですね。=Pressing the right button will release the lock.\t|There’s nothing to it.
+起爆装置を外してしまえば、|爆弾を無力化できます。=If you remove the detonator, you can neutralize the bomb.
+小箱の処理がポイントです。\t|そこさえクリアできれば|たいした爆弾ではありません。=The key is to deal with the small boxes.\t|Once they’re off, the rest will be a breeze.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file012.bin
 金属の外装だ。\vボタンが付いている。=A metal case.\vThere are several buttons.
 起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間はこじ開けられている。=The case covering the detonator.\vSomething is caught on the inside, making it hard to remove.\vA part of it has been pried open. 
@@ -3688,8 +3688,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 上の小箱が爆発した。=The box exploded.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file026.bin
 爆薬が入っているようだ。=There seems to be explosives inside.
-爆薬が入っているようだ。\v起爆装置と@fRコード@fWで繋がっている。\v爆薬は箱の中に入っており、|起爆装置を外す必要がある。=There seems to be explosives inside.\vIt is connected to the detonator by a @fRwire@fW.\vThe explosives are in the box. The detonator must be removed.
-起爆装置はコードで繋がっている|部分のパーツです。=The detonator is the part which is connected to the wire.#tc both are technically connected
+爆薬が入っているようだ。\v起爆装置と@fRコード@fWで繋がっている。\v爆薬は箱の中に入っており、|起爆装置を外す必要がある。=There seems to be explosives inside.\vIt is connected to the detonator by @fRwire@fW.\vThe explosives are in the box. The detonator must be removed.
+起爆装置はコードで繋がっている|部分のパーツです。=The detonator is the part which is connected to the wires.#tc both are technically connected
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file019.bin
 小箱だ。\vハリガネで固定されている。 =A small box.\vIt’s being held in place by a metal wire.
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file020.bin
@@ -3703,50 +3703,50 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 小箱だ。\v接着剤で固定されている。\v@fRスキマ@fWからこじ開ける事が|できそうだ。\v中には小さな爆薬が入っている。=A small box.\vIt’s been secured with glue.\vThere should be a way to @fRpry@fW it off.\vThere is a small explosive inside.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file007.bin
 急いで伏せる！=Quickly hide!
-ヒビをふさぐ！=Seal the crack!
+ヒビをふさぐ！=Seal the cracks!
 大きく深呼吸！=Take a deep breath!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file010.bin
-液体がすごい勢いで|下のパーツへ落ちだした！！=
-フラスコを外した！=
+液体がすごい勢いで|下のパーツへ落ちだした！！=The liquid has started to drip onto the lower parts at a great speed!!
+フラスコを外した！=Removed the flasks!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file011.bin
-カバーが邪魔ですので、|外さなくてはいけませんが、|何か仕掛けがありそうですね。\v外すのは準備をしっかりしてから|開始した方が良いでしょう。=
-カバーを取る事自体は|非常に簡単です。\vただ、この後が問題ですね。\t|気を抜かずに行きましょう。=
-フラスコの中の液体が|すごい勢いで減っています。\t|すばやく外してしまうべきですね。\v数字を合わせて仕掛を解きましょう。=
-上下のボタンで数字を調節すれば|簡単に解除できます。=
+カバーが邪魔ですので、|外さなくてはいけませんが、|何か仕掛けがありそうですね。\v外すのは準備をしっかりしてから|開始した方が良いでしょう。=The cover is in the way so you could do with removing it, but I expect it’s boobytrapped.\vYou should do everything you can first before you try to take it off.
+カバーを取る事自体は|非常に簡単です。\vただ、この後が問題ですね。\t|気を抜かずに行きましょう。=Removing the cover itself is easy, but the problem starts after.\vDon’t let your guard down.
+フラスコの中の液体が|すごい勢いで減っています。\t|すばやく外してしまうべきですね。\v数字を合わせて仕掛を解きましょう。=The liquid in the flasks is going down quick.\t You need to take them off as soon as possible.\vMatch the numbers and release the trap.
+上下のボタンで数字を調節すれば|簡単に解除できます。=Just match the numbers up by adjusting the buttons, and there you have it.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file012.bin
-トラップを覆っているカバーだ。\v中を確認する事ができない。=
-トラップを覆っているカバーだ。\vスキマがこじ開けられている。\vガラスのドーム内の液体が|落ちるスピードを制限しているようだ。=
-トラップを覆っているカバーだ。\v@fRスキマ@fWはあるが、|中を確認する事ができない。=
+トラップを覆っているカバーだ。\v中を確認する事ができない。=There’s a cover on the trap.\vYou can’t see what’s inside.
+トラップを覆っているカバーだ。\vスキマがこじ開けられている。\vガラスのドーム内の液体が|落ちるスピードを制限しているようだ。=It’s the cover.\vA gap has been pried open.\vIt seems to be limiting the speed at which the liquid in the glass domes is dripping.
+トラップを覆っているカバーだ。\v@fRスキマ@fWはあるが、|中を確認する事ができない。=It’s the cover.\vThere is a @fRsmall gap@fW around the edge, but not enough to see what’s inside.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file013.bin
-カバーを固定しているネジだ。\v緩められている。=
-カバーを止めていたネジを緩めた。=
+カバーを固定しているネジだ。\v緩められている。=The screws holding the cover in place.\vThey are loose.
+カバーを止めていたネジを緩めた。=Loosened the screws.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file015.bin
-ガラスのドームだ。\v緑の液体が入っている。=
-ガラスのドームだ。\v緑の液体が入っている。\v液体は少しずつだが減っている。=
-ガラス内の液体は、下の装置に|落ちて行っているのでしょうか。=
-フラスコがさかさまに|取り付けられている。\v中には、緑の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=
-液体が落ちきったら爆発です。\t|急がないとまずそうですね。=
+ガラスのドームだ。\v緑の液体が入っている。=A glass dome.\vThere’s green liquid inside.
+ガラスのドームだ。\v緑の液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s green liquid inside.\vThe amount of liquid is slowly decreasing.
+ガラス内の液体は、下の装置に|落ちて行っているのでしょうか。=Is the liquid in the glass dripping onto the equipment below?
+フラスコがさかさまに|取り付けられている。\v中には、緑の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a green liquid.\vThe liquid is pouring out quickly.
+液体が落ちきったら爆発です。\t|急がないとまずそうですね。=When that liquid runs out, the whole thing will go boom.\t|You have to hurry.
 この液体が落ちきる前に|爆弾の解除をしなければ|ならないようですね。=
-フラスコが割れ、|中からガスが噴出した！=
+フラスコが割れ、|中からガスが噴出した！=The flask broke and gas erupted from the inside!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file016.bin
-ガラスのドームだ。\v赤い液体が入っている。=
-ガラスのドームだ。\v赤い液体が入っている。\v液体は少しずつだが減っている。=
-フラスコがさかさまに|取り付けられている。\v中には、赤い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=
+ガラスのドームだ。\v赤い液体が入っている。=A glass dome.\vThere’s red liquid inside.
+ガラスのドームだ。\v赤い液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s red liquid inside.\vThe amount of liquid is slowly decreasing.
+フラスコがさかさまに|取り付けられている。\v中には、赤い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a red liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file019.bin
-フラスコを固定しているネジだ。\v緩められている。=
-フラスコを固定している@fRネジ@fWだ。=
+フラスコを固定しているネジだ。\v緩められている。=The screws holding the flasks in place.\vThey are loose.
+フラスコを固定している@fRネジ@fWだ。=There are @fRscrews@fW holding the flasks in place.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file021.bin
-液晶画面に何かが表示されている。=
-これは……\t|左右の数字を合わせるんでしょうね。\t|くだらない仕掛けです。=
+液晶画面に何かが表示されている。=Something is displayed on the LCD screen.
+これは……\t|左右の数字を合わせるんでしょうね。\t|くだらない仕掛けです。=This is...\t| So you have to match the numbers on the left and the right.\tWhat a silly trick.
 左右の数字を合わせると|何かありそうですね。=
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file041.bin
-ボタンを押した。\v電子パネルの表示が|変化したようだ。=
+ボタンを押した。\v電子パネルの表示が|変化したようだ。=Pushed the button.\vThe display on the electronic panel seems to have changed.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file043.bin
 トラップ本体だ。\vいくつかの数字とボタンがついている。=
 トラップに表示されている数字が|解除の鍵ですね。=
-何かの装置だ。\vいくつかの数字とボタンがついている。=
-ボタンは電子パネルを|操作するための物でしょう。=
-ボタンは電子パネルを|操作するための物でしょうか。=
+何かの装置だ。\vいくつかの数字とボタンがついている。=Some kind of device.\vIt has several numbers and buttons on it.
+ボタンは電子パネルを|操作するための物でしょう。=The buttons must be to control the electronic panel.
+ボタンは電子パネルを|操作するための物でしょうか。=Could the buttons be to control the electronic panel?
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file007.bin
 走って逃げる！=
 その場に伏せる！=
