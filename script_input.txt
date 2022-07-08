@@ -325,23 +325,23 @@
 Ｊは右利きですか…\t|覚えておきましょう。=J is right-handed...\t|That’s worth keeping a note of.
 情報キーワード|@fR【Ｊの利き腕】@fW|を入手した。=Keyword added:|@fR“J’s Dominant Hand"@fW
 !FILE:dat_script.bin/file005_PACK2/file007.bin
-やりますね、Ｌ…\t私が精魂込めて|仕掛けた、かわいいトラップたちも|あなたに解かれて本望でしょう…=
-あなたが作ったトラップ？=
-おかしいですね…\tこのトラップは、|あなたの作品ではないと思いますが…=
-…どういうことですか？=
-…この辺で安いお芝居は終わりに|しませんか、Ｊ？=
-あなたは、一連のトラップの製作者…\t|ハウスキーパーではありません！=
-どこからそんな発想が出てくると|いうのです、Ｌ？|説明していただきましょうか。=
-ええ、そのつもりです…=
+やりますね、Ｌ…\t私が精魂込めて|仕掛けた、かわいいトラップたちも|あなたに解かれて本望でしょう…=You’re good, L...  \tI’m sure the cute little traps I made with my heart and soul are happy to be solved by you.
+あなたが作ったトラップ？=The traps you made?
+おかしいですね…\tこのトラップは、|あなたの作品ではないと思いますが…=That’s odd.\t And here I am, convinced that someone else made them. 
+…どういうことですか？=What are you on about?
+…この辺で安いお芝居は終わりに|しませんか、Ｊ？=I think it’s time to put a stop to this little charade, J.
+あなたは、一連のトラップの製作者…\t|ハウスキーパーではありません！=You are not the Housekeeper, the person behind this series of traps!
+どこからそんな発想が出てくると|いうのです、Ｌ？|説明していただきましょうか。=Now, what gives you that idea?|I hope you’ll explain it to me, L.
+ええ、そのつもりです…=I intend to.
 !FILE:dat_script.bin/file005_PACK2/file008.bin
-Ｌよ、例の事件では俺の作品を|オモチャ扱いしてくれたそうだな。\vもっとも、あの時はＦＢＩの低脳どもを|ターゲットにしていたから、あんたには|ぬる過ぎただろうよ。\vあんたが出てくるとわかってたなら、|俺の勝負球を用意してやったのにな…\t|残念だが、仕方あるまい。\vまあ、この『トラップボックス』は|この前のように楽じゃないがな。=
-ハウスキーパー、計画の責任者は私だ。\t|よけいな事は…=
-よけいな事だと？|おまえみたいにオドオドやってたら|Ｌにつけ込まれるだけだ。\v傷口が広がる前にピッチャー交代だ。|おまえは引っ込んで、コンピュータの|お守りでもしてろ。=
-くっ……=
-Ｌ、ジェフリーと俺はひと味もふた味も|違うぜ…\tエースで４番の俺はな。=
-たいした自信ですね…=
-Ｌ、おまえは人の思考と行動を読み|推理する。\t俺も同じさ。\t|人の行動の先に罠をかける。\vここからは、俺が直接勝負してやる。\t|ベースボールのようなスリリングな|ゲームを味わわせてやるよ。\vまだまだ、試合は始まったばかり。\t|面白いゲームにしようじゃないか。=
-おもしろい犯罪なんてありませんよ。\t|特に、私の前ではね…=
+Ｌよ、例の事件では俺の作品を|オモチャ扱いしてくれたそうだな。\vもっとも、あの時はＦＢＩの低脳どもを|ターゲットにしていたから、あんたには|ぬる過ぎただろうよ。\vあんたが出てくるとわかってたなら、|俺の勝負球を用意してやったのにな…\t|残念だが、仕方あるまい。\vまあ、この『トラップボックス』は|この前のように楽じゃないがな。=L, I heard that you treated my traps as if they were toys that time.\vThen again, I was targeting those idiots in the FBI, so I guess it was too easy for you.\vIf I had known you were going to show up, I would have had my ball game ready for you...\tOh well, it doesn’t matter now.\vJust don’t expect this “trap box” to be so easy.#qc
+ハウスキーパー、計画の責任者は私だ。\t|よけいな事は…=Housekeeper, I’m the one in charge of the plan.\t|Don’t do anything rash...
+よけいな事だと？|おまえみたいにオドオドやってたら|Ｌにつけ込まれるだけだ。\v傷口が広がる前にピッチャー交代だ。|おまえは引っ込んで、コンピュータの|お守りでもしてろ。=Rash? If you keep acting like such a coward, L will only take advantage.\vWe’re just changing pitchers before he has a chance to score a home run.\t You should go back to babysitting the computer.
+くっ……=Ngh...
+Ｌ、ジェフリーと俺はひと味もふた味も|違うぜ…\tエースで４番の俺はな。=Just so you know, I do things a little differently to Jeffery boy.\t I’m the MVP here.#qc baseball reference.
+たいした自信ですね…=You certainly seem confident.
+Ｌ、おまえは人の思考と行動を読み|推理する。\t俺も同じさ。\t|人の行動の先に罠をかける。\vここからは、俺が直接勝負してやる。\t|ベースボールのようなスリリングな|ゲームを味わわせてやるよ。\vまだまだ、試合は始まったばかり。\t|面白いゲームにしようじゃないか。=You read people’s thoughts and predict their movements.\t I can do the same.\t I set traps before they’ve even made their next move.\vFrom here on, I’m going to face you myself.\t|I’ll give you a game more thrilling than any baseball match you’ve ever seen.\vThe fun is just getting started.\t|It’ll be a game to die for.
+おもしろい犯罪なんてありませんよ。\t|特に、私の前ではね…=Crime never pays off.\t|I’ll make sure of it...
 !FILE:dat_script.bin/file006_PACK2/file006.bin
 俺のトラップが不完全だと！？\t|聞き捨てならんな、Ｌ！=
 聞き捨ててもらっては困りますよ。\t|私は、私とＦＢＩへの復讐としては|正しくない…と言ったんです。=
@@ -1039,7 +1039,7 @@
 エレベーターホール=Elevator Hall
 !FILE:dat_script_f03.bin/file004_PACK2/file011.bin
 配線盤だ。=It’s a wiring board.
-気をつけてください。\t|何かを感じます…=Something’s not right...\t|Be careful.
+気をつけてください。\t|何かを感じます…=Something’s there...\t|Be careful.
 配線盤を調べます。|よろしいですか？=Examine the wiring board?
 …無事に解除できたようですね。\t|@n0さん、お見事でした。=
 しばらくお休みくださいと言いたい|ところですが、状況が状況です。\t|休まずに先へ進みましょう。=
@@ -2258,147 +2258,147 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_trapbig.bin/file003_PACK2/file029.bin
 金庫の形をしたトラップだ。\v元が金庫だけあり、|とても丈夫なようだ。=A trap made from a safe.\vBecause of that, it’s extremely solid.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file006.bin
-ずいぶんカラフルなトラップですね。\v……\vこの色には何か|意味があるのでしょうか？\t|気になります。\vまず目に付くのは、|カードリーダーですが……=
+ずいぶんカラフルなトラップですね。\v……\vこの色には何か|意味があるのでしょうか？\t|気になります。\vまず目に付くのは、|カードリーダーですが……=That’s quite the colorful trap.\v...\vI wonder if those colors mean anything.\t It’s odd.\vThe thing that’s really caught my eye though, is the card reader...
 !FILE:dat_script_trapbig.bin/file004_PACK2/file010.bin
-赤い基板を外した！=
-赤い基板を外すと、|青い基板が現れた。=
-青い基板を外した！=
-青い基板を外すと、|緑の基板が現れた。\vところどころ別の色の部分がある。\vこの基板が最後のようだ。=
-爆薬を解除した！=
+赤い基板を外した！=Removed the red board!
+赤い基板を外すと、|青い基板が現れた。=The blue board is now visible.
+青い基板を外した！=Removed the blue board!
+青い基板を外すと、|緑の基板が現れた。\vところどころ別の色の部分がある。\vこの基板が最後のようだ。=The green board is now visible.\vThere are sections with different colors.\vThis appears to be the last board.
+爆薬を解除した！=Removed the explosives!
 !FILE:dat_script_trapbig.bin/file004_PACK2/file011.bin
-見た感じ起爆装置はありませんね。\t|基板を外していきましょう。=
-そこのスイッチも気になります。\vスイッチを入れてから、|手を加えた方がよさそうですね。=
-まずは赤ランプをつけましょう。\v私が見た感じでは、|怪しいのは@fRカードリーダー@fWですね。=
-後はスイッチを入れて、|コネクタを外せば|赤い基板を外す事ができます。=
-次は青い基板ですか。=
-アイテムを使うのは、|スイッチを入れてからにしてください。=
-次は青い基板ですので、|青いランプを点灯させてください。=
-ハリガネの切断と、コードの補修、|ネジを外して完了です。=
-基板は緑ですか。\t|最後の基板のようですね。\vそろそろ爆薬を外す事が|できそうです。=
-緑の基板を解除するには、|緑のランプです。=
-カードキーを使って、|ランプの色を変えながら|スイッチを押していきましょう。\v基板の色とあっていれば|心配は要りません。=
+見た感じ起爆装置はありませんね。\t|基板を外していきましょう。=There’s no sign of the detonator.\t|Try removing the top board.
+そこのスイッチも気になります。\vスイッチを入れてから、|手を加えた方がよさそうですね。=I am also curious about that switch there.\t I get the feeling you should switch it on before doing anything else with the board.
+まずは赤ランプをつけましょう。\v私が見た感じでは、|怪しいのは@fRカードリーダー@fWですね。=Let’s try and get the red light on first.\vSomething’s telling me that @fRcard reader@fW is important.
+後はスイッチを入れて、|コネクタを外せば|赤い基板を外す事ができます。=After turning the switch on, you should be able to unplug the connectors and take out the red board.
+次は青い基板ですか。=So it’s a blue board next.
+アイテムを使うのは、|スイッチを入れてからにしてください。=Don’t use any items until you’ve turned the switch on.
+次は青い基板ですので、|青いランプを点灯させてください。=This is a blue board, so please turn the blue light on.
+ハリガネの切断と、コードの補修、|ネジを外して完了です。=Cut the metal wire, repair the exposed ones, remove the screws, and you’re done.
+基板は緑ですか。\t|最後の基板のようですね。\vそろそろ爆薬を外す事が|できそうです。=Now it’s a green board?\t|This looks like it should be the last one.\tYou’re nearly there. 
+緑の基板を解除するには、|緑のランプです。=Green board, green light.
+カードキーを使って、|ランプの色を変えながら|スイッチを押していきましょう。\v基板の色とあっていれば|心配は要りません。=Use the keycard to change the color of the light and then press the switch.\vAs long as the board and the light colors match, you’re safe to work.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file013.bin
-赤い基板のスイッチだ。\v今は手をつけない方が良いだろう。=
-スイッチはＯＮになっている。=
-赤い基板のスイッチだ。=
-このスイッチを入れずに|作業を進めると危険です。\t|気をつけてください。=
-スイッチを入れる=
-スイッチを入れない=
-スイッチを入れた。=
-これで赤い基板に|アイテムを使う事ができます。=
-何も起こらなかった。\vスイッチを元に戻した。=
-まずは赤いランプを|つけましょう。=
+赤い基板のスイッチだ。\v今は手をつけない方が良いだろう。=The switch for the red board.\vIt’s probably best not to touch it right now.
+スイッチはＯＮになっている。=The switch is on.
+赤い基板のスイッチだ。=The switch for the red board.
+このスイッチを入れずに|作業を進めると危険です。\t|気をつけてください。=It would be dangerous to proceed without using this switch.\t|Please be careful.
+スイッチを入れる=Turn the switch on
+スイッチを入れない=Don’t turn it on
+スイッチを入れた。=Turned the switch on.
+これで赤い基板に|アイテムを使う事ができます。=You should be able to use items on the red board now.
+何も起こらなかった。\vスイッチを元に戻した。=Nothing happened.\vThe switch returned to its original position.
+まずは赤いランプを|つけましょう。=Turn the red light on first.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file014.bin
-この装置…\t基板の色と、|カードリーダーのランプの色が|連動しているようです。\vランプと違う色の基板の装置は|動作しない仕掛けでしょう。\vランプの色を変えるには、|なにかアイテムが必要そうですね。|気をつけてください。\vとにかく、まずは赤い基板を|外してしまいましょう。=
-そこのスイッチも気になります。\t|スイッチを入れてから、|手を加えた方がよさそうですね。=
-ランプが赤い時のみ、|赤い基板のパーツをいじれるようだ。=
+この装置…\t基板の色と、|カードリーダーのランプの色が|連動しているようです。\vランプと違う色の基板の装置は|動作しない仕掛けでしょう。\vランプの色を変えるには、|なにかアイテムが必要そうですね。|気をつけてください。\vとにかく、まずは赤い基板を|外してしまいましょう。=This design...\tThe color on the boards seems to be related to the color of the lights on the card reader.\vIf the color of the board is different to the light, it probably won’t work.\vMost likely, you’ll need to use an item to change the color of the light.\vI’d say start with removing the red board first.
+そこのスイッチも気になります。\t|スイッチを入れてから、|手を加えた方がよさそうですね。=I am also curious about that switch there.\t I get the feeling you should switch it on before doing anything else with the board.#hint dupe
+ランプが赤い時のみ、|赤い基板のパーツをいじれるようだ。=It seems you can only touch the red board when the red light is on.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file015.bin
-赤い基板を止めている|ネジは緩められている。=
-赤い基板を止めている@fRネジ@fWだ。=
-ネジを緩めると、|スイッチの入る音が聞こえた。=
-ネジを緩めた。=
+赤い基板を止めている|ネジは緩められている。=The screws securing the red board are loose.
+赤い基板を止めている@fRネジ@fWだ。=The @fRscrews@fW are securing the red board.
+ネジを緩めると、|スイッチの入る音が聞こえた。=As you loosen the screws, a switch clicks.
+ネジを緩めた。=Loosened the screws.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file017.bin
-赤い基板とコネクタが接続されている。=
-コネクタは外されている。=
-赤い基板とコネクタが接続されている。\vロックされていて|外す事ができない。=
-@fRカードリーダー@fWのランプが|対応した色になっていないと|いけないみたいですね。=
-赤い基板とコネクタが接続されている。\v簡単に外せそうだ。=
-スイッチはオンにしましたか？\t|コネクタを外すのはそれからです。=
-コネクタを外す=
-コネクタを外さない=
-コネクタを外した。=
+赤い基板とコネクタが接続されている。=The connecter is plugged into the red board.
+コネクタは外されている。=The connecter has been unplugged.
+赤い基板とコネクタが接続されている。\vロックされていて|外す事ができない。=The connecter is plugged into the red board.\vIt is locked and can’t be removed.
+@fRカードリーダー@fWのランプが|対応した色になっていないと|いけないみたいですね。=It looks like you’ll have to change the color of the light on the @fRcard reader@fW first.
+赤い基板とコネクタが接続されている。\v簡単に外せそうだ。=The connecter is plugged into the red board.\vIt looks easy to disconnect.
+スイッチはオンにしましたか？\t|コネクタを外すのはそれからです。=Have you turned the switch on?\t|That needs to be done first before unplugging the connectors.
+コネクタを外す=Unplug the connector
+コネクタを外さない=Don’t unplug it
+コネクタを外した。=Unplugged the connector.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file023.bin
-赤い基板だ。\vいくつかのパーツがついている。=
+赤い基板だ。\vいくつかのパーツがついている。=A red board.\vIt has various components on it.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file024.bin
-何かのコードだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=
-何かのコードだ。\v絶縁テープで補修してある。=
-何かのコードだ。\v@fRむき出し@fWになった部分が|ショートしてしまいそうだ。=
+何かのコードだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=Some kind of wires.\vIt’s hard to see it clearly under the red board.
+何かのコードだ。\v絶縁テープで補修してある。=Some sort of wires.\vThey have been repaired with insulating tape.
+何かのコードだ。\v@fRむき出し@fWになった部分が|ショートしてしまいそうだ。=Some sort of wires.\vThe @fRexposed part@fW is likely to short-circuit.
 コードを切断した。=Cut the wire.
 しかし絶縁テープは壊れてしまった。=
-コードを補修中に、|スイッチが入ったような音がした。=
-コードを補修した。=
+コードを補修中に、|スイッチが入ったような音がした。=As you repair the wires, a switch clicks.
+コードを補修した。=Repaired the wires.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file026.bin
-何かのパーツだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=
-何かのパーツだ。\v青い基板にも起爆装置はないようだ。=
-今回もスイッチを入れてから|解除をしていってくださいね。=
-何かのパーツだ。\v赤い基板にあったものと|同じ物だろうか？=
+何かのパーツだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=Some kind of part.\vIt’s hard to see it clearly under the red board.
+何かのパーツだ。\v青い基板にも起爆装置はないようだ。=Some kind of part.\vIt doesn’t look like the detonator is on the blue board either.
+今回もスイッチを入れてから|解除をしていってくださいね。=Just like before, make sure to turn on the switch before dismantling anything.
+何かのパーツだ。\v赤い基板にあったものと|同じ物だろうか？=Some kind of part.\vIs it the same as what was on the red board?
 !FILE:dat_script_trapbig.bin/file004_PACK2/file027.bin
-@fRハリガネ@fWで青い基板が止められている。=
-下の基板が見えないので、|手を出さない方がよさそうだ。=
-ハリガネで青い基板が止められている。\vハリガネは切れ目が入れられ、|簡単にちぎれそうだ。=
-ハリガネに切れ目を入れると、|スイッチの入る音が聞こえた。=
-ハリガネに切れ目を入れた。=
+@fRハリガネ@fWで青い基板が止められている。=The blue board is being held in place by a @fRmetal wire@fW.
+下の基板が見えないので、|手を出さない方がよさそうだ。=It’s probably best not to touch it without knowing what’s on the board below.
+ハリガネで青い基板が止められている。\vハリガネは切れ目が入れられ、|簡単にちぎれそうだ。=The metal wire holding the blue board in place.\vIt has a small cut in it and should be easy to take off.
+ハリガネに切れ目を入れると、|スイッチの入る音が聞こえた。=As you cut the wire, a switch clicks.
+ハリガネに切れ目を入れた。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file028.bin
-青い基板だ。\vいくつかのパーツがついている。=
+青い基板だ。\vいくつかのパーツがついている。=A blue board.\vIt has various components on it.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file029.bin
-青い基板のスイッチだ。\v今は手をつけない方が良いだろう。=
-青い基板のスイッチだ。=
-これで青い基板に|アイテムを使う事ができます。=
+青い基板のスイッチだ。\v今は手をつけない方が良いだろう。=The switch for the blue board.\vIt’s probably best not to touch it right now.
+青い基板のスイッチだ。=The switch for the blue board.
+これで青い基板に|アイテムを使う事ができます。=You should be able to use items on the blue board now.
 ランプを青にしましょう。=
 !FILE:dat_script_trapbig.bin/file004_PACK2/file030.bin
-青い基板を止めている|ネジは緩められている。=
-青い基板を止めている@fRネジ@fWだ。=
+青い基板を止めている|ネジは緩められている。=The screws securing the red board are loose.
+青い基板を止めている@fRネジ@fWだ。=The @fRscrews@fW are securing the blue board.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file032.bin
-爆薬だ。=
-爆薬だ。\v@fR衝撃@fWを与えると爆発してしまうだろう。=
-起爆装置も出てきましたし、|そろそろ爆薬の解除を始めましょう。=
-今までどおり、|まずはランプの色を|合わせるところからです。=
+爆薬だ。=An explosive.
+爆薬だ。\v@fR衝撃@fWを与えると爆発してしまうだろう。=An explosive.\vIt would likely explode on @fRimpact@fW.
+起爆装置も出てきましたし、|そろそろ爆薬の解除を始めましょう。=Now that the detonator has been located, we’re nearly ready to tackle the explosive.
+今までどおり、|まずはランプの色を|合わせるところからです。=The first step is to match the color of the lights, like before.
 ヘッドが弧を描きながら|爆薬に直撃した。=
-爆薬を叩いた。=
+爆薬を叩いた。=Hit the explosive.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file033.bin
-トラップのケースだ。\v特に珍しい部分はない。=
+トラップのケースだ。\v特に珍しい部分はない。=The trap’s case.\vNothing sticks out.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file034.bin
-爆薬とトラップ本体を繋ぐコードだ。=
-爆薬とトラップ本体を繋ぐコードだ。\vトラップの中身が確認できないため、|@fR切断@fWできるコードを|見分ける事ができない。=
-爆薬とトラップ本体を繋ぐコードだ。\v本物のコードは、|すでに切断されている。=
-爆薬とトラップ本体を繋ぐコードだ。\v本物のコードが分かった。|@fR切断@fWできれば解除に役立つだろう。=
+爆薬とトラップ本体を繋ぐコードだ。=The wires connect the explosives to the trap.
+爆薬とトラップ本体を繋ぐコードだ。\vトラップの中身が確認できないため、|@fR切断@fWできるコードを|見分ける事ができない。=The wires connect the explosives to the trap.\vWithout knowing more about the wiring, it’s impossible to tell which to @fRcut@fW.
+爆薬とトラップ本体を繋ぐコードだ。\v本物のコードは、|すでに切断されている。=The wires connecting the explosives to the trap.\vThe necessary wire has already been cut.
+爆薬とトラップ本体を繋ぐコードだ。\v本物のコードが分かった。|@fR切断@fWできれば解除に役立つだろう。=The wires connecting the explosives to the trap.\vThe real wire has been identified.|@fRCutting@fW it will improve the chances of successfully disengaging the trap.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file035.bin
-電気が供給されている。\v装置が安定しているようだ。=
-２Ｆの電源パネルは|このトラップと|繋がっていたのですね。=
-電気が供給されていない。\v装置が不安定なようだ。=
-どこかに電源があるようですね。\vうまくいかないようであれば、|電源を探しましょう。=
+電気が供給されている。\v装置が安定しているようだ。=Electricity is being supplied to the device.\vIt appears to be stable.
+２Ｆの電源パネルは|このトラップと|繋がっていたのですね。=So the power control panel on the 2nd floor was connected to this trap.
+電気が供給されていない。\v装置が不安定なようだ。=No electricity is being supplied to the device.\vIt appears to be unstable.#qc if not used power supply panel?
+どこかに電源があるようですね。\vうまくいかないようであれば、|電源を探しましょう。=There must be a power supply somewhere.\vIf you can’t get it to turn on, let’s go and look for it. 
 !FILE:dat_script_trapbig.bin/file004_PACK2/file037.bin
-@fRカードリーダー@fWだ。=
-赤いランプがついている。=
-青いランプがついている。=
-緑のランプがついている。=
-ランプはついていない。=
-カードリーダーに|カードキーを差し込んだ。=
-ランプが赤く点灯した。=
-ランプが青く点灯した。=
-ランプが緑に点灯した。=
+@fRカードリーダー@fWだ。=It’s a @fRcard reader@fW.
+赤いランプがついている。=The red light is on.
+青いランプがついている。=The blue light is on.
+緑のランプがついている。=The green light is on.
+ランプはついていない。=The lights are off.
+カードリーダーに|カードキーを差し込んだ。=Inserted the keycard into the card reader.
+ランプが赤く点灯した。=The red light switched on.
+ランプが青く点灯した。=The blue light switched on.
+ランプが緑に点灯した。=The green light switched on.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file041.bin
-何かのスイッチだ。\v赤い基板に接続されている。=
+何かのスイッチだ。\v赤い基板に接続されている。=Some kind of switch.\vIt’s connected to a red board.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file042.bin
-緑の基板のスイッチだ。\v今は手をつけない方が良いだろう。=
-緑の基板のスイッチだ。=
-これで緑の基板に|アイテムを使う事ができます。=
+緑の基板のスイッチだ。\v今は手をつけない方が良いだろう。=The switch for the green board.\vIt’s probably best not to touch it right now.
+緑の基板のスイッチだ。=The switch for the green board.
+これで緑の基板に|アイテムを使う事ができます。=You should be able to use items on the green board now.
 ランプを緑にしてからです。=
 !FILE:dat_script_trapbig.bin/file004_PACK2/file043.bin
-何かのコードだ。=
+何かのコードだ。=Some kind of wires.
 このコードは、後でまた確認しましょう。=
-爆薬と起爆装置を|繋いでいるコードだ。=
-爆薬と起爆装置を|繋いでいるコードだ。\v爆薬のコードの中から、|切断できる物が判明した。=
-爆薬と起爆装置を|繋いでいるコードだ。\vスイッチを入れるまでは、|細かい調査はできない。=
+爆薬と起爆装置を|繋いでいるコードだ。=Wires connecting the detonator to the explosive.
+爆薬と起爆装置を|繋いでいるコードだ。\v爆薬のコードの中から、|切断できる物が判明した。=Wires connecting the detonator to the explosive.\vIt’s now clear which wire can be cut.
+爆薬と起爆装置を|繋いでいるコードだ。\vスイッチを入れるまでは、|細かい調査はできない。=Wires connecting the detonator to the explosive.\vSince the switch is not turned on, it is too risky to investigate further.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file044.bin
-何かのコードだ。\v青い基板のパーツに接続されている。=
-ケースの奥の方を通って、|爆薬に繋がっているようだ。=
-準備ができていないため、|詳しく調べる事ができない。=
+何かのコードだ。\v青い基板のパーツに接続されている。=Some kind of wires.\vThey’re connected to a part on the blue board.
+ケースの奥の方を通って、|爆薬に繋がっているようだ。=It seems they’re connected to the explosive via the back of the case.
+準備ができていないため、|詳しく調べる事ができない。=It is too risky to investigate further without doing some prep work.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file045.bin
-小さい穴の奥に何かのスイッチがある。\v青い基板に接続されている。=
-小さい穴の奥に何かのスイッチがある。\v@fR細長いもの@fWで押す事ができそうだ。\v青い基板に接続されている。=
-スイッチを押した。=
+小さい穴の奥に何かのスイッチがある。\v青い基板に接続されている。=There’s some kind of switch inside the small hole.\vIt’s connected to a blue board.
+小さい穴の奥に何かのスイッチがある。\v@fR細長いもの@fWで押す事ができそうだ。\v青い基板に接続されている。=There’s some kind of switch inside the small hole.\vIt looks like you should be able to push it with something @fRthin@fW.\vIt’s connected to a blue board.
+スイッチを押した。=Pushed the switch.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file046.bin
-非常用のバッテリーだ。\v電源が供給されていない間は|このバッテリーだけで|まかなっているようだ。=
-非常用のバッテリーだ。\v安定して稼動している。=
-非常用のバッテリーだ。\v稼動していたのか、|@fR熱@fWを持っている。=
-バッテリーが冷やされ、安定した。=
+非常用のバッテリーだ。\v電源が供給されていない間は|このバッテリーだけで|まかなっているようだ。=An emergency battery.\vIt seems this battery is the trap’s only source of power if there is no electricity running.
+非常用のバッテリーだ。\v安定して稼動している。=An emergency battery.\vIt appears to stable.
+非常用のバッテリーだ。\v稼動していたのか、|@fR熱@fWを持っている。=An emergency battery.\vIt may have been running, as it is @fRwarm@fW.
+バッテリーが冷やされ、安定した。=Cooled and stabilized the battery.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file047.bin
-起爆装置だろうか？\v隠れてしまっているため、|うまく確認できない。=
-青い基板には起爆装置らしい物は|見当たらない。\vトラップを解除するには、|基板を外していくしかないようだ。=
-起爆装置だ。\v別のパーツを通して|爆薬に接続されている。=
-通過しているスイッチは|解除用のもののようだ。=
-スイッチを入れていないので、|細かい調査ができない。=
+起爆装置だろうか？\v隠れてしまっているため、|うまく確認できない。=Could this be the detonator?\vIt’s hard to be sure as the view is obscured.
+青い基板には起爆装置らしい物は|見当たらない。\vトラップを解除するには、|基板を外していくしかないようだ。=There doesn’t seem to be anything that looks like a detonator on the blue board.\vIt appears the only way to disarm the trap is to remove the board.
+起爆装置だ。\v別のパーツを通して|爆薬に接続されている。=The detonator.\vIt appears to be connected to the explosive via another part.
+通過しているスイッチは|解除用のもののようだ。=The switch it’s connected to seems to be for releasing it.
+スイッチを入れていないので、|細かい調査ができない。=Since the switch is not turned on, it is too risky to investigate further.
 !FILE:dat_script_trapbig.bin/file005_PACK2/file010.bin
 カバーを外した！=Removed the cover!
 起爆装置と爆薬が|確認できるようになった。=
