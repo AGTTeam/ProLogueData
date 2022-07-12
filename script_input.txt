@@ -417,10 +417,10 @@
 @n0さん、解除したトラップから|爆弾を取り出し、廊下の突き当たりへ|向かいましょう。=
 通りがかりにある扉に|制御パネルの表示がありましたが、|覚えていますか？\vついでによって見ましょう。=
 !FILE:dat_script.bin/file008_PACK2/file008.bin
-@n0さん、まだ先は長そうです。\t|つらい状況だと思いますが、私も全力で|フォローしますので…=
-…用の…回線の準………だろうな？=
-…信室のメン……ンスは、完了…\t|電波状…………良好………=
-…今のは一体…？\t|電波の混線のようですが…\t|覚えておきましょう…=
+@n0さん、まだ先は長そうです。\t|つらい状況だと思いますが、私も全力で|フォローしますので…=@n0, I’m afraid it seems like you still have a long journey ahead.\t It’s not going to be easy, but I’ll do my very best to support you.
+…用の…回線の準………だろうな？=...The circuit... for the semi-...#qc
+…信室のメン……ンスは、完了…\t|電波状…………良好………=...Sorting men...ns, all clear.\t|Radio waves... ready.
+…今のは一体…？\t|電波の混線のようですが…\t|覚えておきましょう…=...What was that?\t|It seemed like we picked up some interference...\t|That’s worth keeping a mental note of.
 !FILE:dat_script.bin/file009_PACK2/file006.bin
 おい、まだそんな事を言ってるのか！\t|このヤマは『クリエラの月』をツブした|おまえへの、依頼人の復讐に過ぎん！=
 （ずいぶん熱くなっているな…|　もう少し煽れそうだ…）=
@@ -835,7 +835,7 @@
 !FILE:dat_script_f01.bin/file009_PACK2/file010.bin
 １０２号室=Room 102
 !FILE:dat_script_f01.bin/file010_PACK2/file010.bin
-ダンボールを調べた。=
+ダンボールを調べた。=Examined cardboard.
 役立ちそうなものですね。\t|大事に持っていてください。=
 この小さなトラップにもタイマーがある|ように『制限時間』はターゲットを追い|詰め、トラップの成功率を高めます…\vまた、犯人の立場で考えれば、|我々に時間を与えるのは得策では|ありません。\v@n0さんの身に危険がないのなら、|じっくり時間をかけて居場所を特定し、|救出することも可能ですからね…\vであれば、このホテルを舞台にした|大掛かりなトラップにも時間制限が|あってしかるべきです…=
 情報キーワード|@fR【脱出ゲームの制限時間は？】@fW|を入手した。=
@@ -1022,7 +1022,7 @@
 了解しました。\tしばしお待ちを。=Understood.\t Please give me some time.
 大至急でお願いします。=Make it top priority.
 !FILE:dat_script_f03.bin/file003_PACK2/file006.bin
-それと、これまでの階にはドアがなく|気づきませんでしたが、ここに|エレベーターがあったのですね…\vエレベーターはヒジカタ社のＳＹＧ型…\t|２０年前まで世界中で販売されていた、|定番のものです。\v自由に使わせてくれるとは思いませんが|この階で存在を我々に知らせるのなら、|今まで隠しておいた理由は一体…=
+それと、これまでの階にはドアがなく|気づきませんでしたが、ここに|エレベーターがあったのですね…\vエレベーターはヒジカタ社のＳＹＧ型…\t|２０年前まで世界中で販売されていた、|定番のものです。\v自由に使わせてくれるとは思いませんが|この階で存在を我々に知らせるのなら、|今まで隠しておいた理由は一体…=I hadn’t noticed that any of the floors you’ve been on were missing doors, yet here there’s an elevator, hm...\vIt’s a Hijikata SYG.\t|A standard make that was very common all over the world until 20 years ago.\vI don’t imagine you’ll be allowed use it freely, but why keep it hidden only to reveal its existence now?
 見てください。\t扉の脇に残っているのは|あなたが解除したトラップです。\t|どういうことかわかりますか？=
 はい=
 いいえ=
@@ -1034,7 +1034,7 @@
 わかりました。\t|では、もう一度説明しますから|よく聞いていてください。=
 はい、\tではそろそろこの『建造物』の|正体をお見せしましょう。\t|上の階へ進んでください。=
 !FILE:dat_script_f03.bin/file003_PACK2/file010.bin
-反応がない。=
+反応がない。=There was no response.
 !FILE:dat_script_f03.bin/file004_PACK2/file010.bin
 エレベーターホール=Elevator Hall
 !FILE:dat_script_f03.bin/file004_PACK2/file011.bin
@@ -1138,12 +1138,12 @@ debug jump?=
 !FILE:dat_script_f03.bin/file014_PACK2/file015.bin
 この装置は解除済みだ。=
 !FILE:dat_script_f03.bin/file015_PACK2/file013.bin
-エレベーターが落下を始めた！=
+エレベーターが落下を始めた！=The elevator started falling!
 !FILE:dat_script_f03.bin/file018_PACK2/file011.bin
 崩れた壁だ。=
 !FILE:dat_script_f04.bin/file001_PACK2/file006.bin
-今回のトラップには、これまでの|ハウスキーパーの方法論とは、|異なるものが混じっています。\vハウスキーパーと依頼人が|仕事をするのは今回が初めての|ようですね…=
-情報キーワード|@fR【ハウスキーパーの依頼人】@fW|を入手した。=
+今回のトラップには、これまでの|ハウスキーパーの方法論とは、|異なるものが混じっています。\vハウスキーパーと依頼人が|仕事をするのは今回が初めての|ようですね…=This trap had a different methodology to what we’ve seen from the Housekeeper so far.\vIt seems that this is the first time the Housekeeper and his client worked together...
+情報キーワード|@fR【ハウスキーパーの依頼人】@fW|を入手した。=Keyword added:|@fR“The Housekeeper’s Client”@fW
 見てください。|\t以前には降りていたシャッターが|開いています。\vジェフリーがここを通って行ったことは|間違いありませんね。\vシャッターを閉め忘れるほど|焦っているのでしょうか。=
 !FILE:dat_script_f04.bin/file001_PACK2/file010.bin
 シャッターが閉まっている。\vここから３階へは戻れないようだ。=
@@ -1152,35 +1152,35 @@ debug jump?=
 !FILE:dat_script_f04.bin/file002_PACK2/file012.bin
 鍵がかかっているようだ。=
 !FILE:dat_script_f04.bin/file003_PACK2/file017.bin
-なかなか鋭い勘をお持ちですね。|\t細かい調査は基本ですが、|簡単にはできないものです。=
+なかなか鋭い勘をお持ちですね。|\t細かい調査は基本ですが、|簡単にはできないものです。=Those were some impressive detective skills.|\tPerforming a thorough search is fundamental, but it’s not so easy to do. 
 !FILE:dat_script_f04.bin/file005_PACK2/file006.bin
-Ｌ、\tトラップの分析が終わりましたので|そちらにデータを転送します。=
-情報キーワード|@fR【トラップの分析結果】@fW|を入手した。=
-ＦＢＩは、一度もこれらのトラップを|解除できなかった…\t|私が協力しているのはそのためです。=
+Ｌ、\tトラップの分析が終わりましたので|そちらにデータを転送します。=L,\t the analysis of the traps is complete. I am sending the data to you now.
+情報キーワード|@fR【トラップの分析結果】@fW|を入手した。=Keyword added:|@fR“Analysis of Traps”@fW
+ＦＢＩは、一度もこれらのトラップを|解除できなかった…\t|私が協力しているのはそのためです。=The FBI were never able to disengage any of these traps.\t That’s why I’ve been working with them.
 !FILE:dat_script_f04.bin/file005_PACK2/file010.bin
-ウサギのブロンズ像だ。=
-像を取ります。|よろしいですか？=
+ウサギのブロンズ像だ。=A bronze statue of a rabbit.
+像を取ります。|よろしいですか？=Take the statue?
 !FILE:dat_script_f04.bin/file005_PACK2/file011.bin
 勇ましいライオンの絵だ。=
 !FILE:dat_script_f04.bin/file006_PACK2/file010.bin
 ４０２号室=Room 402
 !FILE:dat_script_f04.bin/file007_PACK2/file011.bin
-詳しく調査します。|よろしいですか？=
+詳しく調査します。|よろしいですか？=Take a closer look?
 !FILE:dat_script_f04.bin/file007_PACK2/file020.bin
-恐ろしい狼の絵だ。=
+恐ろしい狼の絵だ。=It’s a painting of an intimidating wolf.
 !FILE:dat_script_f04.bin/file008_PACK2/file010.bin
 ４０１号室=Room 401
 !FILE:dat_script_f04.bin/file008_PACK2/file011.bin
-今回のトラップは、昨年までの犯行で|使われていたトラップとはいくつか|違いがあるようです…\vまず、部品が高価で精巧なものばかり。\t|ありものででっちあげるのが手口のはず|なのですが…\v部品以外にも、今回は色々とコストが|かかっています…\tハウスキーパーの犯行|としては珍しいケースです。=
-情報キーワード|@fR【高価なトラップ】@fW|を入手した。=
+今回のトラップは、昨年までの犯行で|使われていたトラップとはいくつか|違いがあるようです…\vまず、部品が高価で精巧なものばかり。\t|ありものででっちあげるのが手口のはず|なのですが…\v部品以外にも、今回は色々とコストが|かかっています…\tハウスキーパーの犯行|としては珍しいケースです。=These traps are fairly different to the ones which were being used for criminal activities until last year.\vFirst of all, the parts are expensive and elaborate.\tHis technique is normally to use whatever happened to be around, but...\vIt’s not just the parts, there seems to have been a lot of money involved in the whole setup.\tFor the Housekeeper, this is quite an unusual case.
+情報キーワード|@fR【高価なトラップ】@fW|を入手した。=Keyword added:|@fR“Expensive Traps”@fW
 !FILE:dat_script_f04.bin/file009_PACK2/file010.bin
 花を調べた。=Examined flowers.
-造花だ。=
-造花を取り出しますか？=
+造花だ。=They’re artificial.
+造花を取り出しますか？=Remove the flowers?
 !FILE:dat_script_f04.bin/file009_PACK2/file011.bin
-動かすとカラカラと音がする。=
+動かすとカラカラと音がする。=It makes a clanging sound when moved.
 !FILE:dat_script_f04.bin/file009_PACK2/file013.bin
-造化だ。\v特におかしな所ははない。=
+造化だ。\v特におかしな所ははない。=Artificial flowers.\vThere’s nothing notable about them.
 !FILE:dat_script_f04.bin/file010_PACK2/file010.bin
 壁を調べた。=
 この部分だけ動かせそうだ。=
@@ -3752,51 +3752,51 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 その場に伏せる！=
 全部のボタンを押す！=
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file011.bin
-特に悩む事は無いと思いますが…\t|この金属の球体が爆薬です。\t|これを外しましょう。=
-頑丈な造りではありますが、|だいぶ隙の多い爆弾です。\vよく観察すれば、|解除は難しくありません。=
+特に悩む事は無いと思いますが…\t|この金属の球体が爆薬です。\t|これを外しましょう。=This doesn’t look too complex.\t|The explosives are in the metal sphere.\t That’s what you need to take off.
+頑丈な造りではありますが、|だいぶ隙の多い爆弾です。\vよく観察すれば、|解除は難しくありません。=The construction of the bomb is sturdy, but there are plenty of openings.\vIf you study it carefully, it shouldn’t be difficult to disengage.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file012.bin
-ボタンだ。\v起爆装置の正面に並んでいる。=
-どうやら正解のボタンを|押せたようです。\t|ついてます。=
-このボタンは押せるようですが|何か仕掛けがありそうです。\vどうにもならなそうならば、|これにかけてみるのも良いかも|しれませんね。=
+ボタンだ。\v起爆装置の正面に並んでいる。=There are buttons lined in a row.
+どうやら正解のボタンを|押せたようです。\t|ついてます。=It looks like that was the right choice.\t|It seems luck is on your side.#qc you see this message even if you haven’t pushed any buttons?
+このボタンは押せるようですが|何か仕掛けがありそうです。\vどうにもならなそうならば、|これにかけてみるのも良いかも|しれませんね。=It looks like you can push them, but I’m sure there’s a catch.\vIf you really get stuck, you might just have to go for it.
 いかにも怪しいボタンですが･･････。\v少々博打になりますが、|どれかのボタンを押してみるのも|良いかもしれませんね。=
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file015.bin
-起爆装置の通気口だ。=
+起爆装置の通気口だ。=It’s a vent for the detonator.
 起爆装置の通気口だ。\v奥の方に小さなボタンが見える。\vボタンは押されている。=
-起爆装置の通気口だ。\v奥の方に小さなボタンが見える。=
-何やら気になるボタンです。\t|何か@fR細い物@fWがあれば押せそうです。=
+起爆装置の通気口だ。\v奥の方に小さなボタンが見える。=The vent for the detonator.\vThere is a small button inside.
+何やら気になるボタンです。\t|何か@fR細い物@fWがあれば押せそうです。=I wonder what that does.\t|You should be able to press it using something @fRthin@fW.
 手は入りそうにありませんね。\t|@fR細い物@fWがあれば|押せるのではないでしょうか。=
-起爆装置の通気口だ。\v@fRテープ@fWで穴がふさがれている。=
-起爆装置の通気口だ。\v@fRテープ@fWで穴がふさがれている。\v少し@fR熱気@fWを感じる。=
-どういう理由で穴をふさいでいるのか|よく分かりません。\t|慎重に進めてください。=
-通気口を冷やした。=
-通気口から熱風が噴出した！=
-奥のボタンを押し込んだ。=
-起爆装置が停止したようですね。\t|これで安全に爆薬を|外す事ができます。=
+起爆装置の通気口だ。\v@fRテープ@fWで穴がふさがれている。=There’s a vent for the detonator.\vThe holes have been covered with @fRtape@fW.
+起爆装置の通気口だ。\v@fRテープ@fWで穴がふさがれている。\v少し@fR熱気@fWを感じる。=There’s a vent for the detonator.\vThe holes have been covered with @fRtape@fW.\v@fRHot air@fW is coming out.
+どういう理由で穴をふさいでいるのか|よく分かりません。\t|慎重に進めてください。=I don’t understand why the holes are covered.\t|Best to proceed with caution. 
+通気口を冷やした。=Cooled the vent.
+通気口から熱風が噴出した！=Hot air came blasting out of the vent!
+奥のボタンを押し込んだ。=Pushed the button inside.
+起爆装置が停止したようですね。\t|これで安全に爆薬を|外す事ができます。=It looks like that deactivated the detonator.\t|Now you can remove it safely.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file017.bin
-金属の球体だ。\v中に爆薬が入っているようだ。=
-金属の球体だ。\v中に爆薬が入っているようだ。\vスキマの中のコードは切断されている。=
-金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったスキマから、|@fRコード@fWが見えている。=
-スキマがだいぶ広がりましたね。\t|これならある程度の大きさの物も|入りそうです。=
+金属の球体だ。\v中に爆薬が入っているようだ。=A metal sphere.\vThere are explosives inside.
+金属の球体だ。\v中に爆薬が入っているようだ。\vスキマの中のコードは切断されている。=A metal sphere.\vThere are explosives inside.\vThe wires inside have been cut.
+金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったスキマから、|@fRコード@fWが見えている。=A metal sphere.\vThere are explosives inside.\v@fRWires@fW are visible through the widened gap.
+スキマがだいぶ広がりましたね。\t|これならある程度の大きさの物も|入りそうです。=The gap is a lot wider now.\t|You should be able to fit larger items inside.
 スキマがだいぶ広がったようですね。\t|これなら大きな物でも入るでしょう。=
-金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったフレームとの|@fRスキマ@fWから@fRコード@fWが見えている。=
-とてもわずかな@fRスキマ@fWです。\t|このままではかなり@fR薄い物@fW|しか入りそうにありません。=
+金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったフレームとの|@fRスキマ@fWから@fRコード@fWが見えている。=A metal sphere.\vThere are explosives inside.\v@fRWires@fW are visible in the @fRgap@fW created by the distorted frame.
+とてもわずかな@fRスキマ@fWです。\t|このままではかなり@fR薄い物@fW|しか入りそうにありません。=That’s not a very big @fRgap@fW.\t|You’d only be able to fit something @fRthin@fW inside.
 小さな@fRスキマ@fWですね。|\t@fR薄い物@fWなら入りそうです。=
-金属の球体だ。\v中に爆薬が入っているようだ。\vフレームによって|起爆装置と固定されている。=
-正確には爆薬を覆っている|カバーのようですね。\v中は空洞のようなので、|多少@fR叩いて@fWも大丈夫でしょう。=
+金属の球体だ。\v中に爆薬が入っているようだ。\vフレームによって|起爆装置と固定されている。=A metal sphere.\vThere are explosives inside.\vIt is attached to the detonator by a frame.
+正確には爆薬を覆っている|カバーのようですね。\v中は空洞のようなので、|多少@fR叩いて@fWも大丈夫でしょう。=It does look like this is covering the explosives.\vIt seems to be hollow inside, so it should be okay even if you @fRbang@fW it a little.
 中は空洞になっていますね。|\tこの金属の球体は|爆薬のカバーなのでしょう。\v多少@fR叩いて@fWも大丈夫かも|しれませんね。=
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file022.bin
-金属のフレームだ。\v爆薬と起爆装置を固定している。=
-金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれてだいぶ歪んでいる。=
-これ以上は叩いても意味が無さそうです。\t|とりあえずは、これで十分でしょう。=
-金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれて少し歪んでいる。=
-もう少し@fR叩いて@fWも大丈夫そうです。\t|全体的に頑丈な作りですね。=
-もっと@fR叩いて@fWも大丈夫そうですね。=
-頑丈に固定されていますね。\t|強い@fR衝撃@fWを与えれば|フレームが緩むかもしれません。=
+金属のフレームだ。\v爆薬と起爆装置を固定している。=A metal frame.\vIt’s securing the explosive and the detonator.
+金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれてだいぶ歪んでいる。=A metal frame.\vIt’s securing the explosive and the detonator.\vIt has been bent completely out of shape.
+これ以上は叩いても意味が無さそうです。\t|とりあえずは、これで十分でしょう。=It looks like there’s no point in hitting it any more.\t|That should be enough for now.
+金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれて少し歪んでいる。=A metal frame.\vIt’s securing the explosive and the detonator.\vIt has been slightly warped.
+もう少し@fR叩いて@fWも大丈夫そうです。\t|全体的に頑丈な作りですね。=You might need to @fRbeat it@fW a bit more.\t|It is quite a thick piece of metal.
+もっと@fR叩いて@fWも大丈夫そうですね。=You should be able to @fRhit it@fW some more.#qc is this used?
+頑丈に固定されていますね。\t|強い@fR衝撃@fWを与えれば|フレームが緩むかもしれません。=That’s really fixed in place.\t|If you @fRhit it@fW with something, it might loosen the frame.
 衝撃に弱そうなフレームですね。\t|@fR叩けば@fW簡単に緩みそうです。=
-フレームを叩いた。=
+フレームを叩いた。=Hit the frame.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file024.bin
-起爆装置だ。\vボタンがついている。=
-起爆装置だ。\vボタンがついている。\t|フレームとしっかり固定されている。=
+起爆装置だ。\vボタンがついている。=The detonator.\vThere are buttons on it.
+起爆装置だ。\vボタンがついている。\t|フレームとしっかり固定されている。=The detonator.\vThere are buttons on it.\t|It is fixed to the frame.
 !FILE:dat_script_trapsmall.bin/file012_PACK2/file007.bin
 遠くに投げる！=
 地面に叩きつける！=
