@@ -361,19 +361,19 @@
 し、知るか！\t　そんな言葉遊びで|騙されてたまるか！\t　おまえが何と|言おうとこのトラップは俺の作品だ！\v時間以内にすべてのトラップを|解けない時は、@n1も、|周辺の住民も全員死ぬだけだ！\vわかったら、さっさと次のフロアへ|進むことだ！\t　せいぜいがんばりな！=
 …少しずつ見えて来ました。\t|しかし、ハウスキーパーの言うように|今はトラップを解くしかないですね…\vさあ、急ぎましょう。=
 !FILE:dat_script.bin/file006_PACK2/file008.bin
-Ｌ、\t俺のトラップにビビッて慎重になる|気持ちはわかるが、あんたらに残された|時間は多くはないぞ。=
-ええ、承知していますよ。\t|ですが、かかっているのは私のではなく|@n0さんの命ですからね…\v最大限の慎重さと最低限のロスで|あなたのトラップを破ってみせますよ。\t|必ず…=
-ふん、せいぜい急ぐことだな。=
-…ハウスキーパーはプロで、|仕事の受注は金次第ですが…=
-トラップを仕掛けた時点で仕事は完了…\t|クライアントに代わって表に出るような|積極性を見せたことはなかったはず…=
-なぜ表に出てきたのでしょう…|気になりますね。=
-情報キーワード|@fR【ハウスキーパーの積極性】@fW|を入手した。=
+Ｌ、\t俺のトラップにビビッて慎重になる|気持ちはわかるが、あんたらに残された|時間は多くはないぞ。=L,\t I get that you’re scared and being cautious of my traps, but you’re running out of time here.
+ええ、承知していますよ。\t|ですが、かかっているのは私のではなく|@n0さんの命ですからね…\v最大限の慎重さと最低限のロスで|あなたのトラップを破ってみせますよ。\t|必ず…=Yes, I know.\t|But it’s not my life that’s at risk, it’s @n0’s.\vWe’re going to defeat your traps with the utmost caution and minimum losses.\t|That’s a promise...
+ふん、せいぜい急ぐことだな。=Hmph. You’d better make it snappy, then.
+…ハウスキーパーはプロで、|仕事の受注は金次第ですが…=...The Housekeeper is a professional, and he does what he gets paid to.
+トラップを仕掛けた時点で仕事は完了…\t|クライアントに代わって表に出るような|積極性を見せたことはなかったはず…=When the traps are set, his job is over.\t|I don’t recall there being any cases where he appeared on a client’s behalf.
+なぜ表に出てきたのでしょう…|気になりますね。=So why is he being so proactive and appearing before us now...|It must mean something.
+情報キーワード|@fR【ハウスキーパーの積極性】@fW|を入手した。=Keyword added:|@fR“Being Proactive"@fW
 !FILE:dat_script.bin/file006_PACK2/file009.bin
-おいＬ、さっきの俺のアドバイスを|忘れたのか？\t　もっと急がないと|時間切れで最後まで行けないぜ？=
-さっきの私の言葉を忘れましたか？\t|@n0さんの命がかかっている以上、|ミスは許されないんです。\vそれに…最後まで行けない方が|あなたにとっては都合が良いのでは|ありませんか？\vまるで、私に最後まで行って欲しいと|言っているように聞こえますよ？=
-ふ、ふん…！\t　そんなことはない。\t|好きなだけのんびりやればいいさ。=
-ハウスキーパーが私を急がせている|のは、ほぼ間違いありません…\t|しかし、なぜでしょう…=
-情報キーワード|@fR【ハウスキーパーの矛盾】@fW|を入手した。=
+おいＬ、さっきの俺のアドバイスを|忘れたのか？\t　もっと急がないと|時間切れで最後まで行けないぜ？=Oi L, did you forget what I said?\t|If you don’t get a move on, you won’t make it to the end.
+さっきの私の言葉を忘れましたか？\t|@n0さんの命がかかっている以上、|ミスは許されないんです。\vそれに…最後まで行けない方が|あなたにとっては都合が良いのでは|ありませんか？\vまるで、私に最後まで行って欲しいと|言っているように聞こえますよ？=Didn’t you hear what I said?\t|As long as @n0’s life is on the line, I can’t afford to make any mistakes.\vBesides... Wouldn’t it be better for you if we didn’t make it to the end?\vIt sounds almost as if you’re hoping we make it through.
+ふ、ふん…！\t　そんなことはない。\t|好きなだけのんびりやればいいさ。=H-Hmph!\t You’ve got your wires crossed.\t|Meander all you want, I don’t care.
+ハウスキーパーが私を急がせている|のは、ほぼ間違いありません…\t|しかし、なぜでしょう…=There’s no doubt that the Housekeeper is trying to rush us.\t|But, why...?
+情報キーワード|@fR【ハウスキーパーの矛盾】@fW|を入手した。=Keyword added:|@fR“The Paradox"@fW
 !FILE:dat_script.bin/file007_PACK2/file008.bin
 おい、Ｌはどうした？=
 ただいま、席を外しています。\t|甘いものを探しに行っただけですので|すぐに戻ると思います。=
@@ -658,7 +658,7 @@
 ベーブ・ルース２世…=
 情報キーワード|@fR【ベーブ・ルース２世】@fW|を入手した。=
 !FILE:dat_script_f01.bin/file001_PACK2/file006.bin
-…この部屋には何かありそうです。\t|注意してください。=
+…この部屋には何かありそうです。\t|注意してください。=...I have a feeling something is planted in this room.\t|Be careful.
 このキーがどう役立つかは、|後ほど考えることにしましょう。=
 それにしても…です。\vこれまでの経過を見ている限り、|どうにも妙な感じがしてなりません。\v通信も生きたままですし、トラップが|あるとはいえ自由に動けるとは…\vすべては犯人側の意図したことだと|考える以外、状況の説明がつきません。\vどこかから監視されているはず…|ならば当然、この通話も聞かれている。=
 ……ですよね？\vそろそろ出てきたらどうですか？=
@@ -1161,13 +1161,13 @@ debug jump?=
 ウサギのブロンズ像だ。=A bronze statue of a rabbit.
 像を取ります。|よろしいですか？=Take the statue?
 !FILE:dat_script_f04.bin/file005_PACK2/file011.bin
-勇ましいライオンの絵だ。=
+勇ましいライオンの絵だ。=A painting of a brave lion.
 !FILE:dat_script_f04.bin/file006_PACK2/file010.bin
 ４０２号室=Room 402
 !FILE:dat_script_f04.bin/file007_PACK2/file011.bin
 詳しく調査します。|よろしいですか？=Take a closer look?
 !FILE:dat_script_f04.bin/file007_PACK2/file020.bin
-恐ろしい狼の絵だ。=It’s a painting of an intimidating wolf.
+恐ろしい狼の絵だ。=A painting of an intimidating wolf.
 !FILE:dat_script_f04.bin/file008_PACK2/file010.bin
 ４０１号室=Room 401
 !FILE:dat_script_f04.bin/file008_PACK2/file011.bin
@@ -1182,47 +1182,47 @@ debug jump?=
 !FILE:dat_script_f04.bin/file009_PACK2/file013.bin
 造化だ。\v特におかしな所ははない。=Artificial flowers.\vThere’s nothing notable about them.
 !FILE:dat_script_f04.bin/file010_PACK2/file010.bin
-壁を調べた。=
-この部分だけ動かせそうだ。=
-壁を押しますか？=
-奥に部屋を見つけた。=
+壁を調べた。=Examined wall.
+この部分だけ動かせそうだ。=It looks like it should move.
+壁を押しますか？=Push the wall?
+奥に部屋を見つけた。=Discovered a hidden room.
 !FILE:dat_script_f04.bin/file010_PACK2/file011.bin
-奥の部屋に進みます。|よろしいですか？=
+奥の部屋に進みます。|よろしいですか？=Move to the hidden room?
 !FILE:dat_script_f04.bin/file010_PACK2/file014.bin
-愛らしいウサギの絵だ。=
+愛らしいウサギの絵だ。=A painting of a cute rabbit.
 !FILE:dat_script_f04.bin/file011_PACK2/file010.bin
 ４０４号室=Room 404
 !FILE:dat_script_f04.bin/file012_PACK2/file007.bin
-４０４号室へ移動します。|よろしいですか？=
+４０４号室へ移動します。|よろしいですか？=Move to Room 404?
 !FILE:dat_script_f04.bin/file012_PACK2/file010.bin
-ライオンのブロンズ像だ。=
+ライオンのブロンズ像だ。=A bronze statue of a lion.
 !FILE:dat_script_f04.bin/file013_PACK2/file010.bin
-設置台の横に溝がある。=
-設置台の横に穴が開いている。=
+設置台の横に溝がある。=There is a groove in the side of the pedestal.
+設置台の横に穴が開いている。=There is a hole in the side of the pedestal.
 !FILE:dat_script_f04.bin/file013_PACK2/file012.bin
-台座を調べた。=
-４つの像は正しく設置されている。=
-何かの台座だろうか？=
+台座を調べた。=Examined pedestal.
+４つの像は正しく設置されている。=The four statues have been correctly placed.
+何かの台座だろうか？=Some kind of pedestal.
 !FILE:dat_script_f04.bin/file013_PACK2/file013.bin
-獰猛な鷲の絵だ。=
-絵が大きく傾いているが。=
-絵を外します。|よろしいですか？=
+獰猛な鷲の絵だ。=A painting of a ferocious eagle.
+絵が大きく傾いているが。=The painting is crooked.
+絵を外します。|よろしいですか？=Take it off the wall?
 !FILE:dat_script_f04.bin/file013_PACK2/file015.bin
-狼のブロンズ像だ。=
+狼のブロンズ像だ。=A bronze statue of a wolf.
 !FILE:dat_script_f04.bin/file014_PACK2/file010.bin
 ４０３号室=Room 403
 !FILE:dat_script_f04.bin/file015_PACK2/file010.bin
 像が置かれている=
 !FILE:dat_script_f04.bin/file015_PACK2/file015.bin
-青い枠だ。=
-設置台の横に穴が開いた。=
-お見事です。|この程度の仕掛けは楽勝みたいですね。=
+青い枠だ。=A blue border.
+設置台の横に穴が開いた。=A hole opened in the side of the pedestal.
+お見事です。|この程度の仕掛けは楽勝みたいですね。=Great work.|I guess something like that’s not even a challenge for you.
 !FILE:dat_script_f04.bin/file015_PACK2/file021.bin
-黄色の枠だ。=
+黄色の枠だ。=A yellow border.
 !FILE:dat_script_f04.bin/file015_PACK2/file027.bin
-緑色の枠だ。=
+緑色の枠だ。=A green border.
 !FILE:dat_script_f04.bin/file015_PACK2/file033.bin
-赤い枠だ。=
+赤い枠だ。=A red border.
 !FILE:dat_script_f04.bin/file015_PACK2/file034.bin
 台の上にカラフルな枠がついている。=
 !FILE:dat_script_f04.bin/file016_PACK2/file006.bin
@@ -1230,23 +1230,23 @@ debug jump?=
 これで、このフロアはクリアですね…\t|果たしてこのゲームは|いつまで続くのでしょうか…=
 それにしても、この事件には|おかしな印象が目立ちます。\v私とＦＢＩへの復讐としてはあまりにも|不適切で不完全なトラップです…=
 !FILE:dat_script_f04.bin/file016_PACK2/file011.bin
-ダンボール箱を調べた。=
-中に何かあるようだ。=
+ダンボール箱を調べた。=Examined cardboard box.
+中に何かあるようだ。=There’s something inside.
 !FILE:dat_script_f04.bin/file016_PACK2/file012.bin
-慎重に調査をしてください。=
-ダンボールの中を調べます。|よろしいですか？=
+慎重に調査をしてください。=Please proceed with caution.
+ダンボールの中を調べます。|よろしいですか？=Look inside the box?
 !FILE:dat_script_f04.bin/file017_PACK2/file006.bin
-先ほどの地震に関する報告です。\v同時刻の世界中の地震関連情報を|調べましたが、クリエラはおろか|中米での地震は報道されていません。=
-そうですか…妙ですね。\t|クリエラでは地震は珍しい…あれほどの|揺れならば、ニュースになるはず…=
-情報キーワード|@fR【クリエラの地震に関するニュース】@fW|を入手した。=
+先ほどの地震に関する報告です。\v同時刻の世界中の地震関連情報を|調べましたが、クリエラはおろか|中米での地震は報道されていません。=I have finished looking into the earthquake from before.\vI checked the global information for earthquakes occurring at that time, and there are no reports of any in Central America, let alone Criella.
+そうですか…妙ですね。\t|クリエラでは地震は珍しい…あれほどの|揺れならば、ニュースになるはず…=Is that so...? How odd.\t|Earthquakes are rare in Criella... With how much it was shaking, it should have been in the news.
+情報キーワード|@fR【クリエラの地震に関するニュース】@fW|を入手した。=Keyword added:|@fR“News on Earthquakes"@Fw
 !FILE:dat_script_f04.bin/file019_PACK2/file010.bin
-４階の内装は…|１階のものとまったく同じですね。\t|ホテルだから当然ではありますが…=
-情報キーワード|@fR【４階フロアの内装】@fW|を入手した。=
-一応、頭の片隅に置いておきましょう。\t|では、調査を続けてください。=
-地震…？\t|@n0さん、気をつけて！=
-収まったようですね…\t|物が落ちたり、壁が壊れたりしなかった|のは幸いでしたね。\vゆったりしていましたが、このレベルの|大きな揺れなら観測されているはず。\vワタリ、今の地震の観測情報を調べて|みてください。=
-了解しました。大至急調べます。=
-情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Huge Earthquake"@Fw#qc
+４階の内装は…|１階のものとまったく同じですね。\t|ホテルだから当然ではありますが…=The layout of the fourth floor is identical to the first.\t Well, it is a hotel, so maybe that’s to be expected...
+情報キーワード|@fR【４階フロアの内装】@fW|を入手した。=Keyword added:|@fR“4th Floor"@Fw
+一応、頭の片隅に置いておきましょう。\t|では、調査を続けてください。=I still think it’s worth keeping in the back of our minds.\t|Well then, let’s keep going.
+地震…？\t|@n0さん、気をつけて！=An earthquake...?\t|Look out, @n0!
+収まったようですね…\t|物が落ちたり、壁が壊れたりしなかった|のは幸いでしたね。\vゆったりしていましたが、このレベルの|大きな揺れなら観測されているはず。\vワタリ、今の地震の観測情報を調べて|みてください。=It looks like its stopped...\t|It’s a good job nothing fell over or got broken.\vIt was slow, but an earthquake of that scale should appear in the records.\vWatari, check the weather records for information about that earthquake.
+了解しました。大至急調べます。=Understood. I will see to it posthaste.
+情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Huge Earthquake"@Fw
 !FILE:dat_script_f04.bin/file020_PACK2/file010.bin
 壁の質感が違うようだ。=
 壁の質感が違うようですね。|\t廊下をふさぐために壁を追加したように|見えますが…\vこの先に何かあるというのでしょうか…=
