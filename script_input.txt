@@ -126,7 +126,7 @@
 彼らの狙いは|私を事件に介入させること……=
 最後まで思い通りになる気は|ありませんよ。\t|…先へ進みましょう、@n0さん。=
 @n1さん、ご心配なく。\t|Ｌはすぐに戻ってきます。=
-さて、それでは|先に進むといたしましょう。=
+さて、それでは|先に進むといたしましょう。=Well then, let’s continue onwards.#Watari
 Ｌが席を外したのは、|あなたの実力を認めたからです。|自信を持ってください。=
 Ｌが戻るまでは|私がサポートさせていただきます。=
 どうやら、５階の客室は|すべて共通の鍵で|開けることができるようです。=
@@ -343,23 +343,23 @@
 Ｌ、おまえは人の思考と行動を読み|推理する。\t俺も同じさ。\t|人の行動の先に罠をかける。\vここからは、俺が直接勝負してやる。\t|ベースボールのようなスリリングな|ゲームを味わわせてやるよ。\vまだまだ、試合は始まったばかり。\t|面白いゲームにしようじゃないか。=You read people’s thoughts and predict their movements.\t I can do the same.\t I set traps before they’ve even made their next move.\vFrom here on, I’m going to face you myself.\t|I’ll give you a game more thrilling than any baseball match you’ve ever seen.\vThe fun is just getting started.\t|It’ll be a game to die for.
 おもしろい犯罪なんてありませんよ。\t|特に、私の前ではね…=Crime never pays off.\t|I’ll make sure of it...
 !FILE:dat_script.bin/file006_PACK2/file006.bin
-俺のトラップが不完全だと！？\t|聞き捨てならんな、Ｌ！=
-聞き捨ててもらっては困りますよ。\t|私は、私とＦＢＩへの復讐としては|正しくない…と言ったんです。=
-何が言いたい！？=
-今回の@n0さん誘拐事件の目的は|私とＦＢＩへの復讐ではありません。\t|目的は他のところにあります。=
-そんなことはない！\t|ジェフリーのヤツが言っていただろう？|忘れたのか！=
-覚えていますよ。\t|しかし、それは表向きの理由で、|本当の目的は別にあります。=
-な、なんだと！\t|だったらそれを説明してみせろ！=
+俺のトラップが不完全だと！？\t|聞き捨てならんな、Ｌ！=Flawed!?\t Don’t think I’ll just let that slide, L!
+聞き捨ててもらっては困りますよ。\t|私は、私とＦＢＩへの復讐としては|正しくない…と言ったんです。=I’d rather you didn’t, either.\t|Like I said, as revenge against myself and the FBI, this is wrong. 
+何が言いたい！？=What are you trying to suggest!?
+今回の@n0さん誘拐事件の目的は|私とＦＢＩへの復讐ではありません。\t|目的は他のところにあります。=The reason @n0 was kidnapped was not about getting revenge on us. There’s some other motive. 
+そんなことはない！\t|ジェフリーのヤツが言っていただろう？|忘れたのか！=You’re way off the mark there!\t|Didn’t Jeffery already tell you?|Don’t tell me you forgot?!
+覚えていますよ。\t|しかし、それは表向きの理由で、|本当の目的は別にあります。=I remember.\t|But, that is only the alleged reason. The true reason lies elsewhere.
+な、なんだと！\t|だったらそれを説明してみせろ！=W-What!?\t|Explain yourself!
 !FILE:dat_script.bin/file006_PACK2/file007.bin
-あなたの依頼人はハウスキーパーという|プロの腕を買っておきながら、技術を|１００％使い切るつもりはない…\v必要な部分だけ利用して、自分の目的を|達成しようと考えているのです。=
-どういうことだ？=
-あなたの腕を１００％使うということは|@n0さんを殺すということです。\t|だが、依頼人にはそのつもりはない。\vそれはつまり、復讐以外のところに|本当の目的がある、ということです！=
-くっ…\tだったら、目的は何なんだ！=
-詳しいことはまだわかりませんが、|あなたの依頼人の目的は、おそらく…\t|私こと『Ｌ』あるのです。\vわかりやすく言えば、|『この事件にＬを介入させる』という|状況そのものが犯人の目的なのです！=
-そんな…=
-図星のようですね。=
-し、知るか！\t　そんな言葉遊びで|騙されてたまるか！\t　おまえが何と|言おうとこのトラップは俺の作品だ！\v時間以内にすべてのトラップを|解けない時は、@n1も、|周辺の住民も全員死ぬだけだ！\vわかったら、さっさと次のフロアへ|進むことだ！\t　せいぜいがんばりな！=
-…少しずつ見えて来ました。\t|しかし、ハウスキーパーの言うように|今はトラップを解くしかないですね…\vさあ、急ぎましょう。=
+あなたの依頼人はハウスキーパーという|プロの腕を買っておきながら、技術を|１００％使い切るつもりはない…\v必要な部分だけ利用して、自分の目的を|達成しようと考えているのです。=Your client paid for your skills as the Housekeeper, but they’ve no intention of using those skills to the fullest.\vThey only want to use what they need to achieve their goals.
+どういうことだ？=What do you mean?
+あなたの腕を１００％使うということは|@n0さんを殺すということです。\t|だが、依頼人にはそのつもりはない。\vそれはつまり、復讐以外のところに|本当の目的がある、ということです！=Using your skills to the fullest would mean killing @n0.\t|But, your client has no intention to do that.\vWhich means, revenge isn’t their true goal!
+くっ…\tだったら、目的は何なんだ！=Gck...\t Then, what is it!?
+詳しいことはまだわかりませんが、|あなたの依頼人の目的は、おそらく…\t|私こと『Ｌ』あるのです。\vわかりやすく言えば、|『この事件にＬを介入させる』という|状況そのものが犯人の目的なのです！=I don’t know for sure yet, but your client’s objective is probably...\t|me, “L”.\vTo put it simply, this very situation of “having L intervene in the case” is what they’re after.
+そんな…=That’s--
+図星のようですね。=It looks like I’ve hit the nail on the head.
+し、知るか！\t　そんな言葉遊びで|騙されてたまるか！\t　おまえが何と|言おうとこのトラップは俺の作品だ！\v時間以内にすべてのトラップを|解けない時は、@n1も、|周辺の住民も全員死ぬだけだ！\vわかったら、さっさと次のフロアへ|進むことだ！\t　せいぜいがんばりな！=T-Think what you want!\t I’m not going to get wrapped up in your little word games.\t Whatever you say, these traps are my work!\vIf you don’t solve all the traps within the time limit, @n1 and everyone else in the vicinity will die!\vIf you understand that, hurry up and go to the next floor!\t You’d better give me your all.
+…少しずつ見えて来ました。\t|しかし、ハウスキーパーの言うように|今はトラップを解くしかないですね…\vさあ、急ぎましょう。=It looks like we’re getting ever closer to the truth.\t|But as the housekeeper said, all we can do for now is solve the traps...\vLet’s keep going.
 !FILE:dat_script.bin/file006_PACK2/file008.bin
 Ｌ、\t俺のトラップにビビッて慎重になる|気持ちはわかるが、あんたらに残された|時間は多くはないぞ。=L,\t I get that you’re scared and being cautious of my traps, but you’re running out of time here.
 ええ、承知していますよ。\t|ですが、かかっているのは私のではなく|@n0さんの命ですからね…\v最大限の慎重さと最低限のロスで|あなたのトラップを破ってみせますよ。\t|必ず…=Yes, I know.\t|But it’s not my life that’s at risk, it’s @n0’s.\vWe’re going to defeat your traps with the utmost caution and minimum losses.\t|That’s a promise...
@@ -375,11 +375,11 @@
 ハウスキーパーが私を急がせている|のは、ほぼ間違いありません…\t|しかし、なぜでしょう…=There’s no doubt that the Housekeeper is trying to rush us.\t|But, why...?
 情報キーワード|@fR【ハウスキーパーの矛盾】@fW|を入手した。=Keyword added:|@fR“The Paradox"@fW
 !FILE:dat_script.bin/file007_PACK2/file008.bin
-おい、Ｌはどうした？=
-ただいま、席を外しています。\t|甘いものを探しに行っただけですので|すぐに戻ると思います。=
-甘いものだと？\t　この状況で中座とは、|俺も舐められたものだな…=
-いえ、違います。\t|甘いものを食べたときのＬは、|より鋭い推理をするのですよ。=
-ふん…\tこんなところで時間をつぶして|後で泣きを見るのはおまえたちだ。\t|好きにするがいいさ。=
+おい、Ｌはどうした？=Oi, what happened to L?
+ただいま、席を外しています。\t|甘いものを探しに行っただけですので|すぐに戻ると思います。=He has temporarily taken leave.\t|He went to look for something sweet, so I’m sure he will be back soon.
+甘いものだと？\t　この状況で中座とは、|俺も舐められたものだな…=Something sweet?\t Disappearing at a time like this, he must be making light of me.
+いえ、違います。\t|甘いものを食べたときのＬは、|より鋭い推理をするのですよ。=No, that’s not the case.\t|L makes sharper deductions when he eats something sweet, you see.
+ふん…\tこんなところで時間をつぶして|後で泣きを見るのはおまえたちだ。\t|好きにするがいいさ。=Hmph...\t Suit yourselves!\t|You’re the ones who’ll be sorry later for wasting time like this. 
 !FILE:dat_script.bin/file007_PACK2/file009.bin
 おい、Ｌはまだ戻らないのか？\t|どこに行ったんだ？=
 いえ、私もＬの近くにいるわけでは|ありませんので、行き先までは|わかりませんね。=
@@ -666,7 +666,7 @@
 !FILE:dat_script_f01.bin/file001_PACK2/file007.bin
 廊下へ移動します。|よろしいですか？=
 !FILE:dat_script_f01.bin/file001_PACK2/file010.bin
-シャッターを調べた。=
+シャッターを調べた。=Examined shutter.
 電動式のため力を込めても|ビクともしない。=
 !FILE:dat_script_f01.bin/file001_PACK2/file011.bin
 階段が上へと続いている。=The stairs lead upwards.
@@ -1142,11 +1142,11 @@ debug jump?=
 !FILE:dat_script_f03.bin/file018_PACK2/file011.bin
 崩れた壁だ。=
 !FILE:dat_script_f04.bin/file001_PACK2/file006.bin
-今回のトラップには、これまでの|ハウスキーパーの方法論とは、|異なるものが混じっています。\vハウスキーパーと依頼人が|仕事をするのは今回が初めての|ようですね…=This trap had a different methodology to what we’ve seen from the Housekeeper so far.\vIt seems that this is the first time the Housekeeper and his client worked together...
+今回のトラップには、これまでの|ハウスキーパーの方法論とは、|異なるものが混じっています。\vハウスキーパーと依頼人が|仕事をするのは今回が初めての|ようですね…=These traps have had a different methodology to what’s been known of the Housekeeper in the past.\vIt seems that this is the first time the Housekeeper and his client have worked together...
 情報キーワード|@fR【ハウスキーパーの依頼人】@fW|を入手した。=Keyword added:|@fR“The Housekeeper’s Client”@fW
 見てください。|\t以前には降りていたシャッターが|開いています。\vジェフリーがここを通って行ったことは|間違いありませんね。\vシャッターを閉め忘れるほど|焦っているのでしょうか。=
 !FILE:dat_script_f04.bin/file001_PACK2/file010.bin
-シャッターが閉まっている。\vここから３階へは戻れないようだ。=
+シャッターが閉まっている。\vここから３階へは戻れないようだ。=The shutter is closed.\vThere’s no way to get back to the third floor from here.
 !FILE:dat_script_f04.bin/file002_PACK2/file011.bin
 鍵は開いている。=
 !FILE:dat_script_f04.bin/file002_PACK2/file012.bin
@@ -1253,14 +1253,14 @@ debug jump?=
 情報キーワード|@fR【廊下をふさぐ壁】@fW|を入手した。=
 壁の質感が違うようですね。=
 !FILE:dat_script_f05.bin/file001_PACK2/file006.bin
-@n0さん、\t依頼人の目的が具体的に|わかれば、あなたの居場所や救出方法も|見つかるかもしれません。=
-Ｌ、\t居場所に関連する情報ですが、|先ほどの地震の件で報告します。\v各国の気象台や専門機関に問い合わせ|ましたが、やはりクリエラ周辺で地震は|発生していません。=
-情報キーワード|@fR【クリエラの地震・続報】@fW|を入手した。=
-！\t…そうですか。\t|ワタリ、しばらく私は席を外します。=
-どちらへ？=
-甘いものを仕入れに行くんですよ…=
-私の代わりに@n0さんのフォローを|頼みます。=
-@n0さん、しばらくワタリと共に|調査を進めていてください。=
+@n0さん、\t依頼人の目的が具体的に|わかれば、あなたの居場所や救出方法も|見つかるかもしれません。=@n0,\t if we can figure out what exactly the client is after, we may be able to find out where you are and how to rescue you.
+Ｌ、\t居場所に関連する情報ですが、|先ほどの地震の件で報告します。\v各国の気象台や専門機関に問い合わせ|ましたが、やはりクリエラ周辺で地震は|発生していません。=L,\t on the subject of whereabouts, I have further information to report about the earthquake earlier.\vI have contacted weather stations and specialized agencies in various countries, but there is still no records of an earthquake having occurred in the Criella area.
+情報キーワード|@fR【クリエラの地震・続報】@fW|を入手した。=Keyword added:|@fR“Earthquake Follow-up Report"@Fw
+！\t…そうですか。\t|ワタリ、しばらく私は席を外します。=!\t ...I see.\t|Watari, I will be leaving my post for a while.
+どちらへ？=Where are you going?
+甘いものを仕入れに行くんですよ…=I need to stock up on sweets.
+私の代わりに@n0さんのフォローを|頼みます。=Please support @n0 in my stead.
+@n0さん、しばらくワタリと共に|調査を進めていてください。=@n0, Watari will assist, so keep it up.
 !FILE:dat_script_f05.bin/file003_PACK2/file006.bin
 このフロアの内装ですが…\t|２階のものと合わせてあるようですな。=
 情報キーワード|@fR【５階フロアの内装】@fW|を入手した。=
@@ -1328,8 +1328,8 @@ debug jump?=
 !FILE:dat_script_f05.bin/file008_PACK2/file010.bin
 ５０５号室=Room 505
 !FILE:dat_script_f05.bin/file009_PACK2/file019.bin
-中に何か入っているようだ。=
-ダンボールを開けます。|よろしいですか？=
+中に何か入っているようだ。=There seems to be something inside.
+ダンボールを開けます。|よろしいですか？=Open the box?
 !FILE:dat_script_f05.bin/file009_PACK2/file021.bin
 ダンボールの中を調べた。=
 !FILE:dat_script_f05.bin/file010_PACK2/file010.bin
