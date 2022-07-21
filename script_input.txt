@@ -381,11 +381,11 @@
 いえ、違います。\t|甘いものを食べたときのＬは、|より鋭い推理をするのですよ。=No, that’s not the case.\t|L makes sharper deductions when he eats something sweet, you see.
 ふん…\tこんなところで時間をつぶして|後で泣きを見るのはおまえたちだ。\t|好きにするがいいさ。=Hmph...\t Suit yourselves!\t|You’re the ones who’ll be sorry later for wasting time like this. 
 !FILE:dat_script.bin/file007_PACK2/file009.bin
-おい、Ｌはまだ戻らないのか？\t|どこに行ったんだ？=
-いえ、私もＬの近くにいるわけでは|ありませんので、行き先までは|わかりませんね。=
-コソコソと何をやってるのか知らないが|Ｌが逃げれば、その瞬間にゲームセット|だ…！\t　そのつもりでいろ。=
-ご心配なく。\tＬは必ず戻ります。|あなたを追い詰めるために。=
-ふん…\t気に食わないヤツだな。=
+おい、Ｌはまだ戻らないのか？\t|どこに行ったんだ？=Hey, is L not back yet?\t|Where the hell did he go?
+いえ、私もＬの近くにいるわけでは|ありませんので、行き先までは|わかりませんね。=I am not with him either, so I’m afraid I don’t know where he was headed.
+コソコソと何をやってるのか知らないが|Ｌが逃げれば、その瞬間にゲームセット|だ…！\t　そのつもりでいろ。=I don’t know what you’re conspiring, but if L leaves then I’ll consider the game forfeit!
+ご心配なく。\tＬは必ず戻ります。|あなたを追い詰めるために。=Don’t worry.\t L will be back.|To hunt you down.
+ふん…\t気に食わないヤツだな。=Hmph...\t Keep dreaming, old man.
 !FILE:dat_script.bin/file007_PACK2/file010.bin
 おい、Ｌはまだ戻らないのか！=
 おやおや、怒っているのですか？\t|むしろ、この状況は喜ばしいことだと|私は思いますがねえ。=
@@ -1255,44 +1255,44 @@ debug jump?=
 !FILE:dat_script_f05.bin/file001_PACK2/file006.bin
 @n0さん、\t依頼人の目的が具体的に|わかれば、あなたの居場所や救出方法も|見つかるかもしれません。=@n0,\t if we can figure out what exactly the client is after, we may be able to find out where you are and how to rescue you.
 Ｌ、\t居場所に関連する情報ですが、|先ほどの地震の件で報告します。\v各国の気象台や専門機関に問い合わせ|ましたが、やはりクリエラ周辺で地震は|発生していません。=L,\t on the subject of whereabouts, I have further information to report about the earthquake earlier.\vI have contacted weather stations and specialized agencies in various countries, but there is still no records of an earthquake having occurred in the Criella area.
-情報キーワード|@fR【クリエラの地震・続報】@fW|を入手した。=Keyword added:|@fR“Earthquake Follow-up Report"@Fw
+情報キーワード|@fR【クリエラの地震・続報】@fW|を入手した。=Keyword added:|@fR“Earthquake Follow-up Report"@fW
 ！\t…そうですか。\t|ワタリ、しばらく私は席を外します。=!\t ...I see.\t|Watari, I will be leaving my post for a while.
 どちらへ？=Where are you going?
 甘いものを仕入れに行くんですよ…=I need to stock up on sweets.
 私の代わりに@n0さんのフォローを|頼みます。=Please support @n0 in my stead.
 @n0さん、しばらくワタリと共に|調査を進めていてください。=@n0, Watari will assist, so keep it up.
 !FILE:dat_script_f05.bin/file003_PACK2/file006.bin
-このフロアの内装ですが…\t|２階のものと合わせてあるようですな。=
-情報キーワード|@fR【５階フロアの内装】@fW|を入手した。=
-@n1さん、|Ｆからの報告が入りました。=
-Ｆについて尋ねる=
-報告を聞く=
-Ｆというのは、いろいろいる|私の仲間の一人でして。\v危険な場所や、ヘンピなところ、普通の|人が近寄らないような場所での調査を|得意とする頼りになる人物です。=
-ホテルの内装が気になりましたので、|Ｆに頼んで調査をしてもらいました。|\tその報告によりますと…\v過去、現在ともクリエラ共和国内には|そちらの内装に合致するホテルは|存在した記録はないようです。=
-情報キーワード|@fR【ホテル全体の内装】@fW|を入手した。=
+このフロアの内装ですが…\t|２階のものと合わせてあるようですな。=The layout of this floor...\t It seems that it matches the second floor.
+情報キーワード|@fR【５階フロアの内装】@fW|を入手した。=Keyword added:|@fR“Fifth Floor"@fW
+@n1さん、|Ｆからの報告が入りました。=@n1, I have received word from F.
+Ｆについて尋ねる=Ask about F
+報告を聞く=Listen to the report
+Ｆというのは、いろいろいる|私の仲間の一人でして。\v危険な場所や、ヘンピなところ、普通の|人が近寄らないような場所での調査を|得意とする頼りになる人物です。=F is one of my various associates.\vHe is a reliable person who specializes in investigating dangerous sites, remote locations, and places which an ordinary person would never approach.
+ホテルの内装が気になりましたので、|Ｆに頼んで調査をしてもらいました。|\tその報告によりますと…\v過去、現在ともクリエラ共和国内には|そちらの内装に合致するホテルは|存在した記録はないようです。=I was curious about the interior of the hotel, so I asked F to investigate.\vAccording to his report, there is no record of any hotel matching its description in the Republic of Criella, neither past nor present.
+情報キーワード|@fR【ホテル全体の内装】@fW|を入手した。=Keyword added:|@fR“Hotel Interior"@fW
 !FILE:dat_script_f05.bin/file003_PACK2/file010.bin
-カーテンを調べた。=
-後ろに何かあるようだ。=
-カーテンを開けます。|よろしいですか？=
+カーテンを調べた。=Examined curtains.
+後ろに何かあるようだ。=It looks like there’s something behind here.
+カーテンを開けます。|よろしいですか？=Open curtains?
 !FILE:dat_script_f05.bin/file003_PACK2/file013.bin
-しかし、後ろには何もない。=
+しかし、後ろには何もない。=There’s nothing behind here.
 !FILE:dat_script_f05.bin/file003_PACK2/file014.bin
-カーテンは既に開いている=
+カーテンは既に開いている=The curtains have been opened.
 !FILE:dat_script_f05.bin/file003_PACK2/file016.bin
-高貴な人物の肖像画だ。=
+高貴な人物の肖像画だ。=A portrait of a nobleman.
 !FILE:dat_script_f05.bin/file003_PACK2/file025.bin
-金庫だ。\v数値を入力するパネルがついている。=
-数値を入力しますか？=
+金庫だ。\v数値を入力するパネルがついている。=A safe.\vThere is a keypad on it.
+数値を入力しますか？=Use the keypad?
 !FILE:dat_script_f05.bin/file004_PACK2/file010.bin
 ５０２号室=Room 502
 !FILE:dat_script_f05.bin/file005_PACK2/file010.bin
-ここは開きそうだ。=
-開けますか？=
+ここは開きそうだ。=It looks like this panel should open.
+開けますか？=Open the panel?
 !FILE:dat_script_f05.bin/file005_PACK2/file013.bin
-薄い金属のカバーがついている。\v素手で開けられそうだ。=
+薄い金属のカバーがついている。\v素手で開けられそうだ。=There’s a thin metal cover.\vIt should be easy enough to open.
 !FILE:dat_script_f05.bin/file005_PACK2/file014.bin
-ボタンをＯＦＦにした。=
-ボタンをＯＮにした。=
+ボタンをＯＦＦにした。=Switched the button off.
+ボタンをＯＮにした。=Switched the button on.
 !FILE:dat_script_f05.bin/file006_PACK2/file010.bin
 ５０１号室=Room 501
 !FILE:dat_script_f05.bin/file007_PACK2/file010.bin
@@ -1358,7 +1358,7 @@ debug jump?=
 鍵がかかっている。=
 まずは６階の室内を念入りに|調べてください。=
 !FILE:dat_script_f06.bin/file002_PACK2/file013.bin
-カードリーダーだ。=
+カードリーダーだ。=It’s a card reader.
 !FILE:dat_script_f06.bin/file003_PACK2/file006.bin
 ここ６階の内装は３階と同じですね。=
 情報キーワード|@fR【６階フロアの内装】@fW|を入手した。=
