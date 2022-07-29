@@ -1429,9 +1429,9 @@ debug jump?=
 !FILE:dat_script_f06.bin/file016_PACK2/file015.bin
 丈夫な箱だ。=It’s a sturdy box.
 !FILE:dat_script_f06.bin/file017_PACK2/file022.bin
-制御パネルだ。=
-やはり、エレベーターの電源は|誰かが停止させていたようですね…\t|思うように動かなくて当然です。\v再起動させておきましょう。=
-再起動した。=
+制御パネルだ。=A control panel.
+やはり、エレベーターの電源は|誰かが停止させていたようですね…\t|思うように動かなくて当然です。\v再起動させておきましょう。=As I thought, someone switched off the power for the elevator.\t|No wonder it didn’t work as expected.\vPlease reboot it.
+再起動した。=Rebooted the system.
 !FILE:dat_script_f06.bin/file018_PACK2/file010.bin
 コントロール・ルーム=Control Room
 !FILE:dat_script_f06.bin/file019_PACK2/file006.bin
@@ -1439,9 +1439,9 @@ debug jump?=
 !FILE:dat_script_f06.bin/file019_PACK2/file010.bin
 さあ、行きましょう。=
 このトラップは解除済みだ。=
-やはりありましたね。\t|これが起爆装置付のトラップです。\t|注意して解除にあたりましょう。=
+やはりありましたね。\t|これが起爆装置付のトラップです。\t|注意して解除にあたりましょう。=And there it is.\t|Be careful.
 !FILE:dat_script_f06.bin/file020_PACK2/file010.bin
-この雰囲気…|いつものやっかいなアレが|ありそうな気がします…=
+この雰囲気…|いつものやっかいなアレが|ありそうな気がします…=This feeling... I suppose we know what to expect by now.
 !FILE:dat_script_f06.bin/file021_PACK2/file006.bin
 ここに来る途中にあった部屋に、|制御パネルのマークがありました。\v私の考えでは、今のうちに|調査しておいた方が良いはず。|\t申し訳ありませんが、お願いします。=
 !FILE:dat_script_f06.bin/file021_PACK2/file010.bin
@@ -2615,133 +2615,133 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 円柱状のトラップ骨組み部分だ。\vこの中にトラップの本体がある。=The framework of the trap.\vThe main body is inside.
 円柱状のトラップ骨組み部分だ。=The framework of the trap.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file010.bin
-中央のパーツを外した！=
-振り子が動くようになってしまった！=
-どうやらこのパーツは|振り子の動きを止める役目も|あったようです。\vしかし、パーツを戻したところで|進展しないのは明らかです。\t|このまま解除を進めましょう。=
-振り子を固定した！=
-これで解除を進める事が|できますね。=
-起爆装置のフタを外した！=
-中には基板が入っていた。=
-システムが正常に動き出した！=
-ボタンの辺りから|起動音が聞こえた。=
+中央のパーツを外した！=Removed the central bolt!
+振り子が動くようになってしまった！=The pendulum started moving!
+どうやらこのパーツは|振り子の動きを止める役目も|あったようです。\vしかし、パーツを戻したところで|進展しないのは明らかです。\t|このまま解除を進めましょう。=I guess that part also served to stop the pendulum from moving.\vBut, it’s clear that putting it back in won’t get us any further.\t|Continue as you are.
+振り子を固定した！=The pendulum has been stopped!
+これで解除を進める事が|できますね。=Now you can move forward.
+起爆装置のフタを外した！=Removed the detonator’s lid!
+中には基板が入っていた。=There is a circuit board inside.
+システムが正常に動き出した！=Returned the system to working order!
+ボタンの辺りから|起動音が聞こえた。=Something connected to the buttons seemed to startup.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file011.bin
-動かせそうなのはこの中央にある|閂（かんぬき）のようなパーツ。\t|これだけですね。=
-無理やりにでも外そうと思えば、|外せてしまう程度の物です。=
-外したパーツを戻せば|振り子は止まりますが、|それでは逆戻りなので無意味です。\v何かを使って振り子を止めるしか|方法はありませんね。=
-凝固剤を注入してしまえば、|振り子が固まり動かなくなります。=
-振り子も止まった事ですし、|早速、起爆装置のフタを|開けてみましょう。=
-単純に固定されているだけです。|\t簡単に開きますよ。=
-このままではどうにもできませんね。\t|エラーが出ているようなので、|正常に戻しましょう。=
-足りないパーツを補完すれば|正常に動作しはじめます。=
-ロックを解除して爆薬を|取り外しましょう。\t|それで解除完了です。=
-爆薬を固定しているロックは|起爆装置内部のシステムが|関係しています。\vランプをうまく点灯させられれば|解除できるようです。\v私の言う順番で|ボタンを押してください。=
+動かせそうなのはこの中央にある|閂（かんぬき）のようなパーツ。\t|これだけですね。=The only part that seems to be movable is the central part that looks like a bolt.
+無理やりにでも外そうと思えば、|外せてしまう程度の物です。=The only thing to do is remove it.
+外したパーツを戻せば|振り子は止まりますが、|それでは逆戻りなので無意味です。\v何かを使って振り子を止めるしか|方法はありませんね。=If you put the part back in the pendulum will stop, but you’ll also be back where you started so there’s just no point.\vThere must be something you could use to stop the pendulum.
+凝固剤を注入してしまえば、|振り子が固まり動かなくなります。=If you inject a coagulant into the case, it will harden and stop the pendulum from moving.
+振り子も止まった事ですし、|早速、起爆装置のフタを|開けてみましょう。=Now that the pendulum has stopped, it’s time to get the detonator’s lid off.
+単純に固定されているだけです。|\t簡単に開きますよ。=There’s nothing complicated securing the lid.|\tIt’s easy to take off.
+このままではどうにもできませんね。\t|エラーが出ているようなので、|正常に戻しましょう。=We can’t work on it in this state.\t|The panel is showing an error, so we should get that fixed first.
+足りないパーツを補完すれば|正常に動作しはじめます。=If you add in the missing parts, it will start working properly.
+ロックを解除して爆薬を|取り外しましょう。\t|それで解除完了です。=Undo the lock and remove the explosive.\t|That’s the final step.
+爆薬を固定しているロックは|起爆装置内部のシステムが|関係しています。\vランプをうまく点灯させられれば|解除できるようです。\v私の言う順番で|ボタンを押してください。=The lock that’s holding the explosive in place is connected to the device on the detonator.\vTurning on all the lights should unlock it.\vPress them like this.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file013.bin
-透明のケースのフタだ。\vスライド式の開け口が付いている。=
-今は関係が無さそうです。\t|放っておきましょう。=
-透明のケースのフタだ。\vスライド式の開け口が開いている。=
-ここから@fR振り子を固定する@fWものを、|入れる事ができそうです。=
-フタを開ける=
-フタを開けない=
-振り子の装置に、|凝固剤を注入した。=
-みるみるうちに凝固剤が固まり、|振り子が動かなくなった。=
+透明のケースのフタだ。\vスライド式の開け口が付いている。=The lid of the glass case.\vIt has a sliding lock.
+今は関係が無さそうです。\t|放っておきましょう。=I don’t think that’ll be much help to us right now.\t|Just leave it as is.
+透明のケースのフタだ。\vスライド式の開け口が開いている。=The lid of the glass case.\vThe lock is open.
+ここから@fR振り子を固定する@fWものを、|入れる事ができそうです。=You could use this opening to add something that would @fRhold the pendulum in place@fW.
+フタを開ける=Open the lock
+フタを開けない=Don’t open the lock
+振り子の装置に、|凝固剤を注入した。=Injected the coagulant into the case.
+みるみるうちに凝固剤が固まり、|振り子が動かなくなった。=The coagulant quickly hardened and stopped the pendulum from moving.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file015.bin
-ネジを外した跡がある。=
-@fRネジ@fWが中央のパーツを固定している。=
+ネジを外した跡がある。=There’s a hole where the screw used to be.
+@fRネジ@fWが中央のパーツを固定している。=The @fRscrew@fW is holding the part in place.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file017.bin
-透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。=
-透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\vかなり緩んでいる。=
-これだけやれば十分でしょう。\t|だいぶ外しやすくなったと思います。=
-透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\v少し緩んできているようだ。=
-もう一押しできそうな感じですね。\t|何かで@fR引っかけて@fWみては|どうでしょうか。=
-もう一押しできそうな感じですね。\t|少し@fR叩いて@fWみては|どうでしょうか。=
-透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\v中で何かが@fR引っかかって@fWいる。=
-中でパーツに引っかかる部分が|あるようですね。\t|何かで@fR持ち上げる@fWといいでしょう。\v@fR叩いて@fWみるのも|効果があるかもしれません。\t|うまくいけば押し出せるでしょう。=
-手前の@fRネジ@fWが邪魔ですね。\t|これを外せば|いろいろできそうです。=
-中央のパーツを叩いた。\v反対側からパーツが|押し出されたようだ。=
-中央パーツを持ち上げた。\v中でパーツが引っかかっていたのが|外れたようだ。=
+透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。=Under the glass case is a part which looks like a bolt.\vIt is holding the lid in place.
+透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\vかなり緩んでいる。=Under the glass case is a part which looks like a bolt.\vIt is holding the lid in place.\vIt has become loose.
+これだけやれば十分でしょう。\t|だいぶ外しやすくなったと思います。=That’ll do.\t|It should be much easier to remove now.
+透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\v少し緩んできているようだ。=Under the glass case is a part which looks like a bolt.\vIt is holding the lid in place.\vIt has become slightly loose.
+もう一押しできそうな感じですね。\t|何かで@fR引っかけて@fWみては|どうでしょうか。=It looks like it could use another push.\t|Why don’t you try @fRlifting@fW it with something?
+もう一押しできそうな感じですね。\t|少し@fR叩いて@fWみては|どうでしょうか。=It looks like it could use another push.\t|Why don’t you try gently @fRhitting@fW it with something?
+透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\v中で何かが@fR引っかかって@fWいる。=Under the glass case is a part which looks like a bolt.\vIt is holding the lid in place.\vIt’s @fRstuck@fW on something.
+中でパーツに引っかかる部分が|あるようですね。\t|何かで@fR持ち上げる@fWといいでしょう。\v@fR叩いて@fWみるのも|効果があるかもしれません。\t|うまくいけば押し出せるでしょう。=It must be caught on something inside.\t|See if you can @fRlift@fW it up.\v@fRHitting@fW it might also help.\t|Hopefully you should be able to push it out.
+手前の@fRネジ@fWが邪魔ですね。\t|これを外せば|いろいろできそうです。=That @fRscrew@fW at the front is in the way.\t|If you can remove it, you’ll be able to make a lot more progress.
+中央のパーツを叩いた。\v反対側からパーツが|押し出されたようだ。=Hit the part.\vSomething came loose on the other end.
+中央パーツを持ち上げた。\v中でパーツが引っかかっていたのが|外れたようだ。=Lifted the part.\vIt seems that whatever it was caught on has been dislodge.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file018.bin
-振り子のような装置から、|起爆装置に@fRコード@fWがのびている。=
-振り子の装置と起爆装置を|繋いでいるコード…\t|とても危険な気配です。=
-振り子が止まっても|装置は生きています。\t|うかつな事はしないで下さいね。=
+振り子のような装置から、|起爆装置に@fRコード@fWがのびている。=The @fRwire@fW extends from the pendulum component to the detonator.
+振り子の装置と起爆装置を|繋いでいるコード…\t|とても危険な気配です。=A wire connecting a pendulum to a detonator...\t|This doesn’t bode well.
+振り子が止まっても|装置は生きています。\t|うかつな事はしないで下さいね。=Even if the pendulum has stopped, the device is still live.\t|Don’t do anything reckless.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file019.bin
-透明のケースの中に、|振り子のような物が見える。=
-透明のケースの中に、|振り子のような物が見える。\v下部のパーツがフタと装置を|固定しているようだ。=
-やはり閂（かんぬき）のパーツを|外すほかないようですね。\t|嫌な感じがします。=
-振り子が内壁に触れると|爆発する仕組みのようです。\t|慎重に調査をお願いします。=
-透明のケースの中に、|振り子のような物が見える。\v振り子は凝固剤によって、|動きを止められている。=
-あえて振り子を揺らす=
-振り子を揺らさない=
-完全に無力化していますね。\t|安心して調査ができます。=
+透明のケースの中に、|振り子のような物が見える。=A pendulum is visible behind the glass.
+透明のケースの中に、|振り子のような物が見える。\v下部のパーツがフタと装置を|固定しているようだ。=A pendulum is visible behind the glass.\vThe bolt at the bottom appears to be holding it and the lid in place.
+やはり閂（かんぬき）のパーツを|外すほかないようですね。\t|嫌な感じがします。=It seems we have no choice but to remove the bolt.\tThough, I have to say it does give me a bad feeling.
+振り子が内壁に触れると|爆発する仕組みのようです。\t|慎重に調査をお願いします。=It appears that if the pendulum touches the glass, the whole thing will blow.\t|Use extreme caution.
+透明のケースの中に、|振り子のような物が見える。\v振り子は凝固剤によって、|動きを止められている。=A pendulum is visible behind the glass.\vIt is stuck in place thanks to the coagulant.
+あえて振り子を揺らす=Attempt to knock the pendulum
+振り子を揺らさない=Don’t knock the pendulum
+完全に無力化していますね。\t|安心して調査ができます。=It can’t move anywhere now.\t|You can investigate with peace of mind.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file020.bin
-起爆装置のフタだ。=
-起爆装置のフタだ。\v中央のパーツによって|振り子の装置と固定されている。\v振り子が付いた装置からの|@fRコード@fWが接続されている。=
-起爆装置のフタだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=
-起爆装置のフタだ。\v振り子装置が上にのっているので|動かすのは危険だ。\v振り子が付いた装置から|@fRコード@fWがのびている。=
-あえてフタを動かす=
-フタを動かさない=
-起爆装置のフタだ。\v振り子装置が上にのっているが、|まとめて外せそうだ。=
-スキマをこじ開けたので|かなり外しやすくなっています。=
-フタに@fRスキマ@fWができていますね。\t|何かでこじ開けられそうです。=
-フタを固定するような物は|特に見当たりませんね。=
-何かで@fR叩けば@fW|外しやすくなりそうです。=
-フタが歪んでスキマができた。=
-フタのスキマを持ち上げた。\vフタが緩んだようだ。=
+起爆装置のフタだ。=The detonator’s lid.
+起爆装置のフタだ。\v中央のパーツによって|振り子の装置と固定されている。\v振り子が付いた装置からの|@fRコード@fWが接続されている。=The detonator’s lid.\vIt is fixed to the glass case by a bolt in the center.\vThere are @fRwires@fW running through it from where the pendulum is.
+起爆装置のフタだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator’s lid.\vThere are @fRwires@fW running through it from where the pendulum is.
+起爆装置のフタだ。\v振り子装置が上にのっているので|動かすのは危険だ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator’s lid.\vThe pendulum is on top, so it’s dangerous to move it.\vThere are @fRwires@fW running through it from where the pendulum is.
+あえてフタを動かす=Move the lid anyway
+フタを動かさない=Don’t move the lid
+起爆装置のフタだ。\v振り子装置が上にのっているが、|まとめて外せそうだ。=The detonator’s lid.\vIt is attached to the glass case on top, but it appears they should come off together.
+スキマをこじ開けたので|かなり外しやすくなっています。=With the gap opened, the lid should be ready to come right off.
+フタに@fRスキマ@fWができていますね。\t|何かでこじ開けられそうです。=There is a @fRgap@fW　in the lid.\t|You should be able to pry it open with something.
+フタを固定するような物は|特に見当たりませんね。=It doesn’t look like the lid is being held on by anything particular.
+何かで@fR叩けば@fW|外しやすくなりそうです。=If you @fRhit@fW it with something, it should come off fairly easily.
+フタが歪んでスキマができた。=Opened a gap in the lid.
+フタのスキマを持ち上げた。\vフタが緩んだようだ。=Pried the gap open.\vThe lid has become loose.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file021.bin
-液晶パネルだ。\vエラーマークが出ている。=
-液晶パネルだ。\vパネルには正常作動のマークが|表示されている。=
-これは…電力不足のマークです。\v供給されている電力が|足りていないようですね。=
-液晶パネルだ。\vエラーマークが出ている。\vパネルの横に差込口がついている。=
-何かコードのようなものが|本来ここに差し込まれているべき|なのかもしれません。=
-システムは正常に動作している|ようですね。=
-配線用コードを繋いだ。\vパネルのマークが変わった。=
-配線用コードを繋ごうとしたら、|感電した！=
+液晶パネルだ。\vエラーマークが出ている。=An LCD panel.\vIt’s showing an error.
+液晶パネルだ。\vパネルには正常作動のマークが|表示されている。=An LCD panel.\vA symbol indicates that it is functioning normally.
+これは…電力不足のマークです。\v供給されている電力が|足りていないようですね。=That symbol...\vIt looks like the panel isn’t receiving enough power.
+液晶パネルだ。\vエラーマークが出ている。\vパネルの横に差込口がついている。=An LCD panel.\vIt’s showing an error.\vThere is a slot on the side.
+何かコードのようなものが|本来ここに差し込まれているべき|なのかもしれません。=I wonder if there used to be some kind of wire plugged in there.
+システムは正常に動作している|ようですね。=It looks like everything’s functioning now.
+配線用コードを繋いだ。\vパネルのマークが変わった。=Connected the Electric Cable.\vThe symbol on the panel changed.
+配線用コードを繋ごうとしたら、|感電した！=As you try to connect the cable, you receive an electric shock!
 !FILE:dat_script_trapbig.bin/file007_PACK2/file024.bin
-配線用のコードだ。\v液晶画面とバッテリースロットを|繋いでいる。=
+配線用のコードだ。\v液晶画面とバッテリースロットを|繋いでいる。=An Electric Cable.\vIt connects the LCD screen to the battery case.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file026.bin
-バッテリー用のスロットのようだ。\v今は何も入っていない。=
-バッテリーが入っている。\v電力は正常に供給されている。=
-バッテリーが入っている。\vしかし、正常に電力は供給されて|いないようだ。=
-まだ何か足りないようですね。\t|電気の扱いは慎重にお願いします。|結構危険な物ですから。=
-バッテリーを外す=
-バッテリーを外さない=
-バッテリー用のスロットのようだ。\v今は何も入っていない。\vバッテリーがあれば正常に|動かせるかもしれない。=
-電力は十分に供給されて|いるようです。\t|バッテリーは抜かないで下さい。=
-バッテリーをスロットに入れた。\v十分な電力が供給され始めた。=
+バッテリー用のスロットのようだ。\v今は何も入っていない。=It looks like a slot for a battery.\vThere’s nothing in it right now.
+バッテリーが入っている。\v電力は正常に供給されている。=There is a battery in the slot.\vPower is being supplied.
+バッテリーが入っている。\vしかし、正常に電力は供給されて|いないようだ。=There is a battery in the slot.\vHowever, it doesn’t seem to be supplying enough power.
+まだ何か足りないようですね。\t|電気の扱いは慎重にお願いします。|結構危険な物ですから。=Something is still missing.\t|Be careful what you do. An electric shock could be nasty.
+バッテリーを外す=Remove the battery
+バッテリーを外さない=Don’t remove the battery
+バッテリー用のスロットのようだ。\v今は何も入っていない。\vバッテリーがあれば正常に|動かせるかもしれない。=It looks like a slot for a battery.\vThere’s nothing in it right now.\vInserting a battery should get things up and running.
+電力は十分に供給されて|いるようです。\t|バッテリーは抜かないで下さい。=It looks like enough power is getting through.\t|Please leave the battery as it is.
+バッテリーをスロットに入れた。\v十分な電力が供給され始めた。=Placed the battery in the slot.\vPower is now being supplied to the panel.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file028.bin
-起爆装置に設置された基板だ。=
-起爆装置に設置された基板だ。\vバッテリー用のスロットと|液晶パネルがついている。=
+起爆装置に設置された基板だ。=A circuit board installed in the detonator.
+起爆装置に設置された基板だ。\vバッテリー用のスロットと|液晶パネルがついている。=A circuit board installed in the detonator.\vThere is an LCD screen and battery slot attached.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file029.bin
-起爆装置についているランプだ。=
-起爆装置についているランプだ。\v消灯している。=
-この装置の部分は…、\t|動いていないような感じですね。=
-起爆装置についているランプだ。\vランプが光っている。=
-システムは動いていますから、|ボタンを操作すれば|ランプがつくでしょう。=
+起爆装置についているランプだ。=There are lights installed in the detonator.
+起爆装置についているランプだ。\v消灯している。=Lights installed in the detonator.\vThey are off.
+この装置の部分は…、\t|動いていないような感じですね。=It doesn’t look like this device is switched on.
+起爆装置についているランプだ。\vランプが光っている。=Lights installed in the detonator.\vThey are lit up.
+システムは動いていますから、|ボタンを操作すれば|ランプがつくでしょう。=The system is working, so if you push the buttons, the lamps should come on.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file037.bin
-起爆装置についているボタンだ。=
-起爆装置についているボタンだ。\vロックと何か関係がありそうだ。=
-ボタンを押してみる=
-何もおきなかった。=
-起爆装置についているボタンだ。\v爆薬を固定していたロックの|解除装置だったようだ。=
-ランプを全部点灯させれば|良いようです。\t|単純な仕掛けですね。=
-ロックが解除されたようです。\t|爆薬を外しましょう。=
+起爆装置についているボタンだ。=There are buttons installed in the detonator.
+起爆装置についているボタンだ。\vロックと何か関係がありそうだ。=Buttons installed in the detonator.\vThey seem to have something to do with the lock.
+ボタンを押してみる=Try pushing the button
+何もおきなかった。=Nothing happened. 
+起爆装置についているボタンだ。\v爆薬を固定していたロックの|解除装置だったようだ。=Buttons installed in the detonator.\vThey are part of a system to release the lock on the explosive. 
+ランプを全部点灯させれば|良いようです。\t|単純な仕掛けですね。=So you need to light up all the lamps.\t|It’s a simple trick.
+ロックが解除されたようです。\t|爆薬を外しましょう。=It looks like that release the lock.\t|Now you can remove the explosives.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file041.bin
-起爆装置と爆薬を|固定しているロックだ。=
-起爆装置と爆薬を|固定しているロックだ。\t|びくともしない。=
-起爆装置と爆薬を|固定しているロックだ。\vびくともしない。=
-振り子が動いています。|余計な事をすると危ないですよ。=
-ロックをこじ開けてみる=
-中の装置とロックの間に|何か関連があるかもしれません。=
-起爆装置と爆薬を|固定していたロックだ。\vすでに解除されている。=
-ロックは解除されています。\t|後は爆薬を取り外すだけですよ。=
+起爆装置と爆薬を|固定しているロックだ。=The lock holding the detonator and explosive in place.
+起爆装置と爆薬を|固定しているロックだ。\t|びくともしない。=#unused?
+起爆装置と爆薬を|固定しているロックだ。\vびくともしない。=The lock holding the detonator and explosive in place.\vIt’s fixed tight.
+振り子が動いています。|余計な事をすると危ないですよ。=The pendulum is moving.|It’s too risky to focus on anything else right now.
+ロックをこじ開けてみる=Try to force the lock open
+中の装置とロックの間に|何か関連があるかもしれません。=There may be a connection between the circuitry and the lock.
+起爆装置と爆薬を|固定していたロックだ。\vすでに解除されている。=The lock holding the detonator and explosive in place.\vIt has already been opened.
+ロックは解除されています。\t|後は爆薬を取り外すだけですよ。=It’s unlocked.\t|Now all you need to do is remove the explosive.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file042.bin
 起爆装置のようだ。=It appears to be the detonator.
-起爆装置のようだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=
-起爆装置のようだ。\v中には基板といくつかの|パーツが入っている。=
+起爆装置のようだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator.\vThere are @fRwires@fW running through it from where the pendulum is.
+起爆装置のようだ。\v中には基板といくつかの|パーツが入っている。=The detonator.\vThere is a circuit board with some parts attached.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file043.bin
-爆薬だ。\v起爆装置にロックされている。=
-いまはどうしようもありませんね。\t|他の調査を進めましょう。=
-相変わらずこの爆薬は|外せそうにありませんね。\t|しばらく放っておきましょう。=
-いよいよ解除する段階です。\t|ロックを外しましょう。=
+爆薬だ。\v起爆装置にロックされている。=The explosive.\vIt has been locked to the detonator.
+いまはどうしようもありませんね。\t|他の調査を進めましょう。=There’s nothing we can do with it for the moment.\t|Let’s look elsewhere.
+相変わらずこの爆薬は|外せそうにありませんね。\t|しばらく放っておきましょう。=As usual, the explosive isn’t easy to reach.\t|Best to leave it alone for the time being.
+いよいよ解除する段階です。\t|ロックを外しましょう。=The time has finally come.\t|Let’s remove the lock.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file010.bin
 金属製の箱を分解した！=
 中にはさらに金属製の箱が入っていた。=
@@ -3951,7 +3951,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 まずカバーを外さないと|どうにもなりませんね。\t|カバーを外してください。=You won’t be able to do anything if you don’t get that cover off.\t|Let’s start with that.
 カバーは脆い造りです。\t|叩いてゆがめたり、|金具を外せば簡単に外せます。=The cover is quite malleable.\t|Just hitting it, or removing the metal fittings will do the trick.
 爆薬はしっかりと|固定されていますね。\vしかし起爆装置の方は|もっとしっかり固定されています。\t|爆薬の方を外しましょう。=The explosive is firmly fixed in place.\vHowever, the detonator looks even more secure.\tLet’s aim to remove the explosive instead.
-調節ネジと制御装置とコード|この３つは連動しています。\t|正しい手順で解除します。\v最後は爆薬のロックを外して|解除完了です。=
+調節ネジと制御装置とコード|この３つは連動しています。\t|正しい手順で解除します。\v最後は爆薬のロックを外して|解除完了です。=The adjustment dial, the control device, and the wire. The three are all connected.\t They need to be dealt with in the correct order.\vOnce that’s done, just unlock the explosive and there, it pops right out.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file012.bin
 カバーを固定している金具だ。=The metal fittings holding the cover in place.
 金具が緩んでいる。\vこれなら簡単に外せそうだ。=The metal fittings are loose.\vThey should come off easily. 
@@ -3963,45 +3963,45 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 頑丈なカバーではありませんね。\t|何か@fR硬い物で叩いて@fWみては|どうでしょうか。=It doesn’t look particularly strong.\t|I wonder what would happen if you @fRhit it with something strong@fW?
 カバーが歪んで|外しやすくなった。=Warped the cover making it easier to remove.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file024.bin
-爆薬と制御装置を|繋いでいる@fRコード@fWだ。=
-爆薬と繋がっていたコードだ。\vコードを戻す事ができそうだ。=
-コードを挿し直す=
-コードを挿し直さない=
-制御装置が動き出した！=
-爆薬と制御装置を|繋いでいる@fRコード@fWだ。\v@fRコード@fWは簡単に抜く事ができそうだ。=
-このコードが何か重要な物|である事は確かです。\t|扱いは慎重にお願いします。=
-制御装置が停止した！=
+爆薬と制御装置を|繋いでいる@fRコード@fWだ。=A @fRwire@fW connecting the explosives to the controls.
+爆薬と繋がっていたコードだ。\vコードを戻す事ができそうだ。=A wire which was connected to the explosive.\vIt should be possible to plug it back it.
+コードを挿し直す=Plug the wire back in
+コードを挿し直さない=Don’t plug the wire back in
+制御装置が動き出した！=The control device came on!
+爆薬と制御装置を|繋いでいる@fRコード@fWだ。\v@fRコード@fWは簡単に抜く事ができそうだ。=A @fRwire@fW connecting the explosives to the controls.\vIt looks easy to remove.
+このコードが何か重要な物|である事は確かです。\t|扱いは慎重にお願いします。=There’s no doubt that this wire is something important.\t|Take the necessary caution.
+制御装置が停止した！=The control device switched off!
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file026.bin
 緑のランプだ。\v点灯している。=A green LED.\The light is on.
-緑のランプがつきました。\t|いずれかの装置が連動している|はずです。\t調べてみてください。=
+緑のランプがつきました。\t|いずれかの装置が連動している|はずです。\t調べてみてください。=The green light came on.\t|That must relate to something.\t|See what you can find.
 緑のランプだ。\v消灯している。=A green LED.\The light is off.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file028.bin
 赤のランプだ。\v消灯している。=A red LED.\The light is off.
 赤のランプだ。\v点灯している。=A red LED.\The light is on.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file030.bin
-何かの調節ネジだ。=Some kind of adjustment screw.
-何かの調節ネジだ。\v時計回りにしか回せないように|なっている。=Some kind of adjustment screw.\vIt can only be turned clockwise.
+何かの調節ネジだ。=Some kind of adjustment dial.
+何かの調節ネジだ。\v時計回りにしか回せないように|なっている。=Some kind of adjustment dial.\vIt can only be turned clockwise.
 これ以上回す意味は|無さそうです。\t|触らないでおきましょう。=There’s no need to turn it any further.\t|I would just leave it alone.
-この調節ネジは横のランプと|何か関係がありそうです。\t|回せるようですがどうしましょうか。=This screw seems to be connected with the lamp on the side.\t It looks like you can turn it, but I can’t predict the outcome.
-調節ネジを回す=Turn the screw
+この調節ネジは横のランプと|何か関係がありそうです。\t|回せるようですがどうしましょうか。=This dial seems to be connected with the lamp on the side.\t It looks like you can turn it, but I can’t predict the outcome.
+調節ネジを回す=Turn the dial
 調節ネジを回さない=Don’t turn it
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file031.bin
-爆弾の制御装置のようだ。=
-爆弾の制御装置だ。\vコードが抜かれて|機能が停止している。=
-爆弾の制御装置のようだ。\v爆薬と@fRコード@fWで繋がっている。=
-気になる装置ですね。\t|爆弾を制御している装置のようです。=
+爆弾の制御装置のようだ。=A control device.
+爆弾の制御装置だ。\vコードが抜かれて|機能が停止している。=A control device.\vWith the wire unplugged, it has powered off.
+爆弾の制御装置のようだ。\v爆薬と@fRコード@fWで繋がっている。=It appears to be a control device.\vIt is connected to the explosive by @fRwire@fW. 
+気になる装置ですね。\t|爆弾を制御している装置のようです。=Well, that’s certainly caught my attention.\t|It seems this device controls the trap.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file032.bin
-起爆装置だ。\v爆薬に直結している。=
-起爆装置だ。\v爆薬に直結している。\v横に調節ネジがついている。=
+起爆装置だ。\v爆薬に直結している。=The detonator.\vIt is directly connected to the explosive.
+起爆装置だ。\v爆薬に直結している。\v横に調節ネジがついている。=The detonator.\vIt is directly connected to the explosive.\vThere is an adjustable dial on the side.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file033.bin
 爆薬が起爆装置に直結している。=The explosive is directly connected to the detonator.
-爆薬が起爆装置に直結している。\vロックは解除されている。=
-爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vコードが抜かれて、|回せるようになっている。=
-爆薬を回す=
-爆薬を回さない=
-ロックが外れた！=
-爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vあまり動かせそうな気配は無い。=
-何か仕掛けがあるのでしょう。\t|このままの状態での爆薬解除は|少し難しいですね。=
+爆薬が起爆装置に直結している。\vロックは解除されている。=The explosive is directly connected to the detonator.\vThe lock has been removed.
+爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vコードが抜かれて、|回せるようになっている。=The explosive is directly connected to the detonator.\vIt appears to be locked.\vNow that the wires have been removed, it can be rotated.
+爆薬を回す=Rotate the explosive
+爆薬を回さない=Don’t rotate
+ロックが外れた！=Removed the lock!
+爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vあまり動かせそうな気配は無い。=The explosive is directly connected to the detonator.\vIt appears to be locked.\vIt doesn’t look like it can be moved much.
+何か仕掛けがあるのでしょう。\t|このままの状態での爆薬解除は|少し難しいですね。=There must be some kind of trick to it.\t|It won’t be easy to remove it like this.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file034.bin
 爆弾の台座部分だ。=
 爆弾の台座部分だ。\vカバーが取り付けられており、|中はまったく見えない。=
