@@ -404,13 +404,13 @@
 まあ見ていてください。\t|@n0さん、先を急ぎましょう。=You’ll find out soon enough.\t|Come on @n0, let’s hurry on.
 起爆装置は──おそらくあと２つです。=The detonators – There’s probably only two more.
 !FILE:dat_script.bin/file008_PACK2/file006.bin
-@n0さんの体力を考えると、|このトラップもそろそろ|終わりにしたいところですが…=
-このトラップを終わりにするだと？=
-ええ、見えました。\t|この大掛かりで、あまりにも単純な|トラップボックスのからくりが──=
-言ってくれるじゃねえか。\t|だったら、そのからくりとは何だ！=
-@n0さんのいるトラップボックスは|ホテルの中ではありませんね。=
-だったら、どこだというんだ？\t|ジェフリーのようにハッタリで落とせる|ほど、俺は甘くないぜ！=
-いいでしょう、説明して差し上げます。=
+@n0さんの体力を考えると、|このトラップもそろそろ|終わりにしたいところですが…=Considering how exhausting this must be for @n0, I think I’d like to finish with this trap here.
+このトラップを終わりにするだと？=You want to finish with this trap...?
+ええ、見えました。\t|この大掛かりで、あまりにも単純な|トラップボックスのからくりが──=Yes, it’s all quite clear to me.\t|I see what’s going on with this huge, incredibly simple “trap box”.
+言ってくれるじゃねえか。\t|だったら、そのからくりとは何だ！=You don’t say.\t|Go on then, reveal the trick!
+@n0さんのいるトラップボックスは|ホテルの中ではありませんね。=The trap box that @n0 is in, is not in a hotel, is it?
+だったら、どこだというんだ？\t|ジェフリーのようにハッタリで落とせる|ほど、俺は甘くないぜ！=Then, where is it?\t|I’m not as thick as Jeffery that you can just bluff your way out of this!
+いいでしょう、説明して差し上げます。=Alright then, allow me to explain.
 !FILE:dat_script.bin/file008_PACK2/file007.bin
 @n0さん、そろそろここが|『ホテル』ではなく何なのか、|確かめに行きましょう。\v今、解除したトラップに使用されていた|爆弾を使わせてもらいますが、異論は|ありませんね、ハウスキーパー？=
 す、好きにしやがれ！=
@@ -1240,7 +1240,7 @@ debug jump?=
 そうですか…妙ですね。\t|クリエラでは地震は珍しい…あれほどの|揺れならば、ニュースになるはず…=Is that so...? How odd.\t|Earthquakes are rare in Criella... With how much it was shaking, it should have been in the news.
 情報キーワード|@fR【クリエラの地震に関するニュース】@fW|を入手した。=Keyword added:|@fR“News on Earthquakes"@Fw
 !FILE:dat_script_f04.bin/file019_PACK2/file010.bin
-４階の内装は…|１階のものとまったく同じですね。\t|ホテルだから当然ではありますが…=The layout of the fourth floor is identical to the first.\t Well, it is a hotel, so maybe that’s to be expected...
+４階の内装は…|１階のものとまったく同じですね。\t|ホテルだから当然ではありますが…=The design of the fourth floor is identical to the first.\t Well, it is a hotel, so maybe that’s to be expected...
 情報キーワード|@fR【４階フロアの内装】@fW|を入手した。=Keyword added:|@fR“4th Floor"@Fw
 一応、頭の片隅に置いておきましょう。\t|では、調査を続けてください。=I still think it’s worth keeping in the back of our minds.\t|Well then, let’s keep going.
 地震…？\t|@n0さん、気をつけて！=An earthquake...?\t|Look out, @n0!
@@ -1262,7 +1262,7 @@ debug jump?=
 私の代わりに@n0さんのフォローを|頼みます。=Please support @n0 in my stead.
 @n0さん、しばらくワタリと共に|調査を進めていてください。=@n0, Watari will assist, so keep it up.
 !FILE:dat_script_f05.bin/file003_PACK2/file006.bin
-このフロアの内装ですが…\t|２階のものと合わせてあるようですな。=The layout of this floor...\t It seems that it matches the second floor.
+このフロアの内装ですが…\t|２階のものと合わせてあるようですな。=The design of this floor...\t It seems that it matches the second floor.
 情報キーワード|@fR【５階フロアの内装】@fW|を入手した。=Keyword added:|@fR“5th Floor"@fW
 @n1さん、|Ｆからの報告が入りました。=@n1, I have received word from F.
 Ｆについて尋ねる=Ask about F
@@ -1356,7 +1356,7 @@ debug jump?=
 シャッターだ。\vここから上には行けないようだ。=Shutters are blocking the path.\vYou can’t get upstairs from here.
 !FILE:dat_script_f06.bin/file002_PACK2/file010.bin
 鍵がかかっている。=It’s locked.
-まずは６階の室内を念入りに|調べてください。=Before you do anything else, please inspect the layout of this floor carefully.
+まずは６階の室内を念入りに|調べてください。=Before you do anything else, please inspect the design of this floor carefully.
 !FILE:dat_script_f06.bin/file002_PACK2/file013.bin
 カードリーダーだ。=It’s a card reader.
 !FILE:dat_script_f06.bin/file003_PACK2/file006.bin
@@ -1370,7 +1370,7 @@ debug jump?=
 いえ、どういたしまして。=You’re welcome.
 @n0さん、調査を続けましょう。=@n0, let’s keep moving.
 @n0さん…正解です。=@n0... You were right.
-ここは３階の内装と同じです。\t|あなたも私と同じ考えのようですね。\v残念ながらクイズ正解の賞品は|ないのですが…=The layout matches the third floor.\t|It looks like we were both thinking the same thing.\vAlthough, I’m afraid there’s no prize for getting the correct answer in the quiz.
+ここは３階の内装と同じです。\t|あなたも私と同じ考えのようですね。\v残念ながらクイズ正解の賞品は|ないのですが…=The design matches the third floor.\t|It looks like we were both thinking the same thing.\vAlthough, I’m afraid there’s no prize for getting the correct answer in the quiz.
 では、私から正解の賞品を|お送りしましょう。=Well then, allow me to give you a prize.
 …なるほど。\tすばらしい賞品です。\t|@n0さん、これは勝負に使えます。\t|切り札にとっておきましょう。\vワタリ、いいものをありがとう。=...How interesting.\t That is a wonderful prize.\t|@n0, we can use this when the time comes to butt heads.\t Let’s keep it as a trump card.\vWatari, thank you for the excellent information.
 @n0さん、幸先いいですよ。\t|この調子で一気に６階の起爆装置を|解除してしまいましょう。=You’re on top form, @n0.\t|Keep it up, and let’s get this floor disarmed.
@@ -1379,7 +1379,7 @@ debug jump?=
 !FILE:dat_script_f06.bin/file004_PACK2/file010.bin
 ６０１号室=Room 601
 !FILE:dat_script_f06.bin/file004_PACK2/file011.bin
-@n0さん、クイズです。\t|これから入る部屋の内装は、|何階の内装と同じでしょうか？=Pop quiz.\t|The layout of the room you are about to enter will be the same as the design on what floor?
+@n0さん、クイズです。\t|これから入る部屋の内装は、|何階の内装と同じでしょうか？=Pop quiz.\t|The interior of the room you are about to enter will be the same as the design on what floor?
 １階=First floor
 ２階=Second floor
 ３階=Third floor
@@ -1418,7 +1418,7 @@ debug jump?=
 !FILE:dat_script_f06.bin/file013_PACK2/file010.bin
 円形のくぼみがある。=There’s an inlay in the shape of a circle.
 !FILE:dat_script_f06.bin/file014_PACK2/file006.bin
-ワタリからの情報では、|５階の内装は２階と同じ…\t|４階は１階と同じ…やはり…=According to the information from Watari, the layout of the fifth floor is the same as the second...\t the fourth floor is the same as the first...\t As I expected...
+ワタリからの情報では、|５階の内装は２階と同じ…\t|４階は１階と同じ…やはり…=According to the information from Watari, the design of the fifth floor is the same as the second...\t the fourth floor is the same as the first...\t As I expected...
 !FILE:dat_script_f06.bin/file014_PACK2/file017.bin
 変わった形の箱だ。=An oddly shaped box.
 !FILE:dat_script_f06.bin/file015_PACK2/file010.bin
@@ -1435,7 +1435,7 @@ debug jump?=
 !FILE:dat_script_f06.bin/file018_PACK2/file010.bin
 コントロール・ルーム=Control Room
 !FILE:dat_script_f06.bin/file019_PACK2/file006.bin
-これでこの階は終わりですね。=
+これでこの階は終わりですね。=That’s another floor down.
 !FILE:dat_script_f06.bin/file019_PACK2/file010.bin
 さあ、行きましょう。=
 このトラップは解除済みだ。=
