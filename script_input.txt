@@ -412,10 +412,10 @@
 だったら、どこだというんだ？\t|ジェフリーのようにハッタリで落とせる|ほど、俺は甘くないぜ！=Then, where is it?\t|I’m not as thick as Jeffery that you can just bluff your way out of this!
 いいでしょう、説明して差し上げます。=Alright then, allow me to explain.
 !FILE:dat_script.bin/file008_PACK2/file007.bin
-@n0さん、そろそろここが|『ホテル』ではなく何なのか、|確かめに行きましょう。\v今、解除したトラップに使用されていた|爆弾を使わせてもらいますが、異論は|ありませんね、ハウスキーパー？=
-す、好きにしやがれ！=
-@n0さん、解除したトラップから|爆弾を取り出し、廊下の突き当たりへ|向かいましょう。=
-通りがかりにある扉に|制御パネルの表示がありましたが、|覚えていますか？\vついでによって見ましょう。=
+@n0さん、そろそろここが|『ホテル』ではなく何なのか、|確かめに行きましょう。\v今、解除したトラップに使用されていた|爆弾を使わせてもらいますが、異論は|ありませんね、ハウスキーパー？=@n0, I believe it’s time you see for yourself what this place that isn’t a ‘hotel’ actually is.\vI’d like to use the bomb from the trap we just disarmed. You’ve no objections, do you, Housekeeper?
+す、好きにしやがれ！=D-Do what you want!
+@n0さん、解除したトラップから|爆弾を取り出し、廊下の突き当たりへ|向かいましょう。=@n0, remove the bomb and head to the end of the corridor.
+通りがかりにある扉に|制御パネルの表示がありましたが、|覚えていますか？\vついでによって見ましょう。=Do you remember what was on the control panel we passed?\vIts importance will become apparent very soon.#qc I have no idea where he’s talking about. There’s a panel INSIDE the elevator control room, but nothing on any doors that you pass unless he means the elevator which comes later.
 !FILE:dat_script.bin/file008_PACK2/file008.bin
 @n0さん、まだ先は長そうです。\t|つらい状況だと思いますが、私も全力で|フォローしますので…=@n0, I’m afraid it seems like you still have a long journey ahead.\t It’s not going to be easy, but I’ll do my very best to support you.
 …用の…回線の準………だろうな？=...The circuit... for the semi-...#qc
@@ -451,32 +451,32 @@
 急いでジェフリーを止めなくては…！=
 @n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=
 !FILE:dat_script.bin/file009_PACK2/file008.bin
-@n0さん、\t|その扉を開けてください。=
-@n0さん、驚きましたか？\vそうです。この『トラップボックス』は|『ホテル』ではなく、海上を航行する|『客船』そのものなんです！\v詳細はワタリに調査してもらっている|ところですが…\vこれは、マーメイド・グループ傘下の|マーメイドシップビルダーズ社が|作った豪華客船『グラナダ号』です。=
-情報キーワード|@fR【豪華客船グラナダ号】@fW|を入手した。=
-ホテルに似た客室、\t記録にない地震、\t|狭い通路、\tふさがれた窓、\t|錆びてカビたスタッフルーム…\v『客船』というキーワードひとつで|すべてが説明つきます。\t|ずいぶん手の込んだ仕掛けです。\vハウスキーパーの仕事としては、|色々思うところもありますが…=
-そりゃそうだろう？\t|こんな手間のかかる大仕掛け、|わざわざ俺が考えたりすると思うか？\vこれはな、金持ちの道楽だよ。\t|シロウトさんのオモチャなのさ。=
-つまり、すべてクライアントの|用意したものということですね。=
-ああ、俺はただのアドバイザーだ。=
-情報キーワード|@fR【トラップの発案者】@fW|を入手した。=
-シロウト相手だと聞いて安心したか？=
-いえ、むしろ、やっかいですね。\t|あなたの手口なら細部まで読めますが、|シロウトは何をするかわかりません…=
-ふん。せいぜいがんばるんだな。=
-@n0さん、始めましょう。\t|まずは起爆装置の解除です。\t|解除後、船を停止させてください。\v急かすつもりはありませんが、|これだけの大型船舶だと、停止までに|それなりの時間と距離が必要です。\v爆弾を解除しても、船が港や陸地に|突っ込んでしまったらおしまいです。\v大丈夫。\t爆弾はあと１つ。\tこれまで同様|慎重かつ迅速に行動すれば、必ず|この爆弾客船を止められます！=
+@n0さん、\t|その扉を開けてください。=@n0, please open that door.
+@n0さん、驚きましたか？\vそうです。この『トラップボックス』は|『ホテル』ではなく、海上を航行する|『客船』そのものなんです！\v詳細はワタリに調査してもらっている|ところですが…\vこれは、マーメイド・グループ傘下の|マーメイドシップビルダーズ社が|作った豪華客船『グラナダ号』です。=Are you suprised?\vThat’s right. This trap box is not a hotel but a cruise ship, out to sea!\vWatari is currently investigating the full details.\vWhat we do know is that you’re on the “Granada”, a luxury cruise ship built by Mermaid Shipbuilders, a subsidiary of the Mermaid Group.
+情報キーワード|@fR【豪華客船グラナダ号】@fW|を入手した。=Keyword added:|@fR“The Granada"@fW
+ホテルに似た客室、\t記録にない地震、\t|狭い通路、\tふさがれた窓、\t|錆びてカビたスタッフルーム…\v『客船』というキーワードひとつで|すべてが説明つきます。\t|ずいぶん手の込んだ仕掛けです。\vハウスキーパーの仕事としては、|色々思うところもありますが…=Hotel-like rooms,\t an unrecorded earthquake,\t narrow corridors,\t blocked windows,\t rust and mold in the staff room...\vThe word “cruise ship” accounts for them all.\t|It is a very elaborate set-up.\vAs for it being the Housekeeper’s work, I still have a lot of unanswered questions.
+そりゃそうだろう？\t|こんな手間のかかる大仕掛け、|わざわざ俺が考えたりすると思うか？\vこれはな、金持ちの道楽だよ。\t|シロウトさんのオモチャなのさ。=Well, duh.\t|Do I seem like the type who’d bother with such a convoluted trick?\vOnly the rich have such hobbies.\t|It’s an amateur’s toy.
+つまり、すべてクライアントの|用意したものということですね。=In other words, the client did all the planning.
+ああ、俺はただのアドバイザーだ。=Yeah, I’m just an advisor.
+情報キーワード|@fR【トラップの発案者】@fW|を入手した。=Keyword added:|@fR“The Mastermind"@fW
+シロウト相手だと聞いて安心したか？=Do you feel better knowing you’re up against an amateur?
+いえ、むしろ、やっかいですね。\t|あなたの手口なら細部まで読めますが、|シロウトは何をするかわかりません…=No, on the contrary.\t|I can see through your techniques, but with an amateur, you never know what they’re going to do.
+ふん。せいぜいがんばるんだな。=Hmph. At least try to put on a good show.
+@n0さん、始めましょう。\t|まずは起爆装置の解除です。\t|解除後、船を停止させてください。\v急かすつもりはありませんが、|これだけの大型船舶だと、停止までに|それなりの時間と距離が必要です。\v爆弾を解除しても、船が港や陸地に|突っ込んでしまったらおしまいです。\v大丈夫。\t爆弾はあと１つ。\tこれまで同様|慎重かつ迅速に行動すれば、必ず|この爆弾客船を止められます！=We’d best get a move on, n0.\t|First, you need to disarm the detonator.\t|Once that’s done, stop the ship.\vI don’t mean to rush you, but with such a large ship, it takes time for it to come to a full stop.\vEven if you disarm the bomb, if the ship comes into a port or land, it’ll be game over.\vDon't worry.\t There’s only one bomb left.\t If you act as carefully and quickly as you have been, I know you’ll be able to stop the ship!
 !FILE:dat_script.bin/file009_PACK2/file009.bin
-展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。\vハウスキーパー、\tそれにしても|大きな客船ですね…\vまさかとは思いますが、@n0さん|以外にも同じようなお客さんは|いたりしませんよね？=
-おまえが世の中にザラにいる程度の|ショボイ探偵なら、そういう可能性も|あるかもしれない。\tどう思う？=
-…感じの悪い質問ですね。=
-ふん。客は@n1だけだ。\t|外から出入できないように、出入口は|コンピューターで管理している。=
-なるほど……=
+展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。\vハウスキーパー、\tそれにしても|大きな客船ですね…\vまさかとは思いますが、@n0さん|以外にも同じようなお客さんは|いたりしませんよね？=There don’t seem to be any traps in the observation cabin.\t|Try checking elsewhere.\vSpeaking of which, Housekeeper.\tIt is a large ship.\vI can’t see there being, but to confirm, there aren’t any passengers on the ship other than @n0, are there?
+おまえが世の中にザラにいる程度の|ショボイ探偵なら、そういう可能性も|あるかもしれない。\tどう思う？=If you’re half as dumb as those other good-for-nothing detectives out there, you can’t rule out the possibility.\t What do you think?
+…感じの悪い質問ですね。=...That’s in bad taste.
+ふん。客は@n1だけだ。\t|外から出入できないように、出入口は|コンピューターで管理している。=Hmph. @n1 is the only guest.\t|The entrance and exit are controlled by computer so that no one can get in from the outside.
+なるほど……=I see...
 情報キーワード|@fR【他の乗船者】@fW|を入手した。=Keyword added:|@fR“Other Passengers"@fW
 !FILE:dat_script.bin/file009_PACK2/file010.bin
-ワタリ、この船の現在位置を、|軍事衛星を使って特定できませんか？=
-裏ルートで軍関係者にアクセスしている|ところですが…\vグラナダ号の表面が改装されてしまって|いる場合、特定は容易ではないと|思われます…=
-確かにそうですね…|とりあえず、調査を続行してください。=
-了解しました。=
-軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=
-情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=
+ワタリ、この船の現在位置を、|軍事衛星を使って特定できませんか？=Watari, can you determine the current location of the ship using military satellites?
+裏ルートで軍関係者にアクセスしている|ところですが…\vグラナダ号の表面が改装されてしまって|いる場合、特定は容易ではないと|思われます…=I’ve been trying to gain access to the military database, although...\vIf the exterior of the Granada has been refurbished, it will not be easy to identify it.
+確かにそうですね…|とりあえず、調査を続行してください。=That’s true...|For now, please continue your investigation.
+了解しました。=Understood.
+軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of military satellites as a bargaining chip...
+情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=Keyword added:|@fR“Military Reconnaissance"@fW
 !FILE:dat_script.bin/file010_PACK2/file006.bin
 あとはブリッジへ向かうだけです。\t|問題は、エレベーターがロックされて|いるということ…\vジェフリー、聞こえていますね。\t|Ａが最後に言った『予定通り』が|何を意味するのかはわかりません…\vしかし、たとえこの船が沈んでも、|私はあなたとあなたのボスを必ず|追い詰めますよ。\vなぜなら、私にはあなたのボスの正体…\t|すなわちこの事件の首謀者が誰なのか|わかってしまったからです！=
 そ、そんなハッタリ、やめてください！\t|たったあれだけの会話で、そんなことが|わかるはずが…！=
@@ -1023,16 +1023,16 @@
 大至急でお願いします。=Make it top priority.
 !FILE:dat_script_f03.bin/file003_PACK2/file006.bin
 それと、これまでの階にはドアがなく|気づきませんでしたが、ここに|エレベーターがあったのですね…\vエレベーターはヒジカタ社のＳＹＧ型…\t|２０年前まで世界中で販売されていた、|定番のものです。\v自由に使わせてくれるとは思いませんが|この階で存在を我々に知らせるのなら、|今まで隠しておいた理由は一体…=I hadn’t noticed that any of the floors you’ve been on were missing doors, yet here there’s an elevator, hm...\vIt’s a Hijikata SYG.\t|A standard make that was very common all over the world until 20 years ago.\vI don’t imagine you’ll be allowed use it freely, but why keep it hidden only to reveal its existence now?
-見てください。\t扉の脇に残っているのは|あなたが解除したトラップです。\t|どういうことかわかりますか？=
-はい=
-いいえ=
-さすがは@n0さんですね。\t|改めて説明するまでもありませんが、|この壁が『トリック』の核なんです。=
-では、説明しましょう。\t|この壁こそが、『トラップボックス』の|『トリック』の核なんです。=
-@n0さんは１階から６階までの|トラップを解除して来ました。\vしかし、ここは６階ではなく３階建ての|『建造物』だったんです。\vフロアの良きところに壁を作り、|２つに分け…\t右側が１～３階、\t|反対側を４～６階に設定します。\vその際、ポイントとなるのは|エレベーターです。\v１、２階はエレベーターを隠し、階段で|上に進ませ、３階からエレベーターを|使用可能とします。\vそして、エレベーターを細工して、|４階に登ると見せかけて、|@n0さんを１階に戻したのです。\vエレベーターのすぐ隣に壁が作られ|ふさがれているので、さっきまでいた|右側のフロアは見えません。\vその後は、@n0さんは|５階という２階…６階という３階へと|のぼって来たのです。\v１階と４階、２階と５階、３階と６階の|内装が同じだったのは、こういうわけ|だったんです。=
-もう一度今の説明を聞く=
-先へ進む=
-わかりました。\t|では、もう一度説明しますから|よく聞いていてください。=
-はい、\tではそろそろこの『建造物』の|正体をお見せしましょう。\t|上の階へ進んでください。=
+見てください。\t扉の脇に残っているのは|あなたが解除したトラップです。\t|どういうことかわかりますか？=Look there.\t Next to the door is the trap you disarmed.\t Do you get what that means?
+はい=Yes
+いいえ=No
+さすがは@n0さんですね。\t|改めて説明するまでもありませんが、|この壁が『トリック』の核なんです。=I knew you’d get it, @n0.\t|You don’t need me to explain, but that wall was the crux of the trick.
+では、説明しましょう。\t|この壁こそが、『トラップボックス』の|『トリック』の核なんです。=Then allow me to explain.\t|That wall was the foundation of the trap box’s ‘trick’.
+@n0さんは１階から６階までの|トラップを解除して来ました。\vしかし、ここは６階ではなく３階建ての|『建造物』だったんです。\vフロアの良きところに壁を作り、|２つに分け…\t右側が１～３階、\t|反対側を４～６階に設定します。\vその際、ポイントとなるのは|エレベーターです。\v１、２階はエレベーターを隠し、階段で|上に進ませ、３階からエレベーターを|使用可能とします。\vそして、エレベーターを細工して、|４階に登ると見せかけて、|@n0さんを１階に戻したのです。\vエレベーターのすぐ隣に壁が作られ|ふさがれているので、さっきまでいた|右側のフロアは見えません。\vその後は、@n0さんは|５階という２階…６階という３階へと|のぼって来たのです。\v１階と４階、２階と５階、３階と６階の|内装が同じだったのは、こういうわけ|だったんです。=You’ve disarmed the traps from the first floor to the sixth floor.\vBut, this isn’t really the sixth floor, it’s a construction on the third.\vThey picked a good spot and built a wall to separate each floor into two.\t The right side was designated as floors one to three, and the left as four to six.\vThe elevator completes the illusion.\vOn the first and second floors, the elevator was hidden forcing you to use the stairs, and it was made available on the third floor.\vThen, by manipulating the elevator, they made it look like they were going up to the fourth floor, when really you were brought back to the first.\vThe wall was built right next to the elevator, blocking it, so you couldn’t see to the right where you’d just been.\vAfter that, you went up to the fifth floor, which was the second, and to the sixth floor, the third again.\vThat’s why the interiors of the first and fourth, the second and fifth, and the third and sixth floors were the same.
+もう一度今の説明を聞く=Listen to the explanation again
+先へ進む=Keep going
+わかりました。\t|では、もう一度説明しますから|よく聞いていてください。=Alright.\t|I’ll go through it again, so please listen close.
+はい、\tではそろそろこの『建造物』の|正体をお見せしましょう。\t|上の階へ進んでください。=Right.\t I think it’s time to reveal the true nature of this place.\t|Please head upstairs.
 !FILE:dat_script_f03.bin/file003_PACK2/file010.bin
 反応がない。=There was no response.
 !FILE:dat_script_f03.bin/file004_PACK2/file010.bin
@@ -1437,20 +1437,20 @@ debug jump?=
 !FILE:dat_script_f06.bin/file019_PACK2/file006.bin
 これでこの階は終わりですね。=That’s another floor down.
 !FILE:dat_script_f06.bin/file019_PACK2/file010.bin
-さあ、行きましょう。=
-このトラップは解除済みだ。=
+さあ、行きましょう。=Alright, let’s go.
+このトラップは解除済みだ。=The trap has already been disarmed.
 やはりありましたね。\t|これが起爆装置付のトラップです。\t|注意して解除にあたりましょう。=And there it is.\t|Be careful.
 !FILE:dat_script_f06.bin/file020_PACK2/file010.bin
 この雰囲気…|いつものやっかいなアレが|ありそうな気がします…=This feeling... I suppose we know what to expect by now.
 !FILE:dat_script_f06.bin/file021_PACK2/file006.bin
 ここに来る途中にあった部屋に、|制御パネルのマークがありました。\v私の考えでは、今のうちに|調査しておいた方が良いはず。|\t申し訳ありませんが、お願いします。=
 !FILE:dat_script_f06.bin/file021_PACK2/file010.bin
-突き当たりだ。=
-では、壁の手前に爆弾をセットして、|物陰に隠れていてください。=
+突き当たりだ。=It’s a dead end.
+では、壁の手前に爆弾をセットして、|物陰に隠れていてください。=Set the bomb in front of the wall and then get back.
 !FILE:dat_script_f06.bin/file022_PACK2/file006.bin
-見えますか……？\t|廊下の先にあるのは──\t『３階』です。=
-@n0さん…|瓦礫の中に何か落ちています。\t|調べてみてください。=
-カギのようですね…\t|見たところ、新しいもののようですね。\t|何か重要なものかもしれません。\v大切に持っていてください。\t|さあ、上の階へ行きましょう。=
+見えますか……？\t|廊下の先にあるのは──\t『３階』です。=See that?\t|The end of this corridor leads into the ‘third floor’.
+@n0さん…|瓦礫の中に何か落ちています。\t|調べてみてください。=Oh, it looks like there’s something the rubble.\t|Can you pick it up?
+カギのようですね…\t|見たところ、新しいもののようですね。\t|何か重要なものかもしれません。\v大切に持っていてください。\t|さあ、上の階へ行きましょう。=A key...?\t|From the looks of it, it seems fairly modern.\vIt might be important.\t|Make sure not to lose it.\t|Now then, let’s see what’s upstairs.
 !FILE:dat_script_f07.bin/file001_PACK2/file010.bin
 展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。=
 !FILE:dat_script_f07.bin/file001_PACK2/file011.bin
@@ -1498,26 +1498,26 @@ debug jump?=
 !FILE:dat_script_f07.bin/file008_PACK2/file015.bin
 シューターを調べた。=
 !FILE:dat_script_f07.bin/file008_PACK2/file017.bin
-鉢植えを調べた。=
+鉢植えを調べた。=Examined potted plant.
 !FILE:dat_script_f07.bin/file009_PACK2/file010.bin
 Ｖ３=
 !FILE:dat_script_f07.bin/file009_PACK2/file011.bin
-Ｌ、『豪華客船グラナダ』の情報を|入手しました。=
-聞かせてください。=
-『グラナダ号』は|マーメイドシップビルダーズ社、|１９８５年製の大型客船です。\v全長２３８ｍ、全幅３２ｍ、\t総重量|５１０００ｔ、\t巡航速力２３ノット、\t|客室３層を含むデッキは全７層。\v最初の所有者だった欧州の観光会社が|経営破綻を起こし５年前に倒産……\v北米のＩＴ企業リブート社に所有権が|渡りましたが、直後に廃船処分され、|行方不明になっています。=
-しかし、廃船となったはずの船が、|実際に今、@n0さんと爆弾を|積んで海の上を航行している…\vＩＴ企業が買い、すぐに処分したと|いう、古びた客船を…\t|なんというチグハグ感…=
-リブート社とグラナダの廃船後に|ついては現在、追跡調査中ですが|難航しています。=
-…………\t|では、クリエラと隣国のドックを|調べてみてください。=
-ドックですね…\t了解しました。|しばしお待ちを。=
-やはりカギは『客船』ですね…=
-情報キーワード|@fR【グラナダの所有者】@fW|を入手した。=
-お待たせしました、Ｌ。\t|グラナダの廃船処分後の足取りが|判明しました。\vクリエラ国内にあるドックのうち、|グラナダ級の大型船を隠せるような|ドックは１箇所だけでした。\vドックの所有者はＣＬＮ系の|海運会社です。=
-COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需産業ですね。=
-過去半年の衛星写真を調べたところ|グラナダと思われる船舶が、深夜に|出航する様子が写っていました。=
-間違いないですね…\t|あとは、リブート社とＣＬＮの関係さえ|見えれば…=
-今、総力をあげて、調査中です。\t|何か見つかり次第、報告します。=
-頼みます。=
-情報キーワード|@fR【ＣＬＮ】@fW|を入手した。=
+Ｌ、『豪華客船グラナダ』の情報を|入手しました。=L, I have new information about the “Luxury Liner Granada”.
+聞かせてください。=I’m all ears.
+『グラナダ号』は|マーメイドシップビルダーズ社、|１９８５年製の大型客船です。\v全長２３８ｍ、全幅３２ｍ、\t総重量|５１０００ｔ、\t巡航速力２３ノット、\t|客室３層を含むデッキは全７層。\v最初の所有者だった欧州の観光会社が|経営破綻を起こし５年前に倒産……\v北米のＩＴ企業リブート社に所有権が|渡りましたが、直後に廃船処分され、|行方不明になっています。=The Granada is a large passenger ship built in 1985 by Mermaid Shipbuilders.\vIt is 238 meters long,\t 32 meters wide,\t and has a gross weight of 51,000 tons.\tIt has seven decks, including three floors for passenger cabins.\vThe first owner, a European tourism company, went bankrupt five years ago.\vOwnership passed to North American IT company Reboot, but the ship was decommissioned shortly after and its whereabouts became unknown.
+しかし、廃船となったはずの船が、|実際に今、@n0さんと爆弾を|積んで海の上を航行している…\vＩＴ企業が買い、すぐに処分したと|いう、古びた客船を…\t|なんというチグハグ感…=And yet, that supposedly retired ship is currently out at sea, with @n0 and bombs on board...\vAn old cruise ship that an IT company bought and immediately scrapped...\t|It doesn’t make sense.
+リブート社とグラナダの廃船後に|ついては現在、追跡調査中ですが|難航しています。=I am currently trying to follow up with Reboot Inc. and what happened to the Granada after it was decommissioned, but it is proving to a challenge.
+…………\t|では、クリエラと隣国のドックを|調べてみてください。=...\t|See what you can dig up about the docks in Criella and all neighboring countries.
+ドックですね…\t了解しました。|しばしお待ちを。=The docks...?\t I understand. I will get back to you shortly.
+やはりカギは『客船』ですね…=So the cruise ship is the key...
+情報キーワード|@fR【グラナダの所有者】@fW|を入手した。=Keyword added:|@fR“Ship’s Owner"@fW
+お待たせしました、Ｌ。\t|グラナダの廃船処分後の足取りが|判明しました。\vクリエラ国内にあるドックのうち、|グラナダ級の大型船を隠せるような|ドックは１箇所だけでした。\vドックの所有者はＣＬＮ系の|海運会社です。=I apologize for the delay.\t|I discovered a clue about the Granada’s journey after it was decommissioned.\vOf the docks in the Criella, there is only one which would have been able to hide such a large ship.\vThe owner of the dock is a shipping company affiliated with the CLN.
+COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需産業ですね。=The Combat Logistics Network...\t CLN for short.\t|A multinational munitions company from the Middle East.
+過去半年の衛星写真を調べたところ|グラナダと思われる船舶が、深夜に|出航する様子が写っていました。=I have discovered satellite photos from over the past six months which I believe show the Granada, sailing in the dead of night.
+間違いないですね…\t|あとは、リブート社とＣＬＮの関係さえ|見えれば…=Then there’s no doubt.\t|If only we knew what the relationship between this Reboot Inc. and the CLN is...
+今、総力をあげて、調査中です。\t|何か見つかり次第、報告します。=I am organizing an all-out investigation as we speak.\t|I will report back as soon as I find something.
+頼みます。=Please do.
+情報キーワード|@fR【ＣＬＮ】@fW|を入手した。=Keyword added:|@fR“CLN"@fW
 これまでに解除した小さなトラップには|あまり強い爆薬は使われていませんね…\t|人を殺すための爆弾ではない、か…=
 情報キーワード|@fR【殺傷能力の低い爆薬】@fW|を入手した。=
 !FILE:dat_script_f07.bin/file010_PACK2/file010.bin
@@ -1949,17 +1949,17 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_map.bin/file001_PACK2/file006.bin
 タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus and press the @fR“Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room move in front of a door.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file010.bin
-上のケースを開けた！=
-しかしケース内に起爆装置は|見当たらない。=
-下のケースを開けた！=
-起爆装置を発見した。=
+上のケースを開けた！=Removed the top lid!
+しかしケース内に起爆装置は|見当たらない。=But, there is no detonator to be seen.
+下のケースを開けた！=Removed the bottom lid!
+起爆装置を発見した。=Located the detonator.
 起爆装置を解除した！=
-!FILE:dat_script_trapbig.bin/file001_PACK2/file011.bin
+!FILE:dat_script_trapbig.bin/file001_PACK2/file011.bin#unused?
 内部構造が知りたいですね…\vまずは、上のケースのフタを|開けてください。=
 特に仕掛けはなさそうですね。\vネジを緩めてから|フタを取ってください。=
 下のケースの中に、起爆装置と|爆薬が入っているはずです。\vそれを露出させてください。=
 下のケースを開ける時は|ケースを揺らさないでください。\vもちろん、破損してもダメです。=
-ここまで来れば、あとは|起爆装置を解除するだけです。=
+ここまで来れば、あとは|起爆装置を解除するだけです。=Now that you’ve got this far, all that’s left is to disarm the detonator.
 シリンダーと起爆装置の接続を|切断しながら、解除してください。\v切るべきコードは私が指示します。=
 !FILE:dat_script_trapbig.bin/file001_PACK2/file013.bin
 シリンダーからコードが伸びている。\vダミーのコードを切断すると|起爆装置が作動するかもしれない。=
@@ -1974,8 +1974,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬からのコードがつながっている。\v下のケースの中に|起爆装置があるらしい。=
 重心の移動に違和感が！\v起爆装置には液体が使われて|いる可能性がある。\v大きく動かすと爆発するかもしれない。=
 !FILE:dat_script_trapbig.bin/file001_PACK2/file015.bin
-フタつきのケースだ。\vフタは@fRネジ止め@fWされているようだ。=
-フタつきのケースだ。\t\v@fRネジ@fWは外されている。=
+フタつきのケースだ。\vフタは@fRネジ止め@fWされているようだ。=A case with a lid.\vThe lid has been @fRscrewed@fW on.
+フタつきのケースだ。\t\v@fRネジ@fWは外されている。=A case with a lid.\vThe @fRscrews@fW have been removed.
 フタには引っ掛かりがあるため、|外すときには注意が必要だ。=
 フタつきのケースだ。\vこじ開けられて隙間ができている。=
 このケースの中には|起爆装置はないようだ=
@@ -1990,7 +1990,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 グッとこらえる=
 ハンマーでボタンをたたいた。\vスイッチが入ってしまった！=
 !FILE:dat_script_trapbig.bin/file001_PACK2/file017.bin
-下のケースとシリンダーが|@fRハリガネ@fWで固定されている。=
+下のケースとシリンダーが|@fRハリガネ@fWで固定されている。=The lower case and cylinder have been secured by a @fRmetal wire@fW.
 シリンダーが下のケース内の何かと|@fRハリガネ@fWで固定されている。\v強引に外すと起爆装置が|作動するかもしれない。=
 シリンダーと下のケースを固定している|ハリガネを切った。=
 カッターを使って|シリンダーと下のケースを固定している|ハリガネを切った。=
@@ -3499,19 +3499,19 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file010.bin
 しかし、ケース内に起爆装置は|見当たらない。=
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file011.bin
-内部構造が知りたいですね…\t|まずは、上のケースのフタを|開けてください。=
-特に仕掛けはなさそうですね。\t|ネジを緩めてから|フタを取ってください。=
-下のケースの中に、起爆装置と|爆薬が入っているはずです。\t|それを露出させてください。=
-下のケースを開ける時は|ケースを揺らさないでください。\t|もちろん、破損してもダメです。=
-シリンダーと起爆装置の接続を|切断しながら、解除してください。\t|切るべきコードは私が指示します。=
+内部構造が知りたいですね…\t|まずは、上のケースのフタを|開けてください。=We need to see what’s inside.\t|Start by opening the lid of the upper case.
+特に仕掛けはなさそうですね。\t|ネジを緩めてから|フタを取ってください。=There doesn’t seem to be any particular trick.\t|You just need to loosen the screws and then take off the lid.
+下のケースの中に、起爆装置と|爆薬が入っているはずです。\t|それを露出させてください。=The detonator should be inside the lower case.\t|You need to expose it.
+下のケースを開ける時は|ケースを揺らさないでください。\t|もちろん、破損してもダメです。=Make sure not to shake the lower case as you remove the lid.\t|Of course, try not to damage it either.
+シリンダーと起爆装置の接続を|切断しながら、解除してください。\t|切るべきコードは私が指示します。=Disconnect the cylinder and the detonator.\t|I’ll tell you which wires to cut.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file013.bin
 シリンダーからコードが伸びている。\t|ダミーのコードを切断すると|起爆装置が作動するかもしれない。=
 複数のコードがある。\t|しかし全てが起爆センサーと|繋がっているわけではないようだ。=
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file014.bin
 しかし何も起こらない=
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file015.bin
-@fRネジ@fWは緩められている。=
-@fRネジ@fWでフタを止めてある。=
+@fRネジ@fWは緩められている。=The @fRscrews@fW have been loosened. 
+@fRネジ@fWでフタを止めてある。=The @fRscrews@fW are holding the lid in place.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file017.bin
 フタつきのケースだ。\t\vネジは緩められている。=
 フタつきのケースだ。\vこじ開けられてスキマができている。=
@@ -4008,65 +4008,65 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 中に爆弾があるのは間違いないです。\t|他を調査してカバーを|開ける方法を考えましょう。=
 爆弾の台座部分だ。\v起爆装置と一体になっている。=
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file010.bin
-上のケースを開けた!=
+上のケースを開けた!=Removed the top lid!
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file011.bin
 シリンダーと起爆装置の接続を|切断しながら解除してください。\t|切るべきコードは私が指示します。=
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file013.bin
-シリンダーから伸びている@fRコード@fWだ。=
-気をつけてください。\t|ダミーのコードを@fR切断@fWしてしまうと|起爆装置が作動するかもしません。=
+シリンダーから伸びている@fRコード@fWだ。=There are @fRwires@fW coming out of the cylinder.
+気をつけてください。\t|ダミーのコードを@fR切断@fWしてしまうと|起爆装置が作動するかもしません。=Be careful.\t If you @fRcut@fW the wrong wire, you might trigger the detonator.
 シリンダーから伸びている@fRコード@fWだ。\vどれかは分からないが、|起爆センサーからのコードではない|物が混じっているようだ。=
-シリンダーから伸びているコードだ。\v危険なコード以外は切断してある。=
-シリンダーから伸びているコードだ。\v接続部分が確認できるため、|メインセンサーと無関係な|衝撃や、起爆ボタンから信号を伝える|コードを見分けられるようになった。=
-メインセンサー以外の|コードを切断した。=
+シリンダーから伸びているコードだ。\v危険なコード以外は切断してある。=There are wires coming out of the cylinder.\vEverything but the dangerous ones have been cut.
+シリンダーから伸びているコードだ。\v接続部分が確認できるため、|メインセンサーと無関係な|衝撃や、起爆ボタンから信号を伝える|コードを見分けられるようになった。=There are wires coming out of the cylinder.\vNow that it’s clear how everything is connected, it’s possible to determine which wires relate to the main sensor, and which carry the signal from the button.
+メインセンサー以外の|コードを切断した。=Cut all the wires except for those relating to the main sensor.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file014.bin
-下側のケースだ。\vスライド式で開けられそうだが、|今は少ししか動かない。=
-下側のケースだ。\v爆薬からの@fRコード@fWが繋がっている。\v中に起爆装置があるらしい。=
-下側のケースだ。\v重心の移動に違和感がある。\v起爆装置には、|液体が使われているかもしれない。|大きく動かすと爆発するだろう。=
+下側のケースだ。\vスライド式で開けられそうだが、|今は少ししか動かない。=The bottom case.\vIt looks like the lid should slide off, but it won’t budge.
+下側のケースだ。\v爆薬からの@fRコード@fWが繋がっている。\v中に起爆装置があるらしい。=The bottom case.\vThere are @fRwires@fW feeding into it from the explosive.\vThe detonator must be inside.
+下側のケースだ。\v重心の移動に違和感がある。\v起爆装置には、|液体が使われているかもしれない。|大きく動かすと爆発するだろう。=The bottom case.\vThere’s something odd about the way its center of gravity keeps shifting.\vA liquid may have be used for the detonator.|If moved suddenly, it will explode.
 下側のケースだ。\vカバーが外され、|シリンダーを固定する部分だけ|残っている。=
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file015.bin
-ネジが緩んだ。=
+ネジが緩んだ。=The screws have been loosened.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file017.bin
-フタつきのケースだ。\vフタは@fRネジ@fW止めされているが、|@fRスキマ@fWができている=
-まず、やるべき事は|このフタを開ける事ですね。=
-フタつきのケースだ。\vこじ開けられてスキマができている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=
-フタつきのケースだ。\vネジは緩められている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=
-このケースの中には|起爆装置はないようだ。=
-フタの上部を叩いたら|少し歪んでしまった。=
-ケースのスキマをこじ開けた。=
+フタつきのケースだ。\vフタは@fRネジ@fW止めされているが、|@fRスキマ@fWができている=A case with a lid.\vThe lid is held on by @fRscrews@fW, but there is a small @fRgap@fW.
+まず、やるべき事は|このフタを開ける事ですね。=The first thing to do is get this lid off.
+フタつきのケースだ。\vこじ開けられてスキマができている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=A case with a lid.\vThe lid has been pried open slightly.\vIt has a catch, so requires caution when removing.
+フタつきのケースだ。\vネジは緩められている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=A case with a lid.\vThe screws have been loosened.\vThe lid has a catch, so requires caution when removing.
+このケースの中には|起爆装置はないようだ。=It doesn’t look like the detonator is in here.
+フタの上部を叩いたら|少し歪んでしまった。=The top of the lid has become warped from being hit.
+ケースのスキマをこじ開けた。=Widened the gap between the lid.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file018.bin
-何かのボタンだ。\vシリンダーと接続している|コードを切断したため、|機能を果たしていない。=
-何かのボタンだ。\v解除ボタンのようにも見えるが、|これ自体がトラップかもしれない。=
-ボタンを叩いた。\vスイッチが入ってしまった！=
+何かのボタンだ。\vシリンダーと接続している|コードを切断したため、|機能を果たしていない。=Some kind of button.\vAs the wires connected to the cylinder have been cut, it no longer does anything.
+何かのボタンだ。\v解除ボタンのようにも見えるが、|これ自体がトラップかもしれない。=Some kind of button.\vIt looks like a release button, but could very well be a trap.
+ボタンを叩いた。\vスイッチが入ってしまった！=Hit the button.\vThe switch turned on!
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file019.bin
-下のケースとシリンダーを|固定している@fRハリガネ@fWだ。=
-複雑に絡みついていますね。\t|@fR切断@fWしてしまった方が|楽に外す事ができそうです。\v強引に外すと起爆装置が|作動してしまうと思いますので、|気をつけてください。=
-シリンダーと下のケースを固定している|ハリガネを切断した。=
+下のケースとシリンダーを|固定している@fRハリガネ@fWだ。=The @fRmetal wire@fW securing the lower case and cylinder.
+複雑に絡みついていますね。\t|@fR切断@fWしてしまった方が|楽に外す事ができそうです。\v強引に外すと起爆装置が|作動してしまうと思いますので、|気をつけてください。=That is extremely tangled.\t|@fRCutting@fW it should make it easier to remove.\vIf you try to pull it out by force, I expect it will trigger the detonator, so do be careful.
+シリンダーと下のケースを固定している|ハリガネを切断した。=Removed the metal wire securing the lower case and cylinder.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file020.bin
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=
-ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=
-ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=
-これでボタンを押さない限り、|この装置は機能しないでしょう。=
-コードに切れ目を入れた。=
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=The wire connecting the button and the detonator.\vIt has been repaired with insulating tape.
+ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=The wire connecting the button and the detonator.\vThe wire is @fWexposed@fR meaning even a slight touch could energize it.\vThere must be an item which could @fRinsulate@fW it.
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connecting the button and the detonator.\vIt has been repaired with insulating tape, and has a slit in it.
+ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=The wire connecting the button and the detonator.\vIt has a slit in it.
+これでボタンを押さない限り、|この装置は機能しないでしょう。=This way, it shouldn’t activate unless you push the button.
+コードに切れ目を入れた。=Cut a slit into the wire.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file022.bin
-何かのシリンダーだ。\vケースにしっかり固定されている。\v爆薬の可能性が高い。=
-ケースに固定された爆薬だ。=
-衝撃を与えないように|注意してください。=
-シリンダーを叩いた。=
+何かのシリンダーだ。\vケースにしっかり固定されている。\v爆薬の可能性が高い。=Some kind of cylinder.\vIt’s securely fastened to the case.\vThere’s a high chance that this is the explosive.
+ケースに固定された爆薬だ。=An explosive is fixed into the case.
+衝撃を与えないように|注意してください。=Please be careful to avoid accidentally knocking it.
+シリンダーを叩いた。=Hit the cylinder.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file023.bin
-センサーと起爆回路を繋ぐ@fRコード@fWだ。=
-解除のポイントはこれですね。=
-センサーと起爆回路を繋ぐコードだ。\v切れ目を入れてある。=
-センサーと起爆回路を繋ぐ@fRコード@fWだ。\vこの中の1本は、センサーとの|接続解除信号を送るコードのようだ。=
-ハサミを使った。\vコードを切断した。=
-センサーからの接続解除信号送信用の|コードに切れ目を入れた。=
+センサーと起爆回路を繋ぐ@fRコード@fWだ。=The @fRwires@fW connect the sensor to the detonation circuit.
+解除のポイントはこれですね。=Those wires will be key to disarming the trap.
+センサーと起爆回路を繋ぐコードだ。\v切れ目を入れてある。=The @fRwire@fW connects the sensor to the detonation circuit.\vThere is a slit in it.
+センサーと起爆回路を繋ぐ@fRコード@fWだ。\vこの中の1本は、センサーとの|接続解除信号を送るコードのようだ。=The @fRwires@fW connect the sensor to the detonation circuit.\vOne of them must be used to send the signal to trigger detonation.
+ハサミを使った。\vコードを切断した。=Used Scissors.\vCut the wires.
+センサーからの接続解除信号送信用の|コードに切れ目を入れた。=Cut a slit into the wire used to send the detonation signal.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file025.bin
-しっかりと固定されたケースだ。=
-中身は起爆回路でしょうね。=
+しっかりと固定されたケースだ。=The case is snugly fitted.
+中身は起爆回路でしょうね。=It most likely contains the detonation circuit.
 きしむようないやな音がした。=
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file026.bin
-ガラスのシリンダーの中に|液体が入っている。=
-センサーが液体から出ると、|起爆する仕組みでしょうか。\t|あまり揺らさない方が良いですね。=
+ガラスのシリンダーの中に|液体が入っている。=There is a liquid in the glass cylinder.
+センサーが液体から出ると、|起爆する仕組みでしょうか。\t|あまり揺らさない方が良いですね。=I imagine it’s set up so if there’s no liquid on the sensor, it detonates.\t|Try not to shake it too much.
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file006.bin
 複雑そうに見えるかもしれませんが、|単純なつくりです。|いっしょに解除してしまいましょう。=
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file011.bin

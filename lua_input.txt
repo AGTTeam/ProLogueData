@@ -356,7 +356,7 @@
 それはなぜか…|それは、この『ホテル』が『地上』の|どこにも存在しないからです。=There’s only one explanation for that...|The hotel is not built “on land”.#dupe
 @そして…地上に存在しない『ホテル』の|存在を説明するキーワードは『人魚』…|そう『マーメイド・グループ』です！*=@And, the keyword which goes together with a hotel that doesn’t exist on land is “Mermaid”.|Yes... the “Mermaid Group”!*#dupe
 驚いたところを見ると、あなたも|もうお分かりですよね？=Given your surprise, I assume you know, don’t you?
-@そう…『マーメイド・グループ』には、|建築会社や内装会社はないんです！*=@Yes... The makers of the ‘hotel’, the Mermaid Group, are neither an architectural nor an interior design firm.*
+@そう…『マーメイド・グループ』には、|建築会社や内装会社はないんです！*=@Yes... The makers of the ‘hotel’, the Mermaid Group, do not own an architectural or an interior design firm.*
 依頼人の目的は、私を使っての実験。|ゲームという名の…=
 @新しいトラップの性能\や構\造を検証し、|よりよいトラップを作るためのデータを|収集することにあったんです！*=
 まだわからないのですか？|依頼人の目的は、私を使っての実験。|ゲームという名の…=
@@ -548,7 +548,7 @@
 しかし、ホテルのように見えるのに、|ホテルをいくら調べても、合致する|データは見つからない。=But no matter how much digging I did, I couldn’t find any information about a hotel which matched.
 大きな地震を感じたのに、|ホテルの外はまったく揺れていない。=Then there was that earthquake, but it seemed like it didn’t exist outside of the hotel.
 くっ、さっきいなかったのは…|それを調べるためだったのか！=Damn you. That’s why you left earlier; you were sniffing around!
-ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, are neither an architectural nor an interior design firm.
+ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, do not own an architectural or an interior design firm.
 ……ちっ……=Rrr...#end dupe
 Ｌ、おまえは俺をバカにしているのか？|そんなチグハグな推理で俺から何かを|引き出せると思っているのか？=Do you take me for a fool, L? Do you really think you’ll get anything out of me with such a sloppy argument?
 …そうですね。確かに今の推理では|あなたに失礼だったかもしれません。=...You’re right. I may have been a bit unfair to you.#section dupes
@@ -560,7 +560,7 @@
 それはなぜか…|それは、この『ホテル』が『地上』の|どこにも存在しないからです。=There’s only one explanation for that...|The hotel is not built “on land”.#dupe
 そして…地上に存在しない『ホテル』の|存在を説明するキーワードは『人魚』…|そう『マーメイド・グループ』です！=And, the keyword which goes together with a hotel that doesn’t exist on land is “Mermaid”.|Yes... the “Mermaid Group”!#dupe
 くっ、さっきいなかったのは…|それを調べるためだったのか！=Damn you. That’s why you left earlier; you were sniffing around!
-ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, are neither an architectural nor an interior design firm.
+ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, do not own an architectural or an interior design firm.
 ……ちっ……=Rrr...#end dupe
 …すみません、その通りなんです。|お詫びに王女様の名前を教えます。|彼女の名前は…マーメイドです！=...I’m sorry, you’re right.|As an apology, I will tell you the name of the princess. Her name is...　Mermaid!
 ま、まさか…おまえ…！=I-Impossible... how did you--!
@@ -569,7 +569,7 @@
 ……！！！=...!!!
 ……！　だ、だから…何だ？=S-So what?
 建築会社や内装会社でもないのに、|『ホテル』を作ったりはしませんよね？=If they’re aren’t an architectural or an interior design firm, they wouldn’t build a hotel.
-マーメイド・グループの系列会社で|『ホテルのような建造物』を造るなら…|『アレ』しかありませんよね？=If an affiliate of the Mermaid Group was going to build “something like a hotel”, it could only be one thing, right?
+マーメイド・グループの系列会社で|『ホテルのような建造物』を造るなら…|『アレ』しかありませんよね？=If a subsidiary of the Mermaid Group was going to build “something like a hotel”, it could only be one thing, right?
 ふ、ふん！　おまえが何を指して|『アレ』と言っているかは知らないが…=Hmph! I don’t know what this ‘thing’ is that you’re trying to suggest.
 このホテルの製造者が、おまえの言う|『マーメイド・グループ』だと、|なぜわかる！？=How do you even know that the owner of this hotel is what you call the “Mermaid Group”!?
 このまま上の階に行けば、|説明する必要もないのですが、|ワタリが面白い情報をくれましてね…=Everything will become clear as we continue upstairs, but Watari did give me some interesting information...
@@ -591,7 +591,7 @@
 それはなぜか…|それは、この『ホテル』が『地上』の|どこにも存在しないからです。=There’s only one explanation for that...|The hotel is not built “on land”.
 そして…地上に存在しない『ホテル』の|存在を説明するキーワードは『人魚』…|そう『マーメイド・グループ』です！=And, the keyword which goes together with a hotel that doesn’t exist on land is “Mermaid”.|Yes... the “Mermaid Group”!
 くっ、さっきいなかったのは…|それを調べるためだったのか！=Damn you. That’s why you left earlier; you were sniffing around!
-ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, are neither an architectural nor an interior design firm.
+ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, do not own an architectural or an interior design firm.
 ……ちっ……=Rrr...#end dupe
 ４階の時点で、ハウスキーパーには、|依頼人の目的が『Ｌの介入』だと|証明した…=
 それ以上の証明とは何か？|依頼人の具体的な目的を示すことだ。=
