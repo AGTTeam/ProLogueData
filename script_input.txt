@@ -1457,15 +1457,15 @@ debug jump?=
 @n0さん、がんばっていますね。|\tこの先どんな仕掛けがあるか|分かりません。\v調査を念入りにして|準備を万端にして挑みましょう。=
 @n0さん、おつかれさまです。|\tトラップ解除用のアイテムが|本当にたくさん仕込まれていますね。=
 !FILE:dat_script_f07.bin/file005_PACK2/file006.bin
-@n0さん…\tついに見つけました。=
-おそらくこれが、最後のトラップです。\t|集中していきましょう。=
-爆弾を解除したことで|残り時間がリセットされた。=
-@n0さん…よくやってくれました。\t|これであなたの役目は終わりです。\t|ここからは私の勝負です…=
-ハウスキーパー、わかりましたよ。\t|あなたの依頼者の目的が。=
+@n0さん…\tついに見つけました。=@n0...\t We’re here.
+おそらくこれが、最後のトラップです。\t|集中していきましょう。=This is probably the final trap.\t|Stay focused.
+爆弾を解除したことで|残り時間がリセットされた。=Disarming the bomb reset the remaining time.
+@n0さん…よくやってくれました。\t|これであなたの役目は終わりです。\t|ここからは私の勝負です…=You’ve done well, @n0.\t|You can rest now.\t|I’ll take it from here.
+ハウスキーパー、わかりましたよ。\t|あなたの依頼者の目的が。=Housekeeper, I’ve figured it out.\t|I know what your client is after.
 !FILE:dat_script_f07.bin/file005_PACK2/file010.bin
-ビデオポーカーを調べた。=
+ビデオポーカーを調べた。=Examined video poker machine.
 !FILE:dat_script_f07.bin/file005_PACK2/file014.bin
-スロットを調べた。=
+スロットを調べた。=Examined slot machine.
 !FILE:dat_script_f07.bin/file005_PACK2/file017.bin
 大量の爆薬だ。\v爆弾に接続されているようだ。=
 !FILE:dat_script_f07.bin/file005_PACK2/file018.bin
@@ -1518,66 +1518,66 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 今、総力をあげて、調査中です。\t|何か見つかり次第、報告します。=I am organizing an all-out investigation as we speak.\t|I will report back as soon as I find something.
 頼みます。=Please do.
 情報キーワード|@fR【ＣＬＮ】@fW|を入手した。=Keyword added:|@fR“CLN"@fW
-これまでに解除した小さなトラップには|あまり強い爆薬は使われていませんね…\t|人を殺すための爆弾ではない、か…=
-情報キーワード|@fR【殺傷能力の低い爆薬】@fW|を入手した。=
+これまでに解除した小さなトラップには|あまり強い爆薬は使われていませんね…\t|人を殺すための爆弾ではない、か…=All of these small traps you’ve disarmed haven’t contained particularly strong explosives.\t They’re not designed to kill, huh?
+情報キーワード|@fR【殺傷能力の低い爆薬】@fW|を入手した。=Keyword added:|@fR“Nonlethal Explosives"@fW
 !FILE:dat_script_f07.bin/file010_PACK2/file010.bin
-立て付けの悪い引き出しだ。\v中にはもう、何もない。=
-立て付けの悪い引き出しだ。\v何かがひっかかっているようだ。=
-無理やり開けますか？=
-小さなトラップの制限時間は|一定ではなく、長短様々ですね…\vこちらに予測を立てられないように|するためか、それとも他に何か意図が|あるのか…=
-情報キーワード|@fR【小トラップの制限時間】@fW|を入手した。=
+立て付けの悪い引き出しだ。\v中にはもう、何もない。=The drawer is wonky.\vThere’s nothing inside.
+立て付けの悪い引き出しだ。\v何かがひっかかっているようだ。=The drawer is wonky.\vSomething seems to be caught inside.
+無理やり開けますか？=Force it open?
+小さなトラップの制限時間は|一定ではなく、長短様々ですね…\vこちらに予測を立てられないように|するためか、それとも他に何か意図が|あるのか…=There’s no consistent time limit for these small traps, they all vary.\vIs that to stop us from being able to make predictions, or is there some other goal?
+情報キーワード|@fR【小トラップの制限時間】@fW|を入手した。=Keyword added:|@fR“Time Limit of Small Traps"@fW
 !FILE:dat_script_f07.bin/file010_PACK2/file017.bin
-レバーのついた箱だ。=
+レバーのついた箱だ。=A box with a lever installed.
 !FILE:dat_script_f07.bin/file011_PACK2/file010.bin
-Ｖ４=
+Ｖ４=V4
 !FILE:dat_script_f07.bin/file012_PACK2/file010.bin
-回路がむき出しになっている。=
-ヒューズを取り付けた。=
+回路がむき出しになっている。=The circuit is exposed.
+ヒューズを取り付けた。=Installed the fuse.
 !FILE:dat_script_f07.bin/file012_PACK2/file011.bin
-ヒューズがはめ込まれている。=
+ヒューズがはめ込まれている。=A fuse has been set inside. 
 !FILE:dat_script_f07.bin/file012_PACK2/file012.bin
-レバーを引きます。|よろしいですか？=
-何も起こらないようだ。=
-レバーを入れた。=
-どこかに電力が供給されたようだ。=
+レバーを引きます。|よろしいですか？=Pull the lever?
+何も起こらないようだ。=Nothing happened.
+レバーを入れた。=Pulled the lever.
+どこかに電力が供給されたようだ。=The power has been switched on somewhere.
 !FILE:dat_script_f07.bin/file012_PACK2/file013.bin
-レバーを戻します。|よろしいですか？=
-レバーを戻した。=
+レバーを戻します。|よろしいですか？=Lift the lever?
+レバーを戻した。=Returned the lever to its original position.
 !FILE:dat_script_f07.bin/file014_PACK2/file010.bin
-Ｖ１=
+Ｖ１=V1
 !FILE:dat_script_f07.bin/file015_PACK2/file011.bin
-アルコールランプだ。=
-ランプに火を灯した。=
+アルコールランプだ。=A spirit lamp.
+ランプに火を灯した。=Lit the lamp.
 !FILE:dat_script_f07.bin/file015_PACK2/file012.bin
-アルコールランプだ。\v火が灯っている。=
+アルコールランプだ。\v火が灯っている。=A spirit lamp.\vIt is burning.
 !FILE:dat_script_f07.bin/file015_PACK2/file013.bin
-テーブルセットを調べた。=
+テーブルセットを調べた。=Examined tea table.
 !FILE:dat_script_f07.bin/file016_PACK2/file006.bin
-真っ暗で調査できない。=
-この状態では、ハウスキーパーでも|トラップを仕掛けることは|できないはずです。\vどこかに電気のスイッチに|あたる物が必ずあるはずです。|探してみましょう。=
+真っ暗で調査できない。=It’s pitch black.
+この状態では、ハウスキーパーでも|トラップを仕掛けることは|できないはずです。\vどこかに電気のスイッチに|あたる物が必ずあるはずです。|探してみましょう。=Not even the Housekeeper could do anything in this dark.\vThere must be a light switch somewhere else.|See what you can find.
 !FILE:dat_script_f07.bin/file016_PACK2/file010.bin
-暗くて何も見えない。=
+暗くて何も見えない。=It’s too dark to see anything.
 !FILE:dat_script_f07.bin/file018_PACK2/file010.bin
-Ｖ２=
+Ｖ２=V2
 !FILE:dat_script_f07.bin/file019_PACK2/file007.bin
-前の部屋へ移動します。|よろしいですか？=
+前の部屋へ移動します。|よろしいですか？=Return to the previous room?
 !FILE:dat_script_f07.bin/file019_PACK2/file010.bin
-絵画だ。\vエンブレムのようなものが|描かれている。=
+絵画だ。\vエンブレムのようなものが|描かれている。=A painting.\vIt’s some kind of emblem.
 !FILE:dat_script_f07.bin/file019_PACK2/file011.bin
 エンブレムのようなものが|描かれている。=
 !FILE:dat_script_f07.bin/file019_PACK2/file012.bin
-塗料の缶だ。\v蛍光塗料が入っている。=
+塗料の缶だ。\v蛍光塗料が入っている。=A paint can.\vThere’s fluorescent paint inside.
 !FILE:dat_script_f07.bin/file020_PACK2/file006.bin
-壁の絵画の蛍光塗料で書かれた部分が|光っていますね。|\t何かあるのでしょうか？=
+壁の絵画の蛍光塗料で書かれた部分が|光っていますね。|\t何かあるのでしょうか？=There’s fluorescent paint on the painting on the wall.|\tIs there something there?
 !FILE:dat_script_f07.bin/file020_PACK2/file010.bin
-絵の中央が光っている。=
-絵を調べます。|よろしいですか？=
+絵の中央が光っている。=The middle of the painting is glowing.
+絵を調べます。|よろしいですか？=Examine the painting?
 !FILE:dat_script_f07.bin/file020_PACK2/file011.bin
-もう何もないようだ。=
+もう何もないようだ。=There’s nothing here.
 !FILE:dat_script_f07.bin/file020_PACK2/file012.bin
-蛍光塗料が光っている。=
+蛍光塗料が光っている。=The fluorescent paint is glowing.
 !FILE:dat_script_f07.bin/file020_PACK2/file013.bin
-暗くてよく見えない。=
+暗くてよく見えない。=It’s dark and hard to see.
 !FILE:dat_script_f08_a.bin/file001_PACK2/file011.bin
 ドラム缶を調べた。=
 !FILE:dat_script_f08_a.bin/file001_PACK2/file014.bin
@@ -3887,64 +3887,64 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file007.bin
 爆弾を押さえ込む！=
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file010.bin
-爆弾を取り出した！=
-カチッと音がした。\v何かのスイッチが入ったようだ！=
-今のはどうやら|タイマーのスイッチのようですね。\t|すばやく調査と解除をお願いします。=
+爆弾を取り出した！=Pulled out the bomb!
+カチッと音がした。\v何かのスイッチが入ったようだ！=Something clicked.\vIt looks like a switch was turned on!
+今のはどうやら|タイマーのスイッチのようですね。\t|すばやく調査と解除をお願いします。=I expect that was a switch for a timer.\t|Please locate the explosives and deactivate it quickly.
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file011.bin
-この大量のコードの中に|きっと爆弾があります。\t|それを探してください。=
-コードが邪魔なだけですから|落ち着いて探せば割と簡単に|見つける事ができます。=
-これは爆薬が比較的簡単に|外せそうな位置にありますね。\t|これを外しましょう。=
-やたらとダミーの多い爆弾ですが|基本的に時間のロスを|狙っているだけです。\v落ち着いて調査をしていけば|解除するのは造作もありません。=
+この大量のコードの中に|きっと爆弾があります。\t|それを探してください。=There must be a bomb inside this tangle of wires.\t|See if you can find it.
+コードが邪魔なだけですから|落ち着いて探せば割と簡単に|見つける事ができます。=The wires are just there to be a hindrance, so try to stay calm and you should be able to find it relatively easily.
+これは爆薬が比較的簡単に|外せそうな位置にありますね。\t|これを外しましょう。=Now you’re in a better position to disarm the trap.\t|Remove the explosives.
+やたらとダミーの多い爆弾ですが|基本的に時間のロスを|狙っているだけです。\v落ち着いて調査をしていけば|解除するのは造作もありません。=There are a few red herrings around, but they’re just there to eat away at the time.\vKeep a level head, and you’ll have no problems disarming it.
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file012.bin
-缶に打ち込まれた@fRクギ@fWだ。=
-缶に打ち込まれたクギだ。|適当な位置まで引き抜かれている。=
-完全に抜く必要はないでしょう。\t|コードの引っかかりが無くなれば|十分です。=
-缶に打ち込まれた@fRクギ@fWだ。\v不規則な位置に打ち込まれている。=
-この@fRクギ@fWは中でコードを|引っ掛けるための物ですね。\t|要するに、単なる嫌がらせです。=
+缶に打ち込まれた@fRクギ@fWだ。=The @fRnail@fW has been driven into the tin.
+缶に打ち込まれたクギだ。|適当な位置まで引き抜かれている。=A nail driven into the tin.|It’s been pulled out slightly.
+完全に抜く必要はないでしょう。\t|コードの引っかかりが無くなれば|十分です。=There’s no need to remove it completely.\t|As long as it’s not catching the wires anymore, we can move on.
+缶に打ち込まれた@fRクギ@fWだ。\v不規則な位置に打ち込まれている。=The @fRnail@fW has been driven into the tin.\vThe placement is quite strange.
+この@fRクギ@fWは中でコードを|引っ掛けるための物ですね。\t|要するに、単なる嫌がらせです。=That @fRnail@fW is going to catch on the wires inside.\t|In other words, it’s just a hindrance.
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file013.bin
-缶に@fRコード@fWが押し込まれている。=
-缶に@fRコード@fWが押し込まれている。\v相当な量の@fRコード@fWが中に入っている。\v絡まっていた@fRコード@fWをほどいて、|少し整理した。=
-缶に@fRコード@fWが押し込まれている。\v相当な量の@fRコード@fWが中に入っている。\vこの@fRコード@fWはほどかれて|整理されている。=
-１本ずつ調べても良いですが、|時間がかかりそうです。\vどうやら危険な@fRコード@fWでは|無いようです。\t|調査の妨害が目的ですね。=
+缶に@fRコード@fWが押し込まれている。=@fRWires@fW have been shoved into the tin.
+缶に@fRコード@fWが押し込まれている。\v相当な量の@fRコード@fWが中に入っている。\v絡まっていた@fRコード@fWをほどいて、|少し整理した。=@fRWires@fW have been shoved into the tin.\vThere is a considerable number of them inside.\vUntangled some @fRwires@fW and tidied up a bit.
+缶に@fRコード@fWが押し込まれている。\v相当な量の@fRコード@fWが中に入っている。\vこの@fRコード@fWはほどかれて|整理されている。=@fRWires@fW have been shoved into the tin.\vThere is a considerable number of them inside.\vThey’ve been untangled and sorted out.
+１本ずつ調べても良いですが、|時間がかかりそうです。\vどうやら危険な@fRコード@fWでは|無いようです。\t|調査の妨害が目的ですね。=Sorting them out one by one would take too long.\vIt doesn’t seem like the wires are dangerous.\t They’re just there to get in the way.
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file022.bin
-大きな缶のケースだ。=
-大きな缶のケースだ。\vかなりの量の@fRコード@fWが入っている。=
-サイズでいえば|一斗缶とほぼ同サイズですね。\t|中には爆弾が隠されているようです。=
+大きな缶のケースだ。=A large tin.
+大きな缶のケースだ。\vかなりの量の@fRコード@fWが入っている。=A large tin.\vThere is a considerable number of @fRwires@fW inside.
+サイズでいえば|一斗缶とほぼ同サイズですね。\t|中には爆弾が隠されているようです。=It looks to be able the size of a petrol can.\t|No doubt there is a bomb hidden inside. 
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file023.bin
-ダイヤルだ。=
-ダイヤルだ。\v上下左右に印が付いている。=
-正しい位置にダイヤルを|合わせる事ができたようです。=
+ダイヤルだ。=A dial.
+ダイヤルだ。\v上下左右に印が付いている。=A dial.\vThere are markings on the sides.
+正しい位置にダイヤルを|合わせる事ができたようです。=The dial has been set in the right position.
 このダイヤルは|ただ付いているだけです。\t|時間をロスさせるのが目的ですね。=
-これはダイヤルを印に|合わせれば良いようです。\t|やってみましょうか。=
-上に合わせる=
-下に合わせる=
-左に合わせる=
-右に合わせる=
-何も起こらなかった。=
-起爆装置が停止した！=
+これはダイヤルを印に|合わせれば良いようです。\t|やってみましょうか。=I suppose the idea is to match the dial with the markings.\t|See what you can do.
+上に合わせる=Turn the dial up
+下に合わせる=Turn the dial down
+左に合わせる=Turn the dial left
+右に合わせる=Turn the dial right
+何も起こらなかった。=Nothing happened.
+起爆装置が停止した！=The detonator has been deactivated!
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file027.bin
-ネジが起爆装置についている。=
-ネジが起爆装置についている。\vこれ以上は回せないようだ。=
+ネジが起爆装置についている。=There are screws attached to the detonator.
+ネジが起爆装置についている。\vこれ以上は回せないようだ。=There are screws attached to the detonator.\vThey can’t be turned any further.
 これ以上ネジは回らないようですね。\v起爆装置のスイッチに|なっているのだから|当然といえば当然ですね。=
-これ以上ネジは回らないようですね。\t|全く意味の無いネジだったようです。\t|放っておきましょう。=
-ネジが起爆装置についている。\v手で回せるタイプのようだ。=
-これは簡単に外せそうですね。\t|しかし罠という事も考えられます。\t|判断は慎重にお願いします。=
-ネジをひととおり回す=
-ネジを回さない=
+これ以上ネジは回らないようですね。\t|全く意味の無いネジだったようです。\t|放っておきましょう。=So they’re stuck.\t|It looks like those screws were a complete waste of time.\t Just leave them be.
+ネジが起爆装置についている。\v手で回せるタイプのようだ。=There are screws attached to the detonator.\vThey look like they can be turned by hand.
+これは簡単に外せそうですね。\t|しかし罠という事も考えられます。\t|判断は慎重にお願いします。=Those should be easy to remove.\t|Though, there is a chance they could be a trap.\t|Please use your discretion.
+ネジをひととおり回す=Turn the screws
+ネジを回さない=Don’t turn the screws
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file028.bin
-コードが爆薬と|起爆装置を繋いでいる。=
-コードが爆薬から伸びている。\v起爆装置からは外されている。=
+コードが爆薬と|起爆装置を繋いでいる。=The wire connects the detonator to the explosive.
+コードが爆薬から伸びている。\v起爆装置からは外されている。=The wire leads to the explosive.\vIt has been disconnected from the detonator.
 どうやらこのコードが起爆装置の|動力に繋がるコードだった|ようです。=
-このコードは無意味な|ダミーのコードだったようです。\t|他を調査しましょう。=
-引っ張れば簡単に抜けそうですね。\t|判断はお任せします。=
+このコードは無意味な|ダミーのコードだったようです。\t|他を調査しましょう。=We can safely say that wire was just a fake.\t|Let’s move on.
+引っ張れば簡単に抜けそうですね。\t|判断はお任せします。=It looks like it should come out easily.\t|It’s up to you what you want to do.
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file030.bin
-爆薬だ。\v起爆装置の底面についている。=
+爆薬だ。\v起爆装置の底面についている。=The explosive.\vIt is attached to the bottom of the detonator.
 爆薬だ。\v起爆装置の底面についている。\v小さいがズッシリと重い。=
 これが爆発したら|かなり痛そうですね。\t|慎重に調査をお願いします。=
 !FILE:dat_script_trapsmall.bin/file015_PACK2/file031.bin
-起爆装置だ。\v金属でできている。=
-起爆装置だ。\v金属でできている。\v小型ながら頑丈そうだ。=
-いろいろ細かい物がついてますね。\t|落ち着いて調査して行きましょう。=
+起爆装置だ。\v金属でできている。=The detonator.\vIt’s made of metal.
+起爆装置だ。\v金属でできている。\v小型ながら頑丈そうだ。=The detonator.\vIt’s made of metal.\vIt looks sturdy despite its small size.
+いろいろ細かい物がついてますね。\t|落ち着いて調査して行きましょう。=There are a lot of parts attached to it.\t|Take a breath, and see what you can find.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file010.bin
 爆薬と起爆装置が出てきた。=The detonator and explosive are now visible.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file011.bin
