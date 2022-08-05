@@ -1467,34 +1467,34 @@ debug jump?=
 !FILE:dat_script_f07.bin/file005_PACK2/file014.bin
 スロットを調べた。=Examined slot machine.
 !FILE:dat_script_f07.bin/file005_PACK2/file017.bin
-大量の爆薬だ。\v爆弾に接続されているようだ。=
+大量の爆薬だ。\v爆弾に接続されているようだ。=A large amount of explosives.\vThey seem to be part of a bomb.
 !FILE:dat_script_f07.bin/file005_PACK2/file018.bin
-爆薬だ。\v爆弾に接続されているようだ。=
+爆薬だ。\v爆弾に接続されているようだ。=Explosives.\vThey seem to be part of a bomb.
 !FILE:dat_script_f07.bin/file005_PACK2/file019.bin
-起爆装置だ。\v既に解除されている。=
-起爆装置だ。=
-起爆装置を調査します。|よろしいですか？=
+起爆装置だ。\v既に解除されている。=The detonator.\vIt has already been disconnected.
+起爆装置だ。=The detonator.
+起爆装置を調査します。|よろしいですか？=Investigate the detonator?
 !FILE:dat_script_f07.bin/file005_PACK2/file021.bin
-コードだ。\v爆薬と起爆装置を繋いでいる。=
+コードだ。\v爆薬と起爆装置を繋いでいる。=Wires.\vThey connect the explosives to the detonator.
 !FILE:dat_script_f07.bin/file007_PACK2/file010.bin
-穴が開いている。=There is a hole.
-取っ手を取り付けた。=
+穴が開いている。=There is a hole.#qc can be more than one
+取っ手を取り付けた。=Attached the handle.
 !FILE:dat_script_f07.bin/file007_PACK2/file011.bin
-箱を開きます。|よろしいですか？=
+箱を開きます。|よろしいですか？=Open the box?
 !FILE:dat_script_f07.bin/file007_PACK2/file012.bin
-起爆装置は解除済みだ。=
-起爆装置を解除します。|よろしいですか？=
-@n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=
-秘密のプリン？=
-幻のデザート職人？=
-甘いものはキライです=
-ええ、誰にもいえない秘密が隠された|プリンなんですが、トラップを解除した|後に、特別にお教えしますよ…=
-はい、知る人ぞ知る、世界最高ランクの|デザート職人です。\tトラップ解除の後に|特別にお教えしますよ…=
-…そうですか。\tではそのプリンで|甘い物嫌いを直しましょう。=
-@n0さん…\tその表情、いいですね。|無駄な力を入れず、これまで通り|トラップ解除に挑みましょう…=
+起爆装置は解除済みだ。=The detonator has already been deactivated.
+起爆装置を解除します。|よろしいですか？=Disarm the detonator?
+@n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=@n0...\t I know that I’m jumping the gun here, but once we deactivate this and get you off that ship, I have a present for you.\vIt’s not much but, a secret pudding made by the phantom patissier I’m acquainted with... 
+秘密のプリン？=Secret pudding?
+幻のデザート職人？=Phantom patissier?
+甘いものはキライです=I’m not into sweet stuff.
+ええ、誰にもいえない秘密が隠された|プリンなんですが、トラップを解除した|後に、特別にお教えしますよ…=Yes, it’s a pudding with a secret that can never be repeated, but I will tell you about it specially once you’ve disarmed that trap.
+はい、知る人ぞ知る、世界最高ランクの|デザート職人です。\tトラップ解除の後に|特別にお教えしますよ…=Yes, the best patissier in the whole world, only known to a select few.\t I will tell you about it specially once you’ve disarmed that trap.
+…そうですか。\tではそのプリンで|甘い物嫌いを直しましょう。=...I see.\t Well, I’ll have to fix that with this special pudding.
+@n0さん…\tその表情、いいですね。|無駄な力を入れず、これまで通り|トラップ解除に挑みましょう…=That’s the right look in your eye, @n0.|Just like before, let’s disarm this trap with not a step wasted.
 !FILE:dat_script_f07.bin/file007_PACK2/file013.bin
-丈夫な箱だ。\v起爆装置が入っている。=
-丈夫な箱だ。\vおそらく起爆装置が入っているのだろう。=
+丈夫な箱だ。\v起爆装置が入っている。=A sturdy box.\vIt contains the detonator.
+丈夫な箱だ。\vおそらく起爆装置が入っているのだろう。=A sturdy box.\vIt probably contains the detonator.
 !FILE:dat_script_f07.bin/file008_PACK2/file015.bin
 シューターを調べた。=
 !FILE:dat_script_f07.bin/file008_PACK2/file017.bin
@@ -2743,19 +2743,19 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 相変わらずこの爆薬は|外せそうにありませんね。\t|しばらく放っておきましょう。=As usual, the explosive isn’t easy to reach.\t|Best to leave it alone for the time being.
 いよいよ解除する段階です。\t|ロックを外しましょう。=The time has finally come.\t|Let’s remove the lock.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file010.bin
-金属製の箱を分解した！=
-中にはさらに金属製の箱が入っていた。=
-中には歯車がついていた。=
+金属製の箱を分解した！=Dissembled the metal box!
+中にはさらに金属製の箱が入っていた。=There is another metal box inside.
+中には歯車がついていた。=There are gears inside.
 金属のフレームが現れた。=
 用心深い造りですね。\t|ですが、だんだん中身が|見えるようになってきました。=
 鍵穴のようなものが現れた。=
 中には外の爆弾との連動装置が|入っていた。=
 起爆装置を外した！=
 !FILE:dat_script_trapbig.bin/file008_PACK2/file011.bin
-この箱は金属板を組み合わせた|物のようです。|\t分解してしまいましょう。=
-各辺を押さえているフレーム、|\tこれを緩めたり|外してしまえば良いのです。=
-動かせるパーツが少ないですね。\t|しいて言えば、|この手前のカバーぐらいです。=
-金具とネジで固定されていますが|それらが処置できれば|簡単に外せます。=
+この箱は金属板を組み合わせた|物のようです。|\t分解してしまいましょう。=The box appears to be made of metal plates.|\tLet’s disassemble it.
+各辺を押さえているフレーム、|\tこれを緩めたり|外してしまえば良いのです。=Loosen the frame holding the panels, and take it off.
+動かせるパーツが少ないですね。\t|しいて言えば、|この手前のカバーぐらいです。=There’s not much we can shift.\t|Mostly, it’s just that front cover.
+金具とネジで固定されていますが|それらが処置できれば|簡単に外せます。=The cover is held on by screws and clasps, but once they’re dealt with, taking it off is easy.
 この歯車のついたカバーが|外れそうです。=
 歯車の辺りに|足りないパーツがあります。\vいうまでも無く、あの穴に入るのは|…そう、\t歯車でしょうね。\v上の穴は歯車をはめたあとで、|何かを使うようですね。=
 この段階まできてなお、|動かせる部分はわずかです。\vこの金属製の箱の部分が|分解できそうですね。=
@@ -2765,34 +2765,34 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 この爆弾、はじめから起爆装置は|見えていました。\vここまできてようやく、|これを解除する段階に|なったようですね。=
 奥の装置が起爆装置の|補助的な役割をしています。\v奥の装置さえ無力化してしまえば、|起爆装置は裸も同然です。=
 !FILE:dat_script_trapbig.bin/file008_PACK2/file013.bin
-箱を固定しているフレームだ。=
-箱を固定しているフレームだ。\v各辺毎に止められているが、|かなり緩くなっている。=
-箱を固定しているフレームだ。\v各辺毎に止められているが、|叩いたので緩んでいる。=
-叩いたところに@fRスキマ@fWが|できていますね。=
-箱を固定しているフレームだ。\v各辺毎にしっかりと、止められている。=
-わずかなスキマもありませんね。\t|何かで@fR叩けば@fWあるいは…=
-フレームが緩んで、|外し易くなった。=
-フレームのスキマをこじ開けた。=
+箱を固定しているフレームだ。=The frame is holding the box together.
+箱を固定しているフレームだ。\v各辺毎に止められているが、|かなり緩くなっている。=The frame holding the box together.\vIt stretches round each side, but has become loose.
+箱を固定しているフレームだ。\v各辺毎に止められているが、|叩いたので緩んでいる。=The frame holding the box together.\vIt’s secured on all sides, but is loose where it’s been hit.
+叩いたところに@fRスキマ@fWが|できていますね。=There’s a @fRgap@fW right where you hit it.
+箱を固定しているフレームだ。\v各辺毎にしっかりと、止められている。=The frame is holding the box together.\vIt’s secured on all sides.
+わずかなスキマもありませんね。\t|何かで@fR叩けば@fWあるいは…=There’s not even the slightest gap.\t|Perhaps if you @fRhit@fW it with something...
+フレームが緩んで、|外し易くなった。=The frame has become loose.
+フレームのスキマをこじ開けた。=Pried open the gap in the frame.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file014.bin
-金属板を組み合わせた箱だ。=
-金属板を組み合わせた箱だ。\vフレームで固定されているが、|かなり緩くなっている。=
-金属板を組み合わせた箱だ。\vフレームで固定されているが、|叩いたのでだいぶ緩んでいる。=
-叩いたところが緩んで、|@fRスキマ@fWができていますね。=
-金属板を組み合わせた箱だ。\vフレームで固定されており、|このまま外すのは難しい。=
-結構頑丈にできていますね。\t|@fR叩いて@fWみるといいかもしれません。=
-金属製の箱の奥側だ。\v半分は解体できないように|なっている。=
-金属製の箱を叩く事で|箱とフレームの間に@fRスキマ@fWができた。=
-箱とフレームのスキマをこじ開けた。=
+金属板を組み合わせた箱だ。=It's a box made up of metal plates.
+金属板を組み合わせた箱だ。\vフレームで固定されているが、|かなり緩くなっている。=It's a box made up of metal plates.\vThey are barely being held together by the frame.
+金属板を組み合わせた箱だ。\vフレームで固定されているが、|叩いたのでだいぶ緩んでいる。=It's a box made up of metal plates.\vThey are being held together by a frame, but it has come loose after being hit.
+叩いたところが緩んで、|@fRスキマ@fWができていますね。=The part you’ve hit has become loose and opened up a @fRgap@fW.
+金属板を組み合わせた箱だ。\vフレームで固定されており、|このまま外すのは難しい。=A box made up of metal plates.\vThey are being held together by a frame, making it hard to take apart.
+結構頑丈にできていますね。\t|@fR叩いて@fWみるといいかもしれません。=It’s been built quite well.\t|It could be worth @fRhitting@fW it.
+金属製の箱の奥側だ。\v半分は解体できないように|なっている。=The back part of the metal box.\vThe whole thing couldn’t be dismantled.
+金属製の箱を叩く事で|箱とフレームの間に@fRスキマ@fWができた。=Hitting the box created a @fRgap@fW between the panels and the frame.
+箱とフレームのスキマをこじ開けた。=Widened the gap between the frame.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file015.bin
-起爆装置らしきものの|一部が外に出ている。=
-起爆装置らしきものの|一部が外に出ている。\t|そこから@fRコード@fWがのびている。=
-起爆装置のようですが、|このままでは処置ができません。\t|まず箱を分解しましょう。=
-起爆装置だ。\v@fRコード@fWが外部にのびている。=
-起爆装置だ。\v@fRコード@fWが外部にのびている。\t|=
-上のカバーを外すのが|先決ですね。\t|このままではどうにもできません。=
-起爆装置だ。\v@fRコード@fWが外部にのびている。\t|少し発熱しているようだ。=
-冷やせば調査が|進めやすくなりそうです。=
-起爆装置だ。|@fRコード@fWが外部にのびている。=
+起爆装置らしきものの|一部が外に出ている。=Part of what could be the detonator is sticking out.
+起爆装置らしきものの|一部が外に出ている。\t|そこから@fRコード@fWがのびている。=Part of what could be the detonator is sticking out.\t|There are @fRwires@fW extending from it.
+起爆装置のようですが、|このままでは処置ができません。\t|まず箱を分解しましょう。=I imagine that is the detonator, but we can’t deal with it like this.\t|Let’s disassemble the box first.
+起爆装置だ。\v@fRコード@fWが外部にのびている。=The detonator.\v @fRWires@fW are leading out of it.
+起爆装置だ。\v@fRコード@fWが外部にのびている。\t|=The detonator.\v@fRWires@fW are leading out of it.
+上のカバーを外すのが|先決ですね。\t|このままではどうにもできません。=First, we need to get that top cover off.\t|We can’t do anything if we can’t see what we’re dealing with.
+起爆装置だ。\v@fRコード@fWが外部にのびている。\t|少し発熱しているようだ。=The detonator.\v @fRWires@fW are leading out of it.\t|It is pretty hot.
+冷やせば調査が|進めやすくなりそうです。=If you cool it down it should make things easier.
+起爆装置だ。|@fRコード@fWが外部にのびている。=The detonator.| @fRWires@fW are leading out of it.
 起爆装置はこれで間違いない|と思うのですが…\vこれをどうにかするのは|まだ早い気がします。=
 無理やり起爆装置を外す=
 起爆装置を外さない=
@@ -2802,31 +2802,31 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 起爆装置だ。\v@fRコード@fWが外部にのびている。\v奥の装置との間に|@fRスキマ@fWが見える。=
 起爆装置はこれで|間違いありません。\v奥の装置と連動しているようで|このまま解除するのは|かなり難しいでしょう。=
 起爆装置のスキマをこじ開けた。=
-起爆装置を冷やした。=
+起爆装置を冷やした。=Cooled the detonator.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file016.bin
-箱から出ている@fRコード@fWだ。=
-箱から出ている@fRコード@fWだ。\v起爆装置を通して、|外部にある爆弾に連動している。=
-全く厄介な仕掛けです。\t|この起爆装置が作動すれば、|船は木っ端微塵でしょう。\v念のため言っておきますが、|くれぐれも安易に@fRコード@fWを|切らないようにお願いします。=
-くれぐれも安易に@fRコード@fWを|切らないようにお願いします。=
+箱から出ている@fRコード@fWだ。=@fRWires@fW are coming out of the box.
+箱から出ている@fRコード@fWだ。\v起爆装置を通して、|外部にある爆弾に連動している。=@fRWires@fW are coming out of the box.\vThey connect from the detonator to external bombs.
+全く厄介な仕掛けです。\t|この起爆装置が作動すれば、|船は木っ端微塵でしょう。\v念のため言っておきますが、|くれぐれも安易に@fRコード@fWを|切らないようにお願いします。=What a troublesome trap this is.\t|If that detonator is triggered, the whole ship will be blown to pieces.\vI’m sure this goes without saying, but please be careful not to cut those @fRwires@fW.
+くれぐれも安易に@fRコード@fWを|切らないようにお願いします。=Please be careful not to cut the @fRwires@fW.
 気になるのは判りますが…\t|くれぐれも軽はずみな事は|止めて下さい。=
 箱から出ているコードだ。\v起爆装置を通して、|外部にある爆弾に連動していたが|コードはすべて切断されている。=
 さきほどのボタンは装置の動作を|停止するボタンでした。\t|つまりこの@fRコード@fW、いまならば…=
 コードを調べた。\vコードは通電しており、|慎重に扱ったほうが良さそうだ。=
 !FILE:dat_script_trapbig.bin/file008_PACK2/file017.bin
-カバーを止めている金具だ。\v叩かれて緩んでいる。=
-カバーを止めている@fR金具@fWだ。\v衝撃を与えれば緩むかもしれない。=
-金具が緩んだようだ。=
+カバーを止めている金具だ。\v叩かれて緩んでいる。=The metal clasps securing the cover.\vThey’ve become loose from being hit.
+カバーを止めている@fR金具@fWだ。\v衝撃を与えれば緩むかもしれない。=The metal clasps are securing the cover.\vA good hit might loosen them.
+金具が緩んだようだ。=The clasps seem to have come loose.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file018.bin
-ネジが緩められている。=
-@fRネジ@fWが締められている。=
+ネジが緩められている。=The screw is loose.
+@fRネジ@fWが締められている。=The @fRscrew@fW has been fastened in tight.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file019.bin
-金属カバーだ。\vなんとか開ける事ができそうだ。=
-金属カバーだ。\v叩かれた上にこじ開けられている。=
-これだけやれば十分でしょう。\t|危険なのであまり過剰に|痛めつけないようにお願いします。=
-金属カバーだ。\v叩かれて所々歪んで、|@fRスキマ@fWができている。=
-金属カバーだ。\v@fR金具@fWや@fRネジ@fWで固定されている。=
-固定されている部分を|何とかできれば|簡単に外せそうです。\vこのカバー自体も、|有る程度の@fR衝撃@fWには耐えられる|みたいですね。=
-カバーがへこんで、@fRスキマ@fWができた。=
+金属カバーだ。\vなんとか開ける事ができそうだ。=A metal cover.\vIt looks like it should open.
+金属カバーだ。\v叩かれた上にこじ開けられている。=A metal cover.\vIt has been warped and pried open.
+これだけやれば十分でしょう。\t|危険なのであまり過剰に|痛めつけないようにお願いします。=That should be enough.\t|It’d be dangerous to apply any more force.
+金属カバーだ。\v叩かれて所々歪んで、|@fRスキマ@fWができている。=A metal cover.\vIt’s bent where it was hit, creating a @fRgap@fW.
+金属カバーだ。\v@fR金具@fWや@fRネジ@fWで固定されている。=A metal cover.\vIt’s secured with @fRclasps@fW and @fRscrews@fW.
+固定されている部分を|何とかできれば|簡単に外せそうです。\vこのカバー自体も、|有る程度の@fR衝撃@fWには耐えられる|みたいですね。=If you can remove the parts which are fastening it, the cover should come off.\vBeing metal, I’d assume it can withstand a certain amount of @fRimpact@fW, too.
+カバーがへこんで、@fRスキマ@fWができた。=Warped the cover, creating a @fRgap@fW.
 カバーのスキマをこじ開けた。=Widened the gap in the cover.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file020.bin
 何かをはめ込む穴だ。\v回せるようになっている。=
@@ -2849,8 +2849,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 この穴は…\t|周りを見れば何が入るか|一目瞭然です。=
 穴に歯車をはめ込んだ。=
 !FILE:dat_script_trapbig.bin/file008_PACK2/file025.bin
-金属製の箱についているボタンだ。=
-このボタンは何でしょう。\t|嫌な感じがします。\t|触らない方がいいかもしれません。=
+金属製の箱についているボタンだ。=There are buttons set in the case.
+このボタンは何でしょう。\t|嫌な感じがします。\t|触らない方がいいかもしれません。=What could these be for?\t|They give me a bad feeling.\t|It might be best to leave them alone.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file028.bin
 金属製の箱のようだ。=
 金属製の箱のようだ。\v表面にボタンがついている。=
@@ -2926,9 +2926,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 多少の補強はできましたが、|やっぱり簡単に抜けそうですね…=
 信管のコードを調べた。\v通電しているようだ。|\t切るのは危険だろう。=
 !FILE:dat_script_trapbig.bin/file008_PACK2/file038.bin
-金属製の箱から出ている信管だ=
-単なる罠にしか見えません。\t|絶対に触ってはいけませんよ。=
-信管を叩いた。=
+金属製の箱から出ている信管だ=There is a fuse poking out of the metal box.
+単なる罠にしか見えません。\t|絶対に触ってはいけませんよ。=I can’t see that being anything but a trap.\t|Don’t go near it.
+信管を叩いた。=Hit the fuse.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file039.bin
 金属製の箱のようだ。\v中に何が入っているのかは|判らない。=
 この箱から出ているのは|信管でしょうか。\t|うかつに触れないで下さいね。=
