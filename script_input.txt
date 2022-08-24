@@ -359,7 +359,7 @@
 そんな…=That’s--
 図星のようですね。=It looks like I’ve hit the nail on the head.
 し、知るか！\t　そんな言葉遊びで|騙されてたまるか！\t　おまえが何と|言おうとこのトラップは俺の作品だ！\v時間以内にすべてのトラップを|解けない時は、@n1も、|周辺の住民も全員死ぬだけだ！\vわかったら、さっさと次のフロアへ|進むことだ！\t　せいぜいがんばりな！=T-Think what you want!\t I’m not going to get wrapped up in your little word games.\t Whatever you say, these traps are my work!\vIf you don’t solve all the traps within the time limit, @n1 and everyone else in the vicinity will die!\vIf you understand that, hurry up and go to the next floor!\t You’d better give me your all.
-…少しずつ見えて来ました。\t|しかし、ハウスキーパーの言うように|今はトラップを解くしかないですね…\vさあ、急ぎましょう。=It looks like we’re getting ever closer to the truth.\t|But as the housekeeper said, all we can do for now is solve the traps...\vLet’s keep going.
+…少しずつ見えて来ました。\t|しかし、ハウスキーパーの言うように|今はトラップを解くしかないですね…\vさあ、急ぎましょう。=It looks like we’re getting ever closer to the truth.\t|But as the Housekeeper said, all we can do for now is solve the traps...\vLet’s keep going.
 !FILE:dat_script.bin/file006_PACK2/file008.bin
 Ｌ、\t俺のトラップにビビッて慎重になる|気持ちはわかるが、あんたらに残された|時間は多くはないぞ。=L,\t I get that you’re scared and being cautious of my traps, but you’re running out of time here.
 ええ、承知していますよ。\t|ですが、かかっているのは私のではなく|@n0さんの命ですからね…\v最大限の慎重さと最低限のロスで|あなたのトラップを破ってみせますよ。\t|必ず…=Yes, I know.\t|But it’s not my life that’s at risk, it’s @n0’s.\vWe’re going to defeat your traps with the utmost caution and minimum losses.\t|That’s a promise...
