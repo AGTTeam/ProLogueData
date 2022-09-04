@@ -1,4 +1,4 @@
-﻿!FILE:overlay_0000_dec.bin
+!FILE:overlay_0000_dec.bin
 レシピ【%s】を追加！=Recipe “%s” added!
 【%s】を手に入れた！=“%s” found!#went with found over obtained to make sense with next line, but may not work in all contexts.
 しかしこれ以上持つことはできない！=You can’t hold any more!
@@ -101,7 +101,7 @@
 エンジンルーム=Engine Room
 スタッフエリア=Staff Area#tc better name?
 スタッフルーム=Staff Room
-セレクトショップ=Department Store
+セレクトショップ=Gift Shop
 スタッフエリア奥=Staff Area-B
 スタッフルーム奥=Staff Room-B
 調査オブジェクト=Investigation Target#qc
@@ -494,7 +494,7 @@
 狭い通路=Narrow Corridors
 他の乗船者=Other Passengers
 自由な人質=
-救命ボート=Lifeboats
+救命ボート=Lifeboat
 巨大な氷塊=
 大きな地震=Huge Earthquake
 復讐ゲーム=

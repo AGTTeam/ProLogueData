@@ -24,7 +24,7 @@
 米軍介入=U.S. Military Intervention
 大きな地震=Huge Earthquake
 リブート社=
-救命ボート=Lifeboats
+救命ボート=Lifeboat
 他の乗船者=Other Passengers
 Ｊの利き腕=J’s Dominant Hand
 復讐ゲーム=Revenge Game
