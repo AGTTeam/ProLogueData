@@ -478,17 +478,17 @@
 軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of military satellites as a bargaining chip...
 情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=Keyword added:|@fR“Military Reconnaissance"@fW
 !FILE:dat_script.bin/file010_PACK2/file006.bin
-あとはブリッジへ向かうだけです。\t|問題は、エレベーターがロックされて|いるということ…\vジェフリー、聞こえていますね。\t|Ａが最後に言った『予定通り』が|何を意味するのかはわかりません…\vしかし、たとえこの船が沈んでも、|私はあなたとあなたのボスを必ず|追い詰めますよ。\vなぜなら、私にはあなたのボスの正体…\t|すなわちこの事件の首謀者が誰なのか|わかってしまったからです！=
-そ、そんなハッタリ、やめてください！\t|たったあれだけの会話で、そんなことが|わかるはずが…！=
-わかるんです、私には。=
-だ、だったら誰なんですか…！=
-この事件の首謀者、それは…=
+あとはブリッジへ向かうだけです。\t|問題は、エレベーターがロックされて|いるということ…\vジェフリー、聞こえていますね。\t|Ａが最後に言った『予定通り』が|何を意味するのかはわかりません…\vしかし、たとえこの船が沈んでも、|私はあなたとあなたのボスを必ず|追い詰めますよ。\vなぜなら、私にはあなたのボスの正体…\t|すなわちこの事件の首謀者が誰なのか|わかってしまったからです！=All that remains is for you to get to the bridge.\t|The only problem is that the elevator is locked...\vJeffrey, I know you can hear me. I don’t know what A meant by keeping things ‘on schedule’,\vbut even if the ship sinks, you should know that I will hunt you and your boss down.\vNow I know who your boss, the mastermind behind it all, really is!
+そ、そんなハッタリ、やめてください！\t|たったあれだけの会話で、そんなことが|わかるはずが…！=S-Stop bluffing!\t|How could you possibly know that from just that one conversation?
+わかるんです、私には。=I figured it out.
+だ、だったら誰なんですか…！=Then who...!?
+この事件の首謀者、それは…=The real mastermind is...
 !FILE:dat_script.bin/file010_PACK2/file007.bin
-おそらく彼はＣＬＮの幹部の一人です。\t|次期ＣＬＮ会長の座を得るために、|すべての事件を仕組んだ…\v私を巻き込んで新商品を開発し、莫大な|利益をもたらせば、ライバルの会長候補|たちに勝てると考えたのでしょう。=
-…Ｌ、\tあなたの前では、どんな秘密も|存在し得ないのですね…=
-ジェフリー、あなたがどういう経緯で|この事件に関わったかはわかりません。\t|しかし、あなたに爆弾は似合わない…\v船を停めさせてください。\t|@n0さんと私に…=
-エレベーターのロックを解除します…=
-@n0さん、急いでブリッジへ|向かってください！=
+おそらく彼はＣＬＮの幹部の一人です。\t|次期ＣＬＮ会長の座を得るために、|すべての事件を仕組んだ…\v私を巻き込んで新商品を開発し、莫大な|利益をもたらせば、ライバルの会長候補|たちに勝てると考えたのでしょう。=We can assume he is one of the CLN’s senior figures.\t|He orchestrated this whole affair in order to secure his position as the CLN’s next director.\vHe probably thought that if he could get me involved in developing a new product and make a huge profit, he could beat rival candidates for the seat.
+…Ｌ、\tあなたの前では、どんな秘密も|存在し得ないのですね…=...L.\t I guess it’s true that there can be no secrets in your presence.
+ジェフリー、あなたがどういう経緯で|この事件に関わったかはわかりません。\t|しかし、あなたに爆弾は似合わない…\v船を停めさせてください。\t|@n0さんと私に…=Jeffrey, I don’t know how you came to be involved in this case.\t|But, one thing I do know is that bombs don’t suit you.\vStop the ship.\t|Together with @n0 and myself...
+エレベーターのロックを解除します…=I’m unlocking the elevator...
+@n0さん、急いでブリッジへ|向かってください！=@n0, hurry to the bridge!
 !FILE:dat_script.bin/file010_PACK2/file008.bin
 ジェフリー、今すぐ船を停めてください。=
 できません…=
@@ -1685,7 +1685,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file017_PACK2/file022.bin
 電源パネルだ。\vこのあたりの電源を監視しているようだ。=A control panel.\vIt’s monitoring the power supply in the area. 
 !FILE:dat_script_f08_a.bin/file017_PACK2/file023.bin
-電力は正常に供給されている。=
+電力は正常に供給されている。=Power is being supplied.
 これはハウスキーパーのトラップです。\t|慎重に扱ってください。=This is the Housekeeper's trap.\t|Be careful.
 !FILE:dat_script_f08_a.bin/file018_PACK2/file014.bin
 点灯している。=The light is lit.
