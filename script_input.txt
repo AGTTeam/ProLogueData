@@ -59,15 +59,15 @@
 Ｌの要請により介入した米軍の爆撃機に|よって爆沈した──=
 事件は未解決のまま、迷宮入りした…=
 !FILE:dat_script.bin/file001_PACK2/file011.bin
-Ｌ、今、合衆国大統領から米軍長官に|グラナダ号撃沈指令が出されました。=
-@n1は救命ボートで脱出した。\vグラナダ号はアルテア港に突入する寸前|米軍爆撃機の攻撃を受け沈んだ…\v『グラナダ号』は海中で大破し、|証拠の回収はならず、|事件は未解決のまま幕を下ろした…=
+Ｌ、今、合衆国大統領から米軍長官に|グラナダ号撃沈指令が出されました。=L, the President of the United States of America has given the order to the US Secretary of War to sink the Granada.
+@n1は救命ボートで脱出した。\vグラナダ号はアルテア港に突入する寸前|米軍爆撃機の攻撃を受け沈んだ…\v『グラナダ号』は海中で大破し、|証拠の回収はならず、|事件は未解決のまま幕を下ろした…=@n1 escaped by lifeboat.\vThe Granada was sunk by US bombers just before it managed to reach Port Altair.\vNo evidence was able to be recovered from the ship wreck, and the case was left unsolved...
 !FILE:dat_script.bin/file001_PACK2/file012.bin
 数年後 ──\v数十件の重犯罪について起訴されていた|アロイス・ベイトソン被告は保釈中、|滞在先のフロリダ州で心臓麻痺により|死亡した…=
 !FILE:dat_script.bin/file002_PACK2/file006.bin
 使っても効果がない。=Using it has no effect.
-体力が回復した。=
+体力が回復した。=Health restored.
 !FILE:dat_script.bin/file002_PACK2/file007.bin
-セーブしますか？=
+セーブしますか？=Save the game?
 !FILE:dat_script.bin/file002_PACK2/file008.bin
 手に入れた消費アイテムや|捜査レベルの成長などを持ち越して|最初からやり直すことができます。|よろしいですか？=
 !FILE:dat_script.bin/file002_PACK2/file009.bin
@@ -490,47 +490,47 @@
 エレベーターのロックを解除します…=I’m unlocking the elevator...
 @n0さん、急いでブリッジへ|向かってください！=@n0, hurry to the bridge!
 !FILE:dat_script.bin/file010_PACK2/file008.bin
-ジェフリー、今すぐ船を停めてください。=
-できません…=
-なぜです？　あなたにはこれ以上、|罪を犯す理由などないはずです。=
-違う…もう停められないんです。\t|オートパイロットがロックされて…|それに…\vこの船のエンジンはオーバーヒートした|状態で航行しています…\t|５時間後には爆発してしまう！=
-…それは本当なのですか？=
-ジェフリーの言う通りだよ、Ｌ。\t|エンジンの爆発とともに、満載した|爆発物や燃料も誘爆するだろうな。\vＬ、君はすべての起爆装置を止めたが、|その船が爆発物を満載していることに|変わりはない。\vむろん、船の制御コンピュータを止め、|再起動をすれば、オートパイロットの|再設定は可能だよ。\vだが、全力運転中のエンジンが制御を|失えばどうなるかね？=
-暴走は加速する。\t|おそらく、数分で──爆発。=
-おい、そんな話、聞いていないぞ！=
-すまない。\t君はトラップの専門家だが、|コンピュータには詳しくないようなので|こちらで準備させてもらった。=
-数時間後には船は大西洋に沈む。\t|証拠を探すのと、タイタニックを引き|上げるのと、どちらが大変かな？=
-ふふふふ……\tはははは……=
-か、会長…\tそれが…トラブルです！\t|オートパイロットに異常が…！=
-どうした、\tトラブルとは何だ？=
-外洋へ向うはずが、沿岸ぞいに…\t|アルテア港に向かっています！=
-なんだと？　バグがあったのか。\t|ジェフリー、君が何度も確認した|はずだろう！=
-そ、そうですが…\tオートパイロットの|設定と航路データに何か間違いが…=
-弁解はいい！\t　くっ…あまり騒ぎを|大きくしたくはなかったが…\v港の人間を避難させるしかない。\t|Ｌ、君やＦＢＩの出番だよ。=
-いえ、そうはうまく行きません。\t|アルテア港といえば、クリエラ政府の|支配地域。\vそこに爆弾を積んだ船が突入し、|爆発を起こせば…\t死者の有無に関係なく|それは反政府勢力の仕業となります。=
-まさか、\tそれじゃあ…クリエラは！=
-再び紛争が始まるでしょう…\t|最悪の結末です！=
-いや、そうでもない。\t|Ｌブランドのデビューをクリエラに|してしまうというのは悪くないぞ。=
-まるで紛争そのものが、|Ｌのプロデュースみたいじゃないか。\t|ふふっ…=
-底なしの悪趣味ですね。=
-同じ騒ぎなら、大きい方がいい。|証拠調査どころではなくなるだろう。\vＬ、君はもちろんのこと、ＦＢＩも|他国の紛争では手が出せまい。=
-証拠は残らなくても、我々が証人に|なりますよ。=
-いつどこで証言するつもりかね？\t|５時間後には全世界が『Ｌブランド』を|認知するのだ。\vあとは放っておいても客が集まる。\t|そのとき、私は面白いプロモーション|映像を客に見せることになる。\v君とヒヨッコＦＢＩの、この９時間の|命がけの大活躍ぶりをね…\vこんなに本気で開発していたのかと客は|知り、\tそして、探偵としての君の信用は|失墜する。\v悪い事は言わん。そこのＦＢＩの若造を|救いたくば、今すぐ脱出を勧めたまえ。\t|ジェフリー、君も逃げるがいい。=
-…お断りします。\t|あなたには、もう従えません。=
-なんだと？=
-私はあなたにお世話になった…\t|あなたの力がなければ、私は学ぶことも|生きることもできなかった…=
-しかし、私には紛争をプロデュースする|なんて、できません…\t|今まで、ありがとうございました。=
-な、なんだと…\tジェフリー…？=
-アロイス会長との通信を|断ったのですか？=
-はい。|これで会長からの妨害はありません。\t|船を停めましょう。私も手伝います。=
-では、@n0さんと協力して、|全システムの再起動を行ってください。=
-それでは間に合いません。\t|システム再起動には１５分必要ですが、|その間にエンジンが爆発します…！=
-Ｌ…\t米軍の介入を要請してください。\t|@n1さんを助けた後、この船を|撃沈してもらうのがベストです。=
-いえ…\tそれはベストではありません。\t|和平調停中のクリエラ領内に米軍が|介入すれば、話がこじれるだけです。\v我々の力でエンジンを止めるのが|今、出来うるベストの方法です。=
-この船のエンジンは、複数の発電機と、|電力モーターを回転させる推進器から|成る電気推進式エンジンです。\v機関室へ行き、まず、発電機と推進器を|遮断して船の足を止め、次にエンジンを|１つずつ直接停止させましょう。\vその上でシステム再設定をすれば、|暴走や爆発の確率を低くできますし、|すべてはこの船の上で終わります。=
-わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=
-では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=
-「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=
+ジェフリー、今すぐ船を停めてください。=Jeffrey, please stop the ship.
+できません…=I can’t...
+なぜです？　あなたにはこれ以上、|罪を犯す理由などないはずです。=Why not? You have no reason to dirty your hands further.
+違う…もう停められないんです。\t|オートパイロットがロックされて…|それに…\vこの船のエンジンはオーバーヒートした|状態で航行しています…\t|５時間後には爆発してしまう！=That’s not it. The ship can’t be stopped now.\t|The autopilot has been set.|And that’s not all...\vThe engines are overheated. In five hours, the whole thing will explode!
+…それは本当なのですか？=...Are you certain?
+ジェフリーの言う通りだよ、Ｌ。\t|エンジンの爆発とともに、満載した|爆発物や燃料も誘爆するだろうな。\vＬ、君はすべての起爆装置を止めたが、|その船が爆発物を満載していることに|変わりはない。\vむろん、船の制御コンピュータを止め、|再起動をすれば、オートパイロットの|再設定は可能だよ。\vだが、全力運転中のエンジンが制御を|失えばどうなるかね？=Jeffrey is telling the truth, L.\t|The explosion of the engine will also detonate all the explosives onboard and the ship’s fuel.\vYou might have removed their detonators, but that doesn’t change the fact that the ship is still loaded with explosives.\vOf course, you could always shut down the ship’s computer and restart it, then reconfigure the autopilot.\vBut what would happen if the engines went out of control while they’re still running at full power?
+暴走は加速する。\t|おそらく、数分で──爆発。=The countdown would accelerate.\t|Just a few minutes – and then boom.
+おい、そんな話、聞いていないぞ！=Wait, this is all news to me!
+すまない。\t君はトラップの専門家だが、|コンピュータには詳しくないようなので|こちらで準備させてもらった。=Sorry about that.\tYou might be an expert in traps, but you don’t seem to know much about computers, so I made preparations on my end.
+数時間後には船は大西洋に沈む。\t|証拠を探すのと、タイタニックを引き|上げるのと、どちらが大変かな？=In a few hours the ship will sink into the Atlantic.\t|Which will be harder, finding the evidence or pulling up the Titanic?
+ふふふふ……\tはははは……=Ah ha ha...\t HA HA HA...!
+か、会長…\tそれが…トラブルです！\t|オートパイロットに異常が…！=S-Sir!\t We have a problem!\t|There's something wrong with the autopilot...!
+どうした、\tトラブルとは何だ？=Huh?\t What’s the problem?
+外洋へ向うはずが、沿岸ぞいに…\t|アルテア港に向かっています！=We're supposed to be heading out to sea, but we're heading along the coast...\t towards Port Altair!
+なんだと？　バグがあったのか。\t|ジェフリー、君が何度も確認した|はずだろう！=What? Is it a bug?\t|Jeffery, you were supposed to have checked the system!
+そ、そうですが…\tオートパイロットの|設定と航路データに何か間違いが…=I-I did, but...\tThere’s a mistake with the autopilot settings and the route data.
+弁解はいい！\t　くっ…あまり騒ぎを|大きくしたくはなかったが…\v港の人間を避難させるしかない。\t|Ｌ、君やＦＢＩの出番だよ。=Give me a break!\t Ugh, here I was trying to avoid a scene.\vI guess we’ll have to evacuate the people in the port.\t|L, you and the FBI can do that.
+いえ、そうはうまく行きません。\t|アルテア港といえば、クリエラ政府の|支配地域。\vそこに爆弾を積んだ船が突入し、|爆発を起こせば…\t死者の有無に関係なく|それは反政府勢力の仕業となります。=No, that’s not going to work.\t|Port Altair is controlled by the Criellan government.\vIf a ship loaded with explosives crashes into the port and blows up...\t even if no one dies, they’ll see it as an act of aggression.
+まさか、\tそれじゃあ…クリエラは！=No...\t you mean Criella--!
+再び紛争が始まるでしょう…\t|最悪の結末です！=The war would restart.\t|It’s the worst possible situation!
+いや、そうでもない。\t|Ｌブランドのデビューをクリエラに|してしまうというのは悪くないぞ。=That’s not true.\t|It might not be so bad to have the L Brand debut with Criella.
+まるで紛争そのものが、|Ｌのプロデュースみたいじゃないか。\t|ふふっ…=It’d be as if the conflict itself was produced by L.\t|Heh heh heh...
+底なしの悪趣味ですね。=That’s beyond low.
+同じ騒ぎなら、大きい方がいい。|証拠調査どころではなくなるだろう。\vＬ、君はもちろんのこと、ＦＢＩも|他国の紛争では手が出せまい。=If we’re going to cause a scene, the bigger the better.|They won’t be able to scrap up any evidence anyway.\vOf course, the great L and the FBI will be powerless to intervene in another country’s war.
+証拠は残らなくても、我々が証人に|なりますよ。=Even if there’s no evidence left, we’ll still be witnesses.
+いつどこで証言するつもりかね？\t|５時間後には全世界が『Ｌブランド』を|認知するのだ。\vあとは放っておいても客が集まる。\t|そのとき、私は面白いプロモーション|映像を客に見せることになる。\v君とヒヨッコＦＢＩの、この９時間の|命がけの大活躍ぶりをね…\vこんなに本気で開発していたのかと客は|知り、\tそして、探偵としての君の信用は|失墜する。\v悪い事は言わん。そこのＦＢＩの若造を|救いたくば、今すぐ脱出を勧めたまえ。\t|ジェフリー、君も逃げるがいい。=And how are you going to make your testimony?\t|In five hours, the whole world will know of the L Brand.\vI can just kick back and watch as the customers flood in.\t|I’ll even show them a little promotional film.\vThis nine hours that you and your little FBI friend have spent running around.\vThe clients will see how seriously you worked on developing the products,\t and your credibility as a detective will be destroyed.\vTake my advice. If you want to save the young FBI agent over there, I suggest you get them out now.\t|Jeffrey, you can escape too.
+…お断りします。\t|あなたには、もう従えません。=...I refuse.\t|I don’t follow you anymore.
+なんだと？=What?
+私はあなたにお世話になった…\t|あなたの力がなければ、私は学ぶことも|生きることもできなかった…=I am indebted to you.\t|Without your help, I wouldn’t have had the opportunity to learn and to grow.
+しかし、私には紛争をプロデュースする|なんて、できません…\t|今まで、ありがとうございました。=But, I will not be the cause of a war.\t|Thank you for everything you have done for me, and goodbye.
+な、なんだと…\tジェフリー…？=W-What are you talking about?\t Jeffery...?
+アロイス会長との通信を|断ったのですか？=You cut off communications with Mister Alois?
+はい。|これで会長からの妨害はありません。\t|船を停めましょう。私も手伝います。=Yes.|Now he can’t interfere anymore.\t|Let’s stop this ship. I’ll help you.
+では、@n0さんと協力して、|全システムの再起動を行ってください。=Right. Please help @n0 to reboot the system.
+それでは間に合いません。\t|システム再起動には１５分必要ですが、|その間にエンジンが爆発します…！=That’ll take too long!\t|It will take 15 minutes to restart the systems, by which point the engines will have exploded...!
+Ｌ…\t米軍の介入を要請してください。\t|@n1さんを助けた後、この船を|撃沈してもらうのがベストです。=L...\t Please ask the US military to intervene.\t|After rescuing @n1, it would be best for everyone to have them sink the ship.
+いえ…\tそれはベストではありません。\t|和平調停中のクリエラ領内に米軍が|介入すれば、話がこじれるだけです。\v我々の力でエンジンを止めるのが|今、出来うるベストの方法です。=No...\t that wouldn’t be for the best.\t|If the US military appears in Criella while the peace mediation is still going on, it will only complicate things.\vThe best thing we can do now is to stop the engines ourselves.
+この船のエンジンは、複数の発電機と、|電力モーターを回転させる推進器から|成る電気推進式エンジンです。\v機関室へ行き、まず、発電機と推進器を|遮断して船の足を止め、次にエンジンを|１つずつ直接停止させましょう。\vその上でシステム再設定をすれば、|暴走や爆発の確率を低くできますし、|すべてはこの船の上で終わります。=The ship's engines are electric propulsion engines, consisting of several generators and a propulsion unit that turns an electric motor.\vGo to the engine room and stop the ship by shutting off the generators and propulsors, then directly shut down the engines one by one.\vIf you can reconfigure the system, you can reduce the chances of the engines running out of control or exploding, and shut the operation down for good.
+わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=All right...\vTo get to the engine room, you need to go through the ship's hold.\vYou can get there using the promenade stairs.|\tThere’s a key in the drawer there.
+では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=I’ll be counting on you to assist @n0 from the bridge and disengage the autopilot.\v@n0, you’re in charge of stopping the engines.
+「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=“I am indebted to you.”, hm?|That could be something.\t|I’ll have Watari look into it.
 !FILE:dat_script.bin/file011_PACK2/file006.bin
 急いで次に進みましょう。=
 Ｌ、こんなことをしていたら|間に合わない…\v命が惜しくて言っているわけじゃない。|本当に時間がないんだ…！\t|頼む、米軍に要請だけでもしてくれ…\vもし船が港に突っ込んでしまったら、|会長は情報操作をして、あなたの関与を|確実に世界に広める…\tそういう人だ！\vそうなれば、あなたの証言すら意味が|なくなってしまう！=
@@ -1656,12 +1656,12 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file011_PACK2/file022.bin
 ソーサーを調べた。=Examined plates.
 !FILE:dat_script_f08_a.bin/file014_PACK2/file006.bin
-ここから先は脱出のためでなく、|この船を止めるためのミッションです。\vこのまま止められなければ、|船は港に突入し大惨事となるでしょう。\t|それだけは食い止めたい…\vしかし、たとえＦＢＩ捜査官といえども|@n0さん、あなたには自分の命を|守る権利はある。\v選択肢は２つです。\t|救命ボートで船を離れるか、|このままミッションを進めるか…\v私には強制する権利はありません。\t|あなた自身で選択してください。=
-どちらを選ぼうと、あなたのここまでの|活躍に敬意を表したいと思います。=
-救命ボートで脱出=
-ミッション続行=
-…わかりました。\t|無事、生き延びてください…=
-@n0さん、ありがとう。|パートナーがあなたでよかった。\t|急いで先へ進みましょう。=
+ここから先は脱出のためでなく、|この船を止めるためのミッションです。\vこのまま止められなければ、|船は港に突入し大惨事となるでしょう。\t|それだけは食い止めたい…\vしかし、たとえＦＢＩ捜査官といえども|@n0さん、あなたには自分の命を|守る権利はある。\v選択肢は２つです。\t|救命ボートで船を離れるか、|このままミッションを進めるか…\v私には強制する権利はありません。\t|あなた自身で選択してください。=From here on out the mission is no longer to escape, but to stop the ship.\vIf we can’t stop it, the ship will reach the port and it will be a disaster.\t|If nothing else, I want to stop that happening.\vBut even if you are an FBI agent, @n0, you have the right to put your life first.\vYou have two options.\t|You can escape in a lifeboat, or you can continue with the mission...\vI can’t force you to do anything.\t|You must make your own choice.
+どちらを選ぼうと、あなたのここまでの|活躍に敬意を表したいと思います。=Whichever you choose, my respect for what you have done so far will not change.
+救命ボートで脱出=Escape by lifeboat
+ミッション続行=Continue with the mission
+…わかりました。\t|無事、生き延びてください…=...I understand.\t|Please be safe...
+@n0さん、ありがとう。|パートナーがあなたでよかった。\t|急いで先へ進みましょう。=Thank you, @n0.|I’m glad you are my partner.|Let’s hurry and move on.
 そこにあるのは救命ボートですね。\t|見たところ、新しいものを取り付けて|あるようです。\v使わずに済ませたいですが、|いざという場合のために、一応、|覚えておきましょう。=There’s a lifeboat.\t|It looks like it was recently installed.\vI hope you won’t have a need for it, but just in case, we should keep it in mind. 
 情報キーワード|@fR【救命ボート】@fW|を入手した。=Keyword added:|@fR“Lifeboat"@fW
 !FILE:dat_script_f08_a.bin/file014_PACK2/file010.bin
@@ -1699,17 +1699,17 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file020_PACK2/file010.bin
 オープン？|(debug)=
 !FILE:dat_script_f08_b.bin/file002_PACK2/file007.bin
-エレベーターホールへ移動します。|よろしいですか？=
+エレベーターホールへ移動します。|よろしいですか？=Return to the elevator hall?
 !FILE:dat_script_f08_b.bin/file003_PACK2/file010.bin
-窓だ。\vここからは青い海しか見えない。=
+窓だ。\vここからは青い海しか見えない。=It’s a window.\vThe blue sea stretches for miles around.
 !FILE:dat_script_f08_b.bin/file003_PACK2/file019.bin
-モニターだ。\v何も映し出されてはいない。=
+モニターだ。\v何も映し出されてはいない。=A monitor.\vThere’s nothing on it.
 !FILE:dat_script_f08_b.bin/file003_PACK2/file020.bin
-コンソールを調べた。=
+コンソールを調べた。=Examined console.
 !FILE:dat_script_f08_b.bin/file003_PACK2/file026.bin
-計器を調べた。=
+計器を調べた。=Examined instrument.
 !FILE:dat_script_f08_b.bin/file004_PACK2/file010.bin
-ブリッジ=
+ブリッジ=Bridge
 !FILE:dat_script_f08_b.bin/file005_PACK2/file018.bin
 寝具を調べた。=
 !FILE:dat_script_f09.bin/file001_PACK2/file013.bin
