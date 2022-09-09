@@ -558,34 +558,34 @@
 ありがとう。=
 では@n0さん、先へ進みましょう。|いよいよ最後の仕事です。=
 !FILE:dat_script.bin/file011_PACK2/file008.bin
-ジェフリー、ハウスキーパーとの回線を|開いてください。=
-…はい。=
-復帰させました。\t|ハウスキーパーにつながるはずです。=
-ハウスキーパー、聞こえますか？=
-ああ、聞こえる。\t何の用だ？=
-あなたのワールドシリーズですが、|今すぐ中止していただけませんか？=
-断る。\tこれは俺のプライドの問題だ。|おまえの鼻を明かさなくては|気がすまん。=
-船と共に沈むことになってもですか？\t|ジェフリー同様、あなたもグラナダ号に|乗っているんでしょう？=
-ああ、そうだ。\t|そんなに俺を心配してくれるなら、|トラップを解除して船を停めてくれ。=
-エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=
-悔しかったら、逆転満塁ホームランを|打ってみろ！=
-……どこまでも、ベースボールとは。\t|そんなに野球好きなら、爆弾魔ではなく|野球選手を目指すべきでしょうに…=
-情報キーワード|@fR【ベースボール好きの爆弾魔】@fW|を入手した。=
-もう説得は諦めて、トラップを解除して|ヤツを追い詰めるしかありませんね…=
-おや…\t今のトラップ…妙ですね。=
-今までのトラップは、利き腕を|感じさせないセットの仕方だったのに、|今回は、右利きのクセがでています。\vどうやら彼も、焦っているようですね。=
-逆転サヨナラホームランの可能性が|出てきましたよ。=
-情報キーワード|@fR【〝右利き〟のトラップ】@fW|を入手した。=
+ジェフリー、ハウスキーパーとの回線を|開いてください。=Jeffrey, please open a line to the Housekeeper.
+…はい。=Okay...
+復帰させました。\t|ハウスキーパーにつながるはずです。=I’ve got it back on.\t|You should be able to connect to the Housekeeper.
+ハウスキーパー、聞こえますか？=Housekeeper, do you copy?
+ああ、聞こえる。\t何の用だ？=Yeah, I’m here.\t What do you want?
+あなたのワールドシリーズですが、|今すぐ中止していただけませんか？=Could you deactivate your World Series right now?
+断る。\tこれは俺のプライドの問題だ。|おまえの鼻を明かさなくては|気がすまん。=I refuse.\t This is a matter of pride.|I’m not going to concede to you.
+船と共に沈むことになってもですか？\t|ジェフリー同様、あなたもグラナダ号に|乗っているんでしょう？=Even if it means going down with the ship?\t|You're on the Granada like Jeffery, aren't you?
+ああ、そうだ。\t|そんなに俺を心配してくれるなら、|トラップを解除して船を停めてくれ。=That’s right.\t|If you’re so worried about me, disarm my traps and stop the ship.
+エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=There’s still time before the engine’s burnup.\t|I’ll have you see this through to the end.
+悔しかったら、逆転満塁ホームランを|打ってみろ！=If that upsets you, then you’d better hit it out of the park with a home run!
+……どこまでも、ベースボールとは。\t|そんなに野球好きなら、爆弾魔ではなく|野球選手を目指すべきでしょうに…=Baseball puns, again?\t|If he loves baseball so much, he should be a baseball player, not a bomber...
+情報キーワード|@fR【ベースボール好きの爆弾魔】@fW|を入手した。=Keyword added:|@fR“Baseball-mad Bomber"@fW
+もう説得は諦めて、トラップを解除して|ヤツを追い詰めるしかありませんね…=I guess we’ll have to give up trying to persuade him and just disarm the traps...
+おや…\t今のトラップ…妙ですね。=Hm?\t That trap you just disarmed is strange.
+今までのトラップは、利き腕を|感じさせないセットの仕方だったのに、|今回は、右利きのクセがでています。\vどうやら彼も、焦っているようですね。=The traps you’ve faced up to this point were designed in a way that didn’t show any of the maker’s quirks, but this time, I can see right-handed favoritism.\vI guess he was in a hurry.
+逆転サヨナラホームランの可能性が|出てきましたよ。=It looks like we can score a walk-off home run.
+情報キーワード|@fR【〝右利き〟のトラップ】@fW|を入手した。=Keyword added:|@fR“Right-handed Trap"@fW
 !FILE:dat_script.bin/file011_PACK2/file009.bin
-だめだ…！　間に合いません。\t|ＦＢＩに…いえ、米軍に要請して|船を沈めてもらうしかありません！=
-まだ諦めるには早過ぎますよ。\t|この船のシステムを作ったあなたと|私たちなら、必ず船を停められます。\v今は船を停めることだけに|集中してください。=
-は、はい…=
+だめだ…！　間に合いません。\t|ＦＢＩに…いえ、米軍に要請して|船を沈めてもらうしかありません！=It’s hopeless! We’ll never make it in time.\t|We have to call in the FBI-- No, the US military and have them sink the ship!
+まだ諦めるには早過ぎますよ。\t|この船のシステムを作ったあなたと|私たちなら、必ず船を停められます。\v今は船を停めることだけに|集中してください。=It’s too early to give up.\t|With you, who designed the ship’s system, and us working together, we can stop the ship.\vJust focus on that.
+は、はい…=R-Right.
 !FILE:dat_script.bin/file011_PACK2/file010.bin
-手短にお願いします。=
-あなたが、アロイスがＣＬＮの幹部だと|知ったのは、この事件の計画がなされる|ずっと前の話ですよね？=
-えっ…？　ええ…３年ほど前、会長に|プログラムの技術を認めていただき、|計画立案から参加しています。\vＣＬＮとのつながりを知ったのは|参加直後…ですけど、それが何か？=
-いえ、特に意味はありません。|作業を続けてください。=
-情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=
+手短にお願いします。=Please make it brief.
+あなたが、アロイスがＣＬＮの幹部だと|知ったのは、この事件の計画がなされる|ずっと前の話ですよね？=You knew that Alois was an executive of the CLN long before all this, didn’t you?
+えっ…？　ええ…３年ほど前、会長に|プログラムの技術を認めていただき、|計画立案から参加しています。\vＣＬＮとのつながりを知ったのは|参加直後…ですけど、それが何か？=Huh? I did... About three years ago, he became aware of my programming skills and had me get involved right from the planning stage.\vIt was just after I joined that I found out about his connection with the CLN. But, why does it matter?
+いえ、特に意味はありません。|作業を続けてください。=No reason.|I won’t keep you from your work any longer.
+情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=Keyword added:|@fR“Jeffery Involved in Plan"@fW
 !FILE:dat_script.bin/file011_PACK2/file011.bin
 ダメだ…！\t　もうどうにもならない！|早く、早く船を沈めてくれ！=
 沈めるのは最後の手段です。\t|そのために、@n0さんは命を|かけているんです。=
@@ -711,7 +711,7 @@
 上へと続いている。=
 ２階へ上がります。|@fWよろしいですか？=
 !FILE:dat_script_f01.bin/file003_PACK2/file010.bin
-階段ホール=
+階段ホール=Stairwell
 !FILE:dat_script_f01.bin/file003_PACK2/file011.bin
 扉を開きます。|よろしいですか？=Open door?
 !FILE:dat_script_f01.bin/file004_PACK2/file006.bin
@@ -1579,9 +1579,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f07.bin/file020_PACK2/file013.bin
 暗くてよく見えない。=It’s dark and hard to see.
 !FILE:dat_script_f08_a.bin/file001_PACK2/file011.bin
-ドラム缶を調べた。=
+ドラム缶を調べた。=Examined metal drum.
 !FILE:dat_script_f08_a.bin/file001_PACK2/file014.bin
-鉄骨を調べた。=
+鉄骨を調べた。=Examined steel beam.
 !FILE:dat_script_f08_a.bin/file003_PACK2/file007.bin
 プロムナードへ移動します。|よろしいですか？=Return to the promenade?
 !FILE:dat_script_f08_a.bin/file003_PACK2/file013.bin
@@ -1713,7 +1713,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_b.bin/file005_PACK2/file018.bin
 寝具を調べた。=
 !FILE:dat_script_f09.bin/file001_PACK2/file013.bin
-コンテナを調べた。=
+コンテナを調べた。=Examined container.
 !FILE:dat_script_f09.bin/file003_PACK2/file006.bin
 @n0さん…この部屋の雰囲気は|他とは違います。\t何かありそうです。=
 Ｌ、ひとつ報告があります。=
@@ -1739,60 +1739,60 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file003_PACK2/file016.bin
 電気は既に通っている。=
 !FILE:dat_script_f09.bin/file004_PACK2/file011.bin
-デジタルロックだ。\v鍵はもう、開いている。=
-デジタルロックだ。=
-４桁の数字を入力して、|正解すれば解除できるようです。\vおそらくこの階にヒントが|あると思うのですが……\v試しに入力してみるのも|良いかもしれませんね。=
-４桁の数字を入力して、|正解すれば解除できるようです。\v入力するべきは4桁の数字。|\t数字を当てはめる桁と、|そこに入れる数字が重要です。=
-入力する=
-入力しない=
-お見事です。|\t先を急ぎましょう。=
-ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=
-ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=
+デジタルロックだ。\v鍵はもう、開いている。=A digital lock.\vIt has already been unlocked.
+デジタルロックだ。=A digital lock.
+４桁の数字を入力して、|正解すれば解除できるようです。\vおそらくこの階にヒントが|あると思うのですが……\v試しに入力してみるのも|良いかもしれませんね。=It looks like you’ll need a four-digit code.\vI imagine there will be a hint for it on this floor.
+４桁の数字を入力して、|正解すれば解除できるようです。\v入力するべきは4桁の数字。|\t数字を当てはめる桁と、|そこに入れる数字が重要です。=It looks like you’ll need a four-digit code.\vBoth the order and number of digits is important.
+入力する=Input number
+入力しない=Don’t input number
+お見事です。|\t先を急ぎましょう。=Brilliant work.|\tLet’s keep going.
+ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=Looks like that didn’t work.|\tIsn’t there a hint anywhere?
+ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=Looks like that didn’t work.|\tIf we knew what the hint was about, it should be simple.
 !FILE:dat_script_f09.bin/file005_PACK2/file006.bin
-@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=
+@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous bombs ahead.\vIt’s a race against time, but we can’t rush through.|Keep a level head and plough through.
 !FILE:dat_script_f09.bin/file005_PACK2/file010.bin
-階段ホールへ移動します。|よろしいですか？=
+階段ホールへ移動します。|よろしいですか？=Move to the stairwell?
 !FILE:dat_script_f09.bin/file005_PACK2/file016.bin
 デジタルロックのようだ。=
 !FILE:dat_script_f09.bin/file006_PACK2/file010.bin
-やはり扉にトラップが仕掛けられて|いますね…\t注意してください。=
-これはあらかじめ仕掛けてあったもの|ではなく、急きょセットされたような|印象があります…\tということは…=
+やはり扉にトラップが仕掛けられて|いますね…\t注意してください。=So the door was booby trapped...\t Be careful.
+これはあらかじめ仕掛けてあったもの|ではなく、急きょセットされたような|印象があります…\tということは…=I get the impression that ths trap wasn’t prepared in advance, but was set in a hurry.\t Which means...
 !FILE:dat_script_f09.bin/file007_PACK2/file006.bin
-遅くなりましたが、|彼の情報をまとめました。\t|まだ必要ですかな？=
-ええ…これから必要になりますよ。|きっと…=
-ではまず１つ目を送ります。=
-情報キーワード|@fR【ジェフリー・ミラー】@fW|を入手した。=
-ジェフリーが戦争孤児…\tアロイスへの|忠誠心は、ここにあったのですね…\t|もうひとつは？=
-情報キーワード|@fR【ジェフリーの家族】@fW|を入手した。=
-ＣＬＮの爆弾で家族が…？|このことを本人は？=
-そこまではわかりません…\t|情報は以上です。=
-…気になる情報ですね…=
-ジェフリー、\tこの状況下で申し訳ないの|ですが、ひとつ質問をさせてもらっても|いいですか？=
+遅くなりましたが、|彼の情報をまとめました。\t|まだ必要ですかな？=It took me some time, but I have compiled his information.\t|Would you still like it?
+ええ…これから必要になりますよ。|きっと…=Yes... I’m sure it will play a key role going forward.
+ではまず１つ目を送ります。=Then, I shall send you the first paper.
+情報キーワード|@fR【ジェフリー・ミラー】@fW|を入手した。=Keyword added:|@fR“Jeffrey Miller"@fW
+ジェフリーが戦争孤児…\tアロイスへの|忠誠心は、ここにあったのですね…\t|もうひとつは？=Jeffery was an orphan of war...\tHis loyalty to Alois must stem from here.\t|What else do you have?
+情報キーワード|@fR【ジェフリーの家族】@fW|を入手した。=Keyword added:|@fR“Jeffrey’s Family"@fW
+ＣＬＮの爆弾で家族が…？|このことを本人は？=It was CLN orchestrated bombings that killed them...|Does he know about this?
+そこまではわかりません…\t|情報は以上です。=I’m afraid I couldn’t answer that.\t|This is all the information I could find.
+…気になる情報ですね…=It’s certainly worth knowing.
+ジェフリー、\tこの状況下で申し訳ないの|ですが、ひとつ質問をさせてもらっても|いいですか？=Jeffery,\t I hate to ask under these circumstances, but there’s something I need to know.
 !FILE:dat_script_f09.bin/file007_PACK2/file010.bin
-パイプを調べた。=
+パイプを調べた。=Examined pipe.
 !FILE:dat_script_f09.bin/file007_PACK2/file015.bin
 入手した紙切れを組合わせると|１枚のメモになった。=
 !FILE:dat_script_f09.bin/file008_PACK2/file010.bin
-倉庫Ｃ=
+倉庫Ｃ=Storage C
 !FILE:dat_script_f09.bin/file009_PACK2/file012.bin
-鏡だ。\v文字が浮かび上がっている。\v２→１と書かれている。=
+鏡だ。\v文字が浮かび上がっている。\v２→１と書かれている。=A mirror.\vWriting has appeared on it.\vIt says “２→１”.
 !FILE:dat_script_f09.bin/file009_PACK2/file013.bin
-洗面台だ。=
-水を出す=
-お湯を出す=
-何もしない=
-ガラスが曇った。=
+洗面台だ。=A washbasin.
+水を出す=Turn the cold water tap
+お湯を出す=Turn the hot water tap
+何もしない=Don’t turn the taps
+ガラスが曇った。=The glass fogged up.
 !FILE:dat_script_f09.bin/file010_PACK2/file010.bin
-倉庫Ｂ=
+倉庫Ｂ=Storage B
 !FILE:dat_script_f09.bin/file011_PACK2/file012.bin
-張り紙を調べた。=
+張り紙を調べた。=Examined poster.
 !FILE:dat_script_f09.bin/file012_PACK2/file010.bin
-倉庫Ａ=
+倉庫Ａ=Storage A
 !FILE:dat_script_f09.bin/file013_PACK2/file015.bin
 コンテナに文字が書かれている。=
 １→６だ。=
 !FILE:dat_script_f09.bin/file014_PACK2/file010.bin
-倉庫Ｆ=
+倉庫Ｆ=Storage F
 !FILE:dat_script_f09.bin/file015_PACK2/file010.bin
 壁に文字が書かれている。=
 ３→８だ。=
@@ -1801,7 +1801,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file015_PACK2/file017.bin
 コンテナの隙間を調べた。=
 !FILE:dat_script_f09.bin/file016_PACK2/file010.bin
-倉庫Ｅ=
+倉庫Ｅ=Storage E
 !FILE:dat_script_f09.bin/file017_PACK2/file006.bin
 @n1さんのＰＤＡからの電波に|乱れが出ているようです。=
 この部屋のどこかに、通信室へつながる|隠し通路があるはずです。\t|@n0さん、調べてください。=
@@ -1809,11 +1809,11 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ノートパソコンを調べた。=
 キーロックがかかっており、|起動できない。=
 !FILE:dat_script_f09.bin/file017_PACK2/file019.bin
-メモ用紙が挟まっている。=
-なるほど、これはヒントの|使い方のサンプルですね。|\tこれを参考にすれば……=
+メモ用紙が挟まっている。=A piece of notepaper was hidden.
+なるほど、これはヒントの|使い方のサンプルですね。|\tこれを参考にすれば……=I see, this is an example of how to use the hints.|\tIf you follow this...
 １→３|３→６|２→７|３７６=
 !FILE:dat_script_f09.bin/file018_PACK2/file010.bin
-倉庫Ｄ=
+倉庫Ｄ=Storage D
 !FILE:dat_script_f09.bin/file019_PACK2/file006.bin
 これは…通信室ですね。\t|ジェフリー、ここが何なのか|教えていただけますか？=
 !FILE:dat_script_f09.bin/file019_PACK2/file007.bin
