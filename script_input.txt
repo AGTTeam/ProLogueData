@@ -543,20 +543,20 @@
 あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=You seem to want to sink the ship more than you want to stop it.\t|What is your real purpose?
 な、何を言うのですか？\t|私は爆発を食い止めたい、|それだけです！=What are talking about?\t|I just want to stop the explosion, that’s all!
 !FILE:dat_script.bin/file011_PACK2/file007.bin
-もう、その言葉を…|家族を失った悲しみを…\t|あなたは忘れてしまったのですか？=
-…忘れるものか…=
-忘れられるはずがないだろう！\vそうだ…私は、戦争が憎い。\t|金を得るために人の命を奪い続ける|ＣＬＮのような連中が許せない…\vだから、この船を沈めるために|米軍を引っ張り出し、ＣＬＮを叩く|口実を作らせたい…！\vＣＬＮのような悪魔がいる限り、|この世界は平和にはならない…\t|私のような子供が増え続けるんだ…\v憎しみの連鎖を誰かが断たなければ|ならないんだ…！=
-あなたの言う通りです。=
-えっ……？=
-だが、その連鎖を断つためにこの船を|米軍が沈めれば、クリエラで再び紛争が|始まり、新たな憎しみが生まれる…=
-戦争被害者のあなたが、戦争被害者を|生み出すその矛盾にあなたは気づかない|というのですか？=
-…………！=
-この船を停め、アロイスとＣＬＮの悪を|暴くことが、あなたの願いをかなえる|ベストの方法なのではありませんか？=
-私は…\t私は…どうしたら…=
-この船を停めるために、|力を貸してください…|今度こそ…=
-…わかりました。\t|全力でサポートします。=
-ありがとう。=
-では@n0さん、先へ進みましょう。|いよいよ最後の仕事です。=
+もう、その言葉を…|家族を失った悲しみを…\t|あなたは忘れてしまったのですか？=Have you already forgotten those words... \tthe grief of losing your family?
+…忘れるものか…=Who could...
+忘れられるはずがないだろう！\vそうだ…私は、戦争が憎い。\t|金を得るために人の命を奪い続ける|ＣＬＮのような連中が許せない…\vだから、この船を沈めるために|米軍を引っ張り出し、ＣＬＮを叩く|口実を作らせたい…！\vＣＬＮのような悪魔がいる限り、|この世界は平和にはならない…\t|私のような子供が増え続けるんだ…\v憎しみの連鎖を誰かが断たなければ|ならないんだ…！=How could I ever forget!\vYes... I hate war.\t|I can’t stand people like the CLN who destroy lives all for a profit.\vThat’s why I wanted to get the US military to sink this ship and give them an excuse to attack the CLN!\vAs long as there are evil organizations the like CLN, this world will never be at peace.\tThe number of children like me will continue to grow...\vSomeone has to break the cycle of hatred!
+あなたの言う通りです。=You are right.
+えっ……？=Huh...?
+だが、その連鎖を断つためにこの船を|米軍が沈めれば、クリエラで再び紛争が|始まり、新たな憎しみが生まれる…=But if the US military sinks this ship, it will only fuel tensions in Criella and create new hatred...
+戦争被害者のあなたが、戦争被害者を|生み出すその矛盾にあなたは気づかない|というのですか？=Don’t you, a victim of war, understand the discord that create war victims?
+…………！=...!
+この船を停め、アロイスとＣＬＮの悪を|暴くことが、あなたの願いをかなえる|ベストの方法なのではありませんか？=Isn’t the best way to fulfil your wish to stop this ship and expose the crimes of Alois and the CLN?
+私は…\t私は…どうしたら…=I...\t I... what should I...?
+この船を停めるために、|力を貸してください…|今度こそ…=Please help me to stop this ship.|We can do it, together.
+…わかりました。\t|全力でサポートします。=...I understand.\t|I’ll help you in any way I can.
+ありがとう。=Thank you.
+では@n0さん、先へ進みましょう。|いよいよ最後の仕事です。=Well, @n0, let’s move on.|We have one last job to do.
 !FILE:dat_script.bin/file011_PACK2/file008.bin
 ジェフリー、ハウスキーパーとの回線を|開いてください。=Jeffrey, please open a line to the Housekeeper.
 …はい。=Okay...
@@ -627,26 +627,26 @@
 もう勝負は終わったんです！|無駄なことはやめなさい！=
 たとえ俺が負けたとしても、|この船をブッ飛ばして、ＦＢＩや|ジェフリーを道連れにすれば…\v犠牲を出したおまえも『負け』同然だ！|ははっ…はははははははっ！=
 !FILE:dat_script.bin/file012_PACK2/file008.bin
-ジェフリー、あなたの出番も|すぐに来るはずです。\vそろそろ機関室に向かって|おいてもらえますか？=
-ただし、@n0さんが|すべてを解除するまでこのフロアには|入らないでください。=
-それでは、@n0さん…\t|最後のミッションを始めましょう。=
+ジェフリー、あなたの出番も|すぐに来るはずです。\vそろそろ機関室に向かって|おいてもらえますか？=Jeffrey, we’ll be needing you very soon.\vCould you please start heading to the engine room now?
+ただし、@n0さんが|すべてを解除するまでこのフロアには|入らないでください。=Don’t enter this floor until @n0 has disarmed everything.
+それでは、@n0さん…\t|最後のミッションを始めましょう。=Now then, @n0...\t|It’s time we get this show on the road.
 !FILE:dat_script.bin/file012_PACK2/file009.bin
-どうだ、俺の主催するゲームは？\t|ワールドシリーズにふさわしい|勝負になりそうだろう？=
-…いえ、これ以上、くだらない|ゲームはありませんね。=
-なに？=
-ベースボールのワールドシリーズは|栄光を求め互いに競い合い、文字通り|命がけの勝負を繰り広げます。\vそれは命と命のぶつかり合いであって、|命を無駄に奪い合う戦いではない…=
-こんな目的もなく、『破滅』を脅迫の|材料にした低俗なゲームと比べては、|ベースボールに失礼ですよ。=
-…くっ！　俺をコケにしたな！=
-だが、俺は絶対にこの勝負に勝つ。|勝って、その鼻をへし折ってやる。=
-（なんという負けず嫌いな性格…\t|　今回の件を除けば、ハウスキーパーの|　仕事成功率は１００％だった…）=
-情報キーワード|@fR【ハウスキーパーの性格】@fW|を入手した。=
-勝ちも負けもありませんよ。\t|爆弾と船の爆発を停め、憐れな犯罪者を|我々の手で挙げるだけです。=
-この勝負が終わったとき、|笑うのはどっちだろうな。=
-…あくまでも勝負にこだわるのですね。\t|なら、私を敵に回したあなたには|『勝利』はありませんよ。=
-ふん、せいぜい吠えていろ！|もう時間はあまりない…=
-あんなに煽るようなことを言って|大丈夫なんですか？=
-大丈夫かどうかを確かめたんですよ。|そして、答えは『大丈夫』です。\t|ヤツの目的は『勝負』なんです。\v途中で爆破させたりすることは|絶対にありません。=
-情報キーワード|@fR【ハウスキーパーの目的】@fW|を入手した。=
+どうだ、俺の主催するゲームは？\t|ワールドシリーズにふさわしい|勝負になりそうだろう？=How are you finding this game of mine?\t|It’s a match worthy of a World Series, isn’t it?
+…いえ、これ以上、くだらない|ゲームはありませんね。=...No, I doubt there has ever been such a pathetic showing.
+なに？=What!?
+ベースボールのワールドシリーズは|栄光を求め互いに競い合い、文字通り|命がけの勝負を繰り広げます。\vそれは命と命のぶつかり合いであって、|命を無駄に奪い合う戦いではない…=The Baseball World Series is a competition for glory, where one’s whole life is at stake.\vIt’s a fight to make a legacy, not a show to throw one’s life away in vain.
+こんな目的もなく、『破滅』を脅迫の|材料にした低俗なゲームと比べては、|ベースボールに失礼ですよ。=It’s disrespectful to baseball to compare it to such a pointless, vulgar game that uses “doom” as a source of intimidation.
+…くっ！　俺をコケにしたな！=Ngh! Mock me all you want...
+だが、俺は絶対にこの勝負に勝つ。|勝って、その鼻をへし折ってやる。=But I will be the winner of this game.|I’ll win and I’ll show you the worth of that meaningless pride!
+（なんという負けず嫌いな性格…\t|　今回の件を除けば、ハウスキーパーの|　仕事成功率は１００％だった…）=(He’s awfully competitive.\t|Apart from this incident, the Housekeeper’s success rate has been 100%...)
+情報キーワード|@fR【ハウスキーパーの性格】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Personality"@fW
+勝ちも負けもありませんよ。\t|爆弾と船の爆発を停め、憐れな犯罪者を|我々の手で挙げるだけです。=There is no competition.\t|We’re going to stop the ship, and the commiserable criminals will throw their hands up in surrender to us.
+この勝負が終わったとき、|笑うのはどっちだろうな。=We’ll see who has the last laugh, L.
+…あくまでも勝負にこだわるのですね。\t|なら、私を敵に回したあなたには|『勝利』はありませんよ。=...I see that you’re set on turning this into a fight.\t Then, you should know that I am an enemy you can’t win against.
+ふん、せいぜい吠えていろ！|もう時間はあまりない…=Hmph, I’d like to see you try!|You’re almost out of time.
+あんなに煽るようなことを言って|大丈夫なんですか？=Are you sure it’s okay to stir him up so much?
+大丈夫かどうかを確かめたんですよ。|そして、答えは『大丈夫』です。\t|ヤツの目的は『勝負』なんです。\v途中で爆破させたりすることは|絶対にありません。=That’s what I was trying to see.|And the answer is yes.\t|His goal is to ‘win’.\vHe would never let the ship explode before the match is over.
+情報キーワード|@fR【ハウスキーパーの目的】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Goal"@fW
 !FILE:dat_script.bin/file012_PACK2/file010.bin
 Ｌ、あんたたちに残された時間は|少ないぜ…\tベースボールで言うなら|９回裏２アウト２−３ってとこだ。=
 あなたもよくよくベースボールの|好きな人です…\t|イギリス出身なのに珍しいですね。=
@@ -1806,8 +1806,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 @n1さんのＰＤＡからの電波に|乱れが出ているようです。=
 この部屋のどこかに、通信室へつながる|隠し通路があるはずです。\t|@n0さん、調べてください。=
 !FILE:dat_script_f09.bin/file017_PACK2/file011.bin
-ノートパソコンを調べた。=
-キーロックがかかっており、|起動できない。=
+ノートパソコンを調べた。=Examined laptop.
+キーロックがかかっており、|起動できない。=It is locked and can’t be booted.
 !FILE:dat_script_f09.bin/file017_PACK2/file019.bin
 メモ用紙が挟まっている。=A piece of notepaper was hidden.
 なるほど、これはヒントの|使い方のサンプルですね。|\tこれを参考にすれば……=I see, this is an example of how to use the hints.|\tIf you follow this...
@@ -1852,7 +1852,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file020_PACK2/file012.bin
 やはりこの部屋でしたね。|@n0さん、行きましょう。=
 !FILE:dat_script_f10_a.bin/file001_PACK2/file006.bin
-おそらくこのフロアのどこかに|ハウスキーパーがいます。\vヤツは自分を守るためにも今まで以上に|トラップを張り巡らせているはずです。\vエンジン周りは特に注意してください。\t|『その場にあるものを有効に使う』\t|これがヤツの手口です。\vこの船において、エンジンは最高の|材料となっているはずですから…=
+おそらくこのフロアのどこかに|ハウスキーパーがいます。\vヤツは自分を守るためにも今まで以上に|トラップを張り巡らせているはずです。\vエンジン周りは特に注意してください。\t|『その場にあるものを有効に使う』\t|これがヤツの手口です。\vこの船において、エンジンは最高の|材料となっているはずですから…=The Housekeeper is most likely somewhere on this floor.\vHe will have placed extra traps to protect himself.\vBe especially careful as you get near the engine.\t “Make good use of what’s around”.\t|That’s his philosophy.\vI would have thought the engine is the best material on this ship...
 !FILE:dat_script_f10_a.bin/file003_PACK2/file012.bin
 コンテナだ。\v数値を入力するパネルがついている。=
 なるほど、\tさきほどのメモは|この装置のヒントですね。\vただ、そのままでは|入力できないようです。\vこの装置に入力できるよう戻してあげる|必要があります。\t|答えはいくつだと思いますか？=
@@ -1864,10 +1864,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ……|\t残念ですが、私から説明します。\vまず、メモの内容から残る|アルファベットは『ＢＩ』となります。\vこれを数字に戻すと、|でてくるのは『０２０９』となります。\t|この数値を装置に入力してください。=
 入力するのは『０２０９』です。=
 !FILE:dat_script_f10_a.bin/file004_PACK2/file010.bin
-整備室Ｃ=
+整備室Ｃ=Maintenance Room C
 !FILE:dat_script_f10_a.bin/file004_PACK2/file011.bin
-制御ランプだ。=
-消灯している。=
+制御ランプだ。=A status light.
+消灯している。=The light is on.
 !FILE:dat_script_f10_a.bin/file004_PACK2/file013.bin
 開かない。\v扉がロックされているようだ。=It didn’t open.\vThe door must be locked.
 !FILE:dat_script_f10_a.bin/file005_PACK2/file010.bin
@@ -1876,76 +1876,76 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_a.bin/file005_PACK2/file011.bin
 何かの部品だろうか。=
 !FILE:dat_script_f10_a.bin/file006_PACK2/file010.bin
-整備室Ｂ=
+整備室Ｂ=Maintenance Room B
 !FILE:dat_script_f10_a.bin/file007_PACK2/file012.bin
 金庫だ。\v中にはもう、何もない。=
 金庫だ。\vカードリーダーがついている。=
 この金庫は客室に設置してあった物とは|別物ですね。\vホテルのスタッフが利用する|共有金庫のようです。=
 金庫が開いた。=
 !FILE:dat_script_f10_a.bin/file008_PACK2/file010.bin
-整備室Ａ=
+整備室Ａ=Maintenance Room A
 !FILE:dat_script_f10_a.bin/file009_PACK2/file010.bin
-何かの装置だ。\v外装には変わったところはない。=
+何かの装置だ。\v外装には変わったところはない。=Some kind of device.\vNothing stands out about the exterior.
 !FILE:dat_script_f10_a.bin/file009_PACK2/file022.bin
-ＰＣを調べた。=
+ＰＣを調べた。=Examined PC.
 !FILE:dat_script_f10_a.bin/file010_PACK2/file010.bin
-制御室Ｂ=
+制御室Ｂ=Control Room B
 !FILE:dat_script_f10_a.bin/file011_PACK2/file010.bin
-装置が動いているため、|手を加えることはできない。=
-ぽっかりと穴が開いている。\vパーツが外された後のようだ。=
+装置が動いているため、|手を加えることはできない。=It’s not safe to touch anything while the device is on.
+ぽっかりと穴が開いている。\vパーツが外された後のようだ。=There is a large hole.\vIt appears that a part has been removed.
 !FILE:dat_script_f10_a.bin/file011_PACK2/file011.bin
-パーツを外します。|よろしいですか？=
+パーツを外します。|よろしいですか？=Remove the part?
 !FILE:dat_script_f10_a.bin/file011_PACK2/file016.bin
-ぽっかりと穴が開いている。=
-処理装置を取り付けた。=
+ぽっかりと穴が開いている。=There is a large hole.
+処理装置を取り付けた。=Fit the Processor.
 !FILE:dat_script_f10_a.bin/file011_PACK2/file019.bin
-スイッチを押します。|よろしいですか？=
-装置の動作が止まった。=
-処理装置がついていないため、|スイッチが動作しないようだ。=
-装置の稼動音が聞こえる。=
+スイッチを押します。|よろしいですか？=Push the switch?
+装置の動作が止まった。=The device turned off.
+処理装置がついていないため、|スイッチが動作しないようだ。=Without the Processor, the switch is no longer working.
+装置の稼動音が聞こえる。=The device turned on.
 !FILE:dat_script_f10_a.bin/file011_PACK2/file020.bin
-ランプだ。=
+ランプだ。=A light.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file010.bin
-操作パネルだ。\v通路の奥へとつながる扉を管理している。=
+操作パネルだ。\v通路の奥へとつながる扉を管理している。=A control panel.\vIt controls the door at the end of the corridor.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file024.bin
-大量のメーターがある。=
+大量のメーターがある。=There is a large number of meters.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file026.bin
-ディスプレイを調べた。=
-何も映してはいない。=
+ディスプレイを調べた。=Examined display.
+何も映してはいない。=Nothing is on the screen.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file028.bin
-大量のスイッチだ。=
-押すのは止めておこう。=
+大量のスイッチだ。=A large number of switches.
+押すのは止めておこう。=Better not to touch these.
 !FILE:dat_script_f10_a.bin/file013_PACK2/file010.bin
-制御室Ａ=
+制御室Ａ=Control Room A
 !FILE:dat_script_f10_a.bin/file014_PACK2/file013.bin
-ディスクスロットだ。=
-データディスクを挿入した。=
+ディスクスロットだ。=A disc drive.
+データディスクを挿入した。=Inserted CD.
 !FILE:dat_script_f10_a.bin/file014_PACK2/file014.bin
 ディスクスロットには|データディスクが挿入されている。=
 !FILE:dat_script_f10_a.bin/file014_PACK2/file015.bin
-切れ込みが入っている。\v中に何かありそうだが|手で開けることはできない。=
+切れ込みが入っている。\v中に何かありそうだが|手で開けることはできない。=There is a groove.\vThere may be something behind the panel, but it can’t be opened by hand.
 !FILE:dat_script_f10_a.bin/file014_PACK2/file016.bin
-六角形の穴が開いている。=
-カバーが開き、スイッチが現れた。=
+六角形の穴が開いている。=A hexagonal hole.
+カバーが開き、スイッチが現れた。=Removing the cover revealed a switch.
 !FILE:dat_script_f10_a.bin/file014_PACK2/file017.bin
-スイッチは既に押されている。=
+スイッチは既に押されている。=The switch has already been pressed.
 !FILE:dat_script_f10_a.bin/file014_PACK2/file018.bin
-特に何も起こらない。=
-どこかの扉が開いたようだ。=
+特に何も起こらない。=Nothing happened.
+どこかの扉が開いたようだ。=It seems a door has been unlocked.
 !FILE:dat_script_f10_b.bin/file002_PACK2/file010.bin
-整備室Ｄ=
+整備室Ｄ=Maintenance Room D
 !FILE:dat_script_f10_b.bin/file003_PACK2/file010.bin
 ダストボックスだ。=
 ダストボックスを開けます。|よろしいですか？=
 !FILE:dat_script_f10_b.bin/file004_PACK2/file010.bin
-整備室Ｅ=
+整備室Ｅ=Maintenance Room E
 !FILE:dat_script_f10_b.bin/file005_PACK2/file006.bin
 よくやってくれました、@n0さん…\t|これで、あとは船を停めるだけです。=
 !FILE:dat_script_f10_b.bin/file005_PACK2/file010.bin
 ハウスキーパーのトラップです。|一刻も早くこれを解除して、|船を停めましょう。=
 トラップの解除を行います。|よろしいですか？=
 !FILE:dat_script_f10_b.bin/file006_PACK2/file010.bin
-エンジンルーム=
+エンジンルーム=Engine Room
 !FILE:dat_script_map.bin/file001_PACK2/file006.bin
 タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus and press the @fR“Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room move in front of a door.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file010.bin
