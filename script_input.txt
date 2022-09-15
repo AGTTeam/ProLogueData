@@ -648,15 +648,15 @@
 大丈夫かどうかを確かめたんですよ。|そして、答えは『大丈夫』です。\t|ヤツの目的は『勝負』なんです。\v途中で爆破させたりすることは|絶対にありません。=That’s what I was trying to see.|And the answer is yes.\t|His goal is to ‘win’.\vHe would never let the ship explode before the match is over.
 情報キーワード|@fR【ハウスキーパーの目的】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Goal"@fW
 !FILE:dat_script.bin/file012_PACK2/file010.bin
-Ｌ、あんたたちに残された時間は|少ないぜ…\tベースボールで言うなら|９回裏２アウト２−３ってとこだ。=
-あなたもよくよくベースボールの|好きな人です…\t|イギリス出身なのに珍しいですね。=
-俺のじいさんはアメリカ出身でな、|ベースボールファンだったんだ。\vじいさん秘蔵のフィルムとか、新聞や|雑誌の切り抜きを見て、俺は育った。|\tバンビーノは俺のアイドルさ。=
-（バンビーノ…ベーブ・ルースの|　ニックネームか…）=
-情報キーワード|@fR【ベーブ・ルース】@fW|を入手した。=
-ガキの頃はよくプレイした。\tじいさんは|ベーブ・ルース２世だと喜んでた。|\t…打ち方もそっくりだったしな。\vそれだけじゃない。\t|野球以外でも、俺とバンビーノは|同じでな…モノを書くときだって…=
-…おっと、余計なおしゃべりをして|勝負をおろそかにしてもらっちゃ困る。\t|さっさと勝負に戻りな！=
-ベーブ・ルース２世…=
-情報キーワード|@fR【ベーブ・ルース２世】@fW|を入手した。=
+Ｌ、あんたたちに残された時間は|少ないぜ…\tベースボールで言うなら|９回裏２アウト２−３ってとこだ。=You’re running out of time, L.\t In baseball terms, you’re on two outs in the bottom of the ninth inning.
+あなたもよくよくベースボールの|好きな人です…\t|イギリス出身なのに珍しいですね。=You really do like baseball...\t|That’s unusual for someone from the UK.
+俺のじいさんはアメリカ出身でな、|ベースボールファンだったんだ。\vじいさん秘蔵のフィルムとか、新聞や|雑誌の切り抜きを見て、俺は育った。|\tバンビーノは俺のアイドルさ。=My gramps was from America and I got my love of baseball from him.\vI grew up with his treasured films and clippings from newspapers and magazines.|\tThe Bambino was my idol.
+（バンビーノ…ベーブ・ルースの|　ニックネームか…）=(The Bambino... That was Babe Ruth’s nickname.)
+情報キーワード|@fR【ベーブ・ルース】@fW|を入手した。=Keyword added:|@fR“Babe Ruth"@fW
+ガキの頃はよくプレイした。\tじいさんは|ベーブ・ルース２世だと喜んでた。|\t…打ち方もそっくりだったしな。\vそれだけじゃない。\t|野球以外でも、俺とバンビーノは|同じでな…モノを書くときだって…=I used to play when I was a kid.\t My gramps used to call me Babe Ruth II.|\tWe had the same play style.\vAnd that’s not all...\t|Even outside of baseball, me and the Bambino are the same. The way we use our hands, the way we write...
+…おっと、余計なおしゃべりをして|勝負をおろそかにしてもらっちゃ困る。\t|さっさと勝負に戻りな！=Oops, I got carried away then. This is no time for chit-chat.\t|Get back to it!
+ベーブ・ルース２世…=Babe Ruth II...
+情報キーワード|@fR【ベーブ・ルース２世】@fW|を入手した。=Keyword added:|@fR“Babe Ruth II"@fW
 !FILE:dat_script_f01.bin/file001_PACK2/file006.bin
 …この部屋には何かありそうです。\t|注意してください。=...I have a feeling something is planted in this room.\t|Be careful.
 このキーがどう役立つかは、|後ほど考えることにしましょう。=
@@ -1854,15 +1854,15 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_a.bin/file001_PACK2/file006.bin
 おそらくこのフロアのどこかに|ハウスキーパーがいます。\vヤツは自分を守るためにも今まで以上に|トラップを張り巡らせているはずです。\vエンジン周りは特に注意してください。\t|『その場にあるものを有効に使う』\t|これがヤツの手口です。\vこの船において、エンジンは最高の|材料となっているはずですから…=The Housekeeper is most likely somewhere on this floor.\vHe will have placed extra traps to protect himself.\vBe especially careful as you get near the engine.\t “Make good use of what’s around”.\t|That’s his philosophy.\vI would have thought the engine is the best material on this ship...
 !FILE:dat_script_f10_a.bin/file003_PACK2/file012.bin
-コンテナだ。\v数値を入力するパネルがついている。=
-なるほど、\tさきほどのメモは|この装置のヒントですね。\vただ、そのままでは|入力できないようです。\vこの装置に入力できるよう戻してあげる|必要があります。\t|答えはいくつだと思いますか？=
+コンテナだ。\v数値を入力するパネルがついている。=A container.\vIt has a panel for entering a PIN.
+なるほど、\tさきほどのメモは|この装置のヒントですね。\vただ、そのままでは|入力できないようです。\vこの装置に入力できるよう戻してあげる|必要があります。\t|答えはいくつだと思いますか？=I see,\t that note you found earlier is a hint for this device.\vWe need to convert the answer back into numbers in order to enter it into the device.\vHave you worked out the answer?
 ０６４９=
 ０２０９=
 ４７０３=
-わからない=
-その通り、おみごとです。\t|早速入力してしまいましょう。=
-……|\t残念ですが、私から説明します。\vまず、メモの内容から残る|アルファベットは『ＢＩ』となります。\vこれを数字に戻すと、|でてくるのは『０２０９』となります。\t|この数値を装置に入力してください。=
-入力するのは『０２０９』です。=
+わからない=Don’t know
+その通り、おみごとです。\t|早速入力してしまいましょう。=That’s the one, well done.\t|Enter it into the keypad.
+……|\t残念ですが、私から説明します。\vまず、メモの内容から残る|アルファベットは『ＢＩ』となります。\vこれを数字に戻すと、|でてくるのは『０２０９』となります。\t|この数値を装置に入力してください。=...|\tDon’t worry, I’ll explain it to you.\vIf you remove the numbers of the alphabet that correspond to the word “hope”, you’re left with the letters “bi”.\vConverting those back to numbers, you get “0209”.\t|That’s what you need to enter.
+入力するのは『０２０９』です。=The number to enter is “0209”.
 !FILE:dat_script_f10_a.bin/file004_PACK2/file010.bin
 整備室Ｃ=Maintenance Room C
 !FILE:dat_script_f10_a.bin/file004_PACK2/file011.bin
@@ -1871,17 +1871,17 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_a.bin/file004_PACK2/file013.bin
 開かない。\v扉がロックされているようだ。=It didn’t open.\vThe door must be locked.
 !FILE:dat_script_f10_a.bin/file005_PACK2/file010.bin
-メモが挟まっている。\vいくつかの数字とともに、|「希望とともにあるものはどれか？」|という文が書かれている。=
-このメモは暗号になっているようです。\t|暗号を解くのに必要な手順は２つです。\v先頭から数字を２つずつ|アルファベットに当てはめて行きます。\vつぎに、『希望』とともにある物が|何であるかを見てみましょう。\vちなみに、『希望』英語では|『ＨＯＰＥ』です。\v『希望』とともにあるものを|聞いているわけですから、『希望』|自体は排除して考えるべきですね。\vこの文字列が何を表しているかは|今はわかりません。\v必要になったときに|答え合わせをしましょう。|\tあなたも考えてみてください。=
+メモが挟まっている。\vいくつかの数字とともに、|「希望とともにあるものはどれか？」|という文が書かれている。=A memo was tucked inside.\vSeveral numbers, and the message|“What is with hope?”|are written on it.
+このメモは暗号になっているようです。\t|暗号を解くのに必要な手順は２つです。\v先頭から数字を２つずつ|アルファベットに当てはめて行きます。\vつぎに、『希望』とともにある物が|何であるかを見てみましょう。\vちなみに、『希望』英語では|『ＨＯＰＥ』です。\v『希望』とともにあるものを|聞いているわけですから、『希望』|自体は排除して考えるべきですね。\vこの文字列が何を表しているかは|今はわかりません。\v必要になったときに|答え合わせをしましょう。|\tあなたも考えてみてください。=It looks like a cipher.\t|It seems there are two steps to solving it.\vFirst, every two numbers need to be applied to a letter in the alphabet.\vThen, we need to figure out what it is that goes with “hope”.\vSince the question states something that is ‘with it’, I think we can exclude “hope” itself.\vAs it stands, we don’t know what this memo is referring to yet.\vWe’ll need to have an answer when the time comes.|\tLet me know if anything comes to mind.
 !FILE:dat_script_f10_a.bin/file005_PACK2/file011.bin
-何かの部品だろうか。=
+何かの部品だろうか。=It’s some kind of component.
 !FILE:dat_script_f10_a.bin/file006_PACK2/file010.bin
 整備室Ｂ=Maintenance Room B
 !FILE:dat_script_f10_a.bin/file007_PACK2/file012.bin
-金庫だ。\v中にはもう、何もない。=
-金庫だ。\vカードリーダーがついている。=
-この金庫は客室に設置してあった物とは|別物ですね。\vホテルのスタッフが利用する|共有金庫のようです。=
-金庫が開いた。=
+金庫だ。\v中にはもう、何もない。=A safe.\vIt’s empty.
+金庫だ。\vカードリーダーがついている。=A safe.\vIt has a card reader.
+この金庫は客室に設置してあった物とは|別物ですね。\vホテルのスタッフが利用する|共有金庫のようです。=This safe is different from the one in the guest room.\vThis must be a communal safe for the hotel’s staff.
+金庫が開いた。=Opened the safe.
 !FILE:dat_script_f10_a.bin/file008_PACK2/file010.bin
 整備室Ａ=Maintenance Room A
 !FILE:dat_script_f10_a.bin/file009_PACK2/file010.bin
@@ -1935,15 +1935,15 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_b.bin/file002_PACK2/file010.bin
 整備室Ｄ=Maintenance Room D
 !FILE:dat_script_f10_b.bin/file003_PACK2/file010.bin
-ダストボックスだ。=
-ダストボックスを開けます。|よろしいですか？=
+ダストボックスだ。=Examined dumpster.
+ダストボックスを開けます。|よろしいですか？=Open dumpster? 
 !FILE:dat_script_f10_b.bin/file004_PACK2/file010.bin
 整備室Ｅ=Maintenance Room E
 !FILE:dat_script_f10_b.bin/file005_PACK2/file006.bin
 よくやってくれました、@n0さん…\t|これで、あとは船を停めるだけです。=
 !FILE:dat_script_f10_b.bin/file005_PACK2/file010.bin
-ハウスキーパーのトラップです。|一刻も早くこれを解除して、|船を停めましょう。=
-トラップの解除を行います。|よろしいですか？=
+ハウスキーパーのトラップです。|一刻も早くこれを解除して、|船を停めましょう。=It’s another of the Housekeeper’s traps.|Let’s disarm it as quickly as possible so we can stop the ship.
+トラップの解除を行います。|よろしいですか？=Disarm the trap?
 !FILE:dat_script_f10_b.bin/file006_PACK2/file010.bin
 エンジンルーム=Engine Room
 !FILE:dat_script_map.bin/file001_PACK2/file006.bin
@@ -3200,150 +3200,150 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ケースを冷やした。=Cooled the case.
 液体のケースに、|中和剤を入れた。\v化学反応を起こしていた液体が|徐々に落ち着いてきた。=Poured the Neutralizer into the case.\vThe chemical reaction gradually calmed down.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file010.bin
-起爆装置のフタを開けた！=
-中には３つのくぼみがあった。=
-起爆装置を外せるようになった。=
-下の装置の全体が|見えるようになった。=
-やはり、まだ続きがあるようですね。|仕方ありません、|解除を続けましょう。=
-装置の起動が完了した！=
+起爆装置のフタを開けた！=Opened the lid of the detonator!
+中には３つのくぼみがあった。=There are three sockets inside.
+起爆装置を外せるようになった。=The detonator can now be removed.
+下の装置の全体が|見えるようになった。=The lower device is now visible.
+やはり、まだ続きがあるようですね。|仕方ありません、|解除を続けましょう。=As expected, there was more to it.|We have no choice, let’s continue.
+装置の起動が完了した！=The device finished booting up!
 液晶画面に数字が表示されている。=Numbers are displayed on the LCD screen.
-装置の分解に成功して、|外す事ができた。=
-中から起爆装置が出てきた。=
+装置の分解に成功して、|外す事ができた。=The device was successfully disarmed and removed.
+中から起爆装置が出てきた。=Another detonator was hidden inside.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file011.bin
-今のところ、動かせそうなのは|このフタだけですね。|\tまずこれを外しましょう。=
-角が固定されているぐらいで、|たいした物ではありません。|\t比較的簡単に外せます。=
-この起爆装置には|何かでロックがかかっています。\vこのままでは解除できないので、|まずそのロックを外しましょう。=
-くぼみには小さな罠が|しかけられているようです。\v上のコードを抜いてから、|くぼみにロックを解除するための|アイテムをはめてください。\vあとは印を正しい位置にあわせれば|解除できるはずです。=
-起爆装置を外す段階に|きましたね。\vですが、これで終わるとは|思えません。|\t気を引き締めてお願いします。=
-ここまでに出てきたトラップと|さほど変わりはありません。\vロックは解除されているので、|調査をして問題が無ければ|外すだけです。=
-この装置は…、|電源がはいっていないようです。|\t起動させましょう。=
-この鍵穴が起動用のスイッチの|ようですね。\v形の合う鍵がどこかにあるはずです。|\t持っていませんか？=
-この装置は起爆装置では|ありませんね。\v単純に進行を妨害するための|物でしょう。\v装置を外さなければ、|先へは進めないようですね。=
-液晶に表示されている数字を|そろえる事で分解できるように|なります。\v……、=
-はい、できました。|\t簡単ですね。=
-これがおそらく最後です。|\t起爆装置を外しましょう。=
-このコードのランプの仕掛けは|一番初めのトラップと同じ物です。\v多少の変化はあるようですが、|基本的な部分は変わっていません。\vしたがって、解除の方法も|同じという事になります。|\tこれで最後です。=
+今のところ、動かせそうなのは|このフタだけですね。|\tまずこれを外しましょう。=It looks like the lid is the only thing we can work with right now.|\tStart by taking it off.
+角が固定されているぐらいで、|たいした物ではありません。|\t比較的簡単に外せます。=It’s only secured at the corners.|\tIt should be relatively easy to remove. 
+この起爆装置には|何かでロックがかかっています。\vこのままでは解除できないので、|まずそのロックを外しましょう。=The detonator has some kind of lock on it.\vYou need to release that before you can work on removing the detonator.
+くぼみには小さな罠が|しかけられているようです。\v上のコードを抜いてから、|くぼみにロックを解除するための|アイテムをはめてください。\vあとは印を正しい位置にあわせれば|解除できるはずです。=It seems the sockets are booby trapped.\vUnplug the wire at the top first, and then you can fit items into the sockets to release the lock.\vAll you need to do is align the marks in the correct position and the lock should release.
+起爆装置を外す段階に|きましたね。\vですが、これで終わるとは|思えません。|\t気を引き締めてお願いします。=We’ve reached the point of removing the detonator.\vAlthough, I don’t think that’ll be the end of it.|\tDon’t relax yet.
+ここまでに出てきたトラップと|さほど変わりはありません。\vロックは解除されているので、|調査をして問題が無ければ|外すだけです。=It’s not much different from the traps you’ve come across so far.\vThe lock has been released, so if your investigation turns up no issues, you can just remove it.
+この装置は…、|電源がはいっていないようです。|\t起動させましょう。=It doesn’t look like the device is powered on.|\tLet’s boot it up.
+この鍵穴が起動用のスイッチの|ようですね。\v形の合う鍵がどこかにあるはずです。|\t持っていませんか？=That keyhole seems to be the start-up switch.\vThere must be a key to fit it somewhere.|\tDo you have anything?
+この装置は起爆装置では|ありませんね。\v単純に進行を妨害するための|物でしょう。\v装置を外さなければ、|先へは進めないようですね。=This device is not a detonator.\vIt would suspect its only purpose is to slow you down.\vYou won’t be able to proceed until it has been removed.
+液晶に表示されている数字を|そろえる事で分解できるように|なります。\v……、=You can release the device by making the numbers on the LCD match up.\v...
+はい、できました。|\t簡単ですね。=There, it’s done.|\tThat was easy enough.
+これがおそらく最後です。|\t起爆装置を外しましょう。=This must be the final stage.|\tLet’s remove the detonator.
+このコードのランプの仕掛けは|一番初めのトラップと同じ物です。\v多少の変化はあるようですが、|基本的な部分は変わっていません。\vしたがって、解除の方法も|同じという事になります。|\tこれで最後です。=The lights on these wires utilize the same trick as the very first trap you disarmed.\vThere are a few changes, but the basic design is the same.\vThat means the method of disarming it is also the same.|\tThis is the final piece to the puzzle.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file017.bin
-装置のフタだ。=
-このフタが開けられそうですね。|\tというより、他にできそうな事が|ありません。=
-装置のフタだ。\v装置とフタの間のスキマは|こじ開けられている。=
-少しフタを開けやすくなりました。|\tこの調子で進めましょう。=
-装置のフタだ。\v装置との間にわずかな|@fRスキマ@fWが見える。=
+装置のフタだ。=The lid of the device.
+このフタが開けられそうですね。|\tというより、他にできそうな事が|ありません。=It looks like this lid can be opened.|\tWell, that’s about the only thing that can be done at this stage.
+装置のフタだ。\v装置とフタの間のスキマは|こじ開けられている。=The lid of the device.\vA gap has been pried open.
+少しフタを開けやすくなりました。|\tこの調子で進めましょう。=That should make it easier to remove the lid.|\tKeep up the good work.
+装置のフタだ。\v装置との間にわずかな|@fRスキマ@fWが見える。=The lid of the device.\vA @fRgap@fW is visible down the side.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file018.bin
-上のくぼみだ。\v何か円形の物が入るようだ。=
-緑の印がついたツマミだ。\v解除完了しているので|動かす必要はないだろう。=
-緑の印がついたツマミだ。\v時計回りに回せるようになっている。\v印が向き合う位置に|合わせられている。=
-緑の印がついたツマミだ。\v時計回りに回せるようになっている。=
-ツマミを回す=
-ツマミを回さない=
-形の合うパーツがどこかに|あるはずです。|\t何か持っていませんか？=
-緑の印がついたツマミだ。\vもう動かす必要はないだろう。=
-ツマミをはめようとしたら|感電した！=
-ツマミとくぼみの形が|合わないようだ。=
-ツマミの印と中央の印が|一致する物を入れるようです。=
-ツマミをくぼみにはめた。=
+上のくぼみだ。\v何か円形の物が入るようだ。=The top socket.\vIt looks like something circular would fit inside.
+緑の印がついたツマミだ。\v解除完了しているので|動かす必要はないだろう。=A dial with a green mark.\vThe lock is ready to be released, so there’s no need to turn it.
+緑の印がついたツマミだ。\v時計回りに回せるようになっている。\v印が向き合う位置に|合わせられている。=A dial with a green mark.\vIt can be turned clockwise.\vThe mark has been aligned with the green dot.
+緑の印がついたツマミだ。\v時計回りに回せるようになっている。=A dial with a green mark.\vIt can be turned clockwise.
+ツマミを回す=Turn the dial
+ツマミを回さない=Don’t turn the dial
+形の合うパーツがどこかに|あるはずです。|\t何か持っていませんか？=There must be a part with the same shape.|\tDo you have anything on you?
+緑の印がついたツマミだ。\vもう動かす必要はないだろう。=A dial with a green mark.\vThere’s no need to turn it.
+ツマミをはめようとしたら|感電した！=As you try to fit the dial, you receive an electric shock!
+ツマミとくぼみの形が|合わないようだ。=The dial doesn’t fit.
+ツマミの印と中央の印が|一致する物を入れるようです。=It looks like the mark on the dial needs to match up with the dots in the center.
+ツマミをくぼみにはめた。=Fit the dial.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file019.bin
-右のくぼみだ。\v何か円形の物が入るようだ。=
-赤の印がついたツマミだ。\v解除完了しているので|動かす必要はないだろう。=
-赤の印がついたツマミだ。\v時計回りに回せるようになっている。\v印が向き合う位置に|合わせられている。=
-赤の印がついたツマミだ。\v時計回りに回せるようになっている。=
-赤の印がついたツマミだ。\vもう動かす必要はないだろう。=
+右のくぼみだ。\v何か円形の物が入るようだ。=The right socket.\vIt looks like something circular would fit inside.
+赤の印がついたツマミだ。\v解除完了しているので|動かす必要はないだろう。=A dial with a red mark.\vThe lock is ready to be released, so there’s no need to turn it.
+赤の印がついたツマミだ。\v時計回りに回せるようになっている。\v印が向き合う位置に|合わせられている。=A dial with a red mark.\vIt can be turned clockwise.\vThe mark has been aligned with the green dot.
+赤の印がついたツマミだ。\v時計回りに回せるようになっている。=A dial with a red mark.\vIt can be turned clockwise.
+赤の印がついたツマミだ。\vもう動かす必要はないだろう。=A dial with a red mark.\vThere’s no need to turn it.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file020.bin
-左のくぼみだ。\v何か円形の物が入るようだ。=
-青の印がついたツマミだ。\v解除完了しているので|動かす必要はないだろう。=
-青の印がついたツマミだ。\v時計回りに回せるようになっている。\v印が向き合う位置に|合わせられている。=
-青の印がついたツマミだ。\v時計回りに回せるようになっている。=
-青の印がついたツマミだ。|もう動かす必要はないだろう。=
+左のくぼみだ。\v何か円形の物が入るようだ。=The left socket.\vIt looks like something circular would fit inside.
+青の印がついたツマミだ。\v解除完了しているので|動かす必要はないだろう。=A dial with a blue mark.\vThe lock is ready to be released, so there’s no need to turn it.
+青の印がついたツマミだ。\v時計回りに回せるようになっている。\v印が向き合う位置に|合わせられている。=A dial with a blue mark.\vIt can be turned clockwise.\vThe mark has been aligned with the green dot.
+青の印がついたツマミだ。\v時計回りに回せるようになっている。=A dial with a blue mark.\vIt can be turned clockwise.
+青の印がついたツマミだ。|もう動かす必要はないだろう。=A dial with a blue mark.\vThere’s no need to turn it.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file024.bin
-バッテリーに繋がったコードだ。=
-バッテリーに繋がっていたコードだ。|今は抜かれている。=
-バッテリーに繋がったコードだ。\vコードはくぼみの裏側に|繋がっているようだ。\v引き抜けば簡単に外れるだろう。=
-このコードは一体何のために|電力を供給しているのでしょうか。\vとりあえず、起爆に関係する物では|無さそうですよ。=
-コードを抜く=
-一見して、特に変化は|無いようですね。\vしかし、仮に気づかなくても|何かが変わっているはずです。|\t調査を進めましょう。=
-バッテリーに繋がっていたコードだ。\v今は抜かれている。=
+バッテリーに繋がったコードだ。=The wire is connected to the battery.
+バッテリーに繋がっていたコードだ。|今は抜かれている。=The wire that was connected to the battery has been.#dupe
+バッテリーに繋がったコードだ。\vコードはくぼみの裏側に|繋がっているようだ。\v引き抜けば簡単に外れるだろう。=The wire is connected to the battery.\vIt seems to be feeding through a hole.\vIt should be easy to unplug.
+このコードは一体何のために|電力を供給しているのでしょうか。\vとりあえず、起爆に関係する物では|無さそうですよ。=What is this wire supplying power to?\vIt doesn’t appear to be the explosives, at least.
+コードを抜く=Unplug the wire
+一見して、特に変化は|無いようですね。\vしかし、仮に気づかなくても|何かが変わっているはずです。|\t調査を進めましょう。=At first glance, it doesn’t seem like anything has changed.\vBut even if we aren’t aware of it, something must have changed.|\tLet’s continue the investigation.
+バッテリーに繋がっていたコードだ。\v今は抜かれている。=The wire that was connected to the battery has been.#dupe
 !FILE:dat_script_trapbig.bin/file011_PACK2/file026.bin
-起爆装置の中に設置された|バッテリーだ。=
-起爆装置の中に設置された|バッテリーだ。\v接続されていたコードは|抜かれたいる。=
-起爆装置の中に設置された|バッテリーだ。\v装置とコードで繋がっている。=
+起爆装置の中に設置された|バッテリーだ。=A battery is installed in the detonator.
+起爆装置の中に設置された|バッテリーだ。\v接続されていたコードは|抜かれたいる。=A battery is installed in the detonator.\vThe wire that connected it to the detonator has been unplugged. 
+起爆装置の中に設置された|バッテリーだ。\v装置とコードで繋がっている。=A battery is installed in the detonator.\vIt is connected to the detonator by wire.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file027.bin
-装置の側面についているランプだ。\v赤いランプが点灯している。=
-まだこのランプは|気にする必要がなさそうです。\vおそらく、装置の中に関係する物|ですね。=
-装置の側面についているランプだ。\v緑のランプが点灯している。=
-ロックが解除された印のようです。|\t今なら起爆装置を|外す事ができそうです。=
+装置の側面についているランプだ。\v赤いランプが点灯している。=There are two lights on the side of the device.\vThe red light is lit.
+まだこのランプは|気にする必要がなさそうです。\vおそらく、装置の中に関係する物|ですね。=I don’t think we need to worry about these just yet.\vThey probably relate to something inside.
+装置の側面についているランプだ。\v緑のランプが点灯している。=There are two lights on the side of the device.\vThe green light is lit.
+ロックが解除された印のようです。|\t今なら起爆装置を|外す事ができそうです。=That must be an indication that the lock has been release.|\tIt should be safe to remove the detonator now.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file029.bin
-大掛かりな装置だ。=
-おそらくこれが起爆装置でしょう。|\tですが、これを外して終わり、|とはいかないでしょうね。=
-大掛かりな装置だ。\v側面に赤いランプが点灯している。=
-おそらくこれが起爆装置でしょう。|\tですが、これを外して終わり、|とはいかないでしょうね。\vこの装置の下に|また別の装置があるようです。\vひとまず、順番に解除を|進めましょう。=
-フタが開いた起爆装置だ。\v正面に３つのくぼみがついている。=
-ロックが掛かっていますね。|\tこのままでは装置を解除|できそうにありません。=
-フタが開いた起爆装置だ。\v正面に３つのツマミがついている。\v中心には３色の点が見える。=
-ロックの解除は終わりました。|\t先へ進みましょう。=
-フタが開いた起爆装置だ。\v正面に３つのくぼみがついている。\v中心には３色の点が見える。=
-この印は多分、|この仕掛けを解くアイテムに|関係する物でしょう。=
-フタが開いた起爆装置だ。\v先ほどから@fR高熱@fWを発している。=
-フタが開いた起爆装置だ。\v高熱を発していたが、|一時的に冷却されている。=
-放っておけばまたすぐに|熱くなってくるでしょう。|\t早く外してしまいましょう。=
-オーバーヒートしているようです。|\tロック解除が原因でしょうか。\vとにかく、早く外してしまいましょう。|\t危険です。=
+大掛かりな装置だ。=A large device.
+おそらくこれが起爆装置でしょう。|\tですが、これを外して終わり、|とはいかないでしょうね。=I’d wager that this is the detonator.|\tAlthough, I don’t think you can just remove this and be done with it.
+大掛かりな装置だ。\v側面に赤いランプが点灯している。=A large device.\vThere is a red light on the side.
+おそらくこれが起爆装置でしょう。|\tですが、これを外して終わり、|とはいかないでしょうね。\vこの装置の下に|また別の装置があるようです。\vひとまず、順番に解除を|進めましょう。=I’d wager that this is the detonator.|\tAlthough, I don’t think you can just remove this and be done with it.\vThere seems to be another device underneath it.\vYou’ll need to disarm each thing in turn.
+フタが開いた起爆装置だ。\v正面に３つのくぼみがついている。=The detonator with its lid off.\vThere are three sockets at the front.
+ロックが掛かっていますね。|\tこのままでは装置を解除|できそうにありません。=The detonator seems to be locked.|\tYou won’t be able to disarm it like this.
+フタが開いた起爆装置だ。\v正面に３つのツマミがついている。\v中心には３色の点が見える。=The detonator with its lid off.\vThere are three sockets at the front.\vBetween them are three different colored dots.#dupe
+ロックの解除は終わりました。|\t先へ進みましょう。=The lock has been released.|\tLet’s keep going.
+フタが開いた起爆装置だ。\v正面に３つのくぼみがついている。\v中心には３色の点が見える。=The detonator with its lid off.\vThere are three sockets at the front.\vBetween them are three different colored dots.#dupe
+この印は多分、|この仕掛けを解くアイテムに|関係する物でしょう。=Those marks probably relate to some items which can be used to release the lock.
+フタが開いた起爆装置だ。\v先ほどから@fR高熱@fWを発している。=The detonator with its lid off.\vIt is giving off a lot of @fRheat@fW.
+フタが開いた起爆装置だ。\v高熱を発していたが、|一時的に冷却されている。=The detonator with its lid off.\vThe detonator was emitting a lot of heat, but it has been temporarily cooled down.
+放っておけばまたすぐに|熱くなってくるでしょう。|\t早く外してしまいましょう。=If we don’t do anything, it will soon get hot again.|\tWe need to remove it as soon as possible.
+オーバーヒートしているようです。|\tロック解除が原因でしょうか。\vとにかく、早く外してしまいましょう。|\t危険です。=It seems to be overheating.|\tIs it because the lock was released?\vWhatever the case, we need to remove it as soon as possible.|\tIt’s dangerous like this.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file031.bin
 上向きの矢印が書かれたボタンだ。=A button with an up arrow on it.
 下向きの矢印が書かれたボタンだ。=A button with a down arrow on it.
-ボタンを押してみたが|反応が無かった。\vまだ起動途中のようだ。=
-ボタンを押してみたが|反応が無かった。\v電源が入っていないようだ。=
-ボタンを押した。\v液晶画面の表示が|変化したようだ=
+ボタンを押してみたが|反応が無かった。\vまだ起動途中のようだ。=Pushing the button gave no response.\vThe device is still booting up.
+ボタンを押してみたが|反応が無かった。\v電源が入っていないようだ。=Pushing the button gave no response.\vIt doesn’t seem to be powered on.
+ボタンを押した。\v液晶画面の表示が|変化したようだ=Pushed the button.\vThe display on the LCD screen changed.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file033.bin
-装置についた鍵穴だ。=
-装置についた鍵穴だ。\v鍵を回して、スイッチが入っている。=
-これが起動用のスイッチに|なっています。|\t形の合う鍵がどこかにあるはずです。=
+装置についた鍵穴だ。=There is a keyhole.
+装置についた鍵穴だ。\v鍵を回して、スイッチが入っている。=There is a keyhole.\vThe key has been inserted, and the switch turned on.
+これが起動用のスイッチに|なっています。|\t形の合う鍵がどこかにあるはずです。=That must be the switch to turn the device on.|\tThere should be a key for it somewhere.
 装置の鍵を使った。=Used Machine Key.
-装置が動き始めたようだ。=
+装置が動き始めたようだ。=The device is booting up.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file034.bin
-装置についた液晶だ。\v起動している途中のようだ。=
-装置についた液晶だ。\v今は何も表示されていない。=
-装置についた液晶だ。=
-ゾロ目になっています。|\t装置を外しましょう。=
-３つの数字をあわせる仕掛けです。|\t操作はそばにあるボタンで|するようですね。=
+装置についた液晶だ。\v起動している途中のようだ。=An LCD screen is connected to the device.\vIt still seems to be booting up.
+装置についた液晶だ。\v今は何も表示されていない。=An LCD screen is connected to the device.\vNothing is being displayed on it.
+装置についた液晶だ。=An LCD screen is connected to the device.
+ゾロ目になっています。|\t装置を外しましょう。=That’s a full house.|\tRemove the device.
+３つの数字をあわせる仕掛けです。|\t操作はそばにあるボタンで|するようですね。=The trick is to get three of the same number.|\tIt seems that you use the buttons nearby as the controls.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file038.bin
-下にある何かの装置だ。\vほとんどが上の装置に覆われて|詳細が判らない。=
-この装置はまだ|どうにもできそうにありません。\vまずは上の装置を|調査してみましょう。=
-スキマが広がって、|外しやすくなっていますね。=
-装置との間に@fRスキマ@fWが|できています。\v起爆装置のロックが解除|されたせいでしょうか。=
-数字を操作する装置だ。\v液晶と２つのボタンがついている。\vしかし、電源が入っていないようだ。=
-数字を操作する装置だ。\v液晶と２つのボタンがついている。\v現在起動の途中のようだ。=
-ボタンのほかにも鍵穴が|ついていますね。\vたぶんこれが起動のスイッチです。|\t形の合う鍵は持っていますか？=
-数字を操作する装置だ。\v液晶と２つのボタンがついている。=
-この装置は起爆装置とは|違うようです。\vこれは爆弾解除を妨害するための|装置でしょう。\vつまり、この装置を解除しなければ|先へ進めないという事です。=
-ボタンは液晶画面の数字を|操作する為の物でしょう。=
-起爆装置と下の装置の間の|スキマをこじ開けた。=
+下にある何かの装置だ。\vほとんどが上の装置に覆われて|詳細が判らない。=There is some kind of device underneath.\vIt is being hidden by what’s on top.
+この装置はまだ|どうにもできそうにありません。\vまずは上の装置を|調査してみましょう。=There’s not much we can do here.\vWe need to investigate the device above it first.
+スキマが広がって、|外しやすくなっていますね。=The gap has been widened, so it should be easier to take the detonator off now.
+装置との間に@fRスキマ@fWが|できています。\v起爆装置のロックが解除|されたせいでしょうか。=It looks like a @fRgap@fW has opened up between two devices.\vIs this because the lock on the detonator was released?
+数字を操作する装置だ。\v液晶と２つのボタンがついている。\vしかし、電源が入っていないようだ。=A device for controlling the numbers.\vIt has two buttons and an LCD screen.\vIt doesn’t appear to be switched on.
+数字を操作する装置だ。\v液晶と２つのボタンがついている。\v現在起動の途中のようだ。=A device for controlling the numbers.\vIt has two buttons and an LCD screen.\vIt is currently booting up.
+ボタンのほかにも鍵穴が|ついていますね。\vたぶんこれが起動のスイッチです。|\t形の合う鍵は持っていますか？=As well as the buttons, it has a keyhole.\vI suspect that must be the switch that activates it.|\tDo you have a key that would fit?
+数字を操作する装置だ。\v液晶と２つのボタンがついている。=A device for controlling the numbers.\vIt has two buttons and an LCD screen.
+この装置は起爆装置とは|違うようです。\vこれは爆弾解除を妨害するための|装置でしょう。\vつまり、この装置を解除しなければ|先へ進めないという事です。=This device doesn’t seem to be a detonator.\vIt’s just there to get in the way of disarming of the bomb.\vIn other words, if you don’t deactivate this device, you can’t proceed. 
+ボタンは液晶画面の数字を|操作する為の物でしょう。=The buttons are probably for operating the numbers on the LCD screen.
+起爆装置と下の装置の間の|スキマをこじ開けた。=Widened the gap between the two devices.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file040.bin
-黄色のコードだ。=
-赤のコードだ。=
-青のコードだ。=
-緑のコードだ。=
-起爆装置から外されている。=
-起爆装置と爆薬を繋いでいる。=
+黄色のコードだ。=A yellow wire.
+赤のコードだ。=A red wire.
+青のコードだ。=A blue wire.
+緑のコードだ。=A green wire.
+起爆装置から外されている。=It has been disconnected from the detonator.
+起爆装置と爆薬を繋いでいる。=It connects the detonator to the explosives.
 コードを外す=Disconnect the wire
 コードを外さない=Do not disconnect the wire
 電流の流れが分かった。=Discovered where the current is flowing.
 コードを外した。=Disconnected the wire.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file048.bin
 ランプが点滅している。=The lights are blinking.
-思い出してください、|これと同じ仕掛けのトラップが|前にもあったはずです。\v光っている順番が重要な|ポイントです。=
+思い出してください、|これと同じ仕掛けのトラップが|前にもあったはずです。\v光っている順番が重要な|ポイントです。=Cast your mind back and remember. You’ve dealt with a trap like this before.\vThe order in which the lights are shining is the vital hint.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file049.bin
-起爆装置を固定しているネジだ。\v今は緩んでいる。=
-起爆装置を固定している@fRネジ@fWだ。=
+起爆装置を固定しているネジだ。\v今は緩んでいる。=The screw holds the detonator in place.\vIt has been loosened.
+起爆装置を固定している@fRネジ@fWだ。=The @fRscrew@fW holds the detonator in place.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file050.bin
-起爆装置を固定している金具だ。\v叩かれて緩んでいる。=
-起爆装置を固定している@fR金具@fWだ。=
+起爆装置を固定している金具だ。\v叩かれて緩んでいる。=The fittings are holding the detonator in place.\vThey have come loose after being hit.
+起爆装置を固定している@fR金具@fWだ。=The @fRfittings@fW are holding the detonator in place.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file052.bin
-起爆装置のようだ。\v後ろの爆薬と繋がっている。=
-起爆装置のようだ。\v爆薬から外す事ができれば、|トラップを解除できる。=
+起爆装置のようだ。\v後ろの爆薬と繋がっている。=A detonator.\vIt is connected to the explosives at the back.
+起爆装置のようだ。\v爆薬から外す事ができれば、|トラップを解除できる。=A detonator.\vIt has been disconnected from the explosives, and the trap is now safe to disarm.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file054.bin
-装置の背面に設置された爆薬だ。=
-装置の背面に設置された爆薬だ。\v３本の爆薬が1つに|まとめられている。=
-起爆装置を外しても、|爆薬が爆発する心配は|無さそうです。\vおそらく先ほどのロック解除が|爆薬にも影響しているのでしょう。=
-爆薬に手をつけるのは、|やはり難しいようですね。\v手前にある起爆装置を|外すしかないようです。\vもう一息です。|\tがんばってください。=
+装置の背面に設置された爆薬だ。=Explosives have been installed at the back of the device.
+装置の背面に設置された爆薬だ。\v３本の爆薬が1つに|まとめられている。=Explosives have been installed at the back of the device.\vThree explosives are combined in one.
+起爆装置を外しても、|爆薬が爆発する心配は|無さそうです。\vおそらく先ほどのロック解除が|爆薬にも影響しているのでしょう。=It doesn’t appear as though the explosives will detonate even if the detonator is removed.\vMaybe the lock you released earlier had an effect on them too.
+爆薬に手をつけるのは、|やはり難しいようですね。\v手前にある起爆装置を|外すしかないようです。\vもう一息です。|\tがんばってください。=It’s difficult to get at the explosives like this.\vIt looks like your only choice is to remove the detonator at the front.\vYou’re almost there.|\tDon’t stop now.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file010.bin
 中には高熱を発する|コイルが入っていた。=
 数字を入力する装置が出てきた。=
