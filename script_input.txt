@@ -230,24 +230,24 @@
 しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=Shoot! It was a trap! Run, @n1!\t|I've been hit... Nnngh...\t|@n1, get out of there!!
 背後からスタンガンで一撃され、|ナオミの声を聞きながら@n1は|意識を失った……=@n1 was hit from behind with a stun gun and lost consciousness as Naomi's cries rang in her ears.
 !FILE:dat_script.bin/file003_PACK2/file007.bin
-さすがはＬ。\t遅かれ早かれ気づかれると|思っていましたが、予想以上にあっさり|見破られてしまいましたね。=
-あなたは何者ですか？=
-そうですね…\tＪと呼んで下さい。=
-Ｊ…これは何のゲームなのですか？=
-ゲーム…そう、これはゲームです。\t|我々の組織を壊滅させたＦＢＩとＬ…|私はあなたたちを許さない…=
-復讐ゲーム…ですか。=
-ええ、そういうことです。\t|ルールは至ってシンプル。\vここから人質を無事に脱出させれば|あなたの勝ち。できなければ私の勝ち。\t|ただそれだけのゲームなのですよ。=
-本当に〝それだけ〟でしょうか？\t|私にはそうは思えませんが…=
-ほう、それは興味深いですね…=
+さすがはＬ。\t遅かれ早かれ気づかれると|思っていましたが、予想以上にあっさり|見破られてしまいましたね。=Impressive, L.\t I knew you would notice sooner or later, but you realized a lot quicker than I expected.
+あなたは何者ですか？=Who are you?
+そうですね…\tＪと呼んで下さい。=Let’s see...\t You can call me J.
+Ｊ…これは何のゲームなのですか？=J... What kind of game is this?
+ゲーム…そう、これはゲームです。\t|我々の組織を壊滅させたＦＢＩとＬ…|私はあなたたちを許さない…=A game... yes, this is a game.\t|L and the FBI... I will never forgive you for destroying our organization.
+復讐ゲーム…ですか。=A revenge game, then.
+ええ、そういうことです。\t|ルールは至ってシンプル。\vここから人質を無事に脱出させれば|あなたの勝ち。できなければ私の勝ち。\t|ただそれだけのゲームなのですよ。=Yes, that’s exactly what it is.\t|The rules are quite simple.\vYou win if you can get our hostage out of here safely. If not, I win.\t|That’s all there is to the game.
+本当に〝それだけ〟でしょうか？\t|私にはそうは思えませんが…=Is that really “all there is”?\t|I can’t imagine that’s the case.
+ほう、それは興味深いですね…=Heh, that’s an interesting theory.
 推理バトルスキップ？=
 !FILE:dat_script.bin/file003_PACK2/file008.bin
-@fR【ブラフ】@fWを手に入れた。=
-特定の推理バトルで勝利すると、|@fR【ブラフ】@fWが手に入ります。\v推理モードで@fR【ブラフ】@fWを使うと、|相手の心理をゆさぶって、確実に|大ダメージを与えることができます。=
-爆発は９時間後。\t半径１キロは優に|壊滅させられるほどの爆弾です。\v相手は他ならぬあなたですからね。\t|出血大サービスですよ。=
-笑えないジョークですね…=
-爆発前に全トラップを解除して爆破を|止めるか…@n1の安全を優先して|脱出を急ぐかは自由です。=
-さあ、これからが本番ですよ。\t|お手並み、拝見させていただきます。\t|月並みですが…神のご加護を。=
-長い９時間になりそうですね…=
+@fR【ブラフ】@fWを手に入れた。=@fR“Bluff”@fW obtained!
+特定の推理バトルで勝利すると、|@fR【ブラフ】@fWが手に入ります。\v推理モードで@fR【ブラフ】@fWを使うと、|相手の心理をゆさぶって、確実に|大ダメージを与えることができます。=You can obtain @fRBluffs@fW from winning certain logic battles.\vUsing a @fRBluff@fW in deduction mode will throw off your opponent and ensure that you can do a lot of damage.
+爆発は９時間後。\t半径１キロは優に|壊滅させられるほどの爆弾です。\v相手は他ならぬあなたですからね。\t|出血大サービスですよ。=The bomb will go off in nine hours.\t It is capable of destroying everything within a one-kilometer radius.\vI’m up against you, after all.\t|I wanted to make sure everything went off with a bang.
+笑えないジョークですね…=I’d thank you to stop with the ‘comedy’.
+爆発前に全トラップを解除して爆破を|止めるか…@n1の安全を優先して|脱出を急ぐかは自由です。=You’re free to disarm all the traps and stop the bomb before it explodes...\vor to prioritize @n1's safety|and speed up their escape.
+さあ、これからが本番ですよ。\t|お手並み、拝見させていただきます。\t|月並みですが…神のご加護を。=The real fight starts now.\t|I look forward to seeing what you’ve got.\t It might sound cliche from me, but good luck.
+長い９時間になりそうですね…=This is going to be a long nine hours...
 !FILE:dat_script.bin/file003_PACK2/file010.bin
 甘いものはお好きですか？=Do you like sweets?
 !FILE:dat_script.bin/file004_PACK2/file006.bin
@@ -659,9 +659,9 @@
 情報キーワード|@fR【ベーブ・ルース２世】@fW|を入手した。=Keyword added:|@fR“Babe Ruth II"@fW
 !FILE:dat_script_f01.bin/file001_PACK2/file006.bin
 …この部屋には何かありそうです。\t|注意してください。=...I have a feeling something is planted in this room.\t|Be careful.
-このキーがどう役立つかは、|後ほど考えることにしましょう。=
-それにしても…です。\vこれまでの経過を見ている限り、|どうにも妙な感じがしてなりません。\v通信も生きたままですし、トラップが|あるとはいえ自由に動けるとは…\vすべては犯人側の意図したことだと|考える以外、状況の説明がつきません。\vどこかから監視されているはず…|ならば当然、この通話も聞かれている。=
-……ですよね？\vそろそろ出てきたらどうですか？=
+このキーがどう役立つかは、|後ほど考えることにしましょう。=We can think about where this key might be used later.
+それにしても…です。\vこれまでの経過を見ている限り、|どうにも妙な感じがしてなりません。\v通信も生きたままですし、トラップが|あるとはいえ自由に動けるとは…\vすべては犯人側の意図したことだと|考える以外、状況の説明がつきません。\vどこかから監視されているはず…|ならば当然、この通話も聞かれている。=Still...\vConsidering how things have progressed so far, I can’t help but think it’s strange.\vWe’re being allowed to communicate, and even though there are traps in place, you’re allowed to move freely...\vThere’s no other explanation for this situation except to assume that all of this was your kidnapper’s intention.\vThey must be monitoring you from somewhere... Which means, these calls are also being listened to.
+……ですよね？\vそろそろ出てきたらどうですか？=...Well, I’m right, aren’t I?\vIsn’t it time you reveal yourself?
 今後は、調査や移動などを行うと|少しずつ@fR残り時間@fWが減っていきます。\vまた、３０分経過するごとに|トラップの解除方法を|@fR【Ｌに聞ける回数】@fWが増えます。\v残り時間がなくなってきた時は|メニューから@fR【再挑戦】@fWを実行すると|データを引き継いでやり直せます。=From now on, the @fRremaining time@fW will gradually decrease as you investigate and move around.\vHowever, the @fRnumber of times you can ask L for help@fW to disengage a trap will increase every 30 minutes.\vIf your time runs out, you can restart the game by selecting @fR“Retry”@fW from the menu.
 !FILE:dat_script_f01.bin/file001_PACK2/file007.bin
 廊下へ移動します。|よろしいですか？=Move to the hallway?
@@ -781,10 +781,10 @@
 デジタルロック方式の金庫。\vロックされていて扉は開かない。=A safe with a digital lock.\vIt's closed up tight and won't open.
 金庫の扉はロックされているのですね。\t|客室の金庫は、平常時には開いている|ものなのですが…\t気になりますね。=The safe is locked?\t|A safe in a guest room would typically be left open...\t Interesting.
 アイテムを使いますか？=Use an item?
-客の忘れ物…ではないでしょうね。\t|犯人はこれで何をさせるつもりなの|でしょうか…=
+客の忘れ物…ではないでしょうね。\t|犯人はこれで何をさせるつもりなの|でしょうか…=That doesn’t look like something a hotel guest left behind...\t|What does your kidnapper intend to make you do with this?
 ここには使えない！=It can’t be used here!
 !FILE:dat_script_f01.bin/file006_PACK2/file014.bin
-既に開錠済みだ。=
+既に開錠済みだ。=It has already been opened.
 !FILE:dat_script_f01.bin/file006_PACK2/file015.bin
 スウィーツのレシピは|別モード@fR【Ｌコミュニケーター】@fWで|役に立ちます。\vＬコミュニケーターをプレイすると|ゲーム本編でも特典が得られます。=Dessert recipes are useful for the separate @fRL Communicator@fW mode.\vPlaying the L Communicator mode can provide benefits even in the main game.
 !FILE:dat_script_f01.bin/file006_PACK2/file018.bin
@@ -2022,136 +2022,136 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_trapbig.bin/file001_PACK2/file024.bin
 ガラスのシリンダーの中に|液体が入っている。\vセンサーが液体から出ると、|起爆する仕組みのようだ。=
 !FILE:dat_script_trapbig.bin/file002_PACK2/file006.bin
-これは手ごわそうなトラップですね。\t|私もアドバイスをしますので、|一緒に解除して行きましょう。=
+これは手ごわそうなトラップですね。\t|私もアドバイスをしますので、|一緒に解除して行きましょう。=This looks like a tough trap.\t|I’ll advise you on what to do, so let’s disarm it together.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file010.bin
-ケースを外した！=
-トラップはさらにカバーに|覆われている。=
-ずいぶん慎重なつくりですね。\t|根気よく調べていきましょう。=
-手前のカバーを外した！=
-起爆装置が一望できるようになった。=
-気になるところがいくつかありますね。\t|早速調べてみましょう。=
-プラグを３個セットした！=
-このプラグは、安全装置。\t|もう、ボタンを押しても大丈夫です。=
+ケースを外した！=Removed the case!
+トラップはさらにカバーに|覆われている。=There is another cover inside.
+ずいぶん慎重なつくりですね。\t|根気よく調べていきましょう。=This trap was very carefully made.\t|Take your time to examine it properly.
+手前のカバーを外した！=Removed the front cover!
+起爆装置が一望できるようになった。=The detonator is now in full view.
+気になるところがいくつかありますね。\t|早速調べてみましょう。=There are a few things I can see that concern me.\t|Let’s do a thorough investigation.
+プラグを３個セットした！=Set the three plugs!
+このプラグは、安全装置。\t|もう、ボタンを押しても大丈夫です。=These plugs seem to be part of a safety device.\t|It should be fine to press the button now.
 爆薬を外した！=Removed the explosives!
 待ってください。\t|このまま解除を始めても|成功する可能性はゼロです。\vもっとしっかり調査をしましょう。=
 !FILE:dat_script_trapbig.bin/file002_PACK2/file011.bin
-ボタンの位置を見る限り、|起爆装置はケースの中にあります。\t|まずはケースを外しましょう。=
-それでは、ケースを外す方法を|考えましょう。=
-ケース内には、空間があるようです。\t|衝撃に持つ様相ですし、|さっさと開けてしまいましょう。=
-手前のカバーの中に、|装置の本体がありそうですね。\t|手前のカバーを外してください。=
-慎重にお願いします。=
-ネジを外せば、簡単に外せます。\t|コードに引っ掛けないように|注意してください。=
-この意味ありげにあいている|３つの穴を見てください。\t|何かのパーツをはめられそうです。=
-必要なパーツは３つですね。\v手持ちに無いようでしたら、|もう一度調査を行いましょう。=
-何かパーツが必要なようですね。\t|プラグのような物でしょうか。\v手持ちに無いようでしたら、|解除を中断して、|調査をしてみましょう。=
-爆薬を起爆装置から外してしまえば|爆発の危険はありません。=
-解除まで後一歩です。\t|がんばりましょう。=
-ボタンをオン、そしてコードを切断。\t|これで爆薬を外す事ができます。=
+ボタンの位置を見る限り、|起爆装置はケースの中にあります。\t|まずはケースを外しましょう。=Judging from the button, the detonator should be inside the case.\t|Remove that first.
+それでは、ケースを外す方法を|考えましょう。=Now let’s figure out how to remove the case.
+ケース内には、空間があるようです。\t|衝撃に持つ様相ですし、|さっさと開けてしまいましょう。=It seems that there’s some hollow space inside the case.\t It should hold up to some impact, so you can force it open.
+手前のカバーの中に、|装置の本体がありそうですね。\t|手前のカバーを外してください。=The main body of the device should be under the front cover.\t|We need to find a way to take it off.
+慎重にお願いします。=Please be careful.
+ネジを外せば、簡単に外せます。\t|コードに引っ掛けないように|注意してください。=If you remove the screws, it should come off easily.\t|Mind you don’t catch the wires as you take it off.
+この意味ありげにあいている|３つの穴を見てください。\t|何かのパーツをはめられそうです。=Take a close look at those three holes.\t|It looks like you could fit a part into them.
+必要なパーツは３つですね。\v手持ちに無いようでしたら、|もう一度調査を行いましょう。=There are three missing parts you’ll need.\vIf you don’t have them, you should pause and look around some more.
+何かパーツが必要なようですね。\t|プラグのような物でしょうか。\v手持ちに無いようでしたら、|解除を中断して、|調査をしてみましょう。=It doesn’t look like we can proceed without the parts.\t|The holes appear to be plug-shaped.\vIf you don’t have any on hand, pause the disarming for now and see what you can find if you look around.
+爆薬を起爆装置から外してしまえば|爆発の危険はありません。=If you can remove the explosives from the detonator, there will be no risk of an explosion.
+解除まで後一歩です。\t|がんばりましょう。=There’s just one step left to go.\t|Keep it up.
+ボタンをオン、そしてコードを切断。\t|これで爆薬を外す事ができます。=Push the button and disconnect the wires.\t|That will allow you to remove the explosives.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file012.bin
-解除を中断して探索に戻ります。|よろしいですか？=
+解除を中断して探索に戻ります。|よろしいですか？=Pause the deactivation and return to your investigation?
 !FILE:dat_script_trapbig.bin/file002_PACK2/file013.bin
-ネジは緩められている。=
-@fRネジ@fWで止められている。=
-ネジで止められている。=
-歪んでしまい、外れそうにない。=
+ネジは緩められている。=The screws are loose.
+@fRネジ@fWで止められている。=@fRScrews@fW are holding the lid.
+ネジで止められている。=Screws are holding the lid.
+歪んでしまい、外れそうにない。=They have been warped and won’t come out.#qc
 しかしドライバーは壊れてしまった。=
-ケースを固定していた|ネジが緩んだ。=
+ケースを固定していた|ネジが緩んだ。=Loosened the screws holding the lid.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file015.bin
-大きなパーツがフタのように|トラップ全体を覆っている。=
-なるほど…=
-トラップを覆っているフタだ。\vネジは緩められている。=
-ここはＯＫです。=
-トラップを覆っているフタだ。\v@fRネジ@fWで本体に止められている。=
-@fRネジ@fWを緩める事ができれば、|ケースを外す事は簡単でしょう。\t|使えそうな物は持っていませんか？=
+大きなパーツがフタのように|トラップ全体を覆っている。=A large metal body covers the trap like a lid.
+なるほど…=Interesting...
+トラップを覆っているフタだ。\vネジは緩められている。=The lid covering the trap.\vThe screws have been loosened.
+ここはＯＫです。=That’s everything here.
+トラップを覆っているフタだ。\v@fRネジ@fWで本体に止められている。=The lid covering the trap.\vIt held together by v@fRscrews@fW.
+@fRネジ@fWを緩める事ができれば、|ケースを外す事は簡単でしょう。\t|使えそうな物は持っていませんか？=If you can loosen those @fRscrews@fW, it should be easy to remove the case.\t|Do you have anything that you could use?
 !FILE:dat_script_trapbig.bin/file002_PACK2/file018.bin
-起爆装置を覆うカバーだ。\vスキマから@fRコード@fWが見える。\vカバーは@fRネジ@fWで止められている。=
-この中には何があるのでしょう？\t|外してみましょうか。=
-起爆装置を覆うカバーだ。|スキマから@fRコード@fWが見える。|ネジは緩められている。=
-コードが良く見えませんが、|このスキマにはバールは|入らなそうですね。=
-コードが良く見えませんが、|このスキマにはバールは|入らなそうですね。\vネジは外せそうでしょうか?=
+起爆装置を覆うカバーだ。\vスキマから@fRコード@fWが見える。\vカバーは@fRネジ@fWで止められている。=The cover encases the device.\v@fRWires@fW are visible through a gap.\vThe cover is being held in place by @fRscrews@fW.
+この中には何があるのでしょう？\t|外してみましょうか。=I wonder what’s inside?\t|Let’s remove the cover.
+起爆装置を覆うカバーだ。|スキマから@fRコード@fWが見える。|ネジは緩められている。=The cover encases the device.|@fRWires@fW are visible through a gap.\vThe exterior screws have been loosened.
+コードが良く見えませんが、|このスキマにはバールは|入らなそうですね。=I can’t see the wires very well, but it doesn’t look a crowbar will fit in that gap.
+コードが良く見えませんが、|このスキマにはバールは|入らなそうですね。\vネジは外せそうでしょうか?=I can’t see the wires very well, but it doesn’t look a crowbar will fit in that gap.\vAre you able to loosen the screws?
 しかしカッターは壊れてしまった。=
-スキマから、コードを|むやみに切断した。=
+スキマから、コードを|むやみに切断した。=Cut the wires through the gap.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file019.bin
-起爆装置と爆薬を繋ぐコードだ。=
-爆薬を取り外すには重要そうですが、|私は他に気になるものがあります。=
-後で調べましょう。\t|変なコードを|切らないようにしてください。=
-爆薬を取り外すには重要そうですね。|=
-後で調べましょう。\v変なコードを|切らないようにしてください。=
-起爆装置と爆薬を繋ぐコードだ。\v起爆用のコードは切断してある。=
-一安心ですね。=
-雰囲気の違うコードがありますね。\t|このコードを@fR切断@fWできますか？=
+起爆装置と爆薬を繋ぐコードだ。=The wires connect the detonator to the explosives.
+爆薬を取り外すには重要そうですが、|私は他に気になるものがあります。=It looks like these will be vital when it comes to removing the explosives, but I have other concerns right now.
+後で調べましょう。\t|変なコードを|切らないようにしてください。=Let’s come back to these later.\t|Don’t cut them yet.
+爆薬を取り外すには重要そうですね。|=It looks like these will be vital when it comes to removing the explosives.|
+後で調べましょう。\v変なコードを|切らないようにしてください。=Let’s come back to these later.\t|Don’t cut them yet.
+起爆装置と爆薬を繋ぐコードだ。\v起爆用のコードは切断してある。=The wires connect the detonator to the explosives.\vThe live wire has been cut.
+一安心ですね。=That’s these sorted.
+雰囲気の違うコードがありますね。\t|このコードを@fR切断@fWできますか？=One of the wires seems different from the rest.\t|Can you @fRcut@fW this one?
 しかしハサミは壊れてしまった。=
-怪しいコードを切断した。=
-適当にコードを切断した。=
+怪しいコードを切断した。=Cut the suspicious wire.
+適当にコードを切断した。=Cut a wire at random.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file020.bin
-パーツをはめ込む事が|できそうですね。=
+パーツをはめ込む事が|できそうですね。=It looks like a part should fit in there.
 プラグがはまっている。=The plug is set in.
 全てのプラグをはめましたね。\t|さぁ、解除しましょう。=The plugs are all set.\t|Time to execute.
-ぴったりですね。|\t残りの穴にもプラグをはめてください。=
-パーツをはめられそうな|穴が開いている。=
-はめられそうなアイテムは|ありませんか？=
-調査おつかれさまです。\t|解除まで後一歩です。=
-プラグをはめた！=
+ぴったりですね。|\t残りの穴にもプラグをはめてください。=It’s a perfect fit.|\tPlease set the remaining plugs too.
+パーツをはめられそうな|穴が開いている。=There is a hole where a part could be fitted.
+はめられそうなアイテムは|ありませんか？=Do you have any items that would fit?
+調査おつかれさまです。\t|解除まで後一歩です。=Thank you for your hard work.\t|We’re one step away from deactivating the trap.
+プラグをはめた！=Fit the plug.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file021.bin
-ぴったりですね。\t|残りの穴にもプラグをはめてください。=
+ぴったりですね。\t|残りの穴にもプラグをはめてください。=It’s a perfect fit.|\tPlease set the remaining plug too.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file025.bin
-起爆装置を覆うカバーだ。\v特に手がかりになりそうな事は無い。=
-このパーツは後回しにした方が|良さそうですね。=
-手前のカバー内が装置部分だとすると、|この中は爆薬でしょう。\t|気をつけてください。=
-起爆装置を覆うカバーだ。\v中を見る事はできない。=
+起爆装置を覆うカバーだ。\v特に手がかりになりそうな事は無い。=The cover encases the device.\vNothing particularly jumps out about it.
+このパーツは後回しにした方が|良さそうですね。=It might be best to return to this part later.
+手前のカバー内が装置部分だとすると、|この中は爆薬でしょう。\t|気をつけてください。=If we assume the detonator is beneath the front cover, then under this is likely to be the explosives.\t Be careful.
+起爆装置を覆うカバーだ。\v中を見る事はできない。=The cover encases the device.\vThe contents are hidden from view.
 起爆装置から繋がったコード…\t|この中身は爆薬です。|気をつけてください。=
-この中身は爆薬です。\t|叩いたりしないでください。=
-爆薬が詰まったケースだ。\v@fRネジ@fWで止められている。=
-これを外してしまえば、|爆発する事は無いでしょう。=
+この中身は爆薬です。\t|叩いたりしないでください。=The explosives are inside here.\t|Be sure not to knock it.
+爆薬が詰まったケースだ。\v@fRネジ@fWで止められている。=The case is filled with explosives.\vIt is being held in place with @fRscrews@fW.
+これを外してしまえば、|爆発する事は無いでしょう。=Once this is removed, there will be no more risk of explosion.
 爆薬が詰まったケースだ。\v歪んでしまい、|@fRネジ@fWを外すのは難しそうだ。=
-仕方ないですね。|これはどうにもなりません。=
-爆薬が詰まったケースだ。\vネジは緩められている。=
-ただはめ込まれているだけ|みたいですね。\t|ただ、すごくきつそうですが…=
-爆薬が詰まったケースだ。\vネジは緩められ、|スキマもできている。=
-外し易くなったようですね。=
-@fRネジ@fW以外ははめ込まれているだけ|みたいですね。\t|まずは@fRネジ@fWを何とかしないと。=
+仕方ないですね。|これはどうにもなりません。=There’s nothing we can do about that now.
+爆薬が詰まったケースだ。\vネジは緩められている。=The case is filled with explosives.\vThe screws holding it in place have been loosened.
+ただはめ込まれているだけ|みたいですね。\t|ただ、すごくきつそうですが…=It looks like it was just slotted into place.\t|It’s a tight fit, though...
+爆薬が詰まったケースだ。\vネジは緩められ、|スキマもできている。=The case is filled with explosives.\vThe screws holding it in place have been loosened, and a gap has been made around the sides.
+外し易くなったようですね。=It should be easier to remove now.
+@fRネジ@fW以外ははめ込まれているだけ|みたいですね。\t|まずは@fRネジ@fWを何とかしないと。=It seems like the @fRscrews@fW are the only things keeping it in place.\t|See what you can do with them first.
 冷却スプレーを使った。=Used Coolant Spray.
 しかし冷却スプレーは壊れてしまった。=
-爆薬を冷却した。=
+爆薬を冷却した。=Cooled the explosives.
 しかしミニバールは壊れてしまった。=
-爆薬ケースが歪んでしまった。=
-爆薬ケースが少し外れた。=
+爆薬ケースが歪んでしまった。=Warped the case.
+爆薬ケースが少し外れた。=Dislodged the case slightly.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file029.bin
-ボタンの位置などから見て、|この部分が起爆装置のようだ。=
-ケースを外せば起爆装置を|調べる事ができそうですね。=
-ケースを外せば、|もう少し詳しく調べられそうだ。=
-あまり良く見えませんね。\t|ここを調べるのは後にしましょう。=
-トラップの起爆装置だ。\vボタンがついている。=
-起爆装置自体をどうにかする事は|難しそうですね。=
-トラップの起爆装置だ。\vボタンとプラグがついている。=
+ボタンの位置などから見て、|この部分が起爆装置のようだ。=Going by the position of the button, this seems to be the detonator.
+ケースを外せば起爆装置を|調べる事ができそうですね。=If you can remove the case, we’ll be able to examine the detonator.
+ケースを外せば、|もう少し詳しく調べられそうだ。=If the case was removed, it could be examined in a more detail.
+あまり良く見えませんね。\t|ここを調べるのは後にしましょう。=It’s difficult to get a good look like this.\t|Let’s come back to this part later.
+トラップの起爆装置だ。\vボタンがついている。=The detonator.\vA button is attached.
+起爆装置自体をどうにかする事は|難しそうですね。=It seems like it’ll be difficult to do anything to the detonator itself.
+トラップの起爆装置だ。\vボタンとプラグがついている。=The detonator.\vA button and a plug are attached.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file031.bin
-爆弾を固定する台だ。\vケースとの間に@fRスキマ@fWがある。=
-この@fRスキマ@fWの事は|覚えておいてください。=
-中は空洞部分があるようだ。\v少しくらいの衝撃では|爆発しないだろう。=
-割と頑丈なようですね。=
-ケースとの間に@fRスキマ@fWがある。=
-@fRスキマ@fWを作れば、中をのぞけそうです。\t|使えそうなものは持っていませんか？=
-爆弾を固定する台だ。\v特に怪しいところはない。=
-台座に怪しいところは無いですね。\t|ここはもう良いでしょう。=
-ここはもう良いでしょう。=
-ケースとの間にスキマができた。=
+爆弾を固定する台だ。\vケースとの間に@fRスキマ@fWがある。=The base holds the bomb in place.\vThere is a @fRgap@fW between it and the top case.
+この@fRスキマ@fWの事は|覚えておいてください。=Make a mental note of that @fRgap@fW.
+中は空洞部分があるようだ。\v少しくらいの衝撃では|爆発しないだろう。=There is some hollow space inside.\vIt should be able to withstand light impact.
+割と頑丈なようですね。=It seems to be quite sturdy.
+ケースとの間に@fRスキマ@fWがある。=There is a @fRgap@fW in the case.
+@fRスキマ@fWを作れば、中をのぞけそうです。\t|使えそうなものは持っていませんか？=If you could widen the @fRgap@fW, we should be able to peek inside.\t|Do you have anything that you could use?
+爆弾を固定する台だ。\v特に怪しいところはない。=The base holds the bomb in place.\vNothing seems out of the ordinary.
+台座に怪しいところは無いですね。\t|ここはもう良いでしょう。=There’s nothing suspicious here.
+ここはもう良いでしょう。=There’s nothing to do here.
+ケースとの間にスキマができた。=Widened the gap in the case.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file032.bin
-むき出しのボタンだ。\vむやみに触れない方が良いだろう。=
-あやしいですね。\t|このボタンにはしばらく|触らないでください。=
-むき出しのボタンだ。=
-待ってください。\t|まずは最後の目標を確認しましょう。=
-むき出しのボタンだ。\vあからさまなところが、とても怪しい。\v触れない方が良さそうだ。=
-このボタンは押してはいけません。=
-ボタンを押さない=Do not press the button
-怪しいボタンだ。\v起爆装置に接続されている事は|間違いないようだ。=
-まだ押してはいけません。=
-ただの爆発ボタンではなさそうだが、|何の対策もなく押すのは危険すぎる。=
-もう少し押さないでおいてください。=
-プラグをはめた事で、|さっきまでと別の機能に|なっているはずです。\v爆薬との回路を切る事が|できるかもしれません。=
+むき出しのボタンだ。\vむやみに触れない方が良いだろう。=A button is sticking out.\vIt seems better not to touch it unnecessarily.
+あやしいですね。\t|このボタンにはしばらく|触らないでください。=It’s undoubtably suspicious.\t|Don’t touch it until we’re sure what it does.
+むき出しのボタンだ。=A button is sticking out.
+待ってください。\t|まずは最後の目標を確認しましょう。=Please wait.\t|We should identify our next objective first.
+むき出しのボタンだ。\vあからさまなところが、とても怪しい。\v触れない方が良さそうだ。=A button is sticking out.\vThe placement of it is suspicious.\vIt seems better not to touch it.
+このボタンは押してはいけません。=Whatever you do, don’t push the button.
+ボタンを押さない=Don’t press the button
+怪しいボタンだ。\v起爆装置に接続されている事は|間違いないようだ。=A suspicious button.\vThere is a high chance it’s connected to the detonator.
+まだ押してはいけません。=Don’t push it yet.
+ただの爆発ボタンではなさそうだが、|何の対策もなく押すのは危険すぎる。=It doesn’t appear to be the detonator button, but it’s too dangerous to press it unprepared.
+もう少し押さないでおいてください。=Please hold off on pressing that just now.
+プラグをはめた事で、|さっきまでと別の機能に|なっているはずです。\v爆薬との回路を切る事が|できるかもしれません。=Now that the plugs are fitted, it should be in full operation.\vIt may be possible to cut the circuit to the explosives.
 ボタンを押す=Press the button
-押すのは１回で十分です。=
+押すのは１回で十分です。=There’s no need to push it more than once.
 しかしハンマーは壊れてしまった。=
-ボタンを叩いた！=
+ボタンを叩いた！=Hit the button!
 !FILE:dat_script_trapbig.bin/file003_PACK2/file010.bin
 横のカバーを外した！=Removed the side cover!
 内部の回路の調査が|できるようになった。=You can now examine the circuitry inside.
@@ -4078,11 +4078,11 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file019.bin
 カッターを使った。|=Used Utility Knife.|
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file023.bin
-緑のコードだ。\v起爆装置と爆薬を繋いでいる。=
-緑のコードだ。\v起爆装置から外されている。=
+緑のコードだ。\v起爆装置と爆薬を繋いでいる。=A green wire.\vIt connects the detonator to the explosive.
+緑のコードだ。\v起爆装置から外されている。=A green wire.\vIt has been disconnected from the detonator.
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file025.bin
-赤いコードだ。\v起爆装置と爆薬を繋いでいる。=
-赤いコードだ。\v起爆装置から外されている。=
+赤いコードだ。\v起爆装置と爆薬を繋いでいる。=A red wire.\vIt connects the detonator to the explosive.
+赤いコードだ。\v起爆装置から外されている。=A red wire.\vIt has been disconnected from the detonator.
 !FILE:dat_script_trapsmall.bin/file019_PACK2/file015.bin
 ガラスのドームだ。\v黄色の液体が入っている。=
 ガラスのドームだ。\v黄色の液体が入っている。\v液体は少しずつだが減っている。=

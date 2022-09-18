@@ -382,21 +382,21 @@
 言ったはずですよ。@=I believe I already told you.@
 勝ちも負けもありません、と！*=There is no competition.*
 !FILE:dat_word_battle.bin/LUA_BTL_RESULT.lua
-この程度で驚かれては困ります。=
-相手が私とは、不幸な犯人|ですね……。=
-まさに、嘘から出たまことですね。=
+この程度で驚かれては困ります。=You shouldn’t be surprised by this much.
+相手が私とは、不幸な犯人|ですね……。=There’s no opponent who can stand up to me.
+まさに、嘘から出たまことですね。=Many a true word is spoken in jest.
 部屋が揺れても私の推理は|揺るぎません。=The room may shake, but my logic will not.
-大掛かりな手品ほど驚きは|小さいんです。=
-ゲームに負けたことは|ないんですよ……=
-嘘はついた時点で破綻している|ものなのです。=
-謎はすべて解けました……=
+大掛かりな手品ほど驚きは|小さいんです。=The larger the illusion, the lesser the wonder.
+ゲームに負けたことは|ないんですよ……=I’ve never lost at a game.
+嘘はついた時点で破綻している|ものなのです。=The minute you lie, you’ve already lost.
+謎はすべて解けました……=Everything has a soltion.
 これで終わりにしましょう……=This is the end.
-=Rブラフ=Wを入手しました。=
+=Rブラフ=Wを入手しました。==RBluff=W obtained.
 言い訳はしません……|私のミスです……=There’s no excuse... I made a mistake.
-詰めが甘かったようですね……=
-この借りはお返しします、|必ず……=
+詰めが甘かったようですね……=I didn’t push hard enough...
+この借りはお返しします、|必ず……=I will get you for this, I promise...
 !FILE:dat_word_battle.bin/LUA_BTL_SETTING.lua
-今までの調査で得られた情報をもとに|犯人の真の目的を推理せよ！=
+今までの調査で得られた情報をもとに|犯人の真の目的を推理せよ！=Use the information you’ve gathered so far to identify the kidnapper’s aim!
 Ｊが『クリエラの月』の残党では|ないことを証明せよ！=Prove that J is not a remnant of Criella Moon!
 Ｊがハウスキーパーではないことを|証明せよ！=Prove that J is not the Housekeeper!
 ハウスキーパーの嘘を暴\け！=Expose the Housekeeper's lies!
@@ -405,14 +405,14 @@
 首謀者の正体を暴\け！=Unmask the mastermind!
 ジェフリーの本当の目的を|見抜け！=Uncover Jeffery’s real goal!
 ハウスキーパーの利き腕を|見破れ！=Identify the Housekeeper’s dominant hand!
-推理モードでは、今までに入手した|=R情報キーワード=Wを使って|推理を行います。=
-下画面の=Rキーワードスロット=Wを|タッチすると、=Rリスト=Wの中から|キーワードをセットできます。=
-上画面の課題に適したキーワードを|４つセットして、=R【推理開始】=Wボタンを|押してください。=
+推理モードでは、今までに入手した|=R情報キーワード=Wを使って|推理を行います。=In Deduction Mode, you can use the =Rkeywords=W that you have obtained so far to make a conclusion.
+下画面の=Rキーワードスロット=Wを|タッチすると、=Rリスト=Wの中から|キーワードをセットできます。=Touch the =Rslots=W on the bottom screen to set a keyword from the =Rlist=W.
+上画面の課題に適したキーワードを|４つセットして、=R【推理開始】=Wボタンを|押してください。=Once you have selected four keywords, press the =R“Start”=W button.
 田中=
 ヒトシ=
 !FILE:dat_word_battle.bin/LUA_BTL_TALK.lua
-この事件にはいくつもの疑問がある。|あるいは矛盾と言い換えてもいい。=
-そこを突けば自ずと答えは見えてくる|はずだ……=
+この事件にはいくつもの疑問がある。|あるいは矛盾と言い換えてもいい。=There are a number of problems with this situation. Or, to put it another way, contradictions.
+そこを突けば自ずと答えは見えてくる|はずだ……=If I look into those, the answers are sure to reveal themselves...
 そ…それで、何が言いたいのです？=
 …さ、さすがですね。その通りです…=
 さしずめ、その大型トラップは|ホテル全体の時限爆弾の起爆装置を|兼ねているのではありませんか？=
@@ -562,7 +562,7 @@
 くっ、さっきいなかったのは…|それを調べるためだったのか！=Damn you. That’s why you left earlier; you were sniffing around!
 ええ、その『ホテル』の製造者たる|『マーメイド・グループ』には、|建築会社や内装会社はないんですよ！=That’s right. And I discovered that the makers of the ‘hotel’, the Mermaid Group, do not own an architectural or an interior design firm.
 ……ちっ……=Rrr...#end dupe
-…すみません、その通りなんです。|お詫びに王女様の名前を教えます。|彼女の名前は…マーメイドです！=...I’m sorry, you’re right.|As an apology, I will tell you the name of the princess. Her name is...　Mermaid!
+…すみません、その通りなんです。|お詫びに王女様の名前を教えます。|彼女の名前は…マーメイドです！=...I’m sorry, you’re right.|As an apology, I will tell you the name of the princess. Her name is... Mermaid!
 ま、まさか…おまえ…！=I-Impossible... how did you--!
 ええ…調べさせていただきました。|その『ホテル』という名の『建造物』の|製造者を。=I did a little research.|I wanted to find out who was responsible for this so-called hotel.
 調べるのに少々時間はかかりましたが、|製造者の名前は…|『マーメイド・グループ』です！=It took a bit of digging, but manufacturer’s name is the “Mermaid Group”!
@@ -829,9 +829,9 @@
 ジェフリーは捨て身の覚悟だ…|しかし、自分以外の人を巻き添えに|することは平気なのか…？=Jeffrey is ready to give up. But, is he really not bothered if other people end up as victims?
 ハウスキーパーの望みは私に勝利する|こと…いや、勝敗の可能\性は５０％だ。|つまり勝負こそが目的。ならば…=The Housekeeper wants to beat me... No, the chances of winning or losing are 50%. Which means, it’s the match itself he’s interested in.
 ……？=
-この推理で問題ない場合は|=R【アタック】=Wボタンを押してください。|Ｌが相手に推理をぶつけます。=
-的確な推理をぶつければ、相手に|心理的=Rダメージ=Wを与えられます。=
-一定以上のダメージを与えて|勝利すると、今後の展開が|有利になる可能\性があります。=
+この推理で問題ない場合は|=R【アタック】=Wボタンを押してください。|Ｌが相手に推理をぶつけます。=If you’re happy with these ideas, press the =R“Attack”=W button.|L will hit the opponent with his theory.
+的確な推理をぶつければ、相手に|心理的=Rダメージ=Wを与えられます。=By choosing hard-hitting answers, you can inflict psychological =Rdamage=W on your opponent.
+一定以上のダメージを与えて|勝利すると、今後の展開が|有利になる可能\性があります。=If you can inflict over a certain amount of damage, you may gain an advantage for future battles.
 !FILE:dat_word_battle.bin/LUA_BTL_WAKEUP.lua
 田中=
 こうじ=
