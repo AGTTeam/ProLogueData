@@ -271,7 +271,7 @@
 これだけであなたが『右利き』だと|判断するほど、私もマヌケではない。=I’m not so naive as to presume that you are right-handed from this alone.
 しかし、あなたが痕跡を残したことで|推理は難しくなりましたが、その半面、|『判断材料』は増えたのです。@=The fact you left evidence makes it harder for me to judge, but on the other hand, it gives me more material to work with.@
 ほ、ほう、それで…何を判断する？=Oh? So tell me, what’s your answer?
-ジェフリー・ミラー…|いえ、クリロ・ミラニッチ…|それがあなたの本当の名前です。=Jeffrey Miller...|No, Kirilo Milanoviｃ.|That is your real name.#guess based on Serbian names. Feel free to change.
+ジェフリー・ミラー…|いえ、クリロ・ミラニッチ…|それがあなたの本当の名前です。=Jeffrey Miller...|No, Kirilo Milanoviс.|That is your real name.#guess based on Serbian names. Feel free to change.
 英語になまりがあったことから|もしやと思い、ワタリに調べて|もらったんです。=I was curious about your English accent, so I asked Watari to look into it.
 あなたは旧ユーゴ内戦で家族を失った|戦争被害者です。=You are a victim who lost your family in the civil war in the former Yugoslavia.
 アロイスがやろうとしているのは、|戦争の道具を…あなたのような悲しい|被害者を増やすことです！=What Alois is trying to do is make new instruments of war. The number of tragic victims like you will only increase!
@@ -369,12 +369,12 @@
 @アロイス・ベントソ\ン会長…|この人以外にありえません！*=@Mister Alois Bateson... Everything points to him.*
 旧ユーゴ紛争で家族を失ったあなたは、|紛争を心から憎み、平和を望んでいた…=After you lost your family because of the war, you hated conflict with all your heart and wanted peace.#section dupe
 そのあなたが武器商人たるＣＬＮの|手先となって、新たな兵器を開発する|はずがない！=Someone like that would never work in the arms trade for the CLN, developing new weapons!
-ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviｃ, said...
+ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviс, said...
 @『僕は戦争で家族を失った。|　僕はこの世界からすべての戦争を|　なくしてしまいたい』=@“The war took my family. I want to rid the world of war.”
 あなたは、この少年の言葉を|『違う』と否定できますか？*=Are you going to deny that boy’s words?*#end dupe
 旧ユーゴ紛争で家族を失ったあなたは、|紛争を心から憎み、平和を望んでいた…=After you lost your family because of the war, you hated conflict with all your heart and wanted peace.#section dupe
 そのあなたが武器商人たるＣＬＮの|手先となって、新たな兵器を開発する|はずがない！=Someone like that would never work in the arms trade for the CLN, developing new weapons!
-ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviｃ, said...
+ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviс, said...
 @『僕は戦争で家族を失った。|　僕はこの世界からすべての戦争を|　なくしてしまいたい』=@“The war took my family. I want to rid the world of war.”
 あなたは、この少年の言葉を|『違う』と否定できますか？*=Are you going to deny that boy’s words?*#end dupe
 そう、あなたが爆破スイッチを押すと|すれば、『右』だ。@=Yes, if you were going to hit the detonation switch, you’d use your right.@
@@ -664,7 +664,7 @@
 …………=
 旧ユーゴ紛争で家族を失ったあなたは、|紛争を心から憎み、平和を望んでいた…=After you lost your family because of the war, you hated conflict with all your heart and wanted peace.
 そのあなたが武器商人たるＣＬＮの|手先となって、新たな兵器を開発する|はずがない！=Someone like that would never work in the arms trade for the CLN, developing new weapons!
-ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviｃ, said...
+ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviс, said...
 『僕は戦争で家族を失った。|　僕はこの世界からすべての戦争を|　なくしてしまいたい』=“The war took my family. I want to rid the world of war.”#end dupe
 …………！=
 多くの命を救うために|少数の命を犠牲にする…=
@@ -682,7 +682,7 @@
 …………=
 旧ユーゴ紛争で家族を失ったあなたは、|紛争を心から憎み、平和を望んでいた…=After you lost your family because of the war, you hated conflict with all your heart and wanted peace.
 そのあなたが武器商人たるＣＬＮの|手先となって、新たな兵器を開発する|はずがない！=Someone like that would never work in the arms trade for the CLN, developing new weapons!
-ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviｃ, said...
+ここにアロイス基金の会報があります。|援助を受けた当時のあなたが…クリロ・|ミラニッチがこう言っています…=Here is a newsletter from the Alois Foundation. At the time you received aid, you, as Kirilo Milanoviс, said...
 『僕は戦争で家族を失った。|　僕はこの世界からすべての戦争を|　なくしてしまいたい』=“The war took my family. I want to rid the world of war.”#end dupe
 …………！=
 （どっちが停止スイッチなんだ…）=(Which is the stop switch...?)
