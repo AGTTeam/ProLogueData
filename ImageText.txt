@@ -41,7 +41,7 @@ dat_adv_menu.bin\file005_PACK2\file001.png#done
 はい Yes
 いいえ No
 
-dat_adv_menu.bin\file008_PACK2\file001.png
+dat_adv_menu.bin\file008_PACK2\file001.png#test
 分経過
 
 dat_adv_menu.bin\file012_PACK2\file001.png#done
@@ -50,7 +50,7 @@ dat_adv_menu.bin\file012_PACK2\file001.png#done
 dat_adv_menu.bin\file012_PACK2\file002.png#done
 戻る Cancel#changed to Back
 
-dat_bustup.bin\file005_PACK2\file001.png
+dat_bustup.bin\file005_PACK2\file001.png#done
 緊急回避
 
 dat_credit.bin\file001_PACK2\file001.png
@@ -156,7 +156,7 @@ DEATH NOTE原作 = Death Note Original Work
 エグゼクティブ·プロデューサー=Executive Producer
 沖田勝典=Katsunori Okita
 
-協力=Coperation
+協力=Cooperation
 "M"・集英社/文芸編集部・少年ジャンプ編集部="M" Shueisha/SHONEN JUMP Editorial Department
 日本テレビ放送網=Nippon Television Network
 日本テレビ音楽=Nippon Television Music
@@ -190,12 +190,12 @@ title
 dat_game_title.bin\file001_PACK2\file003.png#done
 title
 
-dat_guidemap.bin\file002_PACK2\file001.png
-ラウンジ
-プロムナード
-ブリッジ
-船倉
-機関室
+dat_guidemap.bin\file002_PACK2\file001.png#done
+ラウンジ=Lounge
+プロムナード=Walkway
+ブリッジ=Bridge
+船倉=Hold
+機関室=Engine
 戻る Cancel
 移動 Move
 
@@ -281,7 +281,7 @@ Lコミュニケーター L Communicator
 はい Yes
 いいえ No
 
-dat_trap_etc.bin\file001_PACK2\file002.png
+dat_trap_etc.bin\file001_PACK2\file002.png#done
 調査 Examine#Examine & Execute are a bit too long. “Look” and “Act”/“Disarm” or try smaller font size?
 アイテム Item
 実行　Execute
@@ -290,7 +290,7 @@ L
 はい Yes
 いいえ No
 
-dat_trap_etc.bin\file001_PACK2\file007.png
+dat_trap_etc.bin\file001_PACK2\file007.png#done
 成功率
 
 dat_trap_etc.bin\file001_PACK2\file008.png (dupe)
@@ -303,7 +303,7 @@ dat_trap_etc.bin\file002_PACK2\file001.png
 dat_trap_etc.bin\file003_PACK2\file001.png#done
 決定 Decide#changed to Select
 
-dat_trap_etc.bin\file004_PACK2\file001.png
+dat_trap_etc.bin\file004_PACK2\file001.png#done
 トラップ解除開始
 
 dat_trap_etc.bin\file005_PACK2\file001.png

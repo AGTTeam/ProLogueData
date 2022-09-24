@@ -307,7 +307,7 @@
 おもしろい仮説ですが…ずいぶんと|思い切った思考の飛び方ですよ。\t|説明、していただけるんでしょうね？=That’s an interesting theory, but it’s really quite a leap.\t I’d love to hear your reasoning.
 ええ、もちろんです…=Yes, of course.
 !FILE:dat_script.bin/file004_PACK2/file010.bin
-ＰＤＡの電波の逆探知に成功しました。\t|発信源を動的に変化させているようで|正確な位置はまだ不明ですが…\v中米クリエラ共和国の国内であることは|まちがいありません。=We have succeeding in tracing the PDA’s radio signal.\t|However, the exact location is still unknown, as the source of the signal seems to be actively changing...\vWhat I can say for certain, is that it is within the Republic of Criella, Central America.
+ＰＤＡの電波の逆探知に成功しました。\t|発信源を動的に変化させているようで|正確な位置はまだ不明ですが…\v中米クリエラ共和国の国内であることは|まちがいありません。=We have succeeding in tracing the PDA’s radio signal.\t However, the exact location is still unknown, as the source of the signal seems to be actively changing...\vWhat I can say for certain, is that it is within the Republic of Criella, Central America.
 クリエラ…\t内戦中の国で、古いホテルが|放置されているなどということは|ありえない…\v攻撃のポイントとしてどちらかの勢力が|占拠するか、敵に使われないように|破壊してしまうか、どちらかです。=Criella...\t A country in the middle of a civil war, where it’s hard to imagine they’d just leave an old hotel abandoned...\vEither one of the sides would have occupied it to use as a base, or destroyed it so that the enemy couldn’t take advantage.
 これをどう説明すればいい…=So how do you explain this...?
 『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=It was occupied by the remnants of Criella Moon.\t|That fits, doesn’t it?
@@ -449,7 +449,7 @@
 わ、わかりました、会長…=Y-Yes, sir.
 予定通りの処理…\t気になりますね。|まだ何か隠し玉があるとすれば…=On schedule...?\t I wonder.|Could they still be hiding something from us...
 急いでジェフリーを止めなくては…！=...You have to stop Jeffery!
-@n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n0,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vMake for the promenade first.\vThe promenade is on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time.
+@n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n0,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vMake for the walkway first.\vIt’s is on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time.
 !FILE:dat_script.bin/file009_PACK2/file008.bin
 @n0さん、\t|その扉を開けてください。=@n0, please open that door.
 @n0さん、驚きましたか？\vそうです。この『トラップボックス』は|『ホテル』ではなく、海上を航行する|『客船』そのものなんです！\v詳細はワタリに調査してもらっている|ところですが…\vこれは、マーメイド・グループ傘下の|マーメイドシップビルダーズ社が|作った豪華客船『グラナダ号』です。=Are you suprised?\vThat’s right. This trap box is not a hotel but a cruise ship, out to sea!\vWatari is currently investigating the full details.\vWhat we do know is that you’re on the “Granada”, a luxury cruise ship built by Mermaid Shipbuilders, a subsidiary of the Mermaid Group.
@@ -528,8 +528,8 @@
 Ｌ…\t米軍の介入を要請してください。\t|@n1さんを助けた後、この船を|撃沈してもらうのがベストです。=L...\t Please ask the US military to intervene.\t After rescuing @n1, it would be best for everyone to have them sink the ship.
 いえ…\tそれはベストではありません。\t|和平調停中のクリエラ領内に米軍が|介入すれば、話がこじれるだけです。\v我々の力でエンジンを止めるのが|今、出来うるベストの方法です。=No...\t that wouldn’t be for the best.\vIf the US military appears in Criella while the peace mediation is still going on, it will only complicate things.\vThe best thing we can do now is to stop the engines ourselves.
 この船のエンジンは、複数の発電機と、|電力モーターを回転させる推進器から|成る電気推進式エンジンです。\v機関室へ行き、まず、発電機と推進器を|遮断して船の足を止め、次にエンジンを|１つずつ直接停止させましょう。\vその上でシステム再設定をすれば、|暴走や爆発の確率を低くできますし、|すべてはこの船の上で終わります。=The ship's engines are electric propulsion engines, consisting of several generators and a propulsion unit that turns the motor.\vGo to the engine room and stop the ship by shutting off the generators and propulsors,\vthen directly shut down the engines one by one.\vIf you can reconfigure the system, you can reduce the chances of the engines overheating and shut the operation down for good.
-わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=Alright...\vTo get to the engine room, you need to go through the ship's hold.\vYou can get there using the promenade stairs.|\tThere’s a key in the drawer over there.
-では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=I’ll be counting on you to assist @n0|from the bridge and disengage the autopilot.\v@n0, you’re in charge of stopping the engines.
+わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=Alright...\vTo get to the engine room, you need to go through the ship's hold.\vYou can get there using the walkway stairs.|\tThere’s a key in the drawer over there.
+では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=I’ll be counting on you to assist @n0|from the bridge and disarm the autopilot.\v@n0, you’re in charge of stopping the engines.
 「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=“I am indebted to you.”, hm?|That could be something.\t|I’ll have Watari look into it.
 !FILE:dat_script.bin/file011_PACK2/file006.bin
 急いで次に進みましょう。=Let’s move on.
@@ -662,7 +662,7 @@
 このキーがどう役立つかは、|後ほど考えることにしましょう。=We can think about where this key might be used later.
 それにしても…です。\vこれまでの経過を見ている限り、|どうにも妙な感じがしてなりません。\v通信も生きたままですし、トラップが|あるとはいえ自由に動けるとは…\vすべては犯人側の意図したことだと|考える以外、状況の説明がつきません。\vどこかから監視されているはず…|ならば当然、この通話も聞かれている。=Still...\vConsidering how things have progressed so far, I can’t help but think it’s strange.\vWe’re being allowed to communicate, and even though there are traps in place, you’re allowed to move freely...\vThere’s no other explanation for this situation except to assume that all of this was your kidnapper’s intention.\vThey must be monitoring you from somewhere... Which means, these calls are also being listened to.
 ……ですよね？\vそろそろ出てきたらどうですか？=...Well, I’m right, aren’t I?\vIsn’t it time you reveal yourself?
-今後は、調査や移動などを行うと|少しずつ@fR残り時間@fWが減っていきます。\vまた、３０分経過するごとに|トラップの解除方法を|@fR【Ｌに聞ける回数】@fWが増えます。\v残り時間がなくなってきた時は|メニューから@fR【再挑戦】@fWを実行すると|データを引き継いでやり直せます。=From now on, the @fRremaining time@fW will gradually decrease as you investigate and move around.\vHowever, the @fRnumber of times you can ask L for help@fW to disengage a trap will increase every 30 minutes.\vIf your time runs out, you can restart the game by selecting @fR“Retry”@fW from the menu.
+今後は、調査や移動などを行うと|少しずつ@fR残り時間@fWが減っていきます。\vまた、３０分経過するごとに|トラップの解除方法を|@fR【Ｌに聞ける回数】@fWが増えます。\v残り時間がなくなってきた時は|メニューから@fR【再挑戦】@fWを実行すると|データを引き継いでやり直せます。=From now on, the @fRremaining time@fW will gradually decrease as you investigate and move around.\vHowever, the @fRnumber of times you can ask L for help@fW to disarm a trap will increase every 30 minutes.\vIf your time runs out, you can restart the game by selecting @fR“Retry”@fW from the menu.
 !FILE:dat_script_f01.bin/file001_PACK2/file007.bin
 廊下へ移動します。|よろしいですか？=Move to the hallway?
 !FILE:dat_script_f01.bin/file001_PACK2/file010.bin
@@ -805,7 +805,7 @@
 やられました…トラップです。\t|まずいことになりましたね。=Hold it... It's a trap.\t|No more playing around.
 処理を誤れば──ドカン。\t|一巻の終わりです。\vでも、落ち着いてください。\t|この型のトラップはこれまでに何度も|処理したことがあります。\v私の指示に従って、冷静に処理すれば|必ず解除できるはずです。\t|始めましょう。=One wrong step and-Boom.\t|End of the line.\vJust try to stay calm, okay?\t|I've dealt with this sort of trap on numerous occasions.\vFollow my every instruction and don't panic, and everything will be fine.\t|Now, let's get started.
 このトラップ、仕掛けは単純ですが|よくできています。=The mechanism for that trap was simple, but well-implemented.
-とはいえ、あなたの解除の手つきも|なかなかのものでしたよ。\t|この調子で今後も解除してください。=Nonetheless, you did an excellent job disengaging it.\t|Take them all on with that same approach.
+とはいえ、あなたの解除の手つきも|なかなかのものでしたよ。\t|この調子で今後も解除してください。=Nonetheless, you did an excellent job disarming it.\t|Take them all on with that same approach.
 @n0さん、大丈夫ですか？\t|あなたの命が最優先です。\t|危ない時は逃げてください。\v解除ミスを気にすることはありません。\t|このトラップ、仕掛けは単純ですが|よくできていますから。=@n0, are you alright?\t|Your life is the number one priority.\t|If things get dangerous, please get away.\vDon’t worry about struggling with that trap.\t The mechanism was simple, but it was well-implemented.
 ところで、@n0さん、\t|私は気になることが出てきました。\t|あなたは何か感じませんか？=By the way, @n0, I have this ominous feeling.\t|Do you feel it as well?
 ここはどこだろうか？=This place, what is it?
@@ -878,7 +878,7 @@
 !FILE:dat_script_f02.bin/file001_PACK2/file011.bin
 下の階へ移動します。|@fWよろしいですか？=Move to the lower floor?
 !FILE:dat_script_f02.bin/file003_PACK2/file006.bin
-あのＪという男、どうも普通の犯罪者と|印象が違いますね。\t|こんな言い方も妙なんですが…=That man, J, didn’t appear to be your run-of-the-mill criminal.\t|Though, it might sound weird to suggest that such a thing exists.
+あのＪという男、どうも普通の犯罪者と|印象が違いますね。\t|こんな言い方も妙なんですが…=That man, J, didn’t appear to be your run-of-the-mill criminal.\t Though, it might sound weird to suggest that such a thing exists.
 内装や構造から見て、|ここが特殊な施設とは思えません…\t|やはり民間のホテル跡ですね…=From the layout and interior, I can’t imagine this place is any kind of special facility.\t|It really is an old private hotel...
 ここは地下…\tいや、違います…\t|ホテルの客室を地下に作るなど|聞いたことないですからね…\vシェルターならありえますが、|それなら扉の素材や作りが違ってくる|はずですし…\vそんなに外の景色を見られたくないと|言うのでしょうか…\vよほど目立つランドマホテルの客室を地下に作るなど聞いたことないですからね…
 シェルターならありえますが、それなら扉の素材や作りが違ってくるはずですし…ークでもあれば|別ですが、窓からの景色で現在地を|特定するのは楽ではないはずです…=You’re underground...\t No, that’s not it.\t|I’ve never heard of anyone building a hotel underground.\vIt could be a shelter, but if so, the door materials and designs would have been different...\vThey don’t want people to be able to see outside that badly...\vBut unless there was a prominent landmark, it wouldn’t be easy for anyone to recognize their location just by looking out the window.
@@ -1156,7 +1156,7 @@ debug jump?=
 !FILE:dat_script_f04.bin/file005_PACK2/file006.bin
 Ｌ、\tトラップの分析が終わりましたので|そちらにデータを転送します。=L,\t the analysis of the traps is complete. I am sending the data to you now.
 情報キーワード|@fR【トラップの分析結果】@fW|を入手した。=Keyword added:|@fR“Analysis of Traps”@fW
-ＦＢＩは、一度もこれらのトラップを|解除できなかった…\t|私が協力しているのはそのためです。=The FBI were never able to disengage any of these traps.\t That’s why I’ve been working with them.
+ＦＢＩは、一度もこれらのトラップを|解除できなかった…\t|私が協力しているのはそのためです。=The FBI were never able to disarm any of these traps.\t That’s why I’ve been working with them.
 !FILE:dat_script_f04.bin/file005_PACK2/file010.bin
 ウサギのブロンズ像だ。=A bronze statue of a rabbit.
 像を取ります。|よろしいですか？=Take the statue?
@@ -1583,11 +1583,11 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file001_PACK2/file014.bin
 鉄骨を調べた。=Examined steel beam.
 !FILE:dat_script_f08_a.bin/file003_PACK2/file007.bin
-プロムナードへ移動します。|よろしいですか？=Return to the promenade?
+プロムナードへ移動します。|よろしいですか？=Return to the walkway?
 !FILE:dat_script_f08_a.bin/file003_PACK2/file013.bin
 反応がない。\v電力が通ってないようだ。=There was no response.\vIt seems the power is off.
 !FILE:dat_script_f08_a.bin/file005_PACK2/file006.bin
-@n1さん、このフロアの情報です。\t|ブリッジに行くには、屋外プロムナード|経由が近道です。\t外に出ましょう。\vそれからＬ…\tグラナダ号のシステムに|関する情報も入手しました。=@n1, listen closely.\t There’s a shortcut to the bridge through the outdoor promenade.\t You need to head outside.\vI also have an update for you, L...\t I found out more about the Granada’s systems.
+@n1さん、このフロアの情報です。\t|ブリッジに行くには、屋外プロムナード|経由が近道です。\t外に出ましょう。\vそれからＬ…\tグラナダ号のシステムに|関する情報も入手しました。=@n1, listen closely.\t There’s a shortcut to the bridge through the outdoor walkway.\t You need to head outside.\vI also have an update for you, L...\t I found out more about the Granada’s systems.
 情報キーワード|@fR【システムの設計者】@fW|を入手した。=Keyword added:|@fR“System Designer"@fW
 なるほど…\tこの船を止めるには、|彼を止めるしかないようですね…=I see...\t It looks like the only way to stop this ship is to stop him.
 !FILE:dat_script_f08_a.bin/file006_PACK2/file010.bin
@@ -1677,7 +1677,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file014_PACK2/file020.bin
 窓を調べた。=Examined window.
 !FILE:dat_script_f08_a.bin/file015_PACK2/file010.bin
-プロムナード=Promenade
+プロムナード=Walkway
 !FILE:dat_script_f08_a.bin/file017_PACK2/file006.bin
 怪しい雰囲気ですね…\t|この部屋には何かありそうです。\t|注意して調査してください。=There’s something here...\t|Please investigate with caution.
 付近の施設に電力が供給された。=Power is being supplied.
@@ -2351,7 +2351,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬とトラップ本体を繋ぐコードだ。=The wires connect the explosives to the trap.
 爆薬とトラップ本体を繋ぐコードだ。\vトラップの中身が確認できないため、|@fR切断@fWできるコードを|見分ける事ができない。=The wires connect the explosives to the trap.\vWithout knowing more about the wiring, it’s impossible to tell which to @fRcut@fW.
 爆薬とトラップ本体を繋ぐコードだ。\v本物のコードは、|すでに切断されている。=The wires connecting the explosives to the trap.\vThe necessary wire has already been cut.
-爆薬とトラップ本体を繋ぐコードだ。\v本物のコードが分かった。|@fR切断@fWできれば解除に役立つだろう。=The wires connecting the explosives to the trap.\vThe real wire has been identified.|@fRCutting@fW it will improve the chances of successfully disengaging the trap.
+爆薬とトラップ本体を繋ぐコードだ。\v本物のコードが分かった。|@fR切断@fWできれば解除に役立つだろう。=The wires connecting the explosives to the trap.\vThe real wire has been identified.|@fRCutting@fW it will improve the chances of successfully disarming the trap.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file035.bin
 電気が供給されている。\v装置が安定しているようだ。=Electricity is being supplied to the device.\vIt appears to be stable.
 ２Ｆの電源パネルは|このトラップと|繋がっていたのですね。=So the power control panel on the 2nd floor was connected to this trap.
@@ -2484,7 +2484,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 スイッチだ。\v起爆装置を冷却したため、|温度が下がったようだ。=
 このスイッチ…、|まだ用途が判らないので|触らないでおきましょう。=This switch...|We still don’t know what it’s used for, so let’s just leave it for now.
 スイッチだ。\v起爆装置が高熱を発しているために|触る事ができない。=A switch.\vIt can’t be touched due to the high temperature being emitted by the detonator.
-これは爆薬を解除するための|スイッチですね。\t|何か仕掛けがありそうです。\v危険なボタンではないようです。\t|いろいろできそうな事を|試してみてください。=We can assume that this switch will disengage the explosives.\t|I’m sure there’s a trick to it.\vThe button itself doesn’t seem to be dangerous.\t Try seeing what you can do.
+これは爆薬を解除するための|スイッチですね。\t|何か仕掛けがありそうです。\v危険なボタンではないようです。\t|いろいろできそうな事を|試してみてください。=We can assume that this switch will disarm the explosives.\t|I’m sure there’s a trick to it.\vThe button itself doesn’t seem to be dangerous.\t Try seeing what you can do.
 爆薬を固定していたアームが外れた。=The clips holding the explosives in place came off.
 特に何も起こらなかった。=Nothing happened.
 !FILE:dat_script_trapbig.bin/file005_PACK2/file040.bin
@@ -3564,16 +3564,16 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file004_PACK2/file017.bin
 トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば何とかなりそうだ。=It’s the lid covering the trap.\vThere are several things keeping it in place.\vIf you could remove it...
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file006.bin
-では、順を追って|トラップ解除について説明します。\vどんなトラップも、@fR制限時間@fW内に|一定の@fR解除ステップ@fWを実行する事で|解除できます。これが基本です。\v@fR制限時間@fWは、トラップの周囲にある|@fRタイムゲージ@fWで確認できます。\v@fR解除ステップの総数@fWは、|@fR下画面の右上@fWに表示されています。\v難易度の高いトラップほど|総数が多くなっていくのですが…\t|今回は１ステップですね。楽勝です。\vとはいえ、どこから手をつけるか|わからなければ、解除のしようが|ありません。\vまずは、@fRタッチペン@fWで|トラップの各部を調査して、|解除の@fR目標@fWを見つけ出してください。=Let's go over releasing traps step by step.\vThe basic disengaging of any trap is done by performing certain @fRsteps@fW within a @fRtime limit@fW.\vYou can check the @fRtime limit@fW using the @fRtime gauge@fW that goes around the trap.\vThe @fRnumber of steps@fW is displayed in the upper right corner of the bottom screen.\vThe more complex the trap, the more steps involved.\t|This simple trap only has one.\vHowever, you'll need to know where to start if you're going to release it.\vFirst, use the @fRstylus@fW to inspect the trap and find the objective.
+では、順を追って|トラップ解除について説明します。\vどんなトラップも、@fR制限時間@fW内に|一定の@fR解除ステップ@fWを実行する事で|解除できます。これが基本です。\v@fR制限時間@fWは、トラップの周囲にある|@fRタイムゲージ@fWで確認できます。\v@fR解除ステップの総数@fWは、|@fR下画面の右上@fWに表示されています。\v難易度の高いトラップほど|総数が多くなっていくのですが…\t|今回は１ステップですね。楽勝です。\vとはいえ、どこから手をつけるか|わからなければ、解除のしようが|ありません。\vまずは、@fRタッチペン@fWで|トラップの各部を調査して、|解除の@fR目標@fWを見つけ出してください。=Let's go over releasing traps step by step.\vThe basic disarming of any trap is done by performing certain @fRsteps@fW within a @fRtime limit@fW.\vYou can check the @fRtime limit@fW using the @fRtime gauge@fW that goes around the trap.\vThe @fRnumber of steps@fW is displayed in the upper right corner of the bottom screen.\vThe more complex the trap, the more steps involved.\t|This simple trap only has one.\vHowever, you'll need to know where to start if you're going to release it.\vFirst, use the @fRstylus@fW to inspect the trap and find the objective.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file007.bin
 正面から離れる！=Get some distance!
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file010.bin
-では、いよいよ|解除ステップを@fR【実行】@fWしましょう。\v@fRテクニカルゲージ@fWをうまく止められれば|成功です。\v逆に、失敗すると|制限時間が大幅に減ってしまいます。\v@fR下画面をタッチ@fWして、ゲージ中央の|@fRセーフティゾーン@fW内で止めてください。|\t成功を祈ります。\vちなみに、@fR成功率が100％@fWの時は|@fRテクニカルゲージ@fWは出ません。|\t無条件で成功になります。=Alright, let's @fRexecute@fW the final step and disengage the trap.\vAll you need to do is stop the @fRTechnical Gauge@fW at the right time, and you'll be successful.\vConversely, if you fail, the time limit will be greatly reduced.\v@fRTap the lower screen@fW while the center of the gauge is within the @fRsafety zone@fW.\t|I wish you luck.\vI should mention, if the @fRsuccess rate is at 100%@fW, the @fRTechnical Gauge@fW won't be displayed.\t|You will succeed without fail.
+では、いよいよ|解除ステップを@fR【実行】@fWしましょう。\v@fRテクニカルゲージ@fWをうまく止められれば|成功です。\v逆に、失敗すると|制限時間が大幅に減ってしまいます。\v@fR下画面をタッチ@fWして、ゲージ中央の|@fRセーフティゾーン@fW内で止めてください。|\t成功を祈ります。\vちなみに、@fR成功率が100％@fWの時は|@fRテクニカルゲージ@fWは出ません。|\t無条件で成功になります。=Alright, let's @fRexecute@fW the final step and disarm the trap.\vAll you need to do is stop the @fRTechnical Gauge@fW at the right time, and you'll be successful.\vConversely, if you fail, the time limit will be greatly reduced.\v@fRTap the lower screen@fW while the center of the gauge is within the @fRsafety zone@fW.\t|I wish you luck.\vI should mention, if the @fRsuccess rate is at 100%@fW, the @fRTechnical Gauge@fW won't be displayed.\t|You will succeed without fail.
 起爆装置を外した!=Detonator removed!
-次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The “@fRL@fW" button will be enabled for future traps.\vYou can refer to L as necessary to @fRdiscover the objective@fW or @fRdisengage the trap@fW.
+次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The “@fRL@fW" button will be enabled for future traps.\vYou can refer to L as necessary to @fRdiscover the objective@fW or @fRdisarm the trap@fW.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file011.bin
 起爆装置と爆薬がくっついているだけの|単純なトラップです。=
-これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=Now, you can use the “@fRExecute@fW" button to attempt to disengage it.\t However...\vTake a look at the @fRSuccess Rate@fW to the bottom right of the trap.\vIf you press the “@fRExecute@fW" button while the success rate is low, there is a strong likelihood that you will fail.\vYou can increase the success rate by @fRinvestigating@fW each part of the trap or by using @fRitems@fW when appropriate.\vI would recommend raising the rate above 50% before @fRexecuting@fW.
+これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=Now, you can use the “@fRExecute@fW" button to attempt to disarm it.\t However...\vTake a look at the @fRSuccess Rate@fW to the bottom right of the trap.\vIf you press the “@fRExecute@fW" button while the success rate is low, there is a strong likelihood that you will fail.\vYou can increase the success rate by @fRinspecting@fW each part of the trap or by using @fRitems@fW when appropriate.\vI would recommend raising the rate above 50% before @fRexecuting@fW.
 ランプの点灯する順番と、|ケーブルの色がポイントですね。=
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file012.bin
 何かのボタンだ。=There's some kind of button.
@@ -3608,7 +3608,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file027.bin
 起爆装置だ。\v下の爆薬から外せば|爆発の恐れはなくなるだろう。=That's the detonator.\vIf you can remove it from the explosive below, there shouldn't be any danger.
 @fR目標@fWを見つけたようですね。=@fRObjective@fW identified.
-起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=The detonator.\vDisconnecting this from the explosive will disengage the trap.
+起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=The detonator.\vDisconnecting this from the explosive will disarm the trap.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file028.bin
 爆薬が入っている。=Contains the explosive.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file007.bin
@@ -3625,7 +3625,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 このコードには電流が流れていない。\vダミーのコードのようだ。=No current is flowing through this wire.\vIt appears to be fake.
 コードのうち、１本が重要な役割を|果たしているはずです。\t|ダミーのコードを@fR見分けられれば@fW…=One of these wires must be connected.\t|If you could figure out @fRwhich ones are fake@fW...
 このコードには電気が流れている。=There is a current flowing through this wire.
-このコードを切断できれば|トラップ解除は目の前です。=Cutting this wire should disengage the trap.
+このコードを切断できれば|トラップ解除は目の前です。=Cutting this wire should disarm the trap.
 このコードには電気が流れていない。=No current is flowing through this wire.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file014.bin
 ダミーのコードを@fR切断@fWすると|爆発してしまうはずです。\t|気をつけてください。=If you @fRcut@fW a fake wire, the bomb will explode.\t|Be careful.
@@ -3633,7 +3633,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ただ調べるだけでは|見分けがつきません。\t|@fR電気が流れている回路@fWが本物です。=Just looking at them won’t tell us anything.\t|The real wire will have @fRelectricity running through it@fW.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file018.bin
 青色のコードだ。\v起爆装置と爆薬を繋いでいる。=A blue wire.\vIt connects the detonator to the explosive.
-本物のコードを@fR切断@fWできれば|解除も可能です。\t|正しいコードが分かればですが。=If you @fRcut@fW the real wire, you’ll be able to disengage the trap.\t Supposing you can figure out which is the right wire, that is.
+本物のコードを@fR切断@fWできれば|解除も可能です。\t|正しいコードが分かればですが。=If you @fRcut@fW the real wire, you’ll be able to disarm the trap.\t Supposing you can figure out which is the right wire, that is.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file020.bin
 起爆装置だ。\v爆薬から外せば|爆発の恐れはなくなるだろう。=The detonator.\vDetaching it from the explosive should prevent ignition.
 私の見た限りでは、|このトラップのコードは|ほとんどダミーですね。=From what I can tell, most of those wires are feints.
@@ -3655,7 +3655,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 何かのボタンだ。 =Some kind of button.
 何かのボタンだ。\vすでに押されている。=Some kind of button.\vIt has already been pushed.
 ボタンに仕掛けは無いようだ。=This button seems to be safe.
-怪しげなボタンですね。\t|解除に関係する物でしょうか。\t|気をつけてください。=These buttons are suspicious.\t|They must have some connection to how to disengage the trap.\t Be careful.
+怪しげなボタンですね。\t|解除に関係する物でしょうか。\t|気をつけてください。=These buttons are suspicious.\t|They must have some connection to how to disarm the trap.\t Be careful.
 解除に関係するボタンのようですが、|慎重に調査した方が良さそうです。=
 ボタンに強い電流が流れている。=Strong current is flowing through the button.
 強力な電流が流れている！=You were electrified!
@@ -3754,7 +3754,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 全部のボタンを押す！=
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file011.bin
 特に悩む事は無いと思いますが…\t|この金属の球体が爆薬です。\t|これを外しましょう。=This doesn’t look too complex.\t|The explosives are in the metal sphere.\t That’s what you need to take off.
-頑丈な造りではありますが、|だいぶ隙の多い爆弾です。\vよく観察すれば、|解除は難しくありません。=The construction of the bomb is sturdy, but there are plenty of openings.\vIf you study it carefully, it shouldn’t be difficult to disengage.
+頑丈な造りではありますが、|だいぶ隙の多い爆弾です。\vよく観察すれば、|解除は難しくありません。=The construction of the bomb is sturdy, but there are plenty of openings.\vIf you study it carefully, it shouldn’t be difficult to disarm.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file012.bin
 ボタンだ。\v起爆装置の正面に並んでいる。=There are buttons lined in a row.
 どうやら正解のボタンを|押せたようです。\t|ついてます。=It looks like that was the right choice.\t|It seems luck is on your side.#qc you see this message even if you haven’t pushed any buttons?

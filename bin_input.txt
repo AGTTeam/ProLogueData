@@ -15,7 +15,7 @@
 引継ぎ捜査=
 ホテル５Ｆ=Hotel 5F
 ホテル６Ｆ=Hotel 6F
-プロムナード=Promenade
+プロムナード=Walkway
 未確定=
 ＣＬＮ=CLN
 検討中=Under Investigation

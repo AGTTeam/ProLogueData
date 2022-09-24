@@ -92,7 +92,7 @@
 ４０４号室奥=Room 404-B
 ピンジャック=Jack Plug
 エレベーター=Elevator
-プロムナード=Promenade
+プロムナード=Walkway
 ６０１号室奥=Room 601-B
 ６０３号室奥=Room 603-B
 ６０２号室奥=Room 602-B
@@ -260,7 +260,7 @@
 キャラメルシュー=Caramel Choux Bun
 苺シュークリーム=Strawberry Choux Bun
 普通のカッター。=An ordinary box cutter.
-プロムナードの鍵=Promenade Key
+プロムナードの鍵=Walkway Key
 プリンアラモード=Pudding a la Mode
 レモンキャンディ=Lemon Lollipop
 ソーダキャンディ=Soda Lollipop
@@ -370,7 +370,7 @@
 スタンガンだ。|電気ショックを与えることができる。|=A stun gun.|Delivers an electrical shock.
 何かの装置のパーツだ。|つぶれた四角形をしている。|=A part from some kind of device.|Has a squat rectangular shape.
 ドーナツの基本形。|シンプルで飽きないおいしさ。||||=A doughnut in its purest form.|Its simple but delicious taste is impossible to tire of.
-プロムナードの鍵だ。|甲板への扉を開くことができる。|=The key to the promenade.|Opens the door to the deck.
+プロムナードの鍵だ。|甲板への扉を開くことができる。|=The key to the walkway.|Opens the door to the deck.
 倉庫室の鍵だ。|船倉に有る部屋を開けることができる。|=The key to the storage room.|Opens a room in the hold..
 銀色の歯車だ。|どこかにはめられる場所がありそうだ。|=A silver gear.|It must fit somewhere.
 金色の歯車だ。|どこかにはめられる場所がありそうだ。|=A golden gear.|It must fit somewhere.
@@ -408,7 +408,7 @@
 配線用のコードだ。|道具が無くても作業が可能な|作りになっている。|=A cable used for wiring.|It was designed to be usable straight away, even without any special tools.
 明るい水色が可愛いらしい|ロリポップキャンディ。|爽やかなソーダ味|||=A cute light-blue lollipop. Has a refreshing soda taste.
 かわいいパンダ型のビスケットに|ミルクチョコレートを詰めました。||||=A cute panda shaped biscuit filled with milk chocolate.
-船倉の鍵だ。|プロムナードにある|船倉への階段の扉を開くことができる。|=The key to the ship's hold.|Opens the door to the stairs on the promenade.
+船倉の鍵だ。|プロムナードにある|船倉への階段の扉を開くことができる。|=The key to the ship's hold.|Opens the door to the stairs on the walkway.
 小さなピッキングキーだ。|単純な構造の鍵であれば|開けることができる。|=A small lockpick.|Can be used to open doors with simple locks.
 どこかからはずされたハンドルだ。|付け根の形が合えば回すことができる。|=A handle that has come off something.|Should turn if put back in the right place.
 どこかからはずされたＩＣチップだ。|はめることで動く装置がありそうだ。|=An IC chip that has been removed from something.|There must be a machine around here which won’t start without it.#Putting it back into the right machine should get it working.
