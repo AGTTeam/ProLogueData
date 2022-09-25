@@ -293,42 +293,49 @@ L
 dat_trap_etc.bin\file001_PACK2\file007.png#done
 成功率
 
-dat_trap_etc.bin\file001_PACK2\file008.png (dupe)
+dat_trap_etc.bin\file001_PACK2\file008.png (dupe)#done
 成功率
 
-dat_trap_etc.bin\file002_PACK2\file001.png
-回避せよ！
-残り時間
+dat_trap_etc.bin\file002_PACK2\file001.png#done
+回避せよ！=Act now!
+残り時間=Time Left
 
 dat_trap_etc.bin\file003_PACK2\file001.png#done
 決定 Decide#changed to Select
 
 dat_trap_etc.bin\file004_PACK2\file001.png#done
-トラップ解除開始
+トラップ解除開始=START
 
-dat_trap_etc.bin\file005_PACK2\file001.png
-解除完了！
+dat_trap_etc.bin\file005_PACK2\file001.png#done
+解除完了！=COMPLETE
 
-dat_trap_etc.bin\file006_PACK2\file001.png
-目標発見
+dat_trap_etc.bin\file006_PACK2\file001.png#done
+目標発見=IDENTIFIED
 
-dat_trap_etc.bin\file007_PACK2\file001.png
+dat_trap_etc.bin\file007_PACK2\file001.png#unused?
 成功率アップ！！
 
-dat_trap_etc.bin\file008_PACK2\file001.png
+dat_trap_etc.bin\file008_PACK2\file001.png#done
 解除を実行します。
 成功率によって難易度が変わります。
 よろしいですか？
+Execute the action?
+※The difficulty will depend on your success rate.
 
-dat_trap_etc.bin\file009_PACK2\file001.png
+dat_trap_etc.bin\file009_PACK2\file001.png#done
 Lの指示で解除を進めます。
 特殊な場合を除いて必ず成功しますがＬに聞ける回数を消費します。
 よろしいですか？
+Ask L to guide you?
+※This will complete the step except in special cases,
+but will consume a hint.
 
-dat_trap_etc.bin\file010_PACK2\file001.png
+dat_trap_etc.bin\file010_PACK2\file001.png#done
 解除を一時中断します。
 時間を消費します。
 よろしいですか？
+Pause the disarming?
+※Time will be consumed.
 
 dat_trap_etc.bin\file014_PACK2\file001.png
 上のケースを開けよ
