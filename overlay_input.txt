@@ -199,7 +199,7 @@
 ウサギの像=Rabbit Statue
 スタンガン=Stun Gun
 板状のもの=Metal Plate
-あんだんご=Anko Dango#red bean paste
+あんだんご=Anko Dango<red>ed bean paste
 さくらんぼ=Cherry
 さくらもち=Sakuramochi#more popularly written as two words, but Botamochi is more popular as one. Should try to keep it consistent either way.
 未定義||||=null||||
@@ -994,7 +994,7 @@ abcdさん。私は今、|糖分を激しく必要としてます。=abcd. I’m
 夕方ですね。|私は今、かなり冴えてる気がします。=Evening, hm? I’m feeling pretty on the ball right now.
 あ、バースデイケーキですか。|わざわざご用意を？=Oh, a birthday cake? Did you go out of your way to get this?
 ドーナツの基本形。|シンプルで飽きないおいしさ。|=A doughnut in its purest form.|Its simple but delicious taste is impossible to tire of.
-#R【話しかける】#Wボタンで、|Ｌと会話ができます。=#WUsing the #R“Talk”#W button, you can speak to L.#L5
+<red>【話しかける】<white>ボタンで、|Ｌと会話ができます。=<white>Using the <red>“Talk”<white> button, you can speak to L.#L5
 春眠暁を覚えず…|しかし眠り過ぎは良くありません。= “In spring one sleeps a sleep that knows no dawn.”|Though, too much sleep isn’t good for anyone.
 どんな午後を過ごしてますか？|余計なお世話ですか。=What are you doing this afternoon?|Oh, should I not have asked?
 秋ということで、|食欲や読書・スポーツの季節です。=Autumn is the time for eating, reading and playing sports.
@@ -1090,7 +1090,7 @@ abcdさんのために…|私は何でも考えます。|私たちには絆が�
 abcdさん、|あなたにスウィーツをいただくと、|至福の夕暮れ時です。=When I can eat something you’ve picked, my evening is made.
 こういう味でしたか。なるほど。|私の好みは…|ま、やめておきます。=Is this how it taste? I see.|I think I would have... No, it’s fine.
 あなたがスウィーツを選ぶセンス、|繊細ですね。これからもよろしく。=You have very good sense when it comes to choosing snacks. I’ll be counting on you.
-最後は#R【壁紙の変更】#Wです。|このボタンで、模様替えができます。=Last but not least is the #R“Wallpaper”#W button, which allows you to change the background.#L9
+最後は<red>【壁紙の変更】<white>です。|このボタンで、模様替えができます。=Last but not least is the <red>“Wallpaper”<white> button, which allows you to change the background.#L9
 ある朝、目覚めると一面、雪景色…|そんなことも起きうる季節ですね。=You wake up one morning to find the whole world covered in snow... This is the time of year when such things are possible.
 夕焼けを見て感傷的になる人がいます。|私にそんな暇はありませんが。=Some people get very sentimental when they see a sunset. I don’t have the luxury of such time.
 ストロベリーですか。１５と書いて、|イチゴと読む。暗号の初歩です。=Strawberries... Despite the name, they aren’t actually berries. How berry disappointing.#tc pun
@@ -1119,7 +1119,7 @@ abcdさん、あなたは|夜の闇を照らしてくれる存在です。|少�
 キャラメル風味のカスタードクリームは|甘いもの好きな人にはたまらない味。|=Those with a sweet tooth won’t be able to resist the moreish caramel custard.
 これです。|私はこれが欲しかったのです。|しっかり味わわせてもらいました。=This is it. This is what I was after. I enjoyed every last bite.
 abcdさんは私に、|本当の安らぎを与えてくれます。|かけがえのない存在です。=You give me true peace of mind. No one could ever replace you.
-#R【スウィーツ】#Wボタンで、|Ｌにスウィーツを食べさせる|ことができます。=#WThe #R“Snacks”#W button allows you to choose some food to give to L.#L6
+<red>【スウィーツ】<white>ボタンで、|Ｌにスウィーツを食べさせる|ことができます。=<white>The <red>“Snacks”<white> button allows you to choose some food to give to L.#L6
 今年も終わりです。|やり残した事もあるかと思いますが|ともかく良いお年を。=Another year has come to an end. There are still a few loose ends I have yet to tie up, but I think it was a good year.
 お盆ですね。|霊をお迎えし、お送りする…|魂祭（たままつり）とも言います。=Obon is here. The time to welcome and then see off the spirits of lost loved ones... It’s sometimes called ‘Festival of Souls’.
 今日は勤労感謝の日です。|常に勤勉なワタリに、|私は心から感謝しています。=Today is Thanksgiving Day. I am truly grateful to Watari for his diligence.
@@ -1183,13 +1183,13 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 小豆あんとはまた違った|うぐいす豆の風味。|グリンピースが完熟した|青えんどう豆から作ります。|=The topping made from ripe green peas tastes very different from the red bean paste used in Anko Dango.
 大理石という意味のマーブル。|バニラとチョコレートの|マーブル模様が美しい|アイスクリームです。|=This ice cream has a beautiful marble pattern made from the combination of vanilla and chocolate.
 バニラ風味がおいしいソフトクリーム。|アイスクリームより|あっさりソフトな食感。|食べすぎ注意！|=Delicious soft serve ice cream with hint of vanilla. It’s less dense than normal ice cream. Be careful not to eat too much!
-…あ、ちなみに、画面が|#R待機モード#Wになると、最新の状態が|#Rセーブ#Wされますので、ご心配なく。=...Ah, and don’t worry if the screen goes into #Rstandby mode#W, your latest progress will still be #Rsaved#W.#L14
+…あ、ちなみに、画面が|<red>待機モード<white>になると、最新の状態が|<red>セーブ<white>されますので、ご心配なく。=...Ah, and don’t worry if the screen goes into <red>standby mode<white>, your latest progress will still be <red>saved<white>.#L14
 Ｌコミュニケーターで初めから持っている|スウィーツのレシピが|本編のレシピリストに追加されました。=New recipes have been added to your recipe book!#L15
 チョコレート好きにはたまらない|定番のアイスクリーム。|濃厚なチョコレートの香りが|リッチな気分。|=A classic ice cream that would be any chocoholics choice. Even the rich chocolate smell is mouth-watering.
 さっとあぶった焦げ目の香ばしさと、|甘辛のくずあんが絶妙な、|串だんごの大定番。|焼きたてが最高。|=A classic skewered dango with the perfect combination of the burnt aroma from being lightly grilled, and a sweet & salty sauce. Nothing beats one freshly made.
 ナッツやクリームなどを中に入れた|ひと口サイズのチョコレートです。|ボンボンショコラとも言います。|=A bite-sized chocolate filled with nuts and cream. Sometimes referred to as a “bonbon”.
 さっくり軽いシュー皮に|ホイップクリームを|たっぷり絞りました。|生クリームが大好きな方にオススメ。|=A light and crisp choux pastry bun with a generous amount of whipped cream. Recommended for cream-lovers everywhere.
-捜査中、abcdさんが入手された|#Rレシピ#Wをもとに、私がスウィーツを|調達する手はずになっております。=I will arrange the ingredients for any #Rrecipes#W that you find during your investigation.#L7
+捜査中、abcdさんが入手された|<red>レシピ<white>をもとに、私がスウィーツを|調達する手はずになっております。=I will arrange the ingredients for any <red>recipes<white> that you find during your investigation.#L7
 日仏スウィーツのコラボレーション。|生クリームと小倉あんが意外にマッチ。|黒蜜ソースで仕上げました。|=A fusion of French and Japanese cuisine. It turns out that fresh cream and sweetened red bean paste make a surprising match. The molasses sauce on top adds a perfect finishing touch.
 バーベキュー串にいろいろお菓子を|突き刺した、ボリュームの１本。|ダイエット中の方は注意が必要です。|=A barbecue skewer stacked with variety of sweets. Not recommended for those trying to stick to a diet.
 塩漬けの桜の葉が香る、|季節感たっぷりの春のお菓子です。|関東風と関西風がありますが|こちらは関東風。|==A traditional Japanese springtime treat. How it’s made varies between the Kanto and Kansai regions, but this Kansai-style version is made with steamed mochi rice shaped around a ball of red bean paste, finished off with a salt-pickled sakura leaf.
