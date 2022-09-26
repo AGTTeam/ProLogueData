@@ -199,7 +199,7 @@
 ウサギの像=Rabbit Statue
 スタンガン=Stun Gun
 板状のもの=Metal Plate
-あんだんご=Anko Dango<red>ed bean paste
+あんだんご=Anko Dango#red bean paste
 さくらんぼ=Cherry
 さくらもち=Sakuramochi#more popularly written as two words, but Botamochi is more popular as one. Should try to keep it consistent either way.
 未定義||||=null||||
