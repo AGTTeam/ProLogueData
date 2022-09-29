@@ -339,63 +339,94 @@ Pause the disarming?
 
 dat_trap_etc.bin\file014_PACK2\file001.png
 上のケースを開けよ
+下のケースを開けよ
+起爆装置を解除せよ
 
 dat_trap_etc.bin\file015_PACK2\file001.png
 ケースを外せ
 手前のカバーを外せ
-爆薬が外せ
+爆薬を外せ
 
 dat_trap_etc.bin\file016_PACK2\file001.png
 横のカバーを外せ
+連動を解除せよ
 扉を開けよ
+爆薬を外せ
 金庫を開けよ
 
 dat_trap_etc.bin\file017_PACK2\file001.png
 赤い基板を外せ
+青い基板を外せ
+爆薬を解除せよ
 
 dat_trap_etc.bin\file018_PACK2\file001.png
 カバーを外せ
 フタを外せ
+プラグをはめよ
+起爆装置を冷やせ
+爆薬を外せ
 
 dat_trap_etc.bin\file019_PACK2\file001.png
 箱のロックを外せ
 箱を外せ
 円柱フレームを外せ
+フタを開けよ
+起爆装置を解除せよ
 
 dat_trap_etc.bin\file020_PACK2\file001.png
 中央のパーツを外せ
 振り子を固定せよ
 フタを外せ
+システムを起動せよ
+爆薬を外せ
 
 dat_trap_etc.bin\file021_PACK2\file001.png
 金属製の箱を分解せよ
 カバーを外せ
+フタを開けよ
+起爆装置を外せ
 
 dat_trap_etc.bin\file022_PACK2\file001.png
 フタを開けよ
+ロックを解除せよ
 基板を外せ
 起爆装置を停止せよ
+カバーを外せ
+爆薬を外せ
 
 dat_trap_etc.bin\file023_PACK2\file001.png
 外装を外せ
+装置を外せ
 ボルトを外せ
+フタを開けよ
+液体を中和せよ
+液体ケースを外せ
 
 dat_trap_etc.bin\file024_PACK2\file001.png
 フタを開けよ
+ロックを解除せよ
+起爆装置を外せ
+装置を起動せよ
 装置を外せ
 
 dat_trap_etc.bin\file025_PACK2\file001.png
 カバーを外せ
+ケースを外せ
 フタを外せ
+起爆装置を外せ
 
 dat_trap_etc.bin\file026_PACK2\file001.png　(dupe)
 カバーを外せ
+ケースを外せ
 フタを外せ
+起爆装置を外せ
 
 dat_trap_etc.bin\file027_PACK2\file001.png
 カバーを外せ
 電極のカバーを外せ
+ケースを外せ
 フタを外せ
+起爆装置を外せ
 
 dat_trap_etc.bin\file028_PACK2\file001.png
 フタを開けよ
@@ -408,6 +439,7 @@ dat_trap_etc.bin\file030_PACK2\file001.png (dupe)
 
 dat_trap_etc.bin\file031_PACK2\file001.png
 外装を取り外せ
+起爆装置を外せ
 
 dat_trap_etc.bin\file032_PACK2\file001.png
 カバーを外せ
@@ -419,6 +451,7 @@ dat_trap_etc.bin\file033_PACK2\file001.png
 dat_trap_etc.bin\file034_PACK2\file001.png
 手前の木箱を外せ
 木箱を外せ
+起爆装置を外せ
 
 dat_trap_etc.bin\file035_PACK2\file001.png
 爆弾を取り出せ
@@ -428,8 +461,10 @@ dat_trap_etc.bin\file036_PACK2\file001.png
 カバーを外せ
 爆薬が外せ
 
-dat_trap_etc.bin\file037_PACK2\file001.png
+dat_trap_etc.bin\file037_PACK2\file001.png (dupe)
 上のケースを開けよ
+下のケースを開けよ
+起爆装置を解除せよ
 
 dat_word_battle.bin\OP_S01_BG_TX01.png
 世界的名探偵“L”への挑戦
