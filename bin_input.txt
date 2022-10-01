@@ -61,7 +61,7 @@
 殺傷能力の低い爆薬=Nonlethal Explosives
 トラップの分析結果=Analysis of Traps
 ベーブ・ルース２世=Babe Ruth II
-クリエラの地震報道=
+クリエラの地震報道=News on Earthquakes
 ＣＬＮ会長の引退？=CLN Director Retirement?
 ６階の壁の日焼け跡=
 ハウスキーパーの報酬=
@@ -71,7 +71,7 @@
 ハウスキーパーの動揺=Housekeeper’s Unrest
 ハウスキーパーの矛盾=The Paradox
 アロイス・ベイトソン=Alois Bateson
-クリエラの地震・続報=Earthquake Follow-up Report
+クリエラの地震・続報=Earthquake Follow-up
 ハウスキーパーの性格=Housekeeper’s Personality
 小トラップの制限時間=Time Limit of Small Traps
 環境を利用したトラップ=Inventive Traps

@@ -466,19 +466,19 @@ dat_trap_etc.bin\file037_PACK2\file001.png (dupe)
 下のケースを開けよ
 起爆装置を解除せよ
 
-dat_word_battle.bin\OP_S01_BG_TX01.png
-世界的名探偵“L”への挑戦
+dat_word_battle.bin\OP_S01_BG_TX01.png#done
+世界的名探偵“L”への挑戦=Taunting the world's greatest detective “L”.
 
-dat_word_battle.bin\OP_S01_BG_TX02.png
-FBIを巻き込む巨大な罠
+dat_word_battle.bin\OP_S01_BG_TX02.png#done
+FBIを巻き込む巨大な罠=A huge trap involving the FBI.
 
-dat_word_battle.bin\OP_S01_BG_TX03.png
-渦巻く謎の中に真実が潜む…
+dat_word_battle.bin\OP_S01_BG_TX03.png#done
+渦巻く謎の中に真実が潜む…=The truth lurks within its spiraling depths...
 
-dat_word_battle.bin\BATTLE_MONOBUTTON_01_PACK2\file001.png
+dat_word_battle.bin\BATTLE_MONOBUTTON_01_PACK2\file001.png#unused?
 モノローグ1 (etc)
 
-dat_word_battle.bin\BATTLE_MONOLOGUE_01_PACK2\file001.png (dupe)
+dat_word_battle.bin\BATTLE_MONOLOGUE_01_PACK2\file001.png#unused? (dupe)
 モノローグ1 (etc)
 文章が入ります
 
@@ -488,7 +488,7 @@ J
 ジェフリー
 ハウスキーパー
 
-dat_word_battle.bin\BATTLE_OBJ_01_PACK2\file001.png
+dat_word_battle.bin\BATTLE_OBJ_01_PACK2\file001.png#this section unused?
 推理続行 Continue
 推理終了 End
 ATTACK
@@ -588,15 +588,15 @@ dat_word_battle.bin\OP_S05_OBJ_TX18_PACK2\file001.png
 dat_word_battle.bin\OP_S05_OBJ_TX19_PACK2\file001.png
 理由
 
-dat_word_battle.bin\VS_DOBJ01_PACK2\file001.png
+dat_word_battle.bin\VS_DOBJ01_PACK2\file001.png#done
 推理開始 Start reasoning
 戻る Cancel
 決定 Decide
 アタック Attack
 ブラフ Bluff
 
-dat_word_battle.bin\VS_DOBJ02_PACK2\file001.png
-推理モード終了
+dat_word_battle.bin\VS_DOBJ02_PACK2\file001.png#done
+推理モード終了=Deduction Over
 
 dat_word_battle.bin\VS_KEY00_PACK2\file001.png
 ???
@@ -775,16 +775,16 @@ dat_word_battle.bin\VS_KEY57_PACK2\file001.png
 dat_word_battle.bin\VS_KEY58_PACK2\file001.png
 〝右利き〟のトラップ
 
-dat_word_battle.bin\VS_KEY59_PACK2\file001.png
+dat_word_battle.bin\VS_KEY59_PACK2\file001.png#done
 ジェフリー・ミラー
 
-dat_word_battle.bin\VS_KEY60_PACK2\file001.png
+dat_word_battle.bin\VS_KEY60_PACK2\file001.png#done
 ジェフリーの家族
 
-dat_word_battle.bin\VS_KEY61_PACK2\file001.png
+dat_word_battle.bin\VS_KEY61_PACK2\file001.png#done
 ジェフリーの計画参加時期
 
-dat_word_battle.bin\VS_KEY62_PACK2\file001.png
+dat_word_battle.bin\VS_KEY62_PACK2\file001.png#done
 米軍介入
 
 dat_word_battle.bin\VS_KEY63_PACK2\file001.png　(dupe)
@@ -793,16 +793,16 @@ dat_word_battle.bin\VS_KEY63_PACK2\file001.png　(dupe)
 dat_word_battle.bin\VS_KEY64_PACK2\file001.png　(dupe)
 部屋に窓が見当たらない
 
-dat_word_battle.bin\VS_KEY65_PACK2\file001.png
+dat_word_battle.bin\VS_KEY65_PACK2\file001.png#done
 ハウスキーパーの性格
 
-dat_word_battle.bin\VS_KEY66_PACK2\file001.png
+dat_word_battle.bin\VS_KEY66_PACK2\file001.png#done
 ハウスキーパーの目的
 
-dat_word_battle.bin\VS_KEY67_PACK2\file001.png
+dat_word_battle.bin\VS_KEY67_PACK2\file001.png#done
 ベーブ・ルース
 
-dat_word_battle.bin\VS_KEY68_PACK2\file001.png
+dat_word_battle.bin\VS_KEY68_PACK2\file001.png#done
 ベーブ・ルース２世
 
 dat_word_battle.bin\VS_KEY69 to 80 (dupe)
@@ -811,8 +811,8 @@ dat_word_battle.bin\VS_KEY69 to 80 (dupe)
 dat_word_battle.bin\VS_KEY99_PACK2\file001.png
 ブラフ
 
-dat_word_battle.bin\VS_UOBJ09_PACK2\file001.png
-推理モード発動
+dat_word_battle.bin\VS_UOBJ09_PACK2\file001.png#done
+推理モード発動=Deduction Mode
 
 dat_word_view.bin\file001_PACK2\file004.png#done
 戻る Cancel
