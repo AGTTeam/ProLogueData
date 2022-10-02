@@ -715,55 +715,55 @@ dat_word_battle.bin\VS_KEY37_PACK2\file001.png
 dat_word_battle.bin\VS_KEY38_PACK2\file001.png
 部屋に窓が見当たらない
 
-dat_word_battle.bin\VS_KEY39_PACK2\file001.png
+dat_word_battle.bin\VS_KEY39_PACK2\file001.png#done
 小トラップの制限時間
 
-dat_word_battle.bin\VS_KEY40_PACK2\file001.png
+dat_word_battle.bin\VS_KEY40_PACK2\file001.png#unused?
 ハウスキーパーの報酬
 
-dat_word_battle.bin\VS_KEY41_PACK2\file001.png
+dat_word_battle.bin\VS_KEY41_PACK2\file001.png#done
 豪華客船グラナダ号
 
-dat_word_battle.bin\VS_KEY42_PACK2\file001.png
+dat_word_battle.bin\VS_KEY42_PACK2\file001.png#done
 トラップの発案者
 
-dat_word_battle.bin\VS_KEY43_PACK2\file001.png
+dat_word_battle.bin\VS_KEY43_PACK2\file001.png#done
 グラナダの所有者
 
-dat_word_battle.bin\VS_KEY44_PACK2\file001.png
+dat_word_battle.bin\VS_KEY44_PACK2\file001.png#done
 ＣＬＮ
 
-dat_word_battle.bin\VS_KEY45_PACK2\file001.png
+dat_word_battle.bin\VS_KEY45_PACK2\file001.png#done
 殺傷能力の低い爆薬
 
-dat_word_battle.bin\VS_KEY46_PACK2\file001.png
+dat_word_battle.bin\VS_KEY46_PACK2\file001.png#done
 他の乗船者
 
-dat_word_battle.bin\VS_KEY47_PACK2\file001.png
+dat_word_battle.bin\VS_KEY47_PACK2\file001.png#done
 軍事偵察衛星
 
-dat_word_battle.bin\VS_KEY48_PACK2\file001.png
+dat_word_battle.bin\VS_KEY48_PACK2\file001.png#done
 ハウスキーパーの動揺
 
-dat_word_battle.bin\VS_KEY49_PACK2\file001.png
+dat_word_battle.bin\VS_KEY49_PACK2\file001.png#done
 システムの設計者
 
-dat_word_battle.bin\VS_KEY50_PACK2\file001.png
+dat_word_battle.bin\VS_KEY50_PACK2\file001.png#done
 リブート社
 
-dat_word_battle.bin\VS_KEY51_PACK2\file001.png
+dat_word_battle.bin\VS_KEY51_PACK2\file001.png#done
 アロイス・ベイトソン
 
-dat_word_battle.bin\VS_KEY52_PACK2\file001.png
+dat_word_battle.bin\VS_KEY52_PACK2\file001.png#done
 アロイス基金
 
-dat_word_battle.bin\VS_KEY53_PACK2\file001.png
+dat_word_battle.bin\VS_KEY53_PACK2\file001.png#done
 ＣＬＮ会長の引退？
 
-dat_word_battle.bin\VS_KEY54_PACK2\file001.png
+dat_word_battle.bin\VS_KEY54_PACK2\file001.png#done
 ＣＬＮの株主
 
-dat_word_battle.bin\VS_KEY55_PACK2\file001.png
+dat_word_battle.bin\VS_KEY55_PACK2\file001.png#done
 救命ボート
 
 dat_word_battle.bin\VS_KEY56_PACK2\file001.png (dupe)
