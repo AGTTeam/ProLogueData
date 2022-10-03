@@ -488,7 +488,7 @@ J
 ジェフリー
 ハウスキーパー
 
-dat_word_battle.bin\BATTLE_OBJ_01_PACK2\file001.png#this section unused?
+dat_word_battle.bin\BATTLE_OBJ_01_PACK2\file001.png#unused?
 推理続行 Continue
 推理終了 End
 ATTACK
@@ -498,19 +498,19 @@ MISS
 推理バトル勝利
 背景ワード
 
-dat_word_battle.bin\BATTLE_OBJ_U_01_PACK2\file001.png
+dat_word_battle.bin\BATTLE_OBJ_U_01_PACK2\file001.png#unused?
 推理力
 
-dat_word_battle.bin\OP_S02_OBJ_TX01_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX01_PACK2\file001.png#done
 問題は--トラップです
 
-dat_word_battle.bin\OP_S02_OBJ_TX02_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX02_PACK2\file001.png#done
 ゲーム…そう、これはゲームです
 
-dat_word_battle.bin\OP_S02_OBJ_TX03_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX03_PACK2\file001.png#done
 さあ、これからが本番ですよ
 
-dat_word_battle.bin\OP_S02_OBJ_TX04_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX04_PACK2\file001.png#done
 まだ何か反論がありますか？
 
 dat_word_battle.bin\OP_S02_OBJ_TX05_PACK2\file001.png
@@ -598,121 +598,121 @@ dat_word_battle.bin\VS_DOBJ01_PACK2\file001.png#done
 dat_word_battle.bin\VS_DOBJ02_PACK2\file001.png#done
 推理モード終了=Deduction Over
 
-dat_word_battle.bin\VS_KEY00_PACK2\file001.png
+dat_word_battle.bin\VS_KEY00_PACK2\file001.png#done
 ???
 
-dat_word_battle.bin\VS_KEY01_PACK2\file001.png
+dat_word_battle.bin\VS_KEY01_PACK2\file001.png#done
 ホテル風な室内
 
-dat_word_battle.bin\VS_KEY02_PACK2\file001.png
+dat_word_battle.bin\VS_KEY02_PACK2\file001.png#done
 自由な人質
 
-dat_word_battle.bin\VS_KEY03_PACK2\file001.png
+dat_word_battle.bin\VS_KEY03_PACK2\file001.png#done
 上出来なトラップ
 
-dat_word_battle.bin\VS_KEY04_PACK2\file001.png
+dat_word_battle.bin\VS_KEY04_PACK2\file001.png#done
 意図的な落し物
 
-dat_word_battle.bin\VS_KEY05_PACK2\file001.png
+dat_word_battle.bin\VS_KEY05_PACK2\file001.png#done
 脱出ゲーム制限時間は？
 
-dat_word_battle.bin\VS_KEY06_PACK2\file001.png
+dat_word_battle.bin\VS_KEY06_PACK2\file001.png#done
 デジタルキー
 
-dat_word_battle.bin\VS_KEY07_PACK2\file001.png
+dat_word_battle.bin\VS_KEY07_PACK2\file001.png#done
 FBI捜査官
 
-dat_word_battle.bin\VS_KEY08_PACK2\file001.png
+dat_word_battle.bin\VS_KEY08_PACK2\file001.png#done
 廊下をふさぐ壁
 
-dat_word_battle.bin\VS_KEY09_PACK2\file001.png
+dat_word_battle.bin\VS_KEY09_PACK2\file001.png#done
 難民の移送方法
 
-dat_word_battle.bin\VS_KEY10_PACK2\file001.png
+dat_word_battle.bin\VS_KEY10_PACK2\file001.png#done
 誘拐された難民たち
 
-dat_word_battle.bin\VS_KEY11_PACK2\file001.png
+dat_word_battle.bin\VS_KEY11_PACK2\file001.png#done
 巨大な氷塊
 
-dat_word_battle.bin\VS_KEY12_PACK2\file001.png
+dat_word_battle.bin\VS_KEY12_PACK2\file001.png#done
 復讐ゲーム
 
-dat_word_battle.bin\VS_KEY13_PACK2\file001.png
+dat_word_battle.bin\VS_KEY13_PACK2\file001.png#done
 遠隔スイッチ
 
-dat_word_battle.bin\VS_KEY14_PACK2\file001.png
+dat_word_battle.bin\VS_KEY14_PACK2\file001.png#done
 風景からの位置特定
 
-dat_word_battle.bin\VS_KEY15_PACK2\file001.png
+dat_word_battle.bin\VS_KEY15_PACK2\file001.png#done
 窓のない部屋
 
 dat_word_battle.bin\VS_KEY16_PACK2\file001.png
 環境を利用したトラップ
 
-dat_word_battle.bin\VS_KEY17_PACK2\file001.png
+dat_word_battle.bin\VS_KEY17_PACK2\file001.png#done
 爆弾魔ハウスキーパー
 
-dat_word_battle.bin\VS_KEY18_PACK2\file001.png
+dat_word_battle.bin\VS_KEY18_PACK2\file001.png#done
 狭い通路
 
-dat_word_battle.bin\VS_KEY19_PACK2\file001.png
+dat_word_battle.bin\VS_KEY19_PACK2\file001.png#unused?
 エレベーター
 
-dat_word_battle.bin\VS_KEY20_PACK2\file001.png
+dat_word_battle.bin\VS_KEY20_PACK2\file001.png#unused?
 ３階の壁の日焼け跡
 
-dat_word_battle.bin\VS_KEY21_PACK2\file001.png
+dat_word_battle.bin\VS_KEY21_PACK2\file001.png#done
 ハウスキーパー生き立ち
 
-dat_word_battle.bin\VS_KEY22_PACK2\file001.png
+dat_word_battle.bin\VS_KEY22_PACK2\file001.png#done
 Ｊのプロファイリング結果
 
-dat_word_battle.bin\VS_KEY23_PACK2\file001.png
+dat_word_battle.bin\VS_KEY23_PACK2\file001.png#done
 法則性のないトラップ構造
 
-dat_word_battle.bin\VS_KEY24_PACK2\file001.png
+dat_word_battle.bin\VS_KEY24_PACK2\file001.png#done
 Ｊの利き腕
 
-dat_word_battle.bin\VS_KEY25_PACK2\file001.png
+dat_word_battle.bin\VS_KEY25_PACK2\file001.png#done
 トラップの分析結果
 
-dat_word_battle.bin\VS_KEY26_PACK2\file001.png
+dat_word_battle.bin\VS_KEY26_PACK2\file001.png#done
 ハウスキーパーの積極性
 
-dat_word_battle.bin\VS_KEY27_PACK2\file001.png
+dat_word_battle.bin\VS_KEY27_PACK2\file001.png#done
 ハウスキーパーの矛盾
 
-dat_word_battle.bin\VS_KEY28_PACK2\file001.png
+dat_word_battle.bin\VS_KEY28_PACK2\file001.png#done
 高価なトラップ
 
 dat_word_battle.bin\VS_KEY29_PACK2\file001.png
 ４階フロアの内装
 
-dat_word_battle.bin\VS_KEY30_PACK2\file001.png
+dat_word_battle.bin\VS_KEY30_PACK2\file001.png#done
 大きな地震
 
-dat_word_battle.bin\VS_KEY31_PACK2\file001.png
+dat_word_battle.bin\VS_KEY31_PACK2\file001.png#done
 クリエラの地震報道
 
-dat_word_battle.bin\VS_KEY32_PACK2\file001.png
+dat_word_battle.bin\VS_KEY32_PACK2\file001.png#done
 ハウスキーパーの依頼人
 
-dat_word_battle.bin\VS_KEY33_PACK2\file001.png
+dat_word_battle.bin\VS_KEY33_PACK2\file001.png#done
 クリエラの地震・続報
 
-dat_word_battle.bin\VS_KEY34_PACK2\file001.png
+dat_word_battle.bin\VS_KEY34_PACK2\file001.png#done
 ５階フロアの内装
 
-dat_word_battle.bin\VS_KEY35_PACK2\file001.png
+dat_word_battle.bin\VS_KEY35_PACK2\file001.png#done
 ホテル全体の内装
 
-dat_word_battle.bin\VS_KEY36_PACK2\file001.png
+dat_word_battle.bin\VS_KEY36_PACK2\file001.png#done
 スタッフルームの荒れ具合
 
-dat_word_battle.bin\VS_KEY37_PACK2\file001.png
+dat_word_battle.bin\VS_KEY37_PACK2\file001.png#done
 ６階フロアの内装
 
-dat_word_battle.bin\VS_KEY38_PACK2\file001.png
+dat_word_battle.bin\VS_KEY38_PACK2\file001.png#unused?
 部屋に窓が見当たらない
 
 dat_word_battle.bin\VS_KEY39_PACK2\file001.png#done
