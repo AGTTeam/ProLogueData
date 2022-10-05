@@ -513,13 +513,13 @@ dat_word_battle.bin\OP_S02_OBJ_TX03_PACK2\file001.png#done
 dat_word_battle.bin\OP_S02_OBJ_TX04_PACK2\file001.png#done
 まだ何か反論がありますか？
 
-dat_word_battle.bin\OP_S02_OBJ_TX05_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX05_PACK2\file001.png#done
 ここからは私の勝負です…
 
-dat_word_battle.bin\OP_S02_OBJ_TX06_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX06_PACK2\file001.png#done
 これはビジネスだよ
 
-dat_word_battle.bin\OP_S02_OBJ_TX07_PACK2\file001.png
+dat_word_battle.bin\OP_S02_OBJ_TX07_PACK2\file001.png#done
 俺が直接勝負してやる
 
 dat_word_battle.bin\OP_S02_OBJ_TX08_PACK2\file001.png
