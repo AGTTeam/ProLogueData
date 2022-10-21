@@ -1,4 +1,4 @@
-﻿child003.bin\file001_PACK2\file004.pn
+﻿child003.bin\file001_PACK2\file004.png
 Ｌを呼び出す Call L
 応答する Reply
 終了する Quit
@@ -501,92 +501,92 @@ MISS
 dat_word_battle.bin\BATTLE_OBJ_U_01_PACK2\file001.png#unused?
 推理力
 
-dat_word_battle.bin\OP_S02_OBJ_TX01_PACK2\file001.png#done
-問題は--トラップです
+dat_word_battle.bin\OP_S02_OBJ_TX01_PACK2\file001.png#done This section lines up with text in the script
+問題は--トラップです=The problem is... Traps.
 
 dat_word_battle.bin\OP_S02_OBJ_TX02_PACK2\file001.png#done
-ゲーム…そう、これはゲームです
+ゲーム…そう、これはゲームです=A game... Yes, this is a game.
 
 dat_word_battle.bin\OP_S02_OBJ_TX03_PACK2\file001.png#done
-さあ、これからが本番ですよ
+さあ、これからが本番ですよ=The real fight starts now.
 
 dat_word_battle.bin\OP_S02_OBJ_TX04_PACK2\file001.png#done
-まだ何か反論がありますか？
+まだ何か反論がありますか？=Do you have any objections?
 
 dat_word_battle.bin\OP_S02_OBJ_TX05_PACK2\file001.png#done
-ここからは私の勝負です…
+ここからは私の勝負です…=I’ll take it from here.
 
 dat_word_battle.bin\OP_S02_OBJ_TX06_PACK2\file001.png#done
-これはビジネスだよ
+これはビジネスだよ=This is business.
 
 dat_word_battle.bin\OP_S02_OBJ_TX07_PACK2\file001.png#done
-俺が直接勝負してやる
+俺が直接勝負してやる=I’ll face you myself.
 
-dat_word_battle.bin\OP_S02_OBJ_TX08_PACK2\file001.png
-探偵としての君の信用は失墜する
+dat_word_battle.bin\OP_S02_OBJ_TX08_PACK2\file001.png#done
+探偵としての君の信用は失墜する=Your reputation as a detective is at stake.
 
-dat_word_battle.bin\OP_S02_OBJ_TX09_PACK2\file001.png
-俺のプライドの問題だ
+dat_word_battle.bin\OP_S02_OBJ_TX09_PACK2\file001.png#done
+俺のプライドの問題だ=It’s a matter of pride.
 
-dat_word_battle.bin\OP_S02_OBJ_TX10_PACK2\file001.png
-聞き捨てならんな、L！
+dat_word_battle.bin\OP_S02_OBJ_TX10_PACK2\file001.png#done
+聞き捨てならんな、L！=I won’t let that slide, L!
 
-dat_word_battle.bin\OP_S05_OBJ_TX01_PACK2\file001.png
-プロファイリング
+dat_word_battle.bin\OP_S05_OBJ_TX01_PACK2\file001.png#done
+プロファイリング=Profiling
 
-dat_word_battle.bin\OP_S05_OBJ_TX02_PACK2\file001.png
-依頼人
+dat_word_battle.bin\OP_S05_OBJ_TX02_PACK2\file001.png#done
+依頼人=Client
 
-dat_word_battle.bin\OP_S05_OBJ_TX03_PACK2\file001.png
-可能性
+dat_word_battle.bin\OP_S05_OBJ_TX03_PACK2\file001.png#done
+可能性=Possibility
 
-dat_word_battle.bin\OP_S05_OBJ_TX04_PACK2\file001.png
-起爆装置
+dat_word_battle.bin\OP_S05_OBJ_TX04_PACK2\file001.png#done
+起爆装置=Detonator
 
-dat_word_battle.bin\OP_S05_OBJ_TX05_PACK2\file001.png
-協力者
+dat_word_battle.bin\OP_S05_OBJ_TX05_PACK2\file001.png#done
+協力者=Associate
 
-dat_word_battle.bin\OP_S05_OBJ_TX06_PACK2\file001.png
-覧禁
+dat_word_battle.bin\OP_S05_OBJ_TX06_PACK2\file001.png#done
+覧禁=Restriction
 
-dat_word_battle.bin\OP_S05_OBJ_TX07_PACK2\file001.png
-推理
+dat_word_battle.bin\OP_S05_OBJ_TX07_PACK2\file001.png#done
+推理=Logic
 
-dat_word_battle.bin\OP_S05_OBJ_TX08_PACK2\file001.png
-計画
+dat_word_battle.bin\OP_S05_OBJ_TX08_PACK2\file001.png#done
+計画=Plan
 
-dat_word_battle.bin\OP_S05_OBJ_TX09_PACK2\file001.png
-情報
+dat_word_battle.bin\OP_S05_OBJ_TX09_PACK2\file001.png#done
+情報=Data
 
-dat_word_battle.bin\OP_S05_OBJ_TX10_PACK2\file001.png
-制限時間
+dat_word_battle.bin\OP_S05_OBJ_TX10_PACK2\file001.png#done
+制限時間=Time Limit
 
-dat_word_battle.bin\OP_S05_OBJ_TX11_PACK2\file001.png
-復讐
+dat_word_battle.bin\OP_S05_OBJ_TX11_PACK2\file001.png#done
+復讐=Revenge
 
-dat_word_battle.bin\OP_S05_OBJ_TX12_PACK2\file001.png
-設計者
+dat_word_battle.bin\OP_S05_OBJ_TX12_PACK2\file001.png#done
+設計者=Designer
 
-dat_word_battle.bin\OP_S05_OBJ_TX13_PACK2\file001.png
-捜査官
+dat_word_battle.bin\OP_S05_OBJ_TX13_PACK2\file001.png#done
+捜査官=FBI Agent
 
-dat_word_battle.bin\OP_S05_OBJ_TX14_PACK2\file001.png
-脱出
+dat_word_battle.bin\OP_S05_OBJ_TX14_PACK2\file001.png#done
+脱出=Escape
 
-dat_word_battle.bin\OP_S05_OBJ_TX15_PACK2\file001.png
-動揺
+dat_word_battle.bin\OP_S05_OBJ_TX15_PACK2\file001.png#done
+動揺=Unrest
 
-dat_word_battle.bin\OP_S05_OBJ_TX16_PACK2\file001.png
-通信
+dat_word_battle.bin\OP_S05_OBJ_TX16_PACK2\file001.png#done
+通信=Contact
 
-dat_word_battle.bin\OP_S05_OBJ_TX17_PACK2\file001.png
-矛盾
+dat_word_battle.bin\OP_S05_OBJ_TX17_PACK2\file001.png#done
+矛盾=Paradox
 
-dat_word_battle.bin\OP_S05_OBJ_TX18_PACK2\file001.png
-誘拐
+dat_word_battle.bin\OP_S05_OBJ_TX18_PACK2\file001.png#done
+誘拐=Kidnapping
 
-dat_word_battle.bin\OP_S05_OBJ_TX19_PACK2\file001.png
-理由
+dat_word_battle.bin\OP_S05_OBJ_TX19_PACK2\file001.png#done
+理由=Motive
 
 dat_word_battle.bin\VS_DOBJ01_PACK2\file001.png#done
 推理開始 Start reasoning
@@ -685,7 +685,7 @@ dat_word_battle.bin\VS_KEY27_PACK2\file001.png#done
 dat_word_battle.bin\VS_KEY28_PACK2\file001.png#done
 高価なトラップ
 
-dat_word_battle.bin\VS_KEY29_PACK2\file001.png
+dat_word_battle.bin\VS_KEY29_PACK2\file001.png#done
 ４階フロアの内装
 
 dat_word_battle.bin\VS_KEY30_PACK2\file001.png#done
@@ -769,10 +769,10 @@ dat_word_battle.bin\VS_KEY55_PACK2\file001.png#done
 dat_word_battle.bin\VS_KEY56_PACK2\file001.png (dupe)
 部屋に窓が見当たらない
 
-dat_word_battle.bin\VS_KEY57_PACK2\file001.png
+dat_word_battle.bin\VS_KEY57_PACK2\file001.png#done
 ベースボール好きの爆弾魔
 
-dat_word_battle.bin\VS_KEY58_PACK2\file001.png
+dat_word_battle.bin\VS_KEY58_PACK2\file001.png#done
 〝右利き〟のトラップ
 
 dat_word_battle.bin\VS_KEY59_PACK2\file001.png#done
@@ -808,7 +808,7 @@ dat_word_battle.bin\VS_KEY68_PACK2\file001.png#done
 dat_word_battle.bin\VS_KEY69 to 80 (dupe)
 部屋に窓が見当たらない
 
-dat_word_battle.bin\VS_KEY99_PACK2\file001.png
+dat_word_battle.bin\VS_KEY99_PACK2\file001.png#done
 ブラフ
 
 dat_word_battle.bin\VS_UOBJ09_PACK2\file001.png#done
