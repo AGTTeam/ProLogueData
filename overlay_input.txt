@@ -371,7 +371,7 @@
 何かの装置のパーツだ。|つぶれた四角形をしている。|=A part from some kind of device.|Has a squat rectangular shape.
 ドーナツの基本形。|シンプルで飽きないおいしさ。||||=A doughnut in its purest form.|Its simple but delicious taste is impossible to tire of.
 プロムナードの鍵だ。|甲板への扉を開くことができる。|=The key to the walkway.|Opens the door to the deck.
-倉庫室の鍵だ。|船倉に有る部屋を開けることができる。|=The key to the storage room.|Opens a room in the hold..
+倉庫室の鍵だ。|船倉に有る部屋を開けることができる。|=The key to a storage room.|Opens the rooms in the hold.
 銀色の歯車だ。|どこかにはめられる場所がありそうだ。|=A silver gear.|It must fit somewhere.
 金色の歯車だ。|どこかにはめられる場所がありそうだ。|=A golden gear.|It must fit somewhere.
 カラフルでかわいい三色だんご。|１本で３種類の味。||||=Colorful, cute dango.|Three flavors on one stick.
@@ -598,7 +598,7 @@
 難民は陸路でアメリカに送った。|その際、難民たちが逃げないよう|Ｊの仲間が銃で難民たちを脅していた。=The refugees were transported to the US overland. J’s associates threatened them with guns to prevent them from escaping.
 会長アロイス・ベイトソン率いる北米の|ＩＴ会社。業界トップの業績を誇る。|会長の完全なるワンマン経営。=North American IT company led by Chairman Alois Bateson. A major competitor in the industry. The Chairman manages the entire company.
 米軍の介入は事態の混乱を招く恐れが|高いのだが、ジェフリーは必要以上に|米軍への介入要請を口にしている。=Intervention by the US military would stir up controversy, but Jeffrey seems insistent on it.
-壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=The paint on the walls is peeling and rusty. The carpets is also mouldy. For a non-humid area like the Republic of Criella, such a thing is highly unusual.
+壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=The paint on the walls is peeling and rusty. The carpet also mouldy. For a non-humid area like the Republic of Criella, such a thing is highly unusual.
 ハウスキーパーは基本的にはトラップを|仕掛けるだけで、表舞台で行動しない。|今回は異例の行動だと思われる。=The Housekeeper typically only sets traps and does not get involved. His actions this time are unprecedented.
 大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
 一連のトラップの製作者である爆弾魔。|３日前、㍗㍗㍗㍗が誘拐された際にも|同様のトラップが仕掛けられていた。=The Housekeeper is responsible for a series of traps. A similar trap was set three days ago when abcd was abducted.
@@ -647,8 +647,8 @@
 ライフ=Stamina
 捜査レベル　　%d　=Level　　%d
 捜査経験値　　%d　=EXP　　  %d
-現在地　　　　%s=Location　%s
-残り時間　　　−−：−−=
+現在地　　　　%s=Location　　　%s
+残り時間　　　−−：−−=Time Left　　−−：−−
 ？？？？　　　？？？？？=
 残り時間　　　%d:%02d　=Time Left　　%d:%02d
 

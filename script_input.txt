@@ -189,7 +189,7 @@
 フロアの安全が確保できたら、|ジェフリーがエンジンを停止させます。\t|それで、今度こそ終わりです。=Once the floor is secure, Jeffrey will stop the engine.\t|Let’s end this.
 自衛のためとはいえ、|爆弾の数が多すぎる。\t|どういうつもりだ、ハウスキーパー…=There are too many bombs here, even for self-defence.\t|What are you up to, Housekeeper...?
 ヤツにとっては最後の勝負だ。\t|何を仕掛けてくるか……=This is his last play.\t|I wonder what he’s got in store for us...
-ハウスキーパーが、おとなしく|捕まるとは思えません。\tいざと言う時は|よろしくお願いします。=I don’t think the housekeeper will come along quietly.\t If push comes to shove, I’ll be counting on your skills as an agent.
+ハウスキーパーが、おとなしく|捕まるとは思えません。\tいざと言う時は|よろしくお願いします。=I don’t think the Housekeeper will come along quietly.\t If push comes to shove, I’ll be counting on your skills as an agent.
 おそらく、ハウスキーパーは|フロアの一番奥で待っているでしょう。\t|私に最後の勝負を挑むために……=The Housekeeper is probably waiting at the far end of this floor.\t|All for one last game...
 ハウスキーパーとの駆け引きには、|ヤツに関するあらゆる情報が必要だ。\t|性格、過去、犯罪歴……=To face off with the Housekeeper, I need to know everything I can about him.\t|Personality, history, criminal record...
 最後のトラップ解除は|万全の態勢で臨んでください。\t|何があるかわかりませんから。=Make sure you’re fully prepared for the final trap.\t|We don’t know what we might find.
@@ -530,7 +530,7 @@
 この船のエンジンは、複数の発電機と、|電力モーターを回転させる推進器から|成る電気推進式エンジンです。\v機関室へ行き、まず、発電機と推進器を|遮断して船の足を止め、次にエンジンを|１つずつ直接停止させましょう。\vその上でシステム再設定をすれば、|暴走や爆発の確率を低くできますし、|すべてはこの船の上で終わります。=The ship's engines are electric propulsion engines, consisting of several generators and a propulsion unit that turns the motor.\vGo to the engine room and stop the ship by shutting off the generators and propulsors, then shut down the engines.\vIf you can reconfigure the system, you can stop the engines overheating and shut the operation down for good.
 わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=Alright...\vTo get to the engine room, you need to go through the ship's hold.\vYou can get there using the walkway stairs.|\tThere’s a key in the drawer over there.
 では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=I’ll be counting on you to assist @n0|from the bridge and disarm the autopilot.\v@n0, you’re in charge of stopping the engines.
-「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=“I am indebted to you.”, hm?|That could be something.\t|I’ll have Watari look into it.
+「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=“I am indebted to you”, hm?|There’s more to this story.\t|I’ll have Watari look into it.
 !FILE:dat_script.bin/file011_PACK2/file006.bin
 急いで次に進みましょう。=Let’s move on.
 Ｌ、こんなことをしていたら|間に合わない…\v命が惜しくて言っているわけじゃない。|本当に時間がないんだ…！\t|頼む、米軍に要請だけでもしてくれ…\vもし船が港に突っ込んでしまったら、|会長は情報操作をして、あなたの関与を|確実に世界に広める…\tそういう人だ！\vそうなれば、あなたの証言すら意味が|なくなってしまう！=L, we’re never going to make it at this rate.\vI’m not just saying this for my sake.|We really don’t have enough time--!\t|I’m begging you, please contact the military.\vIf this ship crashes into the port, the Chairman will make sure that word of your involvement is spread around the world.\vIf that happens, no one will ever trust you again.
@@ -588,8 +588,8 @@
 情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=Keyword added:|@fR“Jeffery Involved in Plan"@fW
 !FILE:dat_script.bin/file011_PACK2/file011.bin
 ダメだ…！\t　もうどうにもならない！|早く、早く船を沈めてくれ！=It’s no good!\t There's nothing we can do!|W-We need to sink the ship!
-沈めるのは最後の手段です。\t|そのために、@n0さんは命を|かけているんです。=Sinking the ship is the last resort.\t|@n0 has put their life on the line to prevent that.
-@n0さんの努力と勇気を無駄に|しないでください！=Don't waste @n0’s hard work and courage!
+沈めるのは最後の手段です。\t|そのために、@n0さんは命を|かけているんです。=Sinking the ship is the last resort.\t|@n0 has put their life on the line to|prevent that.
+@n0さんの努力と勇気を無駄に|しないでください！=Don't waste @n0’s hard work and|courage!
 くっ…\tや、やります…=Ngh...\t Alright.
 !FILE:dat_script.bin/file011_PACK2/file012.bin
 Ｌ、やはり無理だ！\t　船を停めても、|ここにあるのはガラクタばかりだ…\t|証拠になんてならない…=This isn’t going to work, L!\t Even if we stop the ship, all of this stuff is junk. It’s not evidence...
@@ -638,10 +638,10 @@
 こんな目的もなく、『破滅』を脅迫の|材料にした低俗なゲームと比べては、|ベースボールに失礼ですよ。=It’s disrespectful to baseball to compare it to such a pointless, vulgar game that uses “doom” as a source of intimidation.
 …くっ！　俺をコケにしたな！=Ngh! Mock me all you want...
 だが、俺は絶対にこの勝負に勝つ。|勝って、その鼻をへし折ってやる。=But I will be the winner of this game.|I’ll win and I’ll show you the worth of that meaningless pride!
-（なんという負けず嫌いな性格…\t|　今回の件を除けば、ハウスキーパーの|　仕事成功率は１００％だった…）=(He’s awfully competitive.\t|Apart from this incident, the Housekeeper’s success rate has been 100%...)
+（なんという負けず嫌いな性格…\t|　今回の件を除けば、ハウスキーパーの|　仕事成功率は１００％だった…）=(He’s awfully competitive.\t Apart from this incident, the Housekeeper’s success rate has been 100%...)
 情報キーワード|@fR【ハウスキーパーの性格】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Personality"@fW
 勝ちも負けもありませんよ。\t|爆弾と船の爆発を停め、憐れな犯罪者を|我々の手で挙げるだけです。=There is no competition.\t We’re going to stop the ship, and you will be made to surrender.
-この勝負が終わったとき、|笑うのはどっちだろうな。=We’ll see who has the last laugh, L.
+この勝負が終わったとき、|笑うのはどっちだろうな。=We’ll see who has the last laugh, L!
 …あくまでも勝負にこだわるのですね。\t|なら、私を敵に回したあなたには|『勝利』はありませんよ。=...I see that you’re set on turning this into a fight.\t Then, you should know that I am an enemy you can’t win against.
 ふん、せいぜい吠えていろ！|もう時間はあまりない…=Hmph, I’d like to see you try!|You’re almost out of time.
 あんなに煽るようなことを言って|大丈夫なんですか？=Are you sure it’s okay to stir him up so much?
@@ -1098,7 +1098,7 @@
 !FILE:dat_script_f03.bin/file010_PACK2/file011.bin
 Ｌ、\tハウスキーパーに関する資料を|用意しました。\t|今、そちらに転送します。=L,\t I have prepared a list of materials on the Housekeeper.\t|I will forward them to you now.
 情報キーワード|@fR【ハウスキーパーの生い立ち】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s History”@fW
-…ワタリ、ごくろうさまでした。\t|ハウスキーパーは、かなりのベテラン|犯罪者です…気が抜けませんね…=...Thank you, Watari.\t|The housekeeper is quite the seasoned criminal... We can’t let our guard now...
+…ワタリ、ごくろうさまでした。\t|ハウスキーパーは、かなりのベテラン|犯罪者です…気が抜けませんね…=...Thank you, Watari.\t|The Housekeeper is quite the seasoned criminal... We can’t let our guard now...
 !FILE:dat_script_f03.bin/file011_PACK2/file011.bin
 クッションの下に何かある。=There’s something under the cushion.
 !FILE:dat_script_f03.bin/file011_PACK2/file012.bin
@@ -1755,7 +1755,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file005_PACK2/file016.bin
 デジタルロックのようだ。=A digital lock.
 !FILE:dat_script_f09.bin/file006_PACK2/file010.bin
-やはり扉にトラップが仕掛けられて|いますね…\t注意してください。=Of course it’s booby trapped...\t Be careful.
+やはり扉にトラップが仕掛けられて|いますね…\t注意してください。=A booby trap, of course...\t|Be careful.
 これはあらかじめ仕掛けてあったもの|ではなく、急きょセットされたような|印象があります…\tということは…=I get the impression that this trap wasn’t prepared in advance, but was set in a hurry.\t Which means...
 !FILE:dat_script_f09.bin/file007_PACK2/file006.bin
 遅くなりましたが、|彼の情報をまとめました。\t|まだ必要ですかな？=It took me some time, but I have compiled his information.\t|Would you still like it?
@@ -1797,7 +1797,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 壁に文字が書かれている。=There’s writing on the wall.
 ３→８だ。=It says “３→８”.
 !FILE:dat_script_f09.bin/file015_PACK2/file012.bin
-積荷を調べた。=Examined cargo.
+積荷を調べた。=Examined sacks.
 !FILE:dat_script_f09.bin/file015_PACK2/file017.bin
 コンテナの隙間を調べた。=Examined the space between the containers.
 !FILE:dat_script_f09.bin/file016_PACK2/file010.bin
@@ -1860,7 +1860,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ０２０９=
 ４７０３=
 わからない=Don’t know
-その通り、おみごとです。\t|早速入力してしまいましょう。=That’s the one, well done.\t|Enter it into the keypad.
+その通り、おみごとです。\t|早速入力してしまいましょう。=That’s the one, good thinking.\t|Enter it into the keypad.
 ……|\t残念ですが、私から説明します。\vまず、メモの内容から残る|アルファベットは『ＢＩ』となります。\vこれを数字に戻すと、|でてくるのは『０２０９』となります。\t|この数値を装置に入力してください。=...|\tDon’t worry, I’ll explain it to you.\vIf you remove the numbers of the alphabet that correspond to the word “hope”, you’re left with the letters “bi”.\vConverting those back to numbers, you get “0209”.\t|That’s what you need to enter.
 入力するのは『０２０９』です。=The number to enter is “0209”.
 !FILE:dat_script_f10_a.bin/file004_PACK2/file010.bin
@@ -3126,7 +3126,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ボンベの元栓だ。\v今は閉められている。=The main valve.\vIt has been shut.
 位置からすると、|ボンベの元栓に当たる場所|のような感じです。\v何か元栓を締める物は|持っていませんか？=Judging by the position, this must the valve for the cylinder.\vDo you have anything that you could use to tighten it?
 ボンベの元栓だ。|今は閉められている。=The cylinder’s valve.\vIt has been shut.
-一応言っておきますが、|元栓を開けたりしないでくださいね。\vこれ以上液体にガスを混ぜると|爆発する恐れがあります。=I’m sure this goes without saying, but don’t open the valve.\vIf any more gas is allowed to mix with the liquid it could trigger an explosion.
+一応言っておきますが、|元栓を開けたりしないでくださいね。\vこれ以上液体にガスを混ぜると|爆発する恐れがあります。=I’m sure this goes without saying, but don’t open the valve.\vIf any more gas is allowed to mix with the liquid, it could trigger an explosion.
 あえて元栓を開ける=Open the valve anyway
 元栓を開けない=Don’t open the valve
 パイプについた穴に|ボンベの栓をはめ込み、|元栓を閉めた。=Fit the handwheel into the hole in the pipe and closed the valve.
@@ -3162,7 +3162,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ボンベと液体ケースを繋ぐパイプだ。\vつけ根からガスが漏れていたが、|絶縁テープで応急処置が|施されている。=A pipe connecting the gas cylinder to the case containing liquid.\vGas was leaking from the base, but it has been patched up with insulating tape.
 ガスはしっかり止まったようですね。=That seems to be working well.
 ボンベと液体ケースを繋ぐパイプだ。\v金具を叩いた衝撃で、|つけ根の部分から|ガスが漏れている。=A pipe connecting the gas cylinder to the case containing liquid.\vThe impact of striking the fitting has caused gas to leak from the bottom.
-いけませんね、何か|@fR穴を塞げる物@fWはありませんか？=Not good. Do you have anything you could use to @fWplug the hole@fR?
+いけませんね、何か|@fR穴を塞げる物@fWはありませんか？=Not good. Do you have anything you could use to @fRplug the hole@fW?
 ガスが漏れている部分を塞いだ。\vガス漏れが止まったようだ。=Plugged the area where gas was escaping.\vThe gas leak seems to have stopped.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file038.bin
 ボンベからのびているチューブだ。=A tube extends from the cylinder.
@@ -3270,7 +3270,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 装置の側面についているランプだ。\v赤いランプが点灯している。=There are two lights on the side of the device.\vThe red light is lit.
 まだこのランプは|気にする必要がなさそうです。\vおそらく、装置の中に関係する物|ですね。=I don’t think we need to worry about these just yet.\vThey probably relate to something inside.
 装置の側面についているランプだ。\v緑のランプが点灯している。=There are two lights on the side of the device.\vThe green light is lit.
-ロックが解除された印のようです。|\t今なら起爆装置を|外す事ができそうです。=That must be an indication that the lock has been release.\t It should be safe to remove the detonator now.
+ロックが解除された印のようです。|\t今なら起爆装置を|外す事ができそうです。=That must be an indication that the lock has been released.\t It should be safe to remove the detonator now.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file029.bin
 大掛かりな装置だ。=A large device.
 おそらくこれが起爆装置でしょう。|\tですが、これを外して終わり、|とはいかないでしょうね。=I’d wager that this is the detonator.|\tAlthough, I don’t think you can just remove this and be done with it.
@@ -3707,7 +3707,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ヒビをふさぐ！=Seal the cracks!
 大きく深呼吸！=Take a deep breath!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file010.bin
-液体がすごい勢いで|下のパーツへ落ちだした！！=The liquid has started to drip onto the lower parts at a great speed!!
+液体がすごい勢いで|下のパーツへ落ちだした！！=The liquid has started to drip onto the lower parts at great speed!!
 フラスコを外した！=Removed the flasks!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file011.bin
 カバーが邪魔ですので、|外さなくてはいけませんが、|何か仕掛けがありそうですね。\v外すのは準備をしっかりしてから|開始した方が良いでしょう。=The cover is in the way so you could do with removing it, but I expect it’s boobytrapped.\vYou should do everything you can first before you try to take it off.
@@ -4084,15 +4084,15 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 赤いコードだ。\v起爆装置と爆薬を繋いでいる。=A red wire.\vIt connects the detonator to the explosive.
 赤いコードだ。\v起爆装置から外されている。=A red wire.\vIt has been disconnected from the detonator.
 !FILE:dat_script_trapsmall.bin/file019_PACK2/file015.bin
-ガラスのドームだ。\v黄色の液体が入っている。=
-ガラスのドームだ。\v黄色の液体が入っている。\v液体は少しずつだが減っている。=
-フラスコがさかさまに|取り付けられている。\v中には、黄色の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=
+ガラスのドームだ。\v黄色の液体が入っている。=A glass dome.\vThere’s yellow liquid inside.
+ガラスのドームだ。\v黄色の液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s yellow liquid inside.\vThe amount of liquid is slowly decreasing.
+フラスコがさかさまに|取り付けられている。\v中には、黄色の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a yellow liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file019_PACK2/file016.bin
-ガラスのドームだ。\v青い液体が入っている。=
-ガラスのドームだ。\v青い液体が入っている。\v液体は少しずつだが減っている。=
-フラスコがさかさまに|取り付けられている。\v中には、青い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=
+ガラスのドームだ。\v青い液体が入っている。=A glass dome.\vThere’s blue liquid inside.
+ガラスのドームだ。\v青い液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s blue liquid inside.\vThe amount of liquid is slowly decreasing.
+フラスコがさかさまに|取り付けられている。\v中には、青い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a blue liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file020_PACK2/file011.bin
-この大量のコードの中に|きっと爆弾があります。|\tそれを探してください。=
-これは爆薬が比較的簡単に|外せそうな位置にありますね。|\tこれを外しましょう。=
+この大量のコードの中に|きっと爆弾があります。|\tそれを探してください。=There must be a bomb inside this tangle of wires.\t|See if you can find it.
+これは爆薬が比較的簡単に|外せそうな位置にありますね。|\tこれを外しましょう。=Now you’re in a better position to disarm the trap.\t|Remove the explosives.
 !FILE:dat_script_trapsmall.bin/file020_PACK2/file022.bin
 だいたい一斗缶ぐらいの|大きさですね。|\t爆弾はこの中でしょうか。=
