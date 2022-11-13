@@ -405,7 +405,7 @@
 首謀者の正体を暴\け！=Unmask the mastermind!
 ジェフリーの本当の目的を|見抜け！=Uncover Jeffery’s real goal!
 ハウスキーパーの利き腕を|見破れ！=Identify the Housekeeper’s dominant hand!
-推理モードでは、今までに入手した|<red>情報キーワード<white>を使って|推理を行います。=In Deduction Mode, you can use the <red>keywords<white> that you have obtained so far to make a conclusion.
+推理モードでは、今までに入手した|<red>情報キーワード<white>を使って|推理を行います。=In Deduction Mode, you can use the <red>keywords<white> that you have obtained so far to form an argument.
 下画面の<red>キーワードスロット<white>を|タッチすると、<red>リスト<white>の中から|キーワードをセットできます。=Touch the <red>slots<white> on the bottom screen to set a keyword from the <red>list<white>.
 上画面の課題に適したキーワードを|４つセットして、<red>【推理開始】<white>ボタンを|押してください。=Once you have selected four keywords, press the <red>“Start”<white> button.
 田中=
@@ -735,7 +735,7 @@
 古いホテルといえど、鍵はある。|トラップを仕掛けているのに、|なぜ鍵を使わないのか……=Even an old hotel has locks on the doors. Why set up a trap, but not lock the door?#qc
 室内の見た目だけで判断してしまったが|宿泊するための部屋を有する建造物は|ホテルだけではない…=I made an assumption based on the appearance of the rooms, but a hotel is not the only structure with rooms for lodging.
 誘拐監禁しておきながら、通信も行動も|自由…私のサポートすら制限なし…|この矛盾をどう説明する…=While being kidnapped and confined, <name>|is still free to move around... Even I’m being allowed to offer unlimited support. Why?
-これほどのトラップを作れる犯人が、|爆発音で外部に気づかれる可能\性を|無視している…なぜだ？=To create this many traps, but not be concerned that the sound of an explosion could alert the outside world... What’s going on?
+これほどのトラップを作れる犯人が、|爆発音で外部に気づかれる可能\性を|無視している…なぜだ？=To set up bombs but not be concerned that the sound of an explosion could alert the outside world... What’s going on?
 ホテル跡を利用しているとはいえ|落し物の多いホテルだ…=It may be an old hotel, but there does seem to be a lot of items that were just left lying around.
 制限時間を作ることは、犯人にとって|絶対的なアドバンテージとなる。|必ずなんらかの時間制限があるはず…=Creating a time limit would give him an absolute advantage. There must be some kind of deadline.
 ホテル跡という古びた場所でこのような|最新型の装置を使えば目立つだけ…|偽装すらしていないのは何故だ…=Using such a state-of-the-art device in an old former hotel only makes it stand out... Why not try to disguise it...?
