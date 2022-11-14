@@ -312,7 +312,7 @@
 これをどう説明すればいい…=So how do you explain this...?
 『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=It was occupied by the remnants of Criella Moon.\t|That fits, doesn’t it?
 無駄話はこのくらいにしましょう。\t|爆発まで残り時間はどれくらいですか？|あまりゆとりはないと思いますよ？=Enough with this talk.\t|How long is there left until things go boom?|I don't think you have time to waste, do you?
-その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=I agree with you on that point.\t|Right now, it’s more important that @n0 and I work together to stop the explosion.\vBy the way Mister J, do you have any women working with you?
+その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=I agree with you on that point.\t|Right now, it’s more important that @n0|and I work together to stop the explosion.\vBy the way Mister J, do you have any women working with you?
 何をわけのわからないことを？\t|せいぜい、がんばってください。\t|では、また…=What in the world are you on about?\t|You’d better stop messing around.\t|Good luck...
 !FILE:dat_script.bin/file005_PACK2/file006.bin
 Ｌ、無駄話をしているヒマはないと|思いますよ？=Is now really a good time for idle chit-chat, L?
@@ -664,7 +664,7 @@
 ……ですよね？\vそろそろ出てきたらどうですか？=...Well, I’m right, aren’t I?\vIsn’t it time you reveal yourself?
 今後は、調査や移動などを行うと|少しずつ@fR残り時間@fWが減っていきます。\vまた、３０分経過するごとに|トラップの解除方法を|@fR【Ｌに聞ける回数】@fWが増えます。\v残り時間がなくなってきた時は|メニューから@fR【再挑戦】@fWを実行すると|データを引き継いでやり直せます。=From now on, the @fRremaining time@fW will gradually decrease as you investigate and move around.\vHowever, the @fRnumber of times you can ask L for help@fW to disarm a trap will increase every 30 minutes.\vIf your time runs out, you can restart the game by selecting @fR“Retry”@fW from the menu.
 !FILE:dat_script_f01.bin/file001_PACK2/file007.bin
-廊下へ移動します。|よろしいですか？=Move to the hallway?
+廊下へ移動します。|よろしいですか？=Move to the corridor?
 !FILE:dat_script_f01.bin/file001_PACK2/file010.bin
 シャッターを調べた。=Examined shutters.
 電動式のため力を込めても|ビクともしない。=They run on electricity and can’t be forcibly opened by hand.
@@ -880,8 +880,7 @@
 !FILE:dat_script_f02.bin/file003_PACK2/file006.bin
 あのＪという男、どうも普通の犯罪者と|印象が違いますね。\t|こんな言い方も妙なんですが…=That man, J, didn’t appear to be your run- of-the-mill criminal.\t Though, it might sound weird to suggest that such a thing exists.
 内装や構造から見て、|ここが特殊な施設とは思えません…\t|やはり民間のホテル跡ですね…=From the layout and interior, I can’t imagine this place is any kind of special facility.\t|It really is an old private hotel...
-ここは地下…\tいや、違います…\t|ホテルの客室を地下に作るなど|聞いたことないですからね…\vシェルターならありえますが、|それなら扉の素材や作りが違ってくる|はずですし…\vそんなに外の景色を見られたくないと|言うのでしょうか…\vよほど目立つランドマホテルの客室を地下に作るなど聞いたことないですからね…
-シェルターならありえますが、それなら扉の素材や作りが違ってくるはずですし…ークでもあれば|別ですが、窓からの景色で現在地を|特定するのは楽ではないはずです…=You’re underground...\t No, that’s not it.\t|I’ve never heard of anyone building a hotel underground.\vIt could be a shelter, but if so, the door materials and designs would have been different...\vThey don’t want people to be able to see outside that badly...\vBut unless there was a prominent landmark, it wouldn’t be easy for anyone to recognize their location just by looking out the window.
+ここは地下…\tいや、違います…\t|ホテルの客室を地下に作るなど|聞いたことないですからね…\vシェルターならありえますが、|それなら扉の素材や作りが違ってくる|はずですし…\vそんなに外の景色を見られたくないと|言うのでしょうか…\vよほど目立つランドマークでもあれば|別ですが、窓からの景色で現在地を|特定するのは楽ではないはずです…=You’re underground...\t No, that’s not it.\t|I’ve never heard of anyone building a hotel underground.\vIt could be a shelter, but if so, the door materials and designs would have been different...\vThey’re that concerned with stopping you from being able to look out?\vBut unless there was a prominent landmark, it wouldn’t be easy for anyone to recognize their location just by looking outside...
 情報キーワード|@fR【風景からの位置特定】@fW|を入手した。=Keyword added:|@fR“Landscape Location"@fW
 うーん…\t窓がひとつもないというのは|やはり妙ですね…\vホテルの窓をふさぐのは楽ではない|はずですが…=Hmm...\t It’s odd that we still haven’t seen a single window.\vIt can’t be easy to block up all the windows of a hotel...
 情報キーワード|@fR【窓のない部屋】@fW|を入手した。=Keyword added:|@fR“Windowless Rooms"@fW
@@ -923,12 +922,12 @@
 冷蔵庫を開けます。|よろしいですか？=Open the fridge?
 これは…氷の塊ですね…\t|何を凍らせたというのでしょうか…=A block of ice...\t|Is there something frozen inside it...?
 !FILE:dat_script_f02.bin/file005_PACK2/file017.bin
-中にはもう、何もない。=There’s nothing inside anymore.
+中にはもう、何もない。=It’s empty.
 !FILE:dat_script_f02.bin/file005_PACK2/file019.bin
-タライを調べた。=
-熱い！=
-軽い火傷を負った。=
-そんな所にも隠されているとは……|\tなかなか鋭い観察力ですね。=For something to be hidden there...|\tYour observation skills astound me.
+タライを調べた。=Examined bowl.#Room 202
+熱い！=It’s hot!!
+軽い火傷を負った。=Suffered a minor burn.
+そんな所にも隠されているとは……|\tなかなか鋭い観察力ですね。=For something to be hidden there...|\tYour observation skills are quite something.
 !FILE:dat_script_f02.bin/file005_PACK2/file020.bin
 旧式のストーブだ。\v火は点いていない。=An old stove.\vIt’s cold.
 特に壊れている様子はありませんね。\t|燃料も入っているようですし、|火があれば使えそうですが…=It doesn’t appear to be broken.\t|There’s still fuel inside, so if you could get a fire started, you might be able to use it.
@@ -945,7 +944,7 @@
 見るからに怪しい箱だ。=A suspicious looking box.
 箱を調査します。|よろしいですか？=Investigate the box?
 !FILE:dat_script_f02.bin/file007_PACK2/file013.bin
-ライターですね…\t|火というものは何かと便利ですから|いただいておきましょう。=A lighter...\t|Fire can be used for all sorts of things, so take it with you.
+ライターですね…\t|火というものは何かと便利ですから|いただいておきましょう。=A lighter...\t|Fire can be a useful tool when handled correctly. Take it with you.
 !FILE:dat_script_f02.bin/file007_PACK2/file015.bin
 灰皿を調べた。=Examined ashtray.
 !FILE:dat_script_f02.bin/file007_PACK2/file018.bin
@@ -1249,7 +1248,7 @@ debug jump?=
 情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Huge Earthquake"@Fw
 !FILE:dat_script_f04.bin/file020_PACK2/file010.bin
 壁の質感が違うようだ。=This wall is different.
-壁の質感が違うようですね。|\t廊下をふさぐために壁を追加したように|見えますが…\vこの先に何かあるというのでしょうか…=The wall here is different.|\tIt looks like it was added to block off the hallway...\vThere must be something on the other side.
+壁の質感が違うようですね。|\t廊下をふさぐために壁を追加したように|見えますが…\vこの先に何かあるというのでしょうか…=The wall here is different.|\tIt looks like it was added to block off the corridor...\vThere must be something on the other side.
 情報キーワード|@fR【廊下をふさぐ壁】@fW|を入手した。=Keyword added:|@fR“Barricade"@fW
 壁の質感が違うようですね。=The wall here is different.
 !FILE:dat_script_f05.bin/file001_PACK2/file006.bin
@@ -1475,7 +1474,7 @@ debug jump?=
 起爆装置だ。=The detonator.
 起爆装置を調査します。|よろしいですか？=Investigate the detonator?
 !FILE:dat_script_f07.bin/file005_PACK2/file021.bin
-コードだ。\v爆薬と起爆装置を繋いでいる。=Wires.\vThey connect the explosives to the detonator.
+コードだ。\v爆薬と起爆装置を繋いでいる。=Wires connect the explosives to the detonator.
 !FILE:dat_script_f07.bin/file007_PACK2/file010.bin
 穴が開いている。=There is a hole.#qc can be more than one
 取っ手を取り付けた。=Attached the handle.
@@ -1968,7 +1967,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ハサミを使った。=Used Scissors.
 メインセンサー以外のコードを切った。=
 起爆装置が作動してしまった！=
-カッターを使った。=Used Utility Knife.
+カッターを使った。=Used Box Cutter.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file014.bin
 下のケースはスライド式で|開けられそうだ。\vしかし今は少ししか動かない。=
 爆薬からのコードがつながっている。\v下のケースの中に|起爆装置があるらしい。=
@@ -1982,7 +1981,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ドライバーを使った。=Used Screwdriver.
 @fRフタ@fWを固定していたネジが緩んだ。=
 ハンマーでフタの上部をたたいた。\v少しゆがんでしまった。=
-ミニバールを使った。=Used Small Crowbar.
+ミニバールを使った。=Used Crowbar.
 ケースとフタの間にスキマができた！=
 !FILE:dat_script_trapbig.bin/file001_PACK2/file016.bin
 解除ボタンのようにも見えるが|これ自体がトラップかもしれない。\vどうしようか？=
@@ -2159,7 +2158,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 パーツの下には|何かのスロットがあった。=There is a slot of some sort underneath.
 金庫の扉を開けた！=Opened the safe door!
 内部にはさらに仕掛けがあるようだ。=There is another trap inside.
-爆薬の後ろには、|@fRフロッピードライブ@fWが隠されていた。=There was a @fRfloppy disk drive@fW hidden behind the case.
+爆薬の後ろには、|@fRフロッピードライブ@fWが隠されていた。=A @fRfloppy disk drive@fW was hidden behind the case.
 金庫を開けた！=Opened the safe!
 !FILE:dat_script_trapbig.bin/file003_PACK2/file011.bin
 手前の扉は罠と考えて良いでしょう。\t|まずは横のカバーを外しましょうか。=Let’s assume the door is bait.\t|Start with removing the side cover instead.
@@ -2186,17 +2185,17 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 スキマに差し込んで、|横のカバーを少し外した。=Wedging the ice pick in the groove has loosened the side cover.
 !FILE:dat_script_trapbig.bin/file003_PACK2/file014.bin
 コードは金庫の中まで繋がっている。\v金庫の扉と回路が連動しているようだ。=The wires lead inside of the safe.\vThey seem to be related to the door.
-本物のコードを見分ける事ができる。\v@fR切断@fWできれば解除しやすくなりそうだ。=The real wire has been identified.\vIt will be easier to disarm if it’s @fRcut@fW.
+本物のコードを見分ける事ができる。\v@fR切断@fWできれば解除しやすくなりそうだ。=The real wire has been identified.\v@fRCutting@fW it will make disarming the trap easier.
 本物のコードは切断されている。\v残っているのはダミーのコードのみだ。\v@fR切断@fWすると爆発するだろう。=The real wire has been cut.\vOnly the fake wires remain.\v@fRCutting@fW them would likely trigger an explosion.
 コードは金庫の中まで繋がっている。=The wires lead inside of the safe.
 適当なコードを切ったりしないで|くださいね。=Don’t cut anything carelessly.
 ダミーのコードのみ残っている。\v@fR切断@fWすると爆発してしまうだろう。=Only the fake wires remain.\v@fRCutting@fW them would likely trigger an explosion.
-ダミーのコードのみ残っているが、|爆薬を外したので危険性は無い。=There are still fake wires, but they pose no risk now the explosives have been removed.
+ダミーのコードのみ残っているが、|爆薬を外したので危険性は無い。=The fake wires are still connected, but they pose no risk now that the explosives have been removed.
 ダミーのコードを切断した。=Cut the fake wire.
 本物のコードを切断した。=Cut the live wire.
 電圧計を使った。=Used Voltmeter.
 しかし電圧計は壊れてしまった。=The Voltmeter broke.
-本物のコードがどれか分かった。=Discovered which wire is real.
+本物のコードがどれか分かった。=Identified the real wire.
 !FILE:dat_script_trapbig.bin/file003_PACK2/file015.bin
 このパーツは扉と|直接連動していないようだ。=This part doesn’t seem to be linked to the door.
 何かのパーツだ。=Part of a mechanism.
@@ -2209,14 +2208,14 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 このパーツは扉と連動している。=
 これで解除するべきパーツが|判明しましたね。=
 縦長のスロットだ。=There’s a vertical slot.
-縦長のスロットだ。\v板状のものを鍵としてはめ込んである。=A vertical slot.\vA metal place has been fitted inside.
+縦長のスロットだ。\v板状のものを鍵としてはめ込んである。=A vertical slot.\vA metal plate has been fitted inside.
 気になりますね。\t|何か@fRはめ込めそうな物@fWは|ないですか？=That caught my attention too.\t|Do you have anything that might @fRfit inside@fW?
 板状のものをスロットにはめた。\vダイヤルをはめ込む穴の|金属板が解除された。=Inserted the metal plate into the slot.\vThe pane of metal blocking the hole for the dial has moved.
 !FILE:dat_script_trapbig.bin/file003_PACK2/file019.bin
 ダイヤルがついているはずの部分は、|金属板でふさがれている。=The area where the dial should be is blocked by a pane of metal.
 手が込んでいますね。\t|こちら側に手を出す前に、|やるべき事がありそうです。=How elaborate.\t|It seems there’s more we’ll have to do before we can make progress here.
-ダイヤルがついているはずの部分は、|金属板でふさがれていたが、|解除されたようだ。=The area where the dial should have been was blocked by a pane of metal, but it has now moved.
-どう見ても足りないパーツが|ありますね。\t|@fRダイヤル@fWを持っていますか？=What a poorly equipped safe.\t|Do you still have that @fRdial@fW?
+ダイヤルがついているはずの部分は、|金属板でふさがれていたが、|解除されたようだ。=The area where the dial should be was blocked by a pane of metal, but it has now moved.
+どう見ても足りないパーツが|ありますね。\t|@fRダイヤル@fWを持っていますか？=What a poorly equipped safe.\t|Do you have a @fRdial@fW?
 ダイヤルがはめ込まれた。\t|開ける事ができそうだ。=A dial has been set in place.\t|The door should open now.
 ダイヤルをセットした。\v解除が可能になった。=Put the dial in place.\vThe door can now be unlocked.
 !FILE:dat_script_trapbig.bin/file003_PACK2/file022.bin
@@ -2244,7 +2243,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_trapbig.bin/file003_PACK2/file025.bin
 起爆装置についているスイッチだ。=There is a switch on the detonator.
 スイッチはすでに押されている。=The switch has already been pressed.
-このスイッチは解除用のものですね。\t|押してみましょう。=This switch looks like it should do the trick.\t|Give it a push.
+このスイッチは解除用のものですね。\t|押してみましょう。=This switch looks like it should do the trick.\t|Try pressing it.
 スイッチを押す=Push the switch
 スイッチを押さない=Don’t push the switch
 何のスイッチでしょうか？\t|押すかどうかはお任せします。=I wonder what this is for...\t|I’ll leave it up to you whether to push it.
@@ -3550,8 +3549,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 金具がフタを固定している。\v@fR力技@fWで何とかなりそうだ。=The @fRmetal clasps@fW are securing the lid.\vThey should come undone with some @fRforce@fW.
 フタを固定していた金具が緩んだ。=The metal clasps have loosened.
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file017.bin
-トラップを覆っているフタだ。\vいろいろな物で固定してある。=It’s the lid covering the trap.\vThere are several things keeping it in place.
-トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば|何とかなりそうだ。=It’s the lid covering the trap.\vThere are several things keeping it in place.\vIf you could remove it...
+トラップを覆っているフタだ。\vいろいろな物で固定してある。=A lid covers the trap.\vThere are several things keeping it in place.
+トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば|何とかなりそうだ。=A lid covers the trap.\vThere are several things keeping it in place.\vRemoving it should enable you to disarm the trap.
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file018.bin
 この中に爆弾と起爆装置が入っている。\vフタが閉まっているため、|中を見る事ができない。=There is a bomb and detonator inside.\vWith the lid on, you can’t see the setup.
 !FILE:dat_script_trapsmall.bin/file003_PACK2/file013.bin
@@ -3562,7 +3561,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 フタを開けてしまえば、|なんとでもなりそうなトラップですね。=If you can remove the lid, the rest will fall into place.
 フタを固定している物を、|順番に外していきましょう。=Remove the things which are holding the lid in place.
 !FILE:dat_script_trapsmall.bin/file004_PACK2/file017.bin
-トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば何とかなりそうだ。=It’s the lid covering the trap.\vThere are several things keeping it in place.\vIf you could remove it...
+トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば何とかなりそうだ。=A lid covers the trap.\vThere are several things keeping it in place.\vRemoving it should enable you to disarm the trap.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file006.bin
 では、順を追って|トラップ解除について説明します。\vどんなトラップも、@fR制限時間@fW内に|一定の@fR解除ステップ@fWを実行する事で|解除できます。これが基本です。\v@fR制限時間@fWは、トラップの周囲にある|@fRタイムゲージ@fWで確認できます。\v@fR解除ステップの総数@fWは、|@fR下画面の右上@fWに表示されています。\v難易度の高いトラップほど|総数が多くなっていくのですが…\t|今回は１ステップですね。楽勝です。\vとはいえ、どこから手をつけるか|わからなければ、解除のしようが|ありません。\vまずは、@fRタッチペン@fWで|トラップの各部を調査して、|解除の@fR目標@fWを見つけ出してください。=Let's go over releasing traps step by step.\vThe basic disarming of any trap is done by performing certain @fRsteps@fW within a @fRtime limit@fW.\vYou can check the @fRtime limit@fW using the @fRtime gauge@fW that goes around the trap.\vThe @fRnumber of steps@fW is displayed in the upper right corner of the bottom screen.\vThe more complex the trap, the more steps involved.\t|This simple trap only has one.\vHowever, you'll need to know where to start if you're going to release it.\vFirst, use the @fRstylus@fW to inspect the trap and find the objective.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file007.bin
@@ -3606,9 +3605,9 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 赤色のコードだ。\v起爆装置から外されている。=A red wire.\vIt has been disconnected from the detonator.
 簡単に外せそうですね。\vランプの光っている順番を|参考にして外してみましょう。=Should be easy enough to disconnect.\vDisconnect the wires according to the order in which the lights flash.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file027.bin
-起爆装置だ。\v下の爆薬から外せば|爆発の恐れはなくなるだろう。=That's the detonator.\vIf you can remove it from the explosive below, there shouldn't be any danger.
+起爆装置だ。\v下の爆薬から外せば|爆発の恐れはなくなるだろう。=The detonator.\vDisconnecting this from the explosive will disarm the trap.
 @fR目標@fWを見つけたようですね。=@fRObjective@fW identified.
-起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=The detonator.\vDisconnecting this from the explosive will disarm the trap.
+起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=That's the detonator.\vIf you can remove it from the explosive below, there shouldn't be any danger.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file028.bin
 爆薬が入っている。=Contains the explosive.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file007.bin
@@ -3649,13 +3648,13 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 小箱の処理がポイントです。\t|そこさえクリアできれば|たいした爆弾ではありません。=The key is to deal with the small boxes.\t|Once they’re off, the rest will be a breeze.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file012.bin
 金属の外装だ。\vボタンが付いている。=A metal case.\vThere are several buttons.
-起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間はこじ開けられている。=The case covering the detonator.\vSomething is caught on the inside, making it hard to remove.\vA part of it has been pried open.
-起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間に@fRスキマ@fWが見える。=The case covering the detonator.\vSomething is caught on the inside, making it hard to remove.\vThere is a @fRthin gap@fW in the case.
+起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間はこじ開けられている。=The case covering the detonator.\vSomething is caught on the inside,|making it hard to remove.\vA part of it has been pried open.
+起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間に@fRスキマ@fWが見える。=The case covering the detonator.\vSomething is caught on the inside,|making it hard to remove.\vThere is a @fRsmall gap@fW in the case.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file013.bin
 何かのボタンだ。 =Some kind of button.
 何かのボタンだ。\vすでに押されている。=Some kind of button.\vIt has already been pushed.
-ボタンに仕掛けは無いようだ。=This button seems to be safe.
-怪しげなボタンですね。\t|解除に関係する物でしょうか。\t|気をつけてください。=These buttons are suspicious.\t|They must have some connection to how to disarm the trap.\t Be careful.
+ボタンに仕掛けは無いようだ。=This button appears to be safe.
+怪しげなボタンですね。\t|解除に関係する物でしょうか。\t|気をつけてください。=These buttons certainly stand out.\t I would assume they have something to do with disarming the trap.\t Be careful.
 解除に関係するボタンのようですが、|慎重に調査した方が良さそうです。=
 ボタンに強い電流が流れている。=Strong current is flowing through the button.
 強力な電流が流れている！=You were electrified!
@@ -3689,8 +3688,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 上の小箱が爆発した。=The box exploded.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file026.bin
 爆薬が入っているようだ。=There seems to be explosives inside.
-爆薬が入っているようだ。\v起爆装置と@fRコード@fWで繋がっている。\v爆薬は箱の中に入っており、|起爆装置を外す必要がある。=There seems to be explosives inside.\vIt is connected to the detonator by @fRwire@fW.\vThe explosives are in the box. The detonator must be removed.
-起爆装置はコードで繋がっている|部分のパーツです。=The detonator is the part which is connected to the wires.#tc both are technically connected
+爆薬が入っているようだ。\v起爆装置と@fRコード@fWで繋がっている。\v爆薬は箱の中に入っており、|起爆装置を外す必要がある。=There seems to be explosives inside.\vIt is connected to the detonator by @fRwire@fW.
+起爆装置はコードで繋がっている|部分のパーツです。=Rather than remove the base, it would be much easier to remove the detonator, which is sat on top.
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file019.bin
 小箱だ。\vハリガネで固定されている。 =A small box.\vIt’s being held in place by a metal wire.
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file020.bin
@@ -3749,20 +3748,20 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ボタンは電子パネルを|操作するための物でしょう。=The buttons must be to control the electronic panel.
 ボタンは電子パネルを|操作するための物でしょうか。=Could the buttons be to control the electronic panel?
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file007.bin
-走って逃げる！=
-その場に伏せる！=
-全部のボタンを押す！=
+走って逃げる！=Run for it!
+その場に伏せる！=Drop to the ground!
+全部のボタンを押す！=Push all the buttons!
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file011.bin
-特に悩む事は無いと思いますが…\t|この金属の球体が爆薬です。\t|これを外しましょう。=This doesn’t look too complex.\t|The explosives are in the metal sphere.\t That’s what you need to take off.
+特に悩む事は無いと思いますが…\t|この金属の球体が爆薬です。\t|これを外しましょう。=This doesn’t look too complex.\t|The explosives are in the metal dome.\t That’s what you need to take off.
 頑丈な造りではありますが、|だいぶ隙の多い爆弾です。\vよく観察すれば、|解除は難しくありません。=The construction of the bomb is sturdy, but there are plenty of openings.\vIf you study it carefully, it shouldn’t be difficult to disarm.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file012.bin
 ボタンだ。\v起爆装置の正面に並んでいる。=There are buttons lined in a row.
-どうやら正解のボタンを|押せたようです。\t|ついてます。=It looks like that was the right choice.\t|It seems luck is on your side.#qc you see this message even if you haven’t pushed any buttons?
+どうやら正解のボタンを|押せたようです。\t|ついてます。=It looks like leaving them was the right choice.\t|It seems luck is on your side.#qc
 このボタンは押せるようですが|何か仕掛けがありそうです。\vどうにもならなそうならば、|これにかけてみるのも良いかも|しれませんね。=It looks like you can push them, but I’m sure there’s a catch.\vIf you really get stuck, you might just have to go for it.
 いかにも怪しいボタンですが･･････。\v少々博打になりますが、|どれかのボタンを押してみるのも|良いかもしれませんね。=Those buttons are certainly suspect...\vIt is a bit of a gamble, but it may be worth trying one.#Watari
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file015.bin
 起爆装置の通気口だ。=It’s a vent for the detonator.
-起爆装置の通気口だ。\v奥の方に小さなボタンが見える。\vボタンは押されている。=
+起爆装置の通気口だ。\v奥の方に小さなボタンが見える。\vボタンは押されている。=The vent for the detonator.\vThere is a small button inside.\vThe button has already been pressed.
 起爆装置の通気口だ。\v奥の方に小さなボタンが見える。=The vent for the detonator.\vThere is a small button inside.
 何やら気になるボタンです。\t|何か@fR細い物@fWがあれば押せそうです。=I wonder what that does.\t|You should be able to press it using something @fRthin@fW.
 手は入りそうにありませんね。\t|@fR細い物@fWがあれば|押せるのではないでしょうか。=I’d think it wise not to stick your hand in there.\t Perhaps if you used something @fRthin@fW, you would be able to push it.#Watari
@@ -3774,25 +3773,25 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 奥のボタンを押し込んだ。=Pushed the button inside.
 起爆装置が停止したようですね。\t|これで安全に爆薬を|外す事ができます。=It looks like that deactivated the detonator.\t|Now you can remove it safely.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file017.bin
-金属の球体だ。\v中に爆薬が入っているようだ。=A metal sphere.\vThere are explosives inside.
-金属の球体だ。\v中に爆薬が入っているようだ。\vスキマの中のコードは切断されている。=A metal sphere.\vThere are explosives inside.\vThe wires inside have been cut.
-金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったスキマから、|@fRコード@fWが見えている。=A metal sphere.\vThere are explosives inside.\v@fRWires@fW are visible through the widened gap.
+金属の球体だ。\v中に爆薬が入っているようだ。=A metal dome.\vThere are explosives inside.
+金属の球体だ。\v中に爆薬が入っているようだ。\vスキマの中のコードは切断されている。=A metal dome.\vThere are explosives inside.\vThe wires inside have been cut.
+金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったスキマから、|@fRコード@fWが見えている。=A metal dome.\vThere are explosives inside.\v@fRWires@fW are visible through the widened gap.
 スキマがだいぶ広がりましたね。\t|これならある程度の大きさの物も|入りそうです。=The gap is a lot wider now.\t|You should be able to fit larger items inside.
 スキマがだいぶ広がったようですね。\t|これなら大きな物でも入るでしょう。=The gap is much wider now.\t|That should enable you to use larger items.#Watari
-金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったフレームとの|@fRスキマ@fWから@fRコード@fWが見えている。=A metal sphere.\vThere are explosives inside.\v@fRWires@fW are visible in the @fRgap@fW created by the distorted frame.
+金属の球体だ。\v中に爆薬が入っているようだ。\v歪んで広がったフレームとの|@fRスキマ@fWから@fRコード@fWが見えている。=A metal dome.\vThere are explosives inside.\v@fRWires@fW are visible through the @fRgap@fW created by distorting the frame.
 とてもわずかな@fRスキマ@fWです。\t|このままではかなり@fR薄い物@fW|しか入りそうにありません。=That’s not a very big @fRgap@fW.\t|You’d only be able to fit something @fRthin@fW inside.
 小さな@fRスキマ@fWですね。|\t@fR薄い物@fWなら入りそうです。=That @fRgap@fW isn’t particularly big.|\tYou would need something @fRthin@fW to fit inside.#Watari
-金属の球体だ。\v中に爆薬が入っているようだ。\vフレームによって|起爆装置と固定されている。=A metal sphere.\vThere are explosives inside.\vIt is attached to the detonator by a frame.
+金属の球体だ。\v中に爆薬が入っているようだ。\vフレームによって|起爆装置と固定されている。=A metal dome.\vThere are explosives inside.\vIt is secured to the detonator by a frame.
 正確には爆薬を覆っている|カバーのようですね。\v中は空洞のようなので、|多少@fR叩いて@fWも大丈夫でしょう。=It does look like this is covering the explosives.\vIt seems to be hollow inside, so it should be okay even if you @fRbang@fW it a little.
 中は空洞になっていますね。|\tこの金属の球体は|爆薬のカバーなのでしょう。\v多少@fR叩いて@fWも大丈夫かも|しれませんね。=
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file022.bin
-金属のフレームだ。\v爆薬と起爆装置を固定している。=A metal frame.\vIt’s securing the explosive and the detonator.
-金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれてだいぶ歪んでいる。=A metal frame.\vIt’s securing the explosive and the detonator.\vIt has been bent completely out of shape.
+金属のフレームだ。\v爆薬と起爆装置を固定している。=A metal frame.\vIt’s securing the explosive to the detonator.
+金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれてだいぶ歪んでいる。=A metal frame.\vIt’s securing the explosive to the detonator.\vIt has been bent completely out of shape.
 これ以上は叩いても意味が無さそうです。\t|とりあえずは、これで十分でしょう。=It looks like there’s no point in hitting it any more.\t|That should be enough for now.
-金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれて少し歪んでいる。=A metal frame.\vIt’s securing the explosive and the detonator.\vIt has been slightly warped.
+金属のフレームだ。\v爆薬と起爆装置を固定している。\v叩かれて少し歪んでいる。=A metal frame.\vIt’s securing the explosive to the detonator.\vIt has been slightly warped.
 もう少し@fR叩いて@fWも大丈夫そうです。\t|全体的に頑丈な作りですね。=You might need to @fRbeat it@fW a bit more.\t|It is quite a thick piece of metal.
 もっと@fR叩いて@fWも大丈夫そうですね。=I think it should withstand another @fRhit@fW.#Watari
-頑丈に固定されていますね。\t|強い@fR衝撃@fWを与えれば|フレームが緩むかもしれません。=That’s really fixed in place.\t|If you @fRhit it@fW with something, it might loosen the frame.
+頑丈に固定されていますね。\t|強い@fR衝撃@fWを与えれば|フレームが緩むかもしれません。=That frame doesn’t look like it’s going to come off in a hurry.\t Though, if you @fRhit it@fW with something, it should loosen it a bit.
 衝撃に弱そうなフレームですね。\t|@fR叩けば@fW簡単に緩みそうです。=That frame looks somewhat flimsy.\t|I suspect it will become loose if you @fRhit@fW it.#Watari
 フレームを叩いた。=Hit the frame.
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file024.bin
@@ -4076,7 +4075,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 できそうな事は、全てやりました。|\tあとはこのボタンの出番ですね。=It looks like we’ve done all that we can here.\t|Now it’s the button’s turn.
 他にできそうな事もありませんし、|そろそろこのボタンの出番のような|気がします。=
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file019.bin
-カッターを使った。|=Used Utility Knife.|
+カッターを使った。|=Used Box Cutter.|
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file023.bin
 緑のコードだ。\v起爆装置と爆薬を繋いでいる。=A green wire.\vIt connects the detonator to the explosive.
 緑のコードだ。\v起爆装置から外されている。=A green wire.\vIt has been disconnected from the detonator.

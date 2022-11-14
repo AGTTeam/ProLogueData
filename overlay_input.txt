@@ -380,7 +380,7 @@
 ヒントらしき物が書かれた紙だ。|４→３と書かれている。|=A piece of paper that might be a clue.|“４→３” has been written on it.
 何かの装置からはずされたプラグだ。|白い色をしている。|=A white plug which must have come from some kind of device.
 何かの装置からはずされたプラグだ。|黒い色をしている。|=A black plug which must have come from some kind of device.
-アンティークな鍵だ。|対応した扉を開けることができる。|=An antique key.|It must open an equally antique door.#qc actually two of them, available at the same time?
+アンティークな鍵だ。|対応した扉を開けることができる。|=An antique key.|There should be a matching keyhole somewhere.
 愛のこもった特製特大|バレンタインチョコレートです。||||=A special oversized Valentine's chocolate made with love.
 データの入ったＣＤだ。|中に入っている情報は分からない。|=A compact disk.|It’s unclear what’s stored on it.
 フロッピーディスクだ。|中に入っている情報は分からない。|=A floppy disk.|It’s unclear what’s stored on it.
