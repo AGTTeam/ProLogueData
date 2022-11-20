@@ -106,7 +106,7 @@
 スタッフルーム奥=Staff Room-B
 調査オブジェクト=Investigation Target#qc
 エレベーター制御室=Elevator Control Room
-エレベーターホール=Elevator Lobby
+エレベーターホール=Elevator Hall
 小トラップ17=Small Trap 17
 隠トラップ２=Hidden Trap 2
 大トラップ７=Large Trap 7
@@ -470,7 +470,7 @@
 塩漬けの桜の葉が香る、|季節感たっぷりの春のお菓子です。|関東風と関西風がありますが|こちらは関東風です。||=A traditional Japanese springtime treat. How it’s made varies between the Kanto and Kansai regions, but this Kansai-style version is made with steamed mochi rice shaped around a ball of red bean paste, finished off with a salt-pickled sakura leaf.
 破られた紙切れだ。|書いてある事を読み取る事はできない。|他の紙切れがあれば|ヒントを得られるかもしれない。|=A torn piece of paper.|It’s not clear what has been written on it, but if the other pieces could be found...
 フレッシュなイチゴの果肉を使用した|アイスクリーム。|まろやかなアイスクリームと|甘酸っぱいいちごが相性抜群。||=Ice cream made with fresh strawberry pulp. The velvety ice cream and slightly tangy strawberries were practically made for each other.
-紙切れに四角形が書かれている。|紫と緑の色のついた物と、|「ｌｚｘｑｏ」と書かれた物、|右側に×がついた物がある。|=A piece of paper with four squares written on it. There’s a purple square and a green square, plus one with the letters “lzxqo” conjoined to another with an “X” marked on the right edge.
+紙切れに四角形が書かれている。|紫と緑の色のついた物と、|「ｌｚｘｑｏ」と書かれた物、|右側に×がついた物がある。|=A piece of paper with four squares written on it. There’s a purple square and a green square, plus one with the letters “1zxqo” conjoined to another with an “X” marked on the right edge.
 ミントリキュールの爽やかな風味に|刻みチョコレートの食感が|アクセントを加えます。|カラフルな見た目も楽しい一品。||=The invigorating taste of mint liqueur is complimented by chunks of chocolate which give this colorful ice cream an eye-catching look.
 「希望とともにあるものはどれか？」|と書かれている。|数字を２つずつ組み合わせて|アルファベットに置き換えると解ける。|=“What is with hope?” is written across the top.|It can be solved by grouping pairs of numbers and converting them into the alphabet.#qc
 秋のケーキと言えばモンブラン。|山のように絞ったマロンクリームを|ヨーロッパの名峰モンブランに見立てて|名づけられました。||=Nothing says autumn flavors like a Mont Blanc. It gets its name from the plentiful chestnut cream which resembles Mont Blanc, one of Europe’s most famous mountains.
