@@ -193,7 +193,7 @@
 三色だんご=Tricolor Dango
 ごまだんご=Sesame Dango#Goma Dango
 ？？？？？=
-特殊なネジ=Star Screw
+特殊なネジ=Odd Screw
 ヒントの紙=Full Note
 モンブラン=Mont Blanc
 ウサギの像=Rabbit Statue
@@ -306,10 +306,10 @@
 青色のカードキーだ。|=A blue keycard.
 緑色のカードキーだ。|=A green keycard.
 普通の冷却スプレー。|=An ordinary can of coolant spray.
-５Ｆスタッフエリアキー=5F Staff Area Key
+５Ｆスタッフエリアキー=5F Staff Key
 チョコスプレードーナツ=Chocolate Sprinkle Doughnut
 きらきらフルーツゼリー=Fancy Fruit Jello
-４Ｆスタッフエリアキー=4F Staff Area Key
+４Ｆスタッフエリアキー=4F Staff Key
 体力が大きく回復する薬品。=Medicine which greatly restores stamina.
 体力が完全に回復する薬品。=Medicine which completely restores stamina.
 低ランクのハサミ。|壊れやすい。=A low grade pair of scissors.|Quite fragile.
@@ -843,7 +843,7 @@
 もうすぐ日が暮れます。=The sun will set soon.
 格子グラデーション‐赤=Lattice Gradient - Pink
 ロートアイアン調飾り枠=Wrought Iron Border
-きらきらフルーツゼリー=Fancy Fruit Jelly
+きらきらフルーツゼリー=Fancy Fruit Jello
 縦かすれストライプ‐青=Vertical Stripes - Blue
 カンが鈍ったら引退か。=If I start to lose my touch... I guess I’ll retire.
 夜が明けたら、きっと…=When dawn breaks, surely...
