@@ -238,9 +238,9 @@
 ショートケーキ=Strawberry Shortcake
 みたらしだんご=Mitarashi Dango#sweet soy sauce glaze
 データディスク=CD
-何かのパーツＡ=Broken Part A
-何かのパーツＢ=Broken Part B
-何かのパーツＣ=Broken Part C
+何かのパーツＡ=Part 1 of ?
+何かのパーツＢ=Part 2 of ?
+何かのパーツＣ=Part 3 of ?
 金庫のダイヤル=Safe Dial
 普通のハサミ。=An ordinary pair of scissors.
 簡易バッテリー=Battery
