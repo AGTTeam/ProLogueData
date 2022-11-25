@@ -525,7 +525,7 @@
 はい。|これで会長からの妨害はありません。\t|船を停めましょう。私も手伝います。=Yes.|Now he can’t interfere anymore.\t|Let’s stop this ship. I’ll help you.
 では、@n0さんと協力して、|全システムの再起動を行ってください。=Right. Please help @n0 to reboot the system.
 それでは間に合いません。\t|システム再起動には１５分必要ですが、|その間にエンジンが爆発します…！=That’ll take too long!\t It will take 15 minutes to restart the system, by which point the engines will have exploded...!
-Ｌ…\t米軍の介入を要請してください。\t|@n1さんを助けた後、この船を|撃沈してもらうのがベストです。=L...\t Please ask the US military to intervene.\t After rescuing @n1, it would be best to have them sink the ship.
+Ｌ…\t米軍の介入を要請してください。\t|@n1さんを助けた後、この船を|撃沈してもらうのがベストです。=L...\t Please ask the US military to intervene.\t After rescuing @n1, it would|be best to have them sink the ship.
 いえ…\tそれはベストではありません。\t|和平調停中のクリエラ領内に米軍が|介入すれば、話がこじれるだけです。\v我々の力でエンジンを止めるのが|今、出来うるベストの方法です。=No...\t that wouldn’t be for the best.\vIf the US military appears in Criella while the peace mediation is still going on, it will only complicate things.\vThe best thing we can do now is to stop the engines ourselves.
 この船のエンジンは、複数の発電機と、|電力モーターを回転させる推進器から|成る電気推進式エンジンです。\v機関室へ行き、まず、発電機と推進器を|遮断して船の足を止め、次にエンジンを|１つずつ直接停止させましょう。\vその上でシステム再設定をすれば、|暴走や爆発の確率を低くできますし、|すべてはこの船の上で終わります。=The ship's engines are electric propulsion engines, consisting of several generators and a propulsion unit that turns the motor.\vGo to the engine room and stop the ship by shutting off the generators and propulsors, then shut down the engines.\vIf you can reconfigure the system, you can stop the engines overheating and shut the operation down for good.
 わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=Alright...\vTo get to the engine room, you need to go through the ship's hold.\vYou can get there using the walkway stairs.|\tThere’s a key in the drawer over there.
@@ -574,7 +574,7 @@
 もう説得は諦めて、トラップを解除して|ヤツを追い詰めるしかありませんね…=I guess we’ll have to give up trying to persuade him and just disarm the traps...
 おや…\t今のトラップ…妙ですね。=Hm?\t That trap you just disarmed is strange.
 今までのトラップは、利き腕を|感じさせないセットの仕方だったのに、|今回は、右利きのクセがでています。\vどうやら彼も、焦っているようですね。=The traps you’ve faced up to this point were designed in a way that didn’t show any of the maker’s quirks...\vBut this time, I can see right-handed favoritism.\t I guess he was in a hurry.
-逆転サヨナラホームランの可能性が|出てきましたよ。=It looks like we can score a walk-off home run.
+逆転サヨナラホームランの可能性が|出てきましたよ。=I’d say we’ve got ourselves a home run.
 情報キーワード|@fR【〝右利き〟のトラップ】@fW|を入手した。=Keyword added:|@fR“Right-handed Trap"@fW
 !FILE:dat_script.bin/file011_PACK2/file009.bin
 だめだ…！　間に合いません。\t|ＦＢＩに…いえ、米軍に要請して|船を沈めてもらうしかありません！=It’s hopeless! We’ll never make it in time.\t|We have to call in the FBI-- No, the US military and have them sink the ship!
@@ -1688,7 +1688,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file017_PACK2/file006.bin
 怪しい雰囲気ですね…\t|この部屋には何かありそうです。\t|注意して調査してください。=There’s something here...\t|Please investigate with caution.
 付近の施設に電力が供給された。=Power is being supplied.
-@n0さん、この事件が終わったら、|あなたは爆弾処理チームに|スカウトされるかもしれませんね。\v冗談ではなく、すばらしい腕です。=@n0, when this is all over, you might find yourself scouted for the bomb disposal team.\vI’m serious, you have great potential.
+@n0さん、この事件が終わったら、|あなたは爆弾処理チームに|スカウトされるかもしれませんね。\v冗談ではなく、すばらしい腕です。=@n0, when this is all over, you might|find yourself scouted for the bomb disposal team.\vI’m serious, you have great potential.
 !FILE:dat_script_f08_a.bin/file017_PACK2/file022.bin
 電源パネルだ。\vこのあたりの電源を監視しているようだ。=A control panel.\vIt’s monitoring the power supply in the area.
 !FILE:dat_script_f08_a.bin/file017_PACK2/file023.bin
@@ -1718,7 +1718,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_b.bin/file004_PACK2/file010.bin
 ブリッジ=Bridge
 !FILE:dat_script_f08_b.bin/file005_PACK2/file018.bin
-寝具を調べた。=
+寝具を調べた。=Examined duvet.
 !FILE:dat_script_f09.bin/file001_PACK2/file013.bin
 コンテナを調べた。=Examined container.
 !FILE:dat_script_f09.bin/file003_PACK2/file006.bin
@@ -1750,15 +1750,15 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file004_PACK2/file011.bin
 デジタルロックだ。\v鍵はもう、開いている。=A digital lock.\vIt has already been unlocked.
 デジタルロックだ。=A digital lock.
-４桁の数字を入力して、|正解すれば解除できるようです。\vおそらくこの階にヒントが|あると思うのですが……\v試しに入力してみるのも|良いかもしれませんね。=It looks like you’ll need a four-digit code.\vI imagine there will be a hint for it on this floor.
-４桁の数字を入力して、|正解すれば解除できるようです。\v入力するべきは4桁の数字。|\t数字を当てはめる桁と、|そこに入れる数字が重要です。=It looks like you’ll need a four-digit code.\vBoth the order and number of digits is important.
+４桁の数字を入力して、|正解すれば解除できるようです。\vおそらくこの階にヒントが|あると思うのですが……\v試しに入力してみるのも|良いかもしれませんね。=It looks like you’ll need a four-digit code.\vI imagine there will be some sort of a hint for it on this floor.
+４桁の数字を入力して、|正解すれば解除できるようです。\v入力するべきは4桁の数字。|\t数字を当てはめる桁と、|そこに入れる数字が重要です。=It looks like you’ll need a four-digit code.\vOnce we know the numbers, we need to convert them as well.
 入力する=Input number
 入力しない=Don’t input number
 お見事です。|\t先を急ぎましょう。=Brilliant work.|\tLet’s keep going.
-ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=Looks like that didn’t work.|\tIsn’t there a hint anywhere?
-ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=Looks like that didn’t work.|\tIf we knew what the hint was about, it should be simple.
+ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=It looks like that didn’t work.|\tIsn’t there a hint anywhere?
+ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=It looks like that didn’t work.|\tHave you seen anything about how to use the hints anywhere?
 !FILE:dat_script_f09.bin/file005_PACK2/file006.bin
-@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous bombs ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and plough through.
+@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous bombs ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and stay strong.
 !FILE:dat_script_f09.bin/file005_PACK2/file010.bin
 階段ホールへ移動します。|よろしいですか？=Move to the stairwell?
 !FILE:dat_script_f09.bin/file005_PACK2/file016.bin
@@ -2301,6 +2301,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 この装置…\t基板の色と、|カードリーダーのランプの色が|連動しているようです。\vランプと違う色の基板の装置は|動作しない仕掛けでしょう。\vランプの色を変えるには、|なにかアイテムが必要そうですね。|気をつけてください。\vとにかく、まずは赤い基板を|外してしまいましょう。=This design...\tThe color on the boards seems to be related to the color of the lights on the card reader.\vIf the color of the board is different to the light, it probably won’t work.\vMost likely, you’ll need to use an item to change the color of the light.\vI’d say start with removing the red board first.
 そこのスイッチも気になります。\t|スイッチを入れてから、|手を加えた方がよさそうですね。=I am also curious about that switch there.\t I get the feeling you should switch it on before doing anything else with the board.#hint dupe
 ランプが赤い時のみ、|赤い基板のパーツをいじれるようだ。=It seems you can only touch the red board when the red light is on.
+ネジを緩めた。=Loosened the screws.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file015.bin
 赤い基板を止めている|ネジは緩められている。=The screws securing the red board are loose.
 赤い基板を止めている@fRネジ@fWだ。=The @fRscrews@fW are securing the red board.
@@ -2347,6 +2348,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_trapbig.bin/file004_PACK2/file030.bin
 青い基板を止めている|ネジは緩められている。=The screws securing the red board are loose.
 青い基板を止めている@fRネジ@fWだ。=The @fRscrews@fW are securing the blue board.
+ネジを緩めた。=Loosened the screws.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file032.bin
 爆薬だ。=An explosive.
 爆薬だ。\v@fR衝撃@fWを与えると爆発してしまうだろう。=An explosive.\vIt would likely explode on @fRimpact@fW.
@@ -2660,6 +2662,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_trapbig.bin/file007_PACK2/file015.bin
 ネジを外した跡がある。=There’s a hole where the screw used to be.
 @fRネジ@fWが中央のパーツを固定している。=The @fRscrew@fW is holding the part in place.
+ネジを緩めた。=Loosened the screw.
+!FILE:dat_script_trapbig.bin/file007_PACK2/file016.bin
+ネジを緩めた。=Loosened the screw.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file017.bin
 透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。=Under the glass case is a part which looks like a bolt.\vIt is holding the lid in place.
 透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\vかなり緩んでいる。=Under the glass case is a part which looks like a bolt.\vIt is holding the lid in place.\vIt has become loose.
@@ -2833,6 +2838,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金具が緩んだようだ。=Loosened the clasp.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file018.bin
 ネジが緩められている。=The screw is loose.
+ネジを緩めた。=Loosened the screw.
 @fRネジ@fWが締められている。=The @fRscrew@fW has been fastened in tight.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file019.bin
 金属カバーだ。\vなんとか開ける事ができそうだ。=A metal cover.\vIt looks like it should open.
@@ -2951,15 +2957,16 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金属製の箱のようだ。\v側面に歯車のような物が|ついている。=A metal box of some description.\vGears are fit into the side.
 金属製の箱のようだ。\v中は空洞になっていて、|信管のような物がみえる。=A metal box of some description.\vThe inside is hollow, and two fuses are visible.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file010.bin
-中には基板と|番号入力の装置が入っていた。=There is a circuit board and a key pad inside.
+中には基板と|番号入力の装置が入っていた。=There is a circuit board and a keypad inside.
 ロックを解除した！=Undid the lock!
 基板が外せるようになった。=The board can now be removed.
 基板を外した！=Removed the board!
 下から起爆装置が現れた。=The detonator was underneath.
 起爆装置を停止させたが、|緊急回路が作動した。=The detonator was deactivated, but the emergency circuit was triggered.
-爆薬のカバーを外した！=Removed the cover on the explosives!
+爆薬のカバーを外した！=Removed the cover on the explosive!
 爆薬の本体が見えた。=The explosive is now visible.
 待ってください。|\tこのまま解除を始めても|成功する可能性はゼロです。\vもっとしっかり調査をしましょう。=
+爆薬を外した！=Removed the explosive!
 !FILE:dat_script_trapbig.bin/file009_PACK2/file011.bin
 考えるまでも無いと思いますが、|このフタを開けてください。=It should be obvious, but we need to get that lid off.
 角のネジを外したり、|フタのスキマをこじ開けたり、|方法はいくらでもあります。=There are a few things you can do, try removing the screws and prying the lid open.
@@ -2975,38 +2982,40 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆弾の表面に書いてある文字|これが暗証番号です。\v偶数を順に入力するだけ。|\tたいした仕掛けでもありません。\v答えさえわかれば|後は爆薬を外すだけですね。=The writing on the explosive is our clue.\vJust enter all the even numbers in order into the keypad.|\tIt’s not the most impressive system.\vWhen you know the answer, all you need to do is remove the explosives.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file013.bin
 ネジが緩んでいる。=The screw is loose.
+ネジを緩めた。=Loosened the screw.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file015.bin
 ケースを閉じているフタだ。\v一部分、中身が横から見える。=The lid of the case.\vPart of the contents are visible.
 ケースを閉じているフタだ。\v一部分、中身が横から見える。\vフタとケースのスキマが|ミニバールでこじ開けられている。=The lid of the case.\vPart of the contents are visible.\vThe gap between the top and bottom of the case has been pried open with a crowbar.
-ケースを閉じているフタだ。\v一部分、中身が横から見える。\vケースとの間には@fRスキマ@fWが見える。=The lid of the case.\vPart of the contents are visible.\vA @fRgap@fW has opened in the side.
+ケースを閉じているフタだ。\v一部分、中身が横から見える。\vケースとの間には@fRスキマ@fWが見える。=The lid of the case.\vPart of the contents are visible.\vThere is a @fRgap@fW in the side.
 フタのスキマをこじ開けた。=Widened the gap in the case.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file016.bin
-基板から出ているケーブルだ。\vケーブルは外されている。=A cable is coming out of the board.\vIt is not connected to anything.
-基板から出ているケーブルだ。\vケーブルは隣の装置に|接続されている。=A cable is coming out of the board.\vIt is connected to the neighboring device.
-基板から出ているケーブルだ。\vケーブルは外されている。\vすぐそばに差込口があるようだ。=A cable is coming out of the board.\vIt is not connected to anything.\vThere’s a socket next to it.
+基板から出ているケーブルだ。\vケーブルは外されている。=A cable extends out of the board.\vIt is not connected to anything.
+基板から出ているケーブルだ。\vケーブルは隣の装置に|接続されている。=A cable extends out of the board.\vIt is connected to the neighboring device.
+基板から出ているケーブルだ。\vケーブルは外されている。\vすぐそばに差込口があるようだ。=A cable extends out of the board.\vIt is not connected to anything.\vThere’s a socket next to it.
 ケーブルをはめる=Plug in the cable
 ケーブルをはめない=Don’t plug in the cable
 ケーブルをはめ込んだ。=Fitted the cable.
 基板から出ているケーブルだ。=A cable is coming out of the board.
-基盤から出ているケーブルだ。\vケーブルは隣の装置に|接続されている。=A cable is coming out of the base.\vIt is connected to the neighboring device.
+基盤から出ているケーブルだ。\vケーブルは隣の装置に|接続されている。=A cable extends out of the base.\vIt is connected to the neighboring device.
 ケーブルを抜く=Unplug the cable
 ケーブルを抜かない=Don’t unplug the cable
 ケーブルを抜いた。=Unplugged the cable.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file018.bin
 基板に何かをはめ込める|スペースが空いている。=There is a space in the board where something could be inserted.
 基板にＩＣチップがはめ込まれている。\v正常に作動しているようだ。=An IC chip has been fitted into the board.\vIt seems to be working.
-電子基板に足りないパーツならば、|何かの電子部品、でしょうね。=Something that an electronic board is missing would likely also be some kind of electronic component.
+電子基板に足りないパーツならば、|何かの電子部品、でしょうね。=Given that it’s a circuit board, the thing which is missing is likely to be some kind of electronic component.
 ＩＣチップをはめ込んだ。=Fit the IC Chip.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file020.bin
 ネジが締められている。=The screw has been fastened in tight.
 変ですね、このネジ…|まったく回せる気配がありません。\v何かロックのようなものが|かかっているみたいです。=That’s strange...|It doesn’t look like that screw wants to turn at all.\vThere must be something locking it in place.
 基板のロックが解除されて、|このネジを回せるように|なったようです。=Now that the board has been unlocked, it seems this screw can be turned.
+ネジを緩めた。=Loosened the screw.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file022.bin
-ケースに基板が固定されている。\v何かロックがかかっているようだ。\v空いていたスペースに|チップがはめ込まれている。=The board is fixed to the case.\vIt appears to be locked\vA chip has been fitted into the empty space.
-ケースに基板が固定されている。\v何かロックがかかっているようだ。\v基板の一部に何かをはめ込む|スペースが空いている。=The board is fixed to the case.\vIt appears to be locked\vThere is an empty space for something to be inserted.
+ケースに基板が固定されている。\v何かロックがかかっているようだ。\v空いていたスペースに|チップがはめ込まれている。=The board is fixed to the case.\vIt appears to be locked.\vA chip has been fitted into the empty space.
+ケースに基板が固定されている。\v何かロックがかかっているようだ。\v基板の一部に何かをはめ込む|スペースが空いている。=The board is fixed to the case.\vIt appears to be locked.\vThere is an empty space for something to be inserted.
 ケースに基板が固定されている。\vロックは解除されたので|外す事ができそうだ。=The board is fixed to the case.\vThe lock has been released, so it should be safe to take off.
 ケースに基板が固定されている。\vスキマをこじ開けられて、|だいぶ緩んでいる。=The board is fixed to the case.\vA gap has been pried open, and the board is much more maneuverable.
-いろいろできる事がありそうです。|\tケースのと間に@fRスキマ@fWも|見えますね。\vこの@fRスキマ@fWなら、|何か@fR細長い物@fWでも基板を|こじ開けられそうです。=There are a number of things you can do here.|\tI also can see a @fRgap@fW in the case.\vIf you used something @fRlong and thin@fW, you should be able to pry it open.
+いろいろできる事がありそうです。|\tケースのと間に@fRスキマ@fWも|見えますね。\vこの@fRスキマ@fWなら、|何か@fR細長い物@fWでも基板を|こじ開けられそうです。=There are a number of things you can do here.\t I can also see a @fRgap@fW between it and the case.\vIf you used something @fRlong and thin@fW, you should be able to pry it open.
 基板とケースのスキマをこじ開けた。=Pried open the gap between the circuit board and the case.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file023.bin
 この@fRネジ@fWは後回しの方が|いいかもしれません。|\t今は危険な気がします。=It might be better to leave that @fRscrew@fW for later.\t I have a feeling loosening it now would be risky.
@@ -3017,11 +3026,11 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 こういう場合、様子を見るのが|一番です。|\t今は放っておきましょう。=In cases like this, it’s important to know what you’re dealing with first.|\tLet’s leave this for now.
 箱状のパーツだ。\v危なそうなマークが描かれている。=A box-shaped part.\vThe stripes seem to indicate that it’s dangerous.
 まだ確証はありませんが、|恐らくこれが爆薬でしょう。=It’s too soon to say for certain, but I have a feeling this is the explosive.
-爆薬のケースだ。\v危なそうなマークが描かれている。=The explosive’s case.\vThe stripes indicate danger.
+爆薬のケースだ。\v危なそうなマークが描かれている。=The explosives case.\vThe stripes indicate danger.
 他にそれらしき物も見当たりません。|\tこれが爆薬でしょう。=Nothing else fits the bill.|\tI think we can safely say this is the explosive.
 全体を制御していた装置が|停止したおかげで、|爆薬の解除ができそうです。=Now that the control system has been shut down, you should be able to disarm the explosives.
-爆薬のケースだ。\v危なそうなマークが描かれている。\vカバーのスキマは|こじ開けられている。=The explosive’s case.\vThe stripes indicate danger.\vA gap has been pried open in the case.
-爆薬のケースだ。\v危なそうなマークが描かれている。\v上部のカバーが外せそうだ。=The explosive’s case.\vThe stripes indicate danger.\vThe top cover looks like it should come off.
+爆薬のケースだ。\v危なそうなマークが描かれている。\vカバーのスキマは|こじ開けられている。=The explosives case.\vThe stripes indicate danger.\vA gap has been pried open in the case.
+爆薬のケースだ。\v危なそうなマークが描かれている。\v上部のカバーが外せそうだ。=The explosives case.\vThe stripes indicate danger.\vThe top cover looks like it should come off.
 カバーにわずかな@fRスキマ@fWが|あるようですね。=There’s a small @fRgap@fW in the case.
 爆薬だ。\vコードとケーブルが繋がっている。=The explosives.\vIt’s connected to a cable and a wire.
 この爆薬…|\t上にある番号入力装置と|繋がっているようですね。=The explosives seem to be connected to the keypad.
@@ -3038,7 +3047,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 正解のコードが判明した。\v安全に切断できるようになった。=The correct wire has been identified.\vIt can now be safely disconnected.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file029.bin
 爆薬の本体だ。=The main body of the explosive.
-爆薬の本体だ。\v表面に|「even numbers 」|と書かれている。=The main body of the explosive.\vThe words “even numbers” has been written on the front.
+爆薬の本体だ。\v表面に|「even numbers 」|と書かれている。=The main body of the explosive.\vThe words “even numbers” have been written on the front.
 even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれません。=Even numbers...?|\tIt could be some kind of @fRcode@fW.
 コードを切断した。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file031.bin
@@ -3738,7 +3747,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 フラスコの中の液体が|すごい勢いで減っています。\t|すばやく外してしまうべきですね。\v数字を合わせて仕掛を解きましょう。=The liquid in the flasks is going down quick.\t You need to take them off as soon as possible.\vMatch the numbers and release the trap.
 上下のボタンで数字を調節すれば|簡単に解除できます。=Just match the numbers up by adjusting the buttons, and there you have it.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file012.bin
-トラップを覆っているカバーだ。\v中を確認する事ができない。=There’s a cover on the trap.\vYou can’t see what’s inside.
+トラップを覆っているカバーだ。\v中を確認する事ができない。=There’s a cover on the trap.\vIt’s unclear what’s behind it.
 トラップを覆っているカバーだ。\vスキマがこじ開けられている。\vガラスのドーム内の液体が|落ちるスピードを制限しているようだ。=It’s the cover.\vA gap has been pried open.\vIt seems to be limiting the speed at which the liquid in the glass domes is dripping.
 トラップを覆っているカバーだ。\v@fRスキマ@fWはあるが、|中を確認する事ができない。=It’s the cover.\vThere is a @fRsmall gap@fW around the edge, but not enough to see what’s inside.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file013.bin
@@ -4105,6 +4114,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 これでボタンを押さない限り、|この装置は機能しないでしょう。=This way, it shouldn’t activate unless you push the button.
 コードに切れ目を入れた。=Cut a slit into the wire.
 コードを切断した。=Cut the wire.
+コードを補修した。=Repaired the wire.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file022.bin
 何かのシリンダーだ。\vケースにしっかり固定されている。\v爆薬の可能性が高い。=Some kind of cylinder.\vIt’s securely fastened to the case.\vThere’s a high chance that this is the explosive.
 ケースに固定された爆薬だ。=An explosive is fixed into the case.
@@ -4119,19 +4129,19 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 センサーからの接続解除信号送信用の|コードに切れ目を入れた。=Cut a slit into the wire used to send the detonation signal.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file025.bin
-しっかりと固定されたケースだ。=The case is snugly fitted.
+しっかりと固定されたケースだ。=The case is snugly fit.
 中身は起爆回路でしょうね。=It most likely contains the detonation circuit.
-きしむようないやな音がした。=
+きしむようないやな音がした。=Attempting to release the case caused it to make an unsettling creaking sound.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file026.bin
 ガラスのシリンダーの中に|液体が入っている。=There is a liquid in the glass cylinder.
 センサーが液体から出ると、|起爆する仕組みでしょうか。\t|あまり揺らさない方が良いですね。=I imagine it’s set up so if there’s no liquid on the sensor, it detonates.\t|Try not to shake it too much.
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file006.bin
-複雑そうに見えるかもしれませんが、|単純なつくりです。|いっしょに解除してしまいましょう。=
+複雑そうに見えるかもしれませんが、|単純なつくりです。|いっしょに解除してしまいましょう。=It may look rather complicated, but the construction is actually quite simple. Let’s remove it together.#W
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file011.bin
-それでは他の部分も調べて見ましょう。=
+それでは他の部分も調べて見ましょう。=I’d think it wise to explore elsewhere first.
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file012.bin
 できそうな事は、全てやりました。|\tあとはこのボタンの出番ですね。=It looks like we’ve done all that we can here.\t|Now it’s the button’s turn.
-他にできそうな事もありませんし、|そろそろこのボタンの出番のような|気がします。=
+他にできそうな事もありませんし、|そろそろこのボタンの出番のような|気がします。=It appears that everything has been dealt with. I would think it is high time to push the button.
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file019.bin
 カッターを使った。|=Used Box Cutter.|
 !FILE:dat_script_trapsmall.bin/file018_PACK2/file023.bin
