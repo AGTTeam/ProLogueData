@@ -483,7 +483,7 @@
 ええ…ですから、あなたは|ハウスキーパーではないんです。=
 ハウスキーパーというのは、元々は|イギリスにおける家事使用人の中でも|最上位の女性を指す言葉です。=
 今では女性使用人の総称としても|使われますが…|男性には使わない言葉なんですよ！=
-…………！=
+…………！=...!
 う、ううっ…私は、私は…=
 出てきてたらどうですか、本物さん？=
 くっ…弱虫ジェフリーめ…|本物の俺を知っていながら、そんな|ハッタリに騙されやがって…！=
@@ -800,7 +800,7 @@
 ＦＢＩより大きな組織を引き合いに出し|揺さぶれば、ヤツもボロを出すかも|しれない…=If I bring up an organization even bigger than the FBI, that might really make them sweat.#qc
 ハウスキーパーは冷静さを失っている。|一時休戦を持ちかけたらどう反応する？|試してみる価値は…=The Housekeeper has lost his cool.|How would he react if I offered a temporary truce? It might be worth a try...
 システムを設計したのがジェフリーなら|首謀者はそのすぐ身近、上にいる人物に|違いない…=If it was Jeffrey who designed the system, then the mastermind must be someone close to and above him...
-古い客船に、新しい制御プログラムを|搭載する必要などあったのか…？|設計者がジェフリーなのも気になる…=Was it really necessary to install a new control program on an old cruise ship? The fact it was designed by Jeffrey is significant.
+古い客船に、新しい制御プログラムを|搭載する必要などあったのか…？|設計者がジェフリーなのも気になる…=Was it really necessary to install a new control program on an old cruise ship? The fact it was made by Jeffrey is significant.
 事件にリブート社が絡んでいるのは|間違いない…となれば、ワンマン経営の|この会社の場合、決定権を持つのは…=There is no doubt that Reboot Inc. is involved in the case. And the person who holds all the power is...
 アロイス会長は投資ファンドを経由して|リブート以外の会社にも関わっている…|ＣＬＮにつながる可能\性は…=Mr. Alois has ties to companies other than Reboot Inc. through investment funds. Could that include the CLN?
 影で悪いことをしている人間に限って|それを隠すために良いことをしたがる。|アロイス会長はどうなんだ…=Only people who do bad things in secret make such a show of doing good things publicly to hide it. As for Mr. Alois...
@@ -808,12 +808,12 @@
 今回の事件は会長の後継者争いに大きく|関与している…事件が明るみに出れば|ＣＬＮを叩く好材料となる…=This case is heavily intertwined with the battle for the director’s successor. It has the potential to ruin the CLN’s reputation.
 この情報の中に、リブート社とＣＬＮの|接点はないのか…？=Is there anything here to suggest a link between Reboot Inc. and the CLN?
 さすがに救命ボートが犯人につながる|ようなことはないだろう…=I’m not sure the lifeboat is going to lead me to the criminal...
-これは、ジェフリーにはあまり関係が|ないように思われるが…|揺さぶりぐらいには…なるのか…？=I don’t think that’s really relevant to Jeffery...|Is it enough to get a reaction from him?#dupe
+これは、ジェフリーにはあまり関係が|ないように思われるが…|揺さぶりぐらいには…なるのか…？=I don’t think that’s really relevant to Jeffery... But could it elicit a reaction out of him?#dupe
 ヤツのベースボール好きは相当だ…|ベースボールの話題をするヤツには隙が|できる…そこを揺さぶれば…=He’s a big fan of baseball, and that gives me an opening. If I attack him from that angle...
-これは、ジェフリーにはあまり関係が|ないように思われるが…|揺さぶりぐらいには…なるのか…？=I don’t think that’s really relevant to Jeffery...|Is it enough to get a reaction from him?#dupe
+これは、ジェフリーにはあまり関係が|ないように思われるが…|揺さぶりぐらいには…なるのか…？=I don’t think that’s really relevant to Jeffery... But could it elicit a reaction out of him?#dupe
 これが無意識のうちに出たものなのか、|それとも故意に痕跡を残したのか、|他の情報と合わせて考えなくては…=Was this done unconsciously, or did he deliberately leave traces to throw me...
-ジェフリーは紛争の被害者…|ＣＬＮの幹部であるアロイスへの|憎しみを抱いているはずだ…=Jeffrey is a victim of war...|He must harbor a hatred for Alois, an executive of the CLN.
-彼の家族を奪ったのはＣＬＮの兵器…|アロイスへの恩があるとはいえ、|ＣＬＮを許せるはずがない…=It was the CLN’s weapons that took his family. Even though he owes a debt of gratitude to Alois, he still can’t forgive the CLN.
+ジェフリーは紛争の被害者…|ＣＬＮの幹部であるアロイスへの|憎しみを抱いているはずだ…=Jeffrey is a victim of war...|He must harbor a hatred for Alois,|an executive of the CLN.
+彼の家族を奪ったのはＣＬＮの兵器…|アロイスへの恩があるとはいえ、|ＣＬＮを許せるはずがない…=It was the CLN’s weapons that took his family. Even though he owes a debt of gratitude to Alois, he can’t forgive the CLN.
 計画の立案から立ち会っていれば、|自分の思惑を計画の裏に潜ませることは|不可能\ではない…=If he was present during the planning, it wouldn’t be impossible for him to slip his|own agenda into the works.
 米軍介入は事態を最悪にすると知って|いるはずのジェフリーはなぜ…？|米軍介入そのものが目的なら…！=Jeffrey must know that US intervention would make things worse, so why? Unless, getting them involved is his true goal--!
 成功率１００％のプライドを砕いたのは|私だ…ならば、ヤツが最も欲するものは|『勝負』し…『勝利』することだ…=I’m the one who shattered his pride by ruining his 100% success rate. That’s why he wants to have this match... to ‘triumph’.

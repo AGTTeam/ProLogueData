@@ -249,7 +249,7 @@
 普通の電圧計。=An ordinary voltmeter.
 ５Ｆルームキー=5F Room Key
 アンプル(回復)=Medicinal Vial (Weak)
-絶縁テープ=Insulating Tape
+絶縁テープ=Insulation Tape
 ミニバール=Crowbar
 ドライバー=Screwdriver
 プレーンドーナツ=Plain Doughnut
@@ -350,7 +350,7 @@
 最高ランクのドライバー。|とても壊れにくい。=A top class pair of screwdriver.|Extremely durable.
 最低ランクのミニバール。|とても壊れやすい。=A second class crowbar.|Extremely fragile.
 最高ランクのミニバール。|とても壊れにくい。=A top class crowbar.|Extremely durable.
-精密な鍵だ。|どこに使うのか見当がつかない。|=A key with a complicated bit.|Hard to tell what it’s used for.
+精密な鍵だ。|どこに使うのか見当がつかない。|=A key with an unusual shape.|It’s hard to tell what it’s used for.
 ボンベの栓だ。|ガスや水の配管の物だろうか。|=A handwheel to control a valve.|May be for a gas or water pipe.#qc from a cylindrical container? May need to reinclude that if it’s a valuable hint.
 最低ランクの冷却スプレー。|とても壊れやすい。=A second class can of coolant spray.|Extremely delicate.
 最高ランクの冷却スプレー。|とても壊れにくい。=A top class can of coolant spray.|Extremely sturdy.
