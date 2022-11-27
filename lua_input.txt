@@ -304,9 +304,9 @@
 ああ、だから何だ？|さっさとスイッチを選べ！=Yeah, so what?|Hurry up and pick a switch!
 Ｊ、ひとつ聞かせていただけませんか？|あなたの組織が扱う武器の中で、現在|最も売れ筋の「商品」は何ですか？@=I’m curious, J. What is the current best-selling “product” in your organization’s line-up?@
 も、最も売れている武器？|そ、それは…=The best-selling weapon?|W-Well, that’s...
-あなたがハウスキーパーではないことは|笑えるほど簡単に証明できるのです。|いえ、証明するまでもありません。=
-なぜなら、百戦錬磨の爆弾犯、|ハウスキーパーというのは…|男ではなく女なのです。@=
-な、何を言っているのですか…|まったく理解できません…=
+あなたがハウスキーパーではないことは|笑えるほど簡単に証明できるのです。|いえ、証明するまでもありません。=It would be ridiculously easy to prove that you’re not the Housekeeper. In fact, it’s not even worth bothering.
+なぜなら、百戦錬磨の爆弾犯、|ハウスキーパーというのは…|男ではなく女なのです。@=After all, the Housekeeper is... a woman.@
+な、何を言っているのですか…|まったく理解できません…=W-What are you talking about?|I really don’t follow...
 今回の仕事の報酬はケタ違いですね？|普段の倍以上どころの騒ぎではない。=The payment for this job must be quite something. It has to be more than double what you’d usually get.
 その報酬をもらう条件として、あなたは|クライアントに一切の質問をしないと|いう約束をしたのではありませんか？@=And as a condition for that price, I suppose you agreed not to question the client at all?@
 …だ、だったら何だというんだ？|仕事の条件はいつもクライアントが|決めるものだ…=...So what if I did?|The terms of the job are always set by the client.
@@ -335,7 +335,7 @@
 @……*=
 …状況がちぐはぐすぎる。|この状況を説明できるとすれば、|こう考えるしかありません。=There are too many inconsistencies at play here. There’s only one answer I can think of to explain the situation.
 @あなたは『クリエラの月』関係者では|ないのです！*=@You are not a member of Criella Moon!*
-もう、説明はいりませんね。=
+もう、説明はいりませんね。=The results speaks for themselves.
 @そんな基本も知らないあなたが、|『クリエラの月』関係者であるはずが|ない！*=@Someone who can’t even answer those questions couldn’t be a member of Criella Moon!*
 あなたがハウスキーパーだと|言うには、@矛盾が多すぎるのです。*=There are too many contradictions@ for you to be the Housekeeper.*
 あなたの英語はなかなか流ちょうですが|分析すればわかるんですよ、あなたが|ネイティブスピーカーではないと。=
@@ -821,7 +821,7 @@
 ベーブ・ルースをバンビーノと|無意識に呼ぶほどのファンだ。|これは演技ではない…=He’s such a fan of Babe Ruth that he unconsciously calls him the Bambino.|That’s no act.
 ハウスキーパーは、投打だけではなく|モノを書くときにも共通点があると|言った…モノを書くとき？=The Housekeeper said that it wasn’t just batting, but that they write the same...
 Ｊが本当に闇ブローカーの一員なら|当然知っていることを質問してみて|その反応をうかがうのは面白い…=It’d be interesting to ask J a question that he should know if he’s really a part of the organization, and see how he reacts.
-Ｊは理論的で知的な男だが、|そういう人物は想定外の揺さぶりには|弱いものだ…勝負をかけてみるか…=
+Ｊは理論的で知的な男だが、|そういう人物は想定外の揺さぶりには|弱いものだ…勝負をかけてみるか…=J is a logical, intelligent man, but that makes him more prone to being caught off guard. Let’s see how this works...
 クライアントは、プライドの高いハウス|キーパーを巧みに操っている…自尊心を|満たすのは金？　そこを突けば…=The client is skillfully manipulating the prideful Housekeeper... Is it money which drives him? Let’s try that angle...
 ハウスキーパーは自分のトリックに|相当な自信を持っている。その自信に|揺さぶりをかけてみるのも悪くない…=The Housekeeper has a lot of confidence in his tricks. Time to put it to the test.
 熱くなったハウスキーパーを|さらに挑発することで、何かボロを|出させることは可能\か…=I wonder if I could provoke the Housekeeper further and tip him over the edge.
