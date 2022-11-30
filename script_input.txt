@@ -142,7 +142,7 @@
 ハウスキーパーも|だいぶ追い詰められてきた|ようですね……=The Housekeeper seems to be getting panicked.
 Ｆからの報告を覚えていますか？|報告内容が矛盾していた理由も、|じきに説明できると思います。=Do you remember the report from F?|I think I will soon be able to reveal why the information does’t seem to add up.
 今まで通ってきたすべてのフロアに、|不自然にふさがれた壁が|ありましたよね……=Every floor we’ve been on has had an unnaturally blocked wall...
-次にハウスキーパーと対決するときは、|前のフロアで手に入れた情報も|見直す必要があるでしょう。=The next time we confront the Housekeeper, we will need to review the information you obtained on the previous floors.
+次にハウスキーパーと対決するときは、|前のフロアで手に入れた情報も|見直す必要があるでしょう。=The next time we confront the Housekeeper, we will need to review what you found on the previous floors.
 フロアの情報を偽装することで、|ここがホテルではないという事実を|隠そうとしたわけです。=By disguising the information about each floor, they tried to hide the fact that this isn’t a hotel.
 廊下の突き当たりにある|不自然な壁……\tあれが鍵です。=The unnatural wall at the end of each corridor...\t That is the key.
 種明かしはまだ終わりませんよ……=The grand reveal is yet to come.
@@ -599,7 +599,7 @@
 ここから発せられている強い電波と|いうのは…この船を強制的に制御する|ためのものですね？=The radio signals being sent from this room... Are they being used to control the ship remotely?
 はい…アロイス会長の命令で私が|セットしました。\vアロイス会長の手元にある制御装置で|発電機と推進器を自由にコントロール|することが可能です。=Yes... The chairman ordered me to set it up.\vHe has a control unit which allows him to control the generators and the propulsors at will.
 つまり、暴走させることが可能だと|いうわけですね？=So you’re saying he could send them into overdrive at any time?
-…その通りです。\t|データリンク用の回線を断てば、|発電機と推進器を分離できます。=...That’s right.\t|If you cut off the data link, you can uncouple the generators and the propellers.
+…その通りです。\t|データリンク用の回線を断てば、|発電機と推進器を分離できます。=...That’s right.\t If you cut off the data link, you can uncouple the generators and the propellers.
 …ということです。\t|@n0さん、回線を断ちましょう。=...Well, there we have it.\t|@n0, cut the line.
 !FILE:dat_script.bin/file012_PACK2/file006.bin
 ジェフリー、\t@n0さんと合流して|制御パネルを操作してください。=Jeffrey,\t please join up with @n0 and operate the control panel.
@@ -939,7 +939,7 @@
 !FILE:dat_script_f02.bin/file006_PACK2/file010.bin
 ２０２号室=Room 202
 !FILE:dat_script_f02.bin/file006_PACK2/file011.bin
-内側から鍵がかかっているようだ。=It seems to have been locked from the inside.
+内側から鍵がかかっているようだ。=It seems to have been|locked from the inside.
 !FILE:dat_script_f02.bin/file007_PACK2/file010.bin
 見るからに怪しい箱だ。=A suspicious looking box.
 箱を調査します。|よろしいですか？=Investigate the box?
@@ -3311,7 +3311,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file011_PACK2/file026.bin
 起爆装置の中に設置された|バッテリーだ。=A battery is installed in the detonator.
 起爆装置の中に設置された|バッテリーだ。\v接続されていたコードは|抜かれたいる。=A battery is installed in the detonator.\vThe wire that connected it to the detonator has been unplugged.
-起爆装置の中に設置された|バッテリーだ。\v装置とコードで繋がっている。=A battery is installed in the detonator.\vIt is connected to the detonator by wire.
+起爆装置の中に設置された|バッテリーだ。\v装置とコードで繋がっている。=A battery is installed in the detonator.\vIt is connected to the|detonator by wire.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file027.bin
 装置の側面についているランプだ。\v赤いランプが点灯している。=There are two lights on the side of the device.\vThe red light is lit.
 まだこのランプは|気にする必要がなさそうです。\vおそらく、装置の中に関係する物|ですね。=I don’t think we need to worry about these just yet.\vThey probably relate to something inside.
@@ -3595,21 +3595,21 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 フタを固定している@fRヒモ@fWだ。\v切断するにはアイテムが必要そうだ。=The @fRstring@fW is securing the lid.\vYou’ll need an item to cut it with.
 ヒモに切れ目が入った。=Made a cut in the string.
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file013.bin
-フタを止めているネジだ。\v緩められている。=The screws holding the lid on.\vThey are loose.
+フタを止めているネジだ。\v緩められている。=The screws hold the lid on.\vThey have been loosened.
 フタを止めている@fRネジ@fWだ。\v硬く締められている。=The @fRscrews@fW holding the lid on.\vThey’ve been screwed in tight.
 フタを固定していたネジが緩んだ。=Loosened the screws.
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file015.bin
-金具がフタを固定している。\vハンマーで叩いたため、|ぐらついている。=Metal clasps are securing the lid.\vThey’re wonky from having been hit with a hammer.
+金具がフタを固定している。\vハンマーで叩いたため、|ぐらついている。=Metal clasps are securing the lid.\vThey’re wonky from|having been hit with a hammer.
 金具がフタを固定している。\v簡単に外れそうだ。=Metal clasps are securing the lid.\vThey should come off easily.
 金具がフタを固定している。\v@fR力技@fWで何とかなりそうだ。=@fRMetal clasps@fW are securing the lid.\vThey should loosen with some @fRforce@fW.
 フタを固定していた金具が緩んだ。=Loosened the metal clasps.
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file017.bin
 トラップを覆っているフタだ。\vいろいろな物で固定してある。=A lid covers the trap.\vThere are several things keeping it in place.
-トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば|何とかなりそうだ。=A lid covers the trap.\vThere are several things keeping it in place.\vRemoving it should enable you to disarm the trap.
+トラップを覆っているフタだ。\vいろいろな物で固定してある。\v開ける事ができれば|何とかなりそうだ。=A lid covers the trap.\vThere are several things keeping it in place.\vOnce it’s off, the trap can be disarmed.
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file018.bin
 この中に爆弾と起爆装置が入っている。\vフタが閉まっているため、|中を見る事ができない。=There is a bomb and detonator inside.\vWith the lid on, you can’t see the setup.
 !FILE:dat_script_trapsmall.bin/file003_PACK2/file013.bin
-フタを固定していた|ネジが緩んだ。=The screws holding the lid are loose.
+フタを固定していた|ネジが緩んだ。=Loosened the screws.
 !FILE:dat_script_trapsmall.bin/file003_PACK2/file015.bin
 金具がフタを固定している。\vしかし、ハンマーで叩いたため、|ぐらついている。=The metal clasps are securing the lid.\vThey’re wonky from having been hit with a hammer.
 !FILE:dat_script_trapsmall.bin/file004_PACK2/file011.bin
@@ -3690,11 +3690,11 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file018.bin
 青色のコードだ。\v起爆装置と爆薬を繋いでいる。=A blue wire.\vIt connects the detonator to the explosive.
 本物のコードを@fR切断@fWできれば|解除も可能です。\t|正しいコードが分かればですが。=If you @fRcut@fW the real wire, you’ll be able to disarm the trap.\t Supposing you can figure out which is right, that is.
+コードを切断した。=Cut the wire.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file020.bin
 起爆装置だ。\v爆薬から外せば|爆発の恐れはなくなるだろう。=The detonator.\vDetaching it from the explosive should prevent ignition.
 私の見た限りでは、|このトラップのコードは|ほとんどダミーですね。=From what I can tell, most of those wires are feints.
 起爆装置だ。\vコードで接続されているため、|爆薬から外す事ができない。=The detonator.\vIt is attached to the explosive by wire and cannot be removed.
-コードを切断した。=Cut the wire.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file007.bin
 蹴り飛ばす！=Yeet the trap!#qc this might be too comical
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file010.bin
@@ -3734,20 +3734,20 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 小箱だ。\v接着剤で固定されている。\v@fRスキマ@fWをこじ開ける事ができそうだ。\v中には小さな爆薬が入っている。=A small box.\vIt’s been secured with glue.\vThere should be a way to @fRpry@fW it off.\vThere is a small explosive inside.
 小箱のスキマをこじ開けた。=Forcibly removed the box.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file021.bin
-@fRコード@fWだ。\v起爆装置と爆薬を繋いでいる。=@fRWires@fW connect the detonator to the explosives.
-むやみに切らない方が|良さそうですね。=It’d be wise not to cut these carelessly.
 コードを切断した。=Cut the wires.
+@fRコード@fWだ。\v起爆装置と爆薬を繋いでいる。=@fRWires@fW connect the detonator|to the explosives.
+むやみに切らない方が|良さそうですね。=It’d be wise not to cut these carelessly.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file022.bin
 起爆装置のようだ。\v@fRコード@fWで爆薬と繋がっている。=The detonator.\vIt is attached to the explosive by @fRwire@fW.
 だいぶ身軽になりましたね。\t|そろそろ解除できるのでは|ないでしょうか。=That’s all the unnecessary parts gone.\t I’d say it’s about time we finish this.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file024.bin
-小箱に繋がっていたボタンだ。\v押しても反応は無い。=This button was connected to a small box.\vThere is no response when you press it.
-何かのボタンだ。\v上の小箱と繋がっているようだ。=Some kind of button.\vIt appears to be connected|to the small boxes above.
+小箱に繋がっていたボタンだ。\v押しても反応は無い。=This button was connected to two small boxes.\vThere is no response when you press it.
+何かのボタンだ。\v上の小箱と繋がっているようだ。=Some kind of button.\vIt appears to be connected|to what’s above.
 上の小箱は外したので、|このボタンは安全でしょう。=The boxes have been removed, so the button should be safe to press.
-上の小箱が爆発した。=The box exploded.
+上の小箱が爆発した。=The parts exploded.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file026.bin
 爆薬が入っているようだ。=There seems to be explosives inside.
-爆薬が入っているようだ。\v起爆装置と@fRコード@fWで繋がっている。\v爆薬は箱の中に入っており、|起爆装置を外す必要がある。=There seems to be explosives inside.\vIt is connected to the detonator by @fRwire@fW.
+爆薬が入っているようだ。\v起爆装置と@fRコード@fWで繋がっている。\v爆薬は箱の中に入っており、|起爆装置を外す必要がある。=There seems to be explosives inside.\vIt is connected to the|detonator by @fRwire@fW.
 起爆装置はコードで繋がっている|部分のパーツです。=Rather than remove the base, it would be much easier to remove the detonator, which is sat on top.
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file019.bin
 小箱だ。\vハリガネで固定されている。 =A small box.\vIt’s being held in place by a metal wire.
@@ -3925,8 +3925,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 奥の棒を@fR押し込め@fWば|起爆装置が出てくるかもしれません。=If you @fRpush@fW the stick at the back, the detonator may come out.#L
 反対側の棒を@fR押し込む@fWと|起爆装置が押し出されませんか？=If you were to @fRpush@fW the stick inwards, would that push the detonator out?
 !FILE:dat_script_trapsmall.bin/file012_PACK2/file034.bin
-爆薬だ。\v@fRコード@fWで起爆装置と繋がっている。=The explosive.\vIt is connected to the detonator by @fRwire@fW.
-爆薬だ。\v@fRコード@fWで起爆装置と繋がっている。\v木箱に組み込まれている。=The explosive.\vIt is connected to the detonator by @fRwire@fW.\vIt has been built into the wooden box.
+爆薬だ。\v@fRコード@fWで起爆装置と繋がっている。=The explosive.\vIt is connected to the|detonator by @fRwire@fW.
+爆薬だ。\v@fRコード@fWで起爆装置と繋がっている。\v木箱に組み込まれている。=The explosive.\vIt is connected to the|detonator by @fRwire@fW.\vIt has been built into the wooden box.
 少し危険な感じがしますね。\t|うかつに触らない方が|良いと思いますが…=It seems rather precarious.\t|I would think it’s better not to touch it carelessly.
 爆薬にはなるべく|触らない方が良いと思います。\t|爆発するのがオチです。=I would avoid touching the explosive as much as possible.\t|It would only end in an explosion.#L
 !FILE:dat_script_trapsmall.bin/file012_PACK2/file038.bin
