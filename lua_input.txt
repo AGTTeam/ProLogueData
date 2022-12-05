@@ -389,7 +389,7 @@
 大掛かりな手品ほど驚きは|小さいんです。=The larger the illusion, the lesser the wonder.
 ゲームに負けたことは|ないんですよ……=I’ve never lost at a game.
 嘘はついた時点で破綻している|ものなのです。=The minute you lie, you’ve already lost.
-謎はすべて解けました……=Everything has a soltion.
+謎はすべて解けました……=Everything has a solution.
 これで終わりにしましょう……=This is the end.
 <red>ブラフ<white>を入手しました。=<red>Bluff<white> obtained.
 言い訳はしません……|私のミスです……=There’s no excuse... I made a mistake.
@@ -479,7 +479,7 @@
 さすがだな、Ｌ。|ジェフリーはおまえを試すための|当て馬でしかない。=I should have known the great L would be able to see through it. I used Jeffrey a decoy to test you.
 ほう、Ｊの本名はジェフリーですか。|いいことを聞きました。=Hoh, so J’s real name is Jeffrey?|Noted.#dupe
 理解できませんか？|ハウスキーパーは女だというだけの|非常にシンプルな話なんですが…=What’s not to get?|The Housekeeper being a women is pretty self-explanatory. 
-そ、そんな話、誰が信じますか？|私は男なんですよ…=S-Say’s who?|You do realise that I’m a man...
+そ、そんな話、誰が信じますか？|私は男なんですよ…=S-Say’s who?|You do realize that I’m a man...
 ええ…ですから、あなたは|ハウスキーパーではないんです。=Yes... Hence, you are not the Housekeeper.
 ハウスキーパーというのは、元々は|イギリスにおける家事使用人の中でも|最上位の女性を指す言葉です。=The term “housekeeper” was originally used to refer to the highest-ranking female servant of a household.
 今では女性使用人の総称としても|使われますが…|男性には使わない言葉なんですよ！=In modern times it has now come to be used as a generic term for female servants, but not for men!

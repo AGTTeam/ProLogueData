@@ -433,7 +433,7 @@
 ハッピー・メリー・クリスマス！！|聖なる夜をお祝いする、|特製クリスマスケーキ。|||=A special cake to celebrate the Holy Night. Merry Christmas!
 果物の果汁を使ったゼリーを|足付きグラスに流して冷やし|固めました。|涼しげな一品。||=A jello made from fruit juice poured into a fancy glass and put in the fridge to set.
 チョコとバナナは相性抜群。|ホイップクリームもたっぷり搾った|名コンビのクレープ。|||=Chocolate and banana are a match made in heaven. Paired with a crepe and plenty of whipped cream, it makes for a classic combination.
-何も書かれていない日記だ。|本当に何も書かれていない。|保存状態はよく、乾燥している。|=A journal with nothing written in it.|There really is nothing it it.|It’s in good condition, and dry.
+何も書かれていない日記だ。|本当に何も書かれていない。|保存状態はよく、乾燥している。|=A journal with nothing written in it.|It really is completely empty.|It’s in good condition though, and dry.
 甘い香りのミルクココア。|カカオのポリフェノールと|繊維たっぷり。|実は健康食品です。||=Milky cocoa with a sweet smell. It’s full of polyphenols and fiber from the cocoa. In fact, it’s practically a health drink.
 真っ赤ないちごをクリームにも|たっぷり使用。|見た目にもゴージャスな|シュークリーム。||=A choux pastry that doubles as a feast for the eyes. They weren’t stingy on the strawberries, either.
 あんこ好きの方にはこのだんご。|丁寧にさらした上品なこしあんを|たっぷりのせました。|||=A dango for lovers of red bean paste. Topped with high-quality, carefully strained bean paste.
@@ -461,7 +461,7 @@
 日仏スウィーツのコラボレーション。|生クリームと小倉あんが意外にマッチ。|黒蜜ソースで仕上げました。|||=A fusion of French and Japanese cuisine. It turns out that fresh cream and sweetened red bean paste make a surprising match. The molasses sauce on top adds a perfect finishing touch.
 板状の金属だ。|見ただけでは解析できないが、|細かく入っている切れ込みが|何かの情報になっているようだ。|=A metal plate.|It’s impossible to tell what it is just by looking, but it seems the slits on the side may have some information to tell.#qc
 バニラとチョコレート、|２つの味が両方楽しめます。|２色のコントラストもかわいい|定番のソフトクリーム。||=The joy of both vanilla and chocolate ice cream in just one cone. The contrast between the two colors makes for a unique look.#It says classic, but I’ve never seen ice cream like this in the UK.
-日本の甘味屋さんの定番スウィーツ。|あんこと黒蜜のあまーい味と、|赤えんどう豆の塩味のバランスが大切。|||=A traditional Japanese dessert. The balance between the sweetness of red bean paste and molasses with the saltiness of red endomame peas is one of the key elements.
+日本の甘味屋さんの定番スウィーツ。|あんこと黒蜜のあまーい味と、|赤えんどう豆の塩味のバランスが大切。|||=A traditional Japanese dessert. The balance between the sweetness of red bean paste and molasses with the saltiness of the boiled peas is one of the key elements.
 アイスクリームとホイップクリーム、|色とりどりの果物を|たっぷり使いました。|見た目も味もパーフェクト。||=A parfait made with ice cream, whipped cream and plenty of colorful fruits. It tastes as good as it looks.
 バニラアイスクリームに|じっくり熟成させたラムレーズンを|たっぷり使用。|芳醇な味わいの大人のフレーバー。||=A vanilla ice cream chocked full of rum-soaked raisins. Has a mellow flavor that only adults can enjoy.
 カスタードクリームに|ほろ苦チョコレートをたっぷり|混ぜ込みました。|ビターアンドスイートがおいしい一品。||=Dark chocolate has been mixed into the custard to give it a delicious bittersweet flavor.
@@ -598,7 +598,7 @@
 難民は陸路でアメリカに送った。|その際、難民たちが逃げないよう|Ｊの仲間が銃で難民たちを脅していた。=The refugees were transported to the US overland. J’s associates threatened them with guns to prevent them from escaping.
 会長アロイス・ベイトソン率いる北米の|ＩＴ会社。業界トップの業績を誇る。|会長の完全なるワンマン経営。=North American IT company led by Chairman Alois Bateson. A major competitor in the industry. The Chairman manages the entire company.
 米軍の介入は事態の混乱を招く恐れが|高いのだが、ジェフリーは必要以上に|米軍への介入要請を口にしている。=Intervention by the US military would stir up controversy, but Jeffrey seems insistent on it.
-壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=The paint on the walls is peeling and rusty. The carpet also mouldy. For a non-humid area like the Republic of Criella, such a thing is highly unusual.
+壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=The paint on the walls is peeling and rusty. The carpet also moldy. For a non-humid area like the Republic of Criella, such a thing is highly unusual.
 ハウスキーパーは基本的にはトラップを|仕掛けるだけで、表舞台で行動しない。|今回は異例の行動だと思われる。=The Housekeeper typically only sets traps and does not get involved. His actions this time are unprecedented.
 大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
 一連のトラップの製作者である爆弾魔。|３日前、㍗㍗㍗㍗が誘拐された際にも|同様のトラップが仕掛けられていた。=The Housekeeper is responsible for a series of traps. A similar trap was set three days ago when abcd was abducted.
@@ -682,7 +682,7 @@
 星‐赤=Stars - Pink
 バナナ=Banana
 角砂糖=Sugar Cube
-腐食壁=Rusty Walll
+腐食壁=Rusty Wall
 星‐青=Stars – Blue
 アーチ=Arch
 おはぎ=Ohagi
@@ -983,7 +983,7 @@ abcdさんと過ごす午後は、|なんとなく良いです。=Spending the a
 しかし時期はずれですね。|でもいただきました。=It really is the wrong season for it, but thank you.
 かなり違和感ありますが。|でもいただきました。=I felt a bit strange about it, but thanks.
 お花見のシンボルみたいな、|スウィーツですね。=It’s almost a symbol of the cherry blossom season.
-あなたのお気持ちは、|しっかりいただきました。=Your feelings have been recieved.
+あなたのお気持ちは、|しっかりいただきました。=Your feelings have been received.
 abcdさん、|真夜中の糖分補給、|頼りにしてます。=I’ll be counting on you for my midnight sugar fix.
 すごく私好みの味です。|本当に、感謝しています。=That was right up my alley. I really appreciate it.
 今日はいったい、|どんな一日になるのでしょうか。=I wonder what today is going to bring.
@@ -1054,7 +1054,7 @@ abcdさんと私の朝です。|今日という日を分かち合いたいです
 気持ちの良い朝です。|abcdさんのおかげ、|かもしれないです。=I feel good this morning. Maybe it’s because you’re here.
 abcdさん、|あなたのスウィーツがないと、|私に朝は来ません。=abcd, if I don’t have one of your snacks, I won’t make it till morning.
 abcdさん、|スウィーツなしでは私、|もう起きていられません。=I can't stay awake anymore without sweets.
-もっと他に、好みの味があります。|あ、お気を悪くなさらずに。=I think Iwould have preferred something else.|Oh, please don't be offended.
+もっと他に、好みの味があります。|あ、お気を悪くなさらずに。=I think I would have preferred something else.|Oh, please don't be offended.
 幼稚さは意外な武器になります。|負けず嫌いも強力な武器です。=Being childish is a surprising useful weapon. So is hating to lose.
 じっくりやれば証拠は必ず出る。|それがあらゆる捜査の基本か。=If you take your time, you will always find evidence. Isn’t that the true for all investigations?
 これこそ私が欲しいと思ってた味です。|よく選んでくれました。=This is exactly the flavor I wanted. You chose well.
@@ -1193,7 +1193,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 日仏スウィーツのコラボレーション。|生クリームと小倉あんが意外にマッチ。|黒蜜ソースで仕上げました。|=A fusion of French and Japanese cuisine. It turns out that fresh cream and sweetened red bean paste make a surprising match. The molasses sauce on top adds a perfect finishing touch.
 バーベキュー串にいろいろお菓子を|突き刺した、ボリュームの１本。|ダイエット中の方は注意が必要です。|=A barbecue skewer stacked with variety of sweets. Not recommended for those trying to stick to a diet.
 塩漬けの桜の葉が香る、|季節感たっぷりの春のお菓子です。|関東風と関西風がありますが|こちらは関東風。|==A traditional Japanese springtime treat. How it’s made varies between the Kanto and Kansai regions, but this Kansai-style version is made with steamed mochi rice shaped around a ball of red bean paste, finished off with a salt-pickled sakura leaf.
-日本の甘味屋さんの定番スウィーツ。|あんこと黒蜜のあまーい味と、|赤えんどう豆の塩味のバランスが大切。|=A traditional Japanese dessert. The balance between the sweetness of red bean paste and molasses with the saltiness of red endomame peas is one of the key elements.
+日本の甘味屋さんの定番スウィーツ。|あんこと黒蜜のあまーい味と、|赤えんどう豆の塩味のバランスが大切。|=A traditional Japanese dessert. The balance between the sweetness of red bean paste and molasses with the saltiness of the boiled peas is one of the key elements.
 アイスクリームとホイップクリーム、|色とりどりの果物を|たっぷり使いました。|見た目も味もパーフェクト。|=A parfait made with ice cream, whipped cream and plenty of colorful fruits. It tastes as good as it looks.
 バニラとチョコレート、|二つの味が両方楽しめます。|２色のコントラストもかわいい|定番のソフトクリーム。|=The joy of both vanilla and chocolate ice cream in just one cone. The contrast between the two colors makes for a unique look.
 カスタードクリームに|ほろ苦チョコレートをたっぷり|混ぜ込みました。|ビターアンドスイートがおいしい一品。|=Dark chocolate has been mixed into the custard to give it a delicious bittersweet flavor.
