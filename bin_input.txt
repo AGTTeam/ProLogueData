@@ -12,7 +12,7 @@
 ホテル２Ｆ=Hotel 2F
 ホテル３Ｆ=Hotel 3F
 ホテル４Ｆ=Hotel 4F
-引継ぎ捜査=
+引継ぎ捜査=New Game+
 ホテル５Ｆ=Hotel 5F
 ホテル６Ｆ=Hotel 6F
 プロムナード=Walkway
