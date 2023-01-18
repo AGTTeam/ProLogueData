@@ -195,7 +195,7 @@
 最後のトラップ解除は|万全の態勢で臨んでください。\t|何があるかわかりませんから。=Make sure you’re fully prepared for the final trap.\t|We don’t know what we might find.
 ＠未設定=
 !FILE:dat_script.bin/file002_PACK2/file012.bin
-ＤＳワイヤレス通信機能を使って、|ダウンロード配信を開始します。|よろしいですか？=Send a demo to a friend using DS Download Play?
+ＤＳワイヤレス通信機能を使って、|ダウンロード配信を開始します。|よろしいですか？=Send a demo to a friend|using DS Download Play?
 !FILE:dat_script.bin/file002_PACK2/file013.bin
 破損データを削除しました。|電源を切って|カードを差し込みなおしてください。=Corrupt data deleted.|Please turn off the power and reinsert the game card.
 データを読み込めませんでした。|電源を切って|カードを差し込みなおしてください。=Could not read data.|Please turn off the power and reinsert the game card.
@@ -2014,7 +2014,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ハサミを使ってコードを切った。|特に効果はないようだ。=
 コードを切ると同時に|起爆装置が作動した！=
 特に効果はないようだ。=Nothing happened.
-絶縁テープを使った。=Used Insulation Tape.
+絶縁テープを使った。=Used Tape.
 ボタンを押さない限り、|この装置は機能しないだろう。=
 !FILE:dat_script_trapbig.bin/file001_PACK2/file019.bin
 このケースの中には|@fR起爆装置@fWはないようだ=
@@ -2325,10 +2325,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 赤い基板だ。\vいくつかのパーツがついている。=A red board.\vIt has various components on it.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file024.bin
 何かのコードだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=Some kind of wires.\vIt’s hard to see it clearly under the red board.
-何かのコードだ。\v絶縁テープで補修してある。=Some sort of wires.\vThey have been repaired with insulation tape.
+何かのコードだ。\v絶縁テープで補修してある。=Some sort of wires.\vThey have been repaired with tape.
 何かのコードだ。\v@fRむき出し@fWになった部分が|ショートしてしまいそうだ。=Some sort of wires.\vThe @fRexposed part@fW is likely to short-circuit.
 コードを切断した。=Cut the wire.
-しかし絶縁テープは壊れてしまった。=The Insulation Tape broke.
+しかし絶縁テープは壊れてしまった。=The Tape broke.
 コードを補修中に、|スイッチが入ったような音がした。=As you repair the wires, a switch clicks.
 コードを補修した。=Repaired the wires.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file026.bin
@@ -3193,7 +3193,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ボンベと液体ケースを繋ぐパイプだ。\v元栓が閉められていて、|ガスを送る役目は果たしていない。=A pipe connecting the gas cylinder to the case containing liquid.\vThe valve has been closed so it can no longer deliver gas.
 ボンベと液体ケースを繋ぐパイプだ。\vボンベの根元付近に|穴の開いたパーツがついている。=A pipe connecting the gas cylinder to the case containing liquid.\vThere is a hole in the pipe near the base of the cylinder.
 今ならフタを開けても|安全そうです。=It should be safe to open the lid now.
-ボンベと液体ケースを繋ぐパイプだ。\vつけ根からガスが漏れていたが、|絶縁テープで応急処置が|施されている。=A pipe connecting the gas cylinder to the case containing liquid.\vGas was leaking from the base, but it has been patched up with insulation tape.
+ボンベと液体ケースを繋ぐパイプだ。\vつけ根からガスが漏れていたが、|絶縁テープで応急処置が|施されている。=A pipe connecting the gas cylinder to the case containing liquid.\vGas was leaking from the base, but it has been patched up with tape.
 ガスはしっかり止まったようですね。=That seems to be working well.
 ボンベと液体ケースを繋ぐパイプだ。\v金具を叩いた衝撃で、|つけ根の部分から|ガスが漏れている。=A pipe connecting the gas cylinder to the case containing liquid.\vThe impact of striking the fitting has caused gas to leak from the bottom.
 いけませんね、何か|@fR穴を塞げる物@fWはありませんか？=Not good. Do you have anything you could use to @fRplug the leak@fW?
@@ -4025,7 +4025,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 起爆装置だ。\v金属でできている。\v小型ながら頑丈そうだ。=The detonator.\vIt’s made of metal.\vIt looks sturdy despite its small size.
 いろいろ細かい物がついてますね。\t|落ち着いて調査して行きましょう。=There are a lot of parts attached to it.\t|Take a breath, and see what you can find.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file010.bin
-爆薬と起爆装置が出てきた。=The detonator and explosive are now visible.
+爆薬と起爆装置が出てきた。=The detonator and explosive|are now visible.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file011.bin
 まずカバーを外さないと|どうにもなりませんね。\t|カバーを外してください。=You won’t be able to do anything if you don’t get that cover off.\t|Let’s start with that.
 カバーは脆い造りです。\t|叩いてゆがめたり、|金具を外せば簡単に外せます。=The cover is quite malleable.\t|Just hitting it, or removing the metal fittings will do the trick.
@@ -4050,7 +4050,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file015.bin
 金具が緩んだようだ。=Loosened the fittings.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file024.bin
-爆薬と制御装置を|繋いでいる@fRコード@fWだ。=A @fRwire@fW connects the explosives to the controls.
+爆薬と制御装置を|繋いでいる@fRコード@fWだ。=A @fRwire@fW connects the explosives|to the controls.
 爆薬と繋がっていたコードだ。\vコードを戻す事ができそうだ。=A wire which was connected to the explosive.\vIt should be possible to plug it back it.
 コードを挿し直す=Plug the wire back in
 コードを挿し直さない=Don’t plug the wire back in
@@ -4078,19 +4078,19 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file031.bin
 爆弾の制御装置のようだ。=A control device.
 爆弾の制御装置だ。\vコードが抜かれて|機能が停止している。=A control device.\vWith the wire unplugged, it has powered off.
-爆弾の制御装置のようだ。\v爆薬と@fRコード@fWで繋がっている。=It appears to be a control device.\vIt is connected to the explosive by @fRwire@fW.
+爆弾の制御装置のようだ。\v爆薬と@fRコード@fWで繋がっている。=It appears to be a control device.\vIt is connected to|the explosive by @fRwire@fW.
 気になる装置ですね。\t|爆弾を制御している装置のようです。=Well, that’s certainly caught my attention.\t|It seems this device controls the trap.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file032.bin
 起爆装置だ。\v爆薬に直結している。=The detonator.\vIt is directly connected to the explosive.
 起爆装置だ。\v爆薬に直結している。\v横に調節ネジがついている。=The detonator.\vIt is directly connected to the explosive.\vThere is an adjustable dial on the side.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file033.bin
-爆薬が起爆装置に直結している。=The explosive is directly connected to the detonator.
-爆薬が起爆装置に直結している。\vロックは解除されている。=The explosive is directly connected to the detonator.\vThe lock has been removed.
-爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vコードが抜かれて、|回せるようになっている。=The explosive is directly connected to the detonator.\vIt appears to be locked.\vNow that the wires have been removed, it can be rotated.
+爆薬が起爆装置に直結している。=The explosive is directly|connected to the detonator.
+爆薬が起爆装置に直結している。\vロックは解除されている。=The explosive is directly|connected to the detonator.\vThe lock has been removed.
+爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vコードが抜かれて、|回せるようになっている。=The explosive is directly|connected to the detonator.\vIt appears to be locked.\vNow that the wire has been removed, it can be rotated.
 爆薬を回す=Rotate the explosive
 爆薬を回さない=Don’t rotate
 ロックが外れた！=Removed the lock!
-爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vあまり動かせそうな気配は無い。=The explosive is directly connected to the detonator.\vIt appears to be locked.\vIt doesn’t look like it can be moved much.
+爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vあまり動かせそうな気配は無い。=The explosive is directly|connected to the detonator.\vIt appears to be locked.\vIt doesn’t look like it can be moved much.
 何か仕掛けがあるのでしょう。\t|このままの状態での爆薬解除は|少し難しいですね。=There must be some kind of trick to it.\t|It won’t be easy to remove it like this.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file034.bin
 爆弾の台座部分だ。=The base of the bomb.
@@ -4135,7 +4135,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file020.bin
 ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=The wire connecting the button and the detonator.\vIt has been repaired with insulation tape.
 ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=The wire connecting the button and the detonator.\vThe wire is @fRexposed@fW meaning even a slight touch could energize it.\vIt would be advisable to use an item to @fRinsulate@fW it.
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connecting the button and the detonator.\vIt has been repaired with insulation tape, and has a slit in it.
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connecting the button and the detonator.\vIt has been repaired with tape, and has a slit in it.
 ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=The wire connecting the button and the detonator.\vIt has a slit in it.
 これでボタンを押さない限り、|この装置は機能しないでしょう。=This way, it shouldn’t activate unless you push the button.
 コードに切れ目を入れた。=Cut a slit into the wire.
