@@ -139,8 +139,8 @@
 小トラップ３=Small Trap 3
 小トラップ２=Small Trap 2
 小トラップ１=Small Trap 1
-テスト小トラップ=Test Small Trap
-テスト大トラップ=Test Big Trap
+テスト小トラップ=Small Trap Test
+テスト大トラップ=Big Trap Test
 紅茶=Black Tea
 鍵Ｂ=Key B
 書類=Document
@@ -624,19 +624,19 @@
 キーワードリスト=Keywords
 
 !FILE:overlay_0007_dec.bin#debug?
-つづきから=
-タイトルへ=
-エクストラへ=
-ラスタテストへ=
-メーカーロゴへ=
-シナリオテスト=
-メインメニューへ=
-ゲームオーバーへ=
-シナリオ=
-と接続し、スクリプトを読み込みます=
-苗字=
-名前=
-シナリオ %s=
+つづきから=Continue
+タイトルへ=Title Screen
+エクストラへ=Extras
+ラスタテストへ=Raster Test
+メーカーロゴへ=Opening Logo
+シナリオテスト=Scene Test
+メインメニューへ=Main Menu
+ゲームオーバーへ=Game Over Screen
+シナリオ=Scene
+と接続し、スクリプトを読み込みます=and load script
+苗字=Surname
+名前=First Name
+シナリオ %s=Scene %s
 
 !FILE:overlay_0011_dec.bin
 オプション=Options
@@ -667,13 +667,13 @@
 ダウンロード配信準備中です。|しばらくお待ちください。=Preparing to send demo.|Please wait.
 
 !FILE:overlay_0025_dec.bin#debug?
-タイトルメニューへ=
-データ選択へ=
-モード選択へ=
-プレイヤー設定へ=
-シミュレーターへ=
-データセーブ=
-タイトル=
+タイトルメニューへ=Title Screen
+データ選択へ=Save Select
+モード選択へ=Mode Select
+プレイヤー設定へ=Player Settings
+シミュレーターへ= Communicator
+データセーブ=Save Screen
+タイトル=Start Screen
 
 !FILE:overlay_0026_dec.bin
 埠頭=Wharf
