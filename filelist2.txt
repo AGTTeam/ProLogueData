@@ -351,9 +351,9 @@
 3=file001.NSCR
 !FILE:ProLogueData/extract_PACK/dat_bustup.bin/file005.PACK
 1=file001.NCGR
-2=file001.NCLR
+2=file002.NCLR
 3=file001.NSCR
-4=file002.NCLR
+4=file001.NCLR
 !FILE:ProLogueData/extract_PACK/dat_bustup.bin/file006.PACK
 1=file001.NCGR
 2=file001.NCLR
