@@ -1004,7 +1004,7 @@
 今の音を聞きましたか？|\tここ以外にもう１箇所、室内でロックが|解除されたような音がしましたね…\v二重のロックをかけるほどです。|\tこの先には重要なものがあると|考えるべきでしょうね。\vレベルの高いトラップが|仕掛けられているかもしれません。|\t準備をしてから入るのがベターです。=Did you hear that sound just now?|\tIt sounded like something inside also unlocked.\vTo go to the trouble of double-locking it...|\tI think we can assume that there’s something important up ahead.\vWhich means, the chances are that there will some more complex traps too.\t Make sure you’re prepared before going in.
 しかしまだ扉は開かない。=The door still won’t budge.
 !FILE:dat_script_f02.bin/file014_PACK2/file012.bin
-開かない。\v鍵がかけられているようだ。=It didn’t open.\vThe door seems to be locked.
+開かない。\v鍵がかけられているようだ。=It won’t budge.\vThe door seems to be locked.
 !FILE:dat_script_f02.bin/file015_PACK2/file010.bin
 この壁だけ質感が違いますね。|この壁の向こうに何があるのでしょうか。=This wall is different from the rest.|I wonder what’s behind it...
 !FILE:dat_script_f03.bin/file001_PACK2/file010.bin
@@ -1880,7 +1880,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 制御ランプだ。=A status light.
 消灯している。=The light is on.
 !FILE:dat_script_f10_a.bin/file004_PACK2/file013.bin
-開かない。\v扉がロックされているようだ。=It didn’t open.\vThe door must be locked.
+開かない。\v扉がロックされているようだ。=It won’t budge.\vThe door must be locked.
 !FILE:dat_script_f10_a.bin/file005_PACK2/file010.bin
 メモが挟まっている。\vいくつかの数字とともに、|「希望とともにあるものはどれか？」|という文が書かれている。=A memo was tucked inside.\vSeveral numbers, and the message|“What is with hope?”|are written on it.
 このメモは暗号になっているようです。\t|暗号を解くのに必要な手順は２つです。\v先頭から数字を２つずつ|アルファベットに当てはめて行きます。\vつぎに、『希望』とともにある物が|何であるかを見てみましょう。\vちなみに、『希望』英語では|『ＨＯＰＥ』です。\v『希望』とともにあるものを|聞いているわけですから、『希望』|自体は排除して考えるべきですね。\vこの文字列が何を表しているかは|今はわかりません。\v必要になったときに|答え合わせをしましょう。|\tあなたも考えてみてください。=It looks like a cipher.\t|It seems there are two steps to solving it.\vFirst, every two numbers need to be applied to a letter in the alphabet.\vThen, we need to figure out what it is that goes with “hope”.\vSince the question states something that is ‘with it’, I think we can exclude “hope” itself.\vAs it stands, we don’t know what this memo is referring to yet.\vWe’ll need to have an answer when the time comes.\t See what you can come up with.
@@ -4102,18 +4102,18 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file011.bin
 シリンダーと起爆装置の接続を|切断しながら解除してください。\t|切るべきコードは私が指示します。=Sever the connection between the cylinder and detonator, and disarm the trap.\t I will show you which wires to cut.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file013.bin
-シリンダーから伸びている@fRコード@fWだ。=There are @fRwires@fW coming out of the cylinder.
+シリンダーから伸びている@fRコード@fWだ。=There are @fRwires@fW coming out|of the cylinder.
 気をつけてください。\t|ダミーのコードを@fR切断@fWしてしまうと|起爆装置が作動するかもしません。=Be careful.\t If you @fRcut@fW the wrong wire, you might trigger the detonator.
-シリンダーから伸びている@fRコード@fWだ。\vどれかは分からないが、|起爆センサーからのコードではない|物が混じっているようだ。=There are @fRwires@fW coming out of the cylinder.\vSome appear to unrelated to the detonator, but it is not clear which is which.
+シリンダーから伸びている@fRコード@fWだ。\vどれかは分からないが、|起爆センサーからのコードではない|物が混じっているようだ。=There are @fRwires@fW coming out|of the cylinder.\vSome appear to unrelated to the detonator, but it is not clear which is which.
 シリンダーから伸びているコードだ。\v危険なコード以外は切断してある。=There are wires coming out of the cylinder.\vEverything but the dangerous ones have been cut.
-シリンダーから伸びているコードだ。\v接続部分が確認できるため、|メインセンサーと無関係な|衝撃や、起爆ボタンから信号を伝える|コードを見分けられるようになった。=There are wires coming out of the cylinder.\vNow that it’s clear how everything is connected, it’s possible to determine which wires relate to the main sensor, and which carry the signal from the button.
+シリンダーから伸びているコードだ。\v接続部分が確認できるため、|メインセンサーと無関係な|衝撃や、起爆ボタンから信号を伝える|コードを見分けられるようになった。=There are wires coming out|of the cylinder.\vNow that it’s clear how everything is connected, it’s possible to determine which wires relate to the main sensor, and which carry the signal from the button.
 メインセンサー以外の|コードを切断した。=Cut all the wires except for those relating to the main sensor.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file014.bin
-下側のケースだ。\vスライド式で開けられそうだが、|今は少ししか動かない。=The bottom case.\vIt looks like the lid should slide off,|but it won’t budge.
-下側のケースだ。\v爆薬からの@fRコード@fWが繋がっている。\v中に起爆装置があるらしい。=The bottom case.\vThere are @fRwires@fW feeding into it from the explosive.\vThe detonator must be inside.
-下側のケースだ。\v重心の移動に違和感がある。\v起爆装置には、|液体が使われているかもしれない。|大きく動かすと爆発するだろう。=The bottom case.\vThere’s something odd about the way its center of gravity keeps shifting.\vA liquid may have been used for the detonator.|If moved suddenly, it will explode.
-下側のケースだ。\vカバーが外され、|シリンダーを固定する部分だけ|残っている。=The bottom case.\vNow that the lid has been removed, only the piece securing the cylinder remains.
+下側のケースだ。\vスライド式で開けられそうだが、|今は少ししか動かない。=The lower case.\vIt looks like the lid should slide off,|but it won’t budge.
+下側のケースだ。\v爆薬からの@fRコード@fWが繋がっている。\v中に起爆装置があるらしい。=The lower case.\vThere are @fRwires@fW feeding into it from the explosive.\vThe detonator must be inside.
+下側のケースだ。\v重心の移動に違和感がある。\v起爆装置には、|液体が使われているかもしれない。|大きく動かすと爆発するだろう。=The lower case.\vThere’s something odd about the way its center of gravity keeps shifting.\vA liquid may have been used for|the detonator.|If moved suddenly, it will explode.
+下側のケースだ。\vカバーが外され、|シリンダーを固定する部分だけ|残っている。=The lower case.\vNow that the lid has been removed, only the piece securing the cylinder remains.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file015.bin
 ネジが緩んだ。=The screws have been loosened.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file017.bin
@@ -4129,7 +4129,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 何かのボタンだ。\v解除ボタンのようにも見えるが、|これ自体がトラップかもしれない。=Some kind of button.\vIt looks like a release button,|but could very well be a trap.
 ボタンを叩いた。\vスイッチが入ってしまった！=Hit the button.\vThe switch turned on!
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file019.bin
-下のケースとシリンダーを|固定している@fRハリガネ@fWだ。=The @fRmetal wire@fW securing the lower case and cylinder.
+下のケースとシリンダーを|固定している@fRハリガネ@fWだ。=@fRMetal wire@fW secures the lower case and cylinder.
 複雑に絡みついていますね。\t|@fR切断@fWしてしまった方が|楽に外す事ができそうです。\v強引に外すと起爆装置が|作動してしまうと思いますので、|気をつけてください。=That is extremely tangled.\t|@fRCutting@fW it should make it easier to remove.\vIf you try to pull it out by force, I expect it will trigger the detonator, so do be careful.
 シリンダーと下のケースを固定している|ハリガネを切断した。=Removed the metal wire securing the lower case and cylinder.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file020.bin
