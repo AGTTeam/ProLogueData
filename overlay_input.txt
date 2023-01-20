@@ -109,17 +109,17 @@
 エレベーターホール=Elevator Hall
 小トラップ17=Small Trap 17
 隠トラップ２=Hidden Trap 2
-大トラップ７=Large Trap 7
-大トラップ10=Large Trap 10
-大トラップ９=Large Trap 9
-大トラップ８=Large Trap 8
+大トラップ７=Big Trap 7
+大トラップ10=Big Trap 10
+大トラップ９=Big Trap 9
+大トラップ８=Big Trap 8
 隠トラップ３=Hidden Trap 3
-大トラップ６=Large Trap 6
-大トラップ５=Large Trap 5
-大トラップ４=Large Trap 4
-大トラップ３=Large Trap 3
-大トラップ２=Large Trap 2
-大トラップ１=Large Trap 1
+大トラップ６=Big Trap 6
+大トラップ５=Big Trap 5
+大トラップ４=Big Trap 4
+大トラップ３=Big Trap 3
+大トラップ２=Big Trap 2
+大トラップ１=Big Trap 1
 小トラップ19=Small Trap 19
 小トラップ18=Small Trap 18
 隠トラップ１=Hidden Trap 1
@@ -645,12 +645,12 @@
 男=M
 女=F
 ライフ=Stamina
-捜査レベル　　%d　=Level　　%d
-捜査経験値　　%d　=EXP　　  %d
-現在地　　　　%s=Location　　　%s
-残り時間　　　−−：−−=Time Left　　−−：−−
+捜査レベル　　%d　=Level　　　　　 %d
+捜査経験値　　%d　=EXP　　　　　　%d
+現在地　　　　%s=Location　　　　%s
+残り時間　　　−−：−−=Time Left　　　  −−：−−
 ？？？？　　　？？？？？=
-残り時間　　　%d:%02d　=Time Left　　%d:%02d
+残り時間　　　%d:%02d　=Time Left　{　　%d:%02d
 
 !FILE:overlay_0012_dec.bin
 アルバム=Album
