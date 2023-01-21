@@ -415,7 +415,8 @@ dat_trap_etc.bin\file025_PACK2\file001.png
 フタを外せ
 起爆装置を外せ
 
-dat_trap_etc.bin\file026_PACK2\file001.png　(dupe)
+dat_trap_etc.bin\file026_PACK2\file001.png
+カバーを外せ
 カバーを外せ
 ケースを外せ
 フタを外せ

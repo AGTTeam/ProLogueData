@@ -486,10 +486,10 @@
 成功確率 : %3d%=Chance of Success: %3d%
 
 !FILE:overlay_0003_dec.bin#dupes with bin_input
-検討中=Under Investigation
+検討中=Placeholder
 ブラフ=Bluff
 ＣＬＮ=CLN
-未確定=
+未確定=Undefined
 米軍介入=U.S. Military Intervention
 狭い通路=Narrow Corridors
 他の乗船者=Other Passengers
@@ -507,9 +507,9 @@
 アロイス基金=The Alois Foundation
 窓のない部屋=Windowless Rooms
 ＣＬＮの株主=CLN Shareholders
-エレベーター？=
+エレベーター？=Elevator#debug only
 ベーブ・ルース=Babe Ruth
-壁の日焼け跡？=
+壁の日焼け跡？=Sun-Damaged Wall#debug only
 高価なトラップ=Expensive Traps
 ホテル風な室内=Hotel Room
 意図的な落し物=Convenient Tools
@@ -530,7 +530,7 @@
 クリエラの地震報道=News on Earthquakes
 殺傷能力の低い爆薬=Nonlethal Explosives
 誘拐された難民たち=Kidnapped Refugees
-６階の壁の日焼け跡=
+６階の壁の日焼け跡=6th Floor Damaged Walls#debug only
 ジェフリー・ミラー=Jeffery Miller
 トラップの分析結果=Analysis of Traps
 風景からの位置特定=Landscape Location
@@ -541,7 +541,7 @@
 〝右利き〟のトラップ=Right-handed Trap
 ハウスキーパーの目的=Housekeeper’s Goal
 小トラップの制限時間=Time Limit of Small Traps
-ハウスキーパーの報酬=
+ハウスキーパーの報酬=Housekeeper’s Pay#debug only
 ハウスキーパーの性格=Housekeeper’s Personality
 爆弾魔ハウスキーパー=The Bomber
 環境を利用したトラップ=Inventive Traps
@@ -564,7 +564,7 @@
 ２０代前半から３０代後半くらいの|健康な男性が多かった。=Most men in their early 20s to late 30s are generally healthy.
 トラップに遠隔スイッチがあるかどうか|Ｊは明言を避けた。=J didn’t answer if the traps have a remote switch.
 ハウスキーパーはかなりの|ベースボールファンだと思われる。=The Housekeeper appears to be a big baseball fan.
-ハウスキーパーの起用では、高額の|報酬が用意されたとみられる。=
+ハウスキーパーの起用では、高額の|報酬が用意されたとみられる。=Hiring the Housekeeper would surely come at a high cost.#debug only
 大型客船なら潜伏は容易であり、|出入りの自由は封じられている。=It would be easy for someone to hide on such a large cruise ship, and all the exits are sealed.
 各国の気象台や専門機関でも|クリエラでの地震は観測されていない。=No earthquakes have been observed in Criella by any weather stations or specialized agencies.
 トラップを解除すれば行動は自由。|大半の部屋のカギはかかっていない。=Once the traps are released, there are no restrictions on movement. Most of the rooms are unlocked.
@@ -580,9 +580,9 @@
 よほど目立つランドマークがなければ|周囲の風景から現在地を特定するのは|容易ではない。=It wouldn’t be easy to identify a location from the surrounding landscape unless there were any prominent landmarks.
 その場にあるものを有効活用する。|爆弾の配線の色使いに法則性がない。|構造にクセがない。=The traps take advantage of whatever is around. There’s no system for the color of the wires, and no obvious quirks.
 誘拐された人質はＦＢＩの捜査官。|各種訓練をされており、人質としては|極めて扱いにくい。=An FBI agent has training and makes for a difficult hostage.
-壁には１ｍｘ１ｍほどの日焼け跡が|残されている。小窓から入った陽光で|色あせたと思われる。=
-トラップの仕掛けは単純だが出来は良く|爆発物が仕掛けられている。|素人が作れる代物ではない。=The mechanism for the traps are simple, but well-implemented. They’re even equipped with explosives. It is not something that an amateur could make.
-最新型のデジタルキー。|ホテル跡を犯罪の舞台にしているが、|トラップの装置は決して古くない。=The hotel is old, but the equipment for this trap is state-of-the-art.
+壁には１ｍｘ１ｍほどの日焼け跡が|残されている。小窓から入った陽光で|色あせたと思われる。=There was a 1m x 1m mark on the wall. It is believed to have been caused by sunlight entering through a small window.#debug only
+トラップの仕掛けは単純だが出来は良く|爆発物が仕掛けられている。|素人が作れる代物ではない。=The mechanisms for the traps are simple, but well-implemented. They’re even equipped with explosives. It’s not something that an amateur could make.
+最新型のデジタルキー。|ホテル跡を犯罪の舞台にしているが、|トラップの装置は決して古くない。=The hotel is old, but the equipment for this trap was state-of-the-art.
 米国のＩＴ企業リブート社が３年前に|中古で購入したが、わずか半年後には|廃船処分されている。=It was purchased by the North American IT company Reboot three years ago, and scrapped a mere six months later.
 プライドが高く、負けず嫌い。|Ｌの関与する今回の事件以外では|仕事の成功率は１００％だった。=The Housekeeper is prideful and hates to lose. Before meeting L, he had a 100% success rate.
 紛争で家族を失った子供たちのために|リブート社が設立した援助基金。|発案・代表はアロイス会長。=An aid fund set up by Reboot Inc. to support children who have lost their families because of war. Conceived and headed by Chairman Alois.
@@ -603,7 +603,7 @@
 大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
 一連のトラップの製作者である爆弾魔。|３日前、<name>が誘拐された際にも|同様のトラップが仕掛けられていた。=The Housekeeper is responsible for a series of traps. A similar trap was set three days ago when <name> was abducted.
 トラップボックスは『ホテル』ではなく|『大型客船』だった。搭載された爆弾が|爆発しても周囲への被害は少ない。=The trap box is not a “hotel” but a “large cruise ship”. Even if the bombs on board exploded, there would be little damage to the surrounding area.
-３階の日焼け跡と同じ形。|日焼けの具合から逆算すると、|窓からの日光の入射角が同じになる。|本来はありえない。=
+３階の日焼け跡と同じ形。|日焼けの具合から逆算すると、|窓からの日光の入射角が同じになる。|本来はありえない。=The marks were the same as the third floor, right down to the angle. Something doesn’t add up.#debug only
 リブート社の会長。ビジネス至上主義で|野心家。投資ファンド『シュウエイ』を|経由して複数の企業を所有している。=The Chairman of Reboot Inc. Business-minded and ambitious. He owns several companies via the investment fund “Shuei”.
 今回のトラップは、裕福な依頼人の|手によってすべて考案、準備された。|ハウスキーパーはアドバイザーに|過ぎない。=These traps were conceived and prepared by a wealthy client. The Housekeeper is merely an adviser.
 Ｊは、組織を壊滅させたＦＢＩとＬへの|復讐のためにこの〝ゲーム〟を仕組んだ。|だが、その割にはやり方が生ぬるい。=J devised this ‘game’ as revenge against the FBI and L for destroying his organization. But his methods are too lenient.
@@ -617,7 +617,7 @@
 アメリカ・メジャーリーグの伝説の|ホームランバッター。背番号３。|通産本塁打７１４本。左投げ左打ち。|ニックネームはバンビーノ。=A legendary home run hitter in US Major League Baseball. Had 714 home runs in all. Throws left-handed and bats left-handed. Nicknamed ‘the Bambino’.
 ＦＢＩ捜査官を誘拐した際、このホテル、|およびクリエラ国内で使用された|トラップはすべてハウスキーパーの|製造したものだと断定。=The results show that both the traps used in the hotel and the ones found in Criella were manufactured by the Housekeeper.
 ハウスキーパーは、自分の手で|難しいトラップを仕掛けておきながら、|まるで時間内に解いて欲しいといわん|ばかりの話しぶりをしている。=The Housekeeper set difficult traps, but he’s talking like he wants them to be solved in the time limit.
-ヒジカタ社製ＳＹＧ型。|２０年前まで世界中で販売されていた|定番の品で、使用ホテルの特定は困難。|３階になって初めて存在が確認された。=
+ヒジカタ社製ＳＹＧ型。|２０年前まで世界中で販売されていた|定番の品で、使用ホテルの特定は困難。|３階になって初めて存在が確認された。=A Hijikata SYG. It is a standard make that used to be very common all over the world, making it hard to pinpoint it to the hotel.#debug only
 イギリス出身のフリーの爆弾犯。|政治的思想はなく、仕事は金次第。|フォークランド紛争時、英国軍基地内で|最初の犯行を遂行。当時１３歳。=A freelance bomber from the UK. He’ll take on any job if the pay is good. Carried out his first attack on a British military base during the Falklands conflict. He was thirteen years old at the time.
 %s=
 ？？？？？=
@@ -634,8 +634,8 @@
 ゲームオーバーへ=Game Over Screen
 シナリオ=Scene
 と接続し、スクリプトを読み込みます=and load script
-苗字=Surname
-名前=First Name
+苗字=Name
+名前=Name
 シナリオ %s=Scene %s
 
 !FILE:overlay_0011_dec.bin
