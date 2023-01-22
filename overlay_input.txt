@@ -793,7 +793,7 @@
 レモンキャンディ=Lemon Lollipop
 プレーンドーナツ=Plain Doughnut
 メロンキャンディ=Melon Lollipop
-２色チェック‐緑=Check Pattern – Green
+２色チェック‐緑=Check Pattern - Green
 深読みし過ぎか。=Am I reading too much into it...?
 ソーダキャンディ=Soda Lollipop
 ２色チェック‐黄=Check Pattern - Yellow
@@ -807,8 +807,8 @@
 チョコレートアイス=Chocolate Ice Cream
 ゼリービーンズ‐青=Jelly Beans - Blue
 ゼリービーンズ‐赤=Jelly Beans - Pink
-ヘキサパターン‐赤=Hexagonal Pattern – Red#Orange?
-ヘキサパターン‐緑=Hexagonal Pattern – Green
+ヘキサパターン‐赤=Hexagonal Pattern - Red#Orange?
+ヘキサパターン‐緑=Hexagonal Pattern - Green
 パンダの、これは…=A panda...
 オレンジキャンディ=Orange Lollipop
 彼等も、どこかで…=Somewhere, they must also be...
@@ -876,7 +876,7 @@
 横櫛目テクスチャ壁紙‐黄=Corrugated Cardboard - Yellow
 キウイのクレープですか。=A crepe with kiwis?
 チョコですか。なるほど。=Chocolate? I see.
-が、|追加されました。=|added.
+が、|追加されました。= added.
 横櫛目テクスチャ壁紙‐赤=Corrugated Cardboard - Pink
 ……しっかり結びました。=...It really held together.#qc
 春の和菓子の代表ですね。=It’s a staple of springtime snacks in Japan.
@@ -890,7 +890,7 @@
 直線的デザインの飾り枠‐青=Linear Border - Blue
 頭がしびれるまで考えるか。=Did you think until your mind went blank?
 先丸横棒グラデーション‐赤=Round Bars – Red
-先丸横棒グラデーション‐黄=Round Bars – Yellow
+先丸横棒グラデーション‐黄=Round Bars - Yellow
 あ、ソフトクリームですか。=Ah, this is soft serve ice cream?
 先丸横棒グラデーション‐緑=Round Bars – Green
 並べてカリッといきました。=I normally eat the outside first.
@@ -918,7 +918,7 @@
 夜です。|少し口寂しい気分です。=It’s late. I can feel a craving coming on.
 今夜は…|いえ、何でもないです。=Tonight...|No, it's nothing.
 abcdさんは、|夜型みたいですね。=You must be a night owl, abcd.
-スウィーツを|持ってまいります。=I’ll bring some snacks.
+スウィーツを|持ってまいります。=I have brought you some snacks.
 行き詰ったら原点に戻ること、か。=When you get stuck, you should go back to the basics, huh?
 誕生日でもないのに、これですか。=It’s not my birthday, but...
 コーンもサクサクいただきました。=I enjoyed the crunchy cone too.
@@ -1141,7 +1141,7 @@ abcdさんならわかりますね？|私が心の中で強く求める物は、
 普通の角砂糖です。|雑味が少ないので|飲み物の味を変えたくないときに|最適です。|=An ordinary sugar cube. Perfect for when you want to take the edge off a bitter drink.
 ご都合のよい時、|私とテニスをしませんか。|ワタリにコートを予約してもらいます。=When you’re free, how about we play tennis together? I will have Watari reserve a court.
 私には夕方のスウィーツが必要です。|abcdさんはもちろん、|わかってくれてますね。=I can’t function without an evening snack. You understand, don’t you, abcd?
-しゃぶり続けても決して溶けない、|神秘のキャンディの噂は、|都市伝承でしょうか。=Do you think the rumors about the mysterious lollipop that never gets any smaller no matter how much you suck is just an urban legend?
+しゃぶり続けても決して溶けない、|神秘のキャンディの噂は、|都市伝承でしょうか。=Do you think the rumor about the everlasting lollipop is just an urban legend?
 私がこれと違う味を求めてることを、|abcdさんなら本当は、|わかってくれてますね。=abcd, you must know that I was hoping for something else, right?
 ハッピー・メリー・クリスマス！！|聖なる夜をお祝いする、|特製クリスマスケーキ。|=A special cake to celebrate the Holy Night. Merry Christmas!
 abcdさんは知ってますね。|脳のエネルギー源はブドウ糖。|私は常に補給したいのです。=I’m sure you know that brains are powered by glucose. I’m forever trying to recharge it.
@@ -1192,7 +1192,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 捜査中、abcdさんが入手された|<red>レシピ<white>をもとに、私がスウィーツを|調達する手はずになっております。=I will arrange the ingredients for any <red>recipes<white> that you find during your investigation.#L7
 日仏スウィーツのコラボレーション。|生クリームと小倉あんが意外にマッチ。|黒蜜ソースで仕上げました。|=A fusion of French and Japanese cuisine. It turns out that fresh cream and sweetened red bean paste make a surprising match. The molasses sauce on top adds a perfect finishing touch.
 バーベキュー串にいろいろお菓子を|突き刺した、ボリュームの１本。|ダイエット中の方は注意が必要です。|=A barbecue skewer stacked with variety of sweets. Not recommended for those trying to stick to a diet.
-塩漬けの桜の葉が香る、|季節感たっぷりの春のお菓子です。|関東風と関西風がありますが|こちらは関東風。|==A traditional Japanese springtime treat. How it’s made varies between the Kanto and Kansai regions, but this Kansai-style version is made with steamed mochi rice shaped around a ball of red bean paste, finished off with a salt-pickled sakura leaf.
+塩漬けの桜の葉が香る、|季節感たっぷりの春のお菓子です。|関東風と関西風がありますが|こちらは関東風。|=A traditional Japanese springtime treat. This Kansai-style version is made with steamed mochi rice shaped around a ball of red bean paste, finished off with a salt-pickled sakura leaf.
 日本の甘味屋さんの定番スウィーツ。|あんこと黒蜜のあまーい味と、|赤えんどう豆の塩味のバランスが大切。|=A traditional Japanese dessert. The balance between the sweetness of red bean paste and molasses with the saltiness of the boiled peas is one of the key elements.
 アイスクリームとホイップクリーム、|色とりどりの果物を|たっぷり使いました。|見た目も味もパーフェクト。|=A parfait made with ice cream, whipped cream and plenty of colorful fruits. It tastes as good as it looks.
 バニラとチョコレート、|二つの味が両方楽しめます。|２色のコントラストもかわいい|定番のソフトクリーム。|=The joy of both vanilla and chocolate ice cream in just one cone. The contrast between the two colors makes for a unique look.
@@ -1211,7 +1211,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 ？？？=
 ×0=
 ×%d=
-壁紙に追加されました。=added to Wallpapers.
+壁紙に追加されました。=added to wallpapers.
 【%s】が=“%s”
 %4d/%2.2d/%2.2d %2.2d:%2.2d=
 親密度：%4d/%4d|=
