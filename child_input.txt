@@ -32,7 +32,7 @@
 彼等も、どこかで…=Somewhere, they must also be...
 ゼリービーンズ‐青=
 今度、試してみるか。=I’ll have to test that theory next time.
-今のところ７０％か…=I’d say it was about 70% right now...
+今のところ７０％か…=I’d say it was about 70％ right now...
 何か裏がありそうだ。=You seem to have an ulterior motive.
 今夜、もしかすると…=Maybe tonight...
 すっかり夜更けです。=It has gotten very late.
@@ -49,10 +49,10 @@
 夜が明けたら、きっと…=When dawn breaks, surely...
 カンが鈍ったら引退か。=If I start to lose my touch... I guess I’ll retire.
 もうすぐ日が暮れます。=The sun will set soon.
-５０％…|いや３０％か。=50%...|No, 30%.
-１００％スッキリしたい。=I want to feel 100% refreshed.#tc
+５０％…|いや３０％か。=50％...|No, 30％.
+１００％スッキリしたい。=I want to feel 100％ refreshed.#tc
 そういえば…そうだった。=Come to think of it... That’s right.
-が、|追加されました。=}obtained.
+が、|追加されました。=〇obtained.
 スウィーツ…糖分の補給…=Sweets... My sugar fix...
 夜…今日も終わりですか。=Night-time... I guess the day’s already over.
 夜になってしまいました。=The day has gone by so fast.
@@ -94,7 +94,7 @@
 夜更かしは得意ですか？|あ、特に答えなくてもいいです。=Are you a night owl?|Oh, you don’t have to answer if you don’t want.
 食べなきゃ良かった…|とまでは言いませんが、あしからず。=I won’t say “I wish I’d never tried it”, but... please don’t take it personally.
 あなたは早起きが得意ですか？|べつにどうでもいいですが。=Are you a morning person?|Not that it really matters, but...
-じっくりやれば証拠は必ず出る。|それがあらゆる捜査の基本か。=If you take your time, you will always find evidence. Isn’t that the true for all investigations?
+じっくりやれば証拠は必ず出る。|それがあらゆる捜査の基本か。=If you take your time, you will always find evidence. Isn’t that true for all investigations?
 それでは、|電源が切られるまでの間ですが|よろしくお願いします。=Well, until you decide to turn the power off, please enjoy.
 体験版では、そのあたりの機能が|限定されていますので、あしからず。=I’m afraid the trial version’s functions are limited. I hope you understand.#L5
 ピンク色が可愛らしい|ロリポップキャンディ。|女の子に人気のイチゴ味。|=A lollipop with a pretty pink color.|Strawberry flavor is very popular with girls.

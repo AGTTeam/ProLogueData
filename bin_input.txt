@@ -113,7 +113,7 @@
 壁には１ｍｘ１ｍほどの日焼け跡が|残されている。小窓から入った陽光で|色あせたと思われる。=There was a 1m x 1m mark on the wall. It is believed to have been caused by sunlight entering through a small window.#debug only
 米国のＩＴ企業リブート社が３年前に|中古で購入したが、わずか半年後には|廃船処分されている。=It was purchased by the North American IT company Reboot three years ago, and scrapped a mere six months later.
 トラップの仕掛けは単純だが出来は良く|爆発物が仕掛けられている。|素人が作れる代物ではない。=The mechanism for the traps are simple, but well-implemented. They’re even equipped with explosives. It is not something that an amateur could make.
-プライドが高く、負けず嫌い。|Ｌの関与する今回の事件以外では|仕事の成功率は１００％だった。=The Housekeeper is prideful and hates to lose. Before meeting L, he had a 100% success rate.
+プライドが高く、負けず嫌い。|Ｌの関与する今回の事件以外では|仕事の成功率は１００％だった。=The Housekeeper is prideful and hates to lose. Before meeting L, he had a 100％ success rate.
 最新型のデジタルキー。|ホテル跡を犯罪の舞台にしているが、|トラップの装置は決して古くない。=The hotel is old, but the equipment for this trap was state-of-the-art.
 何かが氷漬けにされているようだが|詳細は不明。簡単に溶けそうにない。|破壊も困難だと思われる。=Something is hidden in the ice.|It’s difficult to melt, and can’t be easily broken up either.
 クリエラでは地震は珍しいはずだが、|先ほどの地震に関するニュースは|まったく報道されていない。=Earthquakes aren’t common in Criella, but there has been no news coverage of the recent earthquake.

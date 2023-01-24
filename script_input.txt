@@ -103,7 +103,7 @@
 このフロアで手に入れたアイテムが|あとで再び役に立つ、ということが|あるかもしれません。=It might be possible for an item obtained on this floor to be useful again later on.
 引き続き、よろしくお願いします。=Please keep up the good work.
 残り時間が少なくなってきたら|@fR【再挑戦】@fWするという手もあります。=You always have the option of @fRretrying@fW if you start to run low on time.
-Ｊが『クリエラの月』のメンバーである|可能性は、１％もないでしょう。=The probability of J being a member of Criella Moon is less than 1%.
+Ｊが『クリエラの月』のメンバーである|可能性は、１％もないでしょう。=The probability of J being a member of Criella Moon is less than 1％.
 今まで解除したトラップの特徴を|総合すると、これらは間違いなく|ハウスキーパーの〝作品〟です。=The traps we’ve disarmed so far are undoubtedly the work of the Housekeeper.
 ちょっと、脳に糖分を|補給させてください。=Excuse me, I need to go and refuel my brain with sugar.
 Ｊは、まだ何かを隠している……=J is still hiding something...
@@ -1115,9 +1115,9 @@
 右利き=Right-handed
 左利き=Left-handed
 両利き=Ambidextrous
-右ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re right-handed...\t No, I was just curious.\t By the way, left-handed people only make up for 11% of the total population.
-左ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re left-handed...\t No, I was just curious.\t By the way, left-handed people only make up for 11% of the total population.
-両利きですか…\t珍しいですね。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re ambidextrous?\t That’s quite rare.\t By the way, strictly left-handed only people make up for 11% of the total population.
+右ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re right-handed...\t No, I was just curious.\t By the way, left-handed people only make up for 11％ of the total population.
+左ですか…\tいえ、意味はありません。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re left-handed...\t No, I was just curious.\t By the way, left-handed people only make up for 11％ of the total population.
+両利きですか…\t珍しいですね。\t|ちなみに、左利きの人は全体の１１％|程度らしいですよ。=You’re ambidextrous?\t That’s quite rare.\t By the way, strictly left-handed only people make up for 11％ of the total population.
 !FILE:dat_script_f03.bin/file012_PACK2/file014.bin
 ドアノブが外されている。=The doorknob has been removed.
 ピタリとはまった。=It fits perfectly.
