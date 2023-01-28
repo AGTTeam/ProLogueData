@@ -16,9 +16,9 @@
 ホテル５Ｆ=Hotel 5F
 ホテル６Ｆ=Hotel 6F
 プロムナード=Walkway
-未確定=Undefined
+未確定=null
 ＣＬＮ=CLN
-検討中=Placeholder
+検討中=-
 ブラフ=Bluff
 狭い通路=Narrow Corridors
 米軍介入=U.S. Military Intervention

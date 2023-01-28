@@ -41,7 +41,7 @@
 通路=Passageway
 廊下=Corridor
 花瓶=Vase
-廊下奥=Corridor B
+廊下奥=Corridor-B
 倉庫Ｂ=Cargo Hold B
 一斗缶=Square Can
 Ｖ２奥=Ｖ２ Back
@@ -188,7 +188,7 @@
 プラグＢ=Plug B
 ボンベの栓=Handwheel
 カードキー=Keycard
-六角レンチ=Allen Key
+六角レンチ=Hex Wrench
 特殊レンチ=Unique Wrench
 三色だんご=Tricolor Dango
 ごまだんご=Sesame Dango#Goma Dango
@@ -248,7 +248,7 @@
 暗証番号のメモ=PIN Code Note
 普通の電圧計。=An ordinary voltmeter.
 ５Ｆルームキー=5F Room Key
-アンプル(回復)=Medicinal Vial (Weak)
+アンプル(回復)=Medicine (Weak)
 絶縁テープ=Tape
 ミニバール=Crowbar
 ドライバー=Screwdriv_
@@ -395,7 +395,7 @@
 ４Ｆ階段ホールの鍵だ。|対応した扉を開けることができる。|=The key to the stairwell on the 4th floor.
 プレーンドーナツに|スイートチョコレートをかけました。||||=A plain doughnut smothered in sweet chocolate.
 暗証番号が書かれたメモだ。|どこかに入力できるのだろうか。|=A note with a PIN code.|There must be some place to input it.
-普通の六角レンチだ。|ボルトやナットを締めることができる。|=A hexagonal allen key.|Used to tighten nuts and bolts.
+普通の六角レンチだ。|ボルトやナットを締めることができる。|=A hexagonal wrench.|Used to tighten nuts and bolts.
 ５Ｆの部屋の鍵だ。|対応した全ての扉を|開けることができる。|=The key for the rooms on the 5th floor.
 ６Ｆの部屋の鍵だ。|対応した全ての扉を|開けることができる。|=The key for the rooms on the 6th floor.
 普通のヒューズだ。|どんな機械にもはめることが|できそうだ。|=An ordinary fuse.|Should fit in almost any machine.
@@ -748,9 +748,9 @@
 みたらしだんご=Mitarashi Dango
 私、退屈です。=I’m bored.
 かき氷ですか。=This time it’s shaved ice?
-日本捜査本部１=Investigation Headquarters 1
+日本捜査本部１=Investigation HQ 1
 曲線の模様‐緑=Curved Pattern - Green
-日本捜査本部２=Investigation Headquarters 2
+日本捜査本部２=Investigation HQ 2
 曲線の模様‐赤=Curved Pattern - Red
 真夜中ですね。=It’s the middle of the night.
 ガラスブロック=Glass Tiles
