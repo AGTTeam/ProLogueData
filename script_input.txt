@@ -87,7 +87,7 @@
 誘拐しておいて、拘束も尋問もなし。\t|さらに歩き回るのも自由とは……=A kidnapping, with no kidnappers and no interrogation.\t|You’re even free to roam around...
 トラップ解除のカギは@fR【成功率】@fWです。\t|@fR【実行】@fWボタンを押す前に、できるだけ|成功率を上げるようにしてください。=The key to releasing a trap is the @fRsuccess rate@fW.\vBefore pressing the @fRExecute@fW button, try to increase your success rate as much as possible.
 ともかく、今は先に進んだ方が|よさそうですね……=You should be safe to proceed.
-制限時間は９時間……=The time limit is 9 hours...
+制限時間は９時間……=The time limit is nine hours...
 このフロアの調査が十分だと|判断したら、階段を登って|上の階に向かってください。=Once you feel you’ve searched all there is to see on this floor, use the stairs to head up.
 @fR【データの保存】@fWは|なるべくこまめに行ってください。\t|強制はしませんが。=Try to @fRsave your game@fW often.\t|No one’s forcing you, though.
 これからは、残り時間にも|気をつけて進みましょう。=Be sure to pay attention to the remaining time as you go.
@@ -242,7 +242,7 @@
 推理バトルスキップ？=Skip Deduction Mode?
 !FILE:dat_script.bin/file003_PACK2/file008.bin
 @fR【ブラフ】@fWを手に入れた。=@fR“Bluff”@fW obtained!
-特定の推理バトルで勝利すると、|@fR【ブラフ】@fWが手に入ります。\v推理モードで@fR【ブラフ】@fWを使うと、|相手の心理をゆさぶって、確実に|大ダメージを与えることができます。=You can obtain @fRBluffs@fW from winning certain logic battles.\vUsing a @fRBluff@fW in deduction mode will throw off your opponent and ensure that you can do a lot of damage.
+特定の推理バトルで勝利すると、|@fR【ブラフ】@fWが手に入ります。\v推理モードで@fR【ブラフ】@fWを使うと、|相手の心理をゆさぶって、確実に|大ダメージを与えることができます。=You can obtain @fRBluffs@fW from winning certain logic battles.\vUsing a @fRBluff@fW in Deduction Mode will throw off your opponent and ensure|that you do a lot of damage.
 爆発は９時間後。\t半径１キロは優に|壊滅させられるほどの爆弾です。\v相手は他ならぬあなたですからね。\t|出血大サービスですよ。=The bomb will go off in nine hours.\t It is capable of destroying everything within a one-kilometer radius.\vI’m up against you, after all.\t|I wanted to make sure everything went off with a bang.
 笑えないジョークですね…=I’d thank you to stop with the ‘comedy’.
 爆発前に全トラップを解除して爆破を|止めるか…@n1の安全を優先して|脱出を急ぐかは自由です。=You can try to disarm all the traps and stop the bomb before it explodes...\vOr you could prioritize @n1's safety|and speed up their escape. It’s your choice.
@@ -662,7 +662,7 @@
 このキーがどう役立つかは、|後ほど考えることにしましょう。=We can think about where this key might be used later.
 それにしても…です。\vこれまでの経過を見ている限り、|どうにも妙な感じがしてなりません。\v通信も生きたままですし、トラップが|あるとはいえ自由に動けるとは…\vすべては犯人側の意図したことだと|考える以外、状況の説明がつきません。\vどこかから監視されているはず…|ならば当然、この通話も聞かれている。=Still...\vConsidering how things have progressed so far, I can’t help but think it’s strange.\vWe’re being allowed to communicate, and even though there are traps in place, you’re allowed to move freely...\vThere’s no other explanation for this situation except to assume that all of this was your kidnapper’s intention.\vThey must be monitoring you from somewhere... Which means, these calls are also being listened to.
 ……ですよね？\vそろそろ出てきたらどうですか？=...Well, I’m right, aren’t I?\vIsn’t it time you reveal yourself?
-今後は、調査や移動などを行うと|少しずつ@fR残り時間@fWが減っていきます。\vまた、３０分経過するごとに|トラップの解除方法を|@fR【Ｌに聞ける回数】@fWが増えます。\v残り時間がなくなってきた時は|メニューから@fR【再挑戦】@fWを実行すると|データを引き継いでやり直せます。=From now on, the @fRremaining time@fW will gradually decrease as you investigate and move around.\vHowever, the @fRnumber of times you can ask L for help@fW to disarm a trap will increase every 30 minutes.\vIf your time runs out, you can restart the game by selecting @fR“Retry”@fW from the menu.
+今後は、調査や移動などを行うと|少しずつ@fR残り時間@fWが減っていきます。\vまた、３０分経過するごとに|トラップの解除方法を|@fR【Ｌに聞ける回数】@fWが増えます。\v残り時間がなくなってきた時は|メニューから@fR【再挑戦】@fWを実行すると|データを引き継いでやり直せます。=From now on, the @fRremaining time@fW|will gradually decrease as you|investigate and move around.\vHowever, the @fRnumber of times you can ask L for help@fW to disarm a trap will increase every 30 minutes.\vIf your time runs out, you can restart|the game by selecting @fR“Retry”@fW|from the menu.
 !FILE:dat_script_f01.bin/file001_PACK2/file007.bin
 廊下へ移動します。|よろしいですか？=Move to the corridor?
 !FILE:dat_script_f01.bin/file001_PACK2/file010.bin
@@ -729,7 +729,7 @@
 ホコリくさい=It's covered in filth.
 そうですか。\tいえ、無理に説明されて|先入観を与えられるより、不明なものは|不明だと言ってもらう方が良いです。=That's not helpful. But I suppose it is better for you to be honest than make an unverified guess.#answer1
 照明がないのか、地下なのか…\t|それとも周囲の天気が悪いのか…\t|判断するには情報不足ですね。=Poor lighting could mean you are underground. Or that the weather near you is bad. That won't be enough to go on.#answer2
-あまり清潔な場所ではないということ|でしょうか…\tそれとも…\t|とにかく情報が足りませんね。=So you're somewhere not very clean...\t|No, I'm afraid that won't be enough to go off of.#answer3
+あまり清潔な場所ではないということ|でしょうか…\tそれとも…\t|とにかく情報が足りませんね。=So you're somewhere not very clean...\t|No, I'm afraid that won't be enough to go off.#answer3
 では、ＰＤＡのカメラを使って、|周囲の情報を送ってください。=Alright, use the camera on your PDA so you can send me visuals of your location.
 なるほど…\tどこかの部屋のようですね。\t|では、室内を調べていただきます。\v@fRタッチペン@fWを使って、|気になる場所を調べてみてください。\vベッドやイス、机…\t|どんな小さな事でもかまいません。\t|情報を集めてください。=I see. \tIt would appear you're in some sort of bedroom or apartment. \tOkay, let's take a look around the room.\vUse the @fRstylus@fW to inspect anything that grabs your attention.\vThe bed, the chair, the desk. Even something quite small could provide us with useful information.
 調べられる場所をタッチすると|@fRカーソル@fWが吸い付きます。\v@fRカーソルをもう一度タッチ@fWすると|その場所を調べることができます。=If you tap on something that|can be examined, the @fRcursor@fR will|latch onto it.\vBy @fRtapping the cursor again@fW,|you can inspect that location.
@@ -798,7 +798,7 @@
 古い机だが埃は拭き取られている。=It’s an old desk, but the dust has been wiped off.
 !FILE:dat_script_f01.bin/file007_PACK2/file006.bin
 念のために状況を確認しておいて|ください。=Just to be on the safe side, please confirm the situation.
-@fR【メニュー】@fWボタンが|有効になった。\vアイテムや状況の確認、|セーブなどが可能です。=@fR“Menu"@fW button enabled.\vAmong other things, you can check your items and status and save the game from the menu.
+@fR【メニュー】@fWボタンが|有効になった。\vアイテムや状況の確認、|セーブなどが可能です。=The @fR“Menu"@fW button|has been enabled.\vYou can check your items, your status|and save the game from the menu, among other things.
 !FILE:dat_script_f01.bin/file007_PACK2/file010.bin
 １０１号室=Room 101
 !FILE:dat_script_f01.bin/file007_PACK2/file011.bin
