@@ -92,12 +92,12 @@
 @fR【データの保存】@fWは|なるべくこまめに行ってください。\t|強制はしませんが。=Try to @fRsave your game@fW often.\t|No one’s forcing you, though.
 これからは、残り時間にも|気をつけて進みましょう。=Be sure to pay attention to the remaining time as you go.
 トラップ解除に使えるアイテムは|なるべくたくさん集めてください。=Try to collect as many items as possible in order to disarm traps.
-建物の改装、多数のトラップの設置……\t|目的がなんであれ、舞台装置が|大掛かりすぎる……=To renovate the building and set up all these traps...\t Whatever the purpose, the scale of it seems way off.
-難易度が高いトラップに|レベルの低いアイテムを使うと|壊れやすいようですね。=Using low-level items on tougher traps seems to make them more fragile.
-@fR【捜査レベル】@fWが上がるほど|トラップを解除しやすくなっている|はずです。\tがんばってください。=The higher your @fRDetective Level@fW, the easier it should be to disarm the traps.\t Hang in there.
-確か日本には、|「見てきたような嘘を言い」という|言葉がありましたね……=As I recall, there have a saying in Japan, “tell lies as if it’s the truth”.
-無知を悟られまいとする時、人間は|無意味によく喋るか、もしくは|意味ありげに言葉を濁します。=When people try to hide their ignorance, they either speak meaninglessly or evasively.
-トラップ解除の@fR【目標】@fWがなかなか|見つからない時は、一度調べた箇所を|調べ直してみるといいでしょう。=If you’re struggling to find the @fRobjective@fW of a trap release, try rechecking a spot you’ve already examined.
+建物の改装、多数のトラップの設置……\t|目的がなんであれ、舞台装置が|大掛かりすぎる……=To renovate the building and set up all of these traps...\t Whatever the purpose, the scale of it seems way off.
+難易度が高いトラップに|レベルの低いアイテムを使うと|壊れやすいようですね。=It seems low-level items break more easily when you use them on complex traps.
+@fR【捜査レベル】@fWが上がるほど|トラップを解除しやすくなっている|はずです。\tがんばってください。=The higher your @fRDetective Level@fW, the easier it will be to disarm the traps.\t Hang in there.
+確か日本には、|「見てきたような嘘を言い」という|言葉がありましたね……=As I recall, there is a saying in Japan, “to lie as if you knew the truth”.
+無知を悟られまいとする時、人間は|無意味によく喋るか、もしくは|意味ありげに言葉を濁します。=When people try to hide their ignorance, they either speak meaninglessly or act evasive.
+トラップ解除の@fR【目標】@fWがなかなか|見つからない時は、一度調べた箇所を|調べ直してみるといいでしょう。=If you’re struggling to find the @fRobjective@fW when disarming a trap, try rechecking a spot you’ve already examined.
 では、次のフロアに向かいましょう。\t|調べ残しはありませんか？=Let’s head to the next floor.\t|Have you finished investigating everything you want to here?
 彼もなかなか|往生際が悪いですね……=It seems he’s a sore loser too...
 このフロアで手に入れたアイテムが|あとで再び役に立つ、ということが|あるかもしれません。=It might be possible for an item obtained on this floor to be useful again later on.
@@ -254,10 +254,10 @@
 楽しんでいただけていますか、|私の復讐ゲームを？=Are you enjoying this little revenge game of mine?
 人の命を軽々しく扱うような|悪趣味なゲームを楽しむほど|私はひねくれていませんよ。=I am not so twisted that I’d enjoy a tasteless game which treats human life with such disregard.
 おや？\t　組織が壊滅した時、あなたや|ＦＢＩは、私の仲間たちを何人も殺した|と記憶していますが…=No?\t I seem to recall that when the organization was destroyed, you and the FBI killed a number of my associates...
-ええ、『クリエラの月』の活動は|憎むべき犯罪行為です。\t|ゲームではありませんから…=Yes. The actions of “Criella Moon” were criminal. It wasn’t a game for us.
+ええ、『クリエラの月』の活動は|憎むべき犯罪行為です。\t|ゲームではありませんから…=Yes. The actions of Criella Moon were criminal. It wasn’t a game for us.
 ものは言いようですね。=Whatever lets you sleep at night.
 ……ミスターＪ、\tこれは私の純粋な|好奇心からくる質問なのですが…\v『クリエラの月』は、難民たちを|どうやってアメリカ国内に移送したの|ですか？=...Mister J, this is just personal curiosity, but...\vHow did Criella Moon transport refugees into the United States?
-とっくに調べがついているのでは？=I thought you’d done all your research on us a long time ago.
+とっくに調べがついているのでは？=I thought you’d already done all your research on us.
 その答え合わせをできればと…=If you could please answer the question...
 でしたら、お答えします。\t|陸路です…\tトラックに押し込めて。\vもちろん、難民たちが逃げないよう|私の手下が自動小銃を突きつけて|監視していました。=Alright, I’ll answer.\t|It was overland...\t in trucks.\vOf course, I had armed guards keeping an eye on the refugees so none tried to escape.
 国境では、警備兵を買収してあったので|ノーチェックで通過できましたよ。=The border patrol had been bribed so they’d let us through no questions asked.
@@ -269,12 +269,12 @@
 情報キーワード|@fR【難民の移送方法】@fW|を入手した。=Keyword added:|@fR“Transporting Refugees"@fW
 !FILE:dat_script.bin/file004_PACK2/file007.bin
 @n1さんも災難でしたね。\t|調べたところ、ＦＢＩでの初仕事が|私たちの組織の壊滅作戦だそうで。\vもう数ヶ月、配属が遅れていれば|こんな事件に巻き込まれずに済んだと|言うのに…=I feel for you, @n1.\t According to my research, your hand in the organization’s destruction was your first job with the FBI.\vIf only you had been assigned a few months later, you wouldn’t be here right now...
-@n0さんを誘拐して災難なのは、|あなたの方かもしれませんよ？=Kidnapping @n0, who’s to say it isn’t your luck|that’s run out.
+@n0さんを誘拐して災難なのは、|あなたの方かもしれませんよ？=Kidnapping @n0, who’s to say it isn’t|your luck that’s run out.
 どういうことです？=What do you mean?
 さあ、どういうことでしょう？=Well, I wonder.
 それより、ひとつ質問しても？=More importantly, may I ask a question?
 ……どうぞ。=...Go on.
-『クリエラの月』が「救済」の名目で|移送した難民たちですが、老若男女、|どういった人が多かったのですか？=Of the refugees that Criella Moon moved in the name of “giving relief”, what were they like?\vWere they mostly male or female, young or old?
+『クリエラの月』が「救済」の名目で|移送した難民たちですが、老若男女、|どういった人が多かったのですか？=What were the refugees that Criella Moon moved in the name of “giving relief” like?\vWere they mostly male or female, young or old?
 成人男性…ですね。\t２０代前半から|３０代後半くらいまでの健康な男が|多かったと記憶しています。=It was mostly adult men...\t Healthy men in their early twenties to late thirties.
 なるほど……\tそれは確かですか？=I see...\t Are you certain?
 実際、アメリカで起こった難民たちの|大量殺人の被害者も成人男性がほとんど|だったはずですよ？=The majority of the murdered refugee victims in the United States were adult men, weren’t they?
@@ -284,7 +284,7 @@
 参考になります…=How interesting...
 情報キーワード|@fR【誘拐された難民たち】@fW|を入手した。=Keyword added:|@fR“Kidnapped Refugees"@fW
 !FILE:dat_script.bin/file004_PACK2/file008.bin
-先ほど言ったとおり、復讐ですよ。\t|何か疑問でも？=Like I told you before, it’s revenge.\t|What right do you have to doubt me?
+先ほど言ったとおり、復讐ですよ。\t|何か疑問でも？=Like I told you before, it’s revenge.\t|What reason could you have to doubt me?
 私なら、相手に復讐する場合、|相手が最も嫌がることをします。=If I were trying to get revenge on someone, I’d do whatever would hurt them the most.
 たとえば…私にとって最も嫌なことは|私の指示のミスによって@n0さんが|傷付くことです。=For example... My worst nightmare would be that @n0 got hurt because I made a|mistake.
 そういうことは十分起こりうると|思いますが？=There’s enough chance of that happening, right?
@@ -293,7 +293,7 @@
 どう手ぬるいのですか？=Soft?
 解除成功と見せかけて、何をやっても|爆破するようにしたり…\vあるいは、成功して気が緩んだところで|意図的に爆破させてしまったり…\vいくらでもひどいことはできると|思いますよ？=Disguising a trap so that no matter what you do it’ll blow up...\t or making it intentionally blow up just when you think you’re safe...\vThere are plenty of cruel things you could do.
 そんなこと、どうやったらできると|言うのですか？=And how are you suggesting I do that?
-とぼけなくてもいいですよ。\t|最初からそう設計したり、遠隔装置を|付けたりすれば簡単なことでしょう？=There’s no need to play dumb.\t It would be simple if you’d designed it that way from the start, or used a remote device, right?
+とぼけなくてもいいですよ。\t|最初からそう設計したり、遠隔装置を|付けたりすれば簡単なことでしょう？=There’s no need to play dumb.\t It would be simple if you’d designed it that way from the start or used a remote device, right?
 ちなみに、\tこのトラップに遠隔制御用の|スイッチはありますか？=Speaking of which,\t do you have a remote control switch?
 ……それは企業秘密です。=...That’s a trade secret.
 情報キーワード|@fR【遠隔スイッチ】@fW|を入手した。=Keyword added:|@fR“Remote Switch"@fW
@@ -870,7 +870,7 @@
 !FILE:dat_script_f01.bin/file012_PACK2/file010.bin
 この壁だけ質感が違いますね。\t|……どういうことなのでしょうか？=This wall is different from the others.\t|What purpose could that serve...?
 !FILE:dat_script_f02.bin/file001_PACK2/file006.bin
-上の階があるということですね…\t|やはりここはホテルの跡地のようです。\vしかし、調査はこの階から行った方が|良いでしょう。\t|「急がば回れ」です。=So there are more floors above us...\t|It does appear that this is a hotel after all.\vThough, it makes the most sense to investigate this floor first.\t|“Slow and steady wins the race”, they say.
+上の階があるということですね…\t|やはりここはホテルの跡地のようです。\vしかし、調査はこの階から行った方が|良いでしょう。\t|「急がば回れ」です。=So there are more floors above us...\t|It does appear that this is a hotel after all.\vThough, it makes the most sense to investigate this floor first.\t|“Haste makes waste”, as they say.
 階段ホールを出て２階を探索するには|@fR【部屋から出る】@fWボタンを|押してください。=To leave the stairwell and explore the second floor, press @fR“Exit Room"@fW.
 !FILE:dat_script_f02.bin/file001_PACK2/file010.bin
 待ってください。\t|まずは、このフロアの調査を|して見ませんか？=Hold on.\t|Why don’t you look around this floor first?
@@ -879,8 +879,8 @@
 下の階へ移動します。|@fWよろしいですか？=Move to the lower floor?
 !FILE:dat_script_f02.bin/file003_PACK2/file006.bin
 あのＪという男、どうも普通の犯罪者と|印象が違いますね。\t|こんな言い方も妙なんですが…=That man, J, didn’t appear to be your run- of-the-mill criminal.\t Though, it might sound weird to suggest that such a thing exists.
-内装や構造から見て、|ここが特殊な施設とは思えません…\t|やはり民間のホテル跡ですね…=From the layout and interior, I can’t imagine this place is any kind of special facility.\t|It really is an old private hotel...
-ここは地下…\tいや、違います…\t|ホテルの客室を地下に作るなど|聞いたことないですからね…\vシェルターならありえますが、|それなら扉の素材や作りが違ってくる|はずですし…\vそんなに外の景色を見られたくないと|言うのでしょうか…\vよほど目立つランドマークでもあれば|別ですが、窓からの景色で現在地を|特定するのは楽ではないはずです…=You’re underground...\t No, that’s not it.\t|I’ve never heard of anyone building a hotel underground.\vIt could be a shelter, but if so, the door materials and designs would have been different...\vThey’re that concerned with stopping you from being able to look out?\vBut unless there was a prominent landmark, it wouldn’t be easy for anyone to recognize their location just by looking outside...
+内装や構造から見て、|ここが特殊な施設とは思えません…\t|やはり民間のホテル跡ですね…=From the layout and interior, I can’t imagine that this place is any kind of special facility.\t It really is an old private hotel...
+ここは地下…\tいや、違います…\t|ホテルの客室を地下に作るなど|聞いたことないですからね…\vシェルターならありえますが、|それなら扉の素材や作りが違ってくる|はずですし…\vそんなに外の景色を見られたくないと|言うのでしょうか…\vよほど目立つランドマークでもあれば|別ですが、窓からの景色で現在地を|特定するのは楽ではないはずです…=You’re underground...\t No, that’s not it.\t|I’ve never heard of anyone building a hotel underground.\vIt could be a shelter, but if so, the door designs and materials would have been different...\vThey’re that concerned with stopping you from being able to look out?\vBut unless there was a prominent landmark, it wouldn’t be easy to recognize your location just from the view...
 情報キーワード|@fR【風景からの位置特定】@fW|を入手した。=Keyword added:|@fR“Landscape Location"@fW
 うーん…\t窓がひとつもないというのは|やはり妙ですね…\vホテルの窓をふさぐのは楽ではない|はずですが…=Hmm...\t It’s odd that we still haven’t seen a single window.\vIt can’t be easy to block up all the windows of a hotel...
 情報キーワード|@fR【窓のない部屋】@fW|を入手した。=Keyword added:|@fR“Windowless Rooms"@fW
@@ -974,8 +974,8 @@
 それにしても、一連のトラップの構成は|気になりますね…=Though, the layout of these traps has certainly caught my attention.
 その場にあるものを上手く利用して|最大限の効果を引き出すやり方…\t|かなりのスキルが必要なはずです。=Taking whatever items were just lying around and using them to maximum effect...\t That takes skill.
 情報キーワード|@fR【環境を利用したトラップ】@fW|を入手した。=Keyword added:|@fR“Inventive Traps"@fW
-あからさまに怪しげな雰囲気ですね…=There’s definitely something suspicious here.
-何か出るかもしれません。|注意深く調べてみてください。=There’s no telling what could happen.|Stay on your toes.
+あからさまに怪しげな雰囲気ですね…=There’s definitely something suspicious about this room.
+何か出るかもしれません。|注意深く調べてみてください。=There’s no telling what you’ll find.|Stay on your toes.
 !FILE:dat_script_f02.bin/file010_PACK2/file010.bin
 あまり好ましくない予感がします…|注意してください。=I have a bad feeling about this...|Be careful.
 金庫を調べます。|よろしいですか？=Examine the safe?
@@ -1001,7 +1001,7 @@
 鍵が開いた。=Turned the lock.
 扉が開いた。=The door opened.
 同時に遠くからも鍵の開く音が聞こえた。=Something in the distance made a click.
-今の音を聞きましたか？|\tここ以外にもう１箇所、室内でロックが|解除されたような音がしましたね…\v二重のロックをかけるほどです。|\tこの先には重要なものがあると|考えるべきでしょうね。\vレベルの高いトラップが|仕掛けられているかもしれません。|\t準備をしてから入るのがベターです。=Did you hear that sound just now?|\tIt sounded like something inside also unlocked.\vTo go to the trouble of double-locking it...|\tI think we can assume that there’s something important up ahead.\vWhich means, the chances are that there will some more complex traps too.\t Make sure you’re prepared before going in.
+今の音を聞きましたか？|\tここ以外にもう１箇所、室内でロックが|解除されたような音がしましたね…\v二重のロックをかけるほどです。|\tこの先には重要なものがあると|考えるべきでしょうね。\vレベルの高いトラップが|仕掛けられているかもしれません。|\t準備をしてから入るのがベターです。=Did you hear that sound just now?|\tIt sounded like something inside also unlocked.\vTo go to the trouble of double-locking it...|\tI think we can assume that there’s something important up ahead.\vWhich means, the chances are that there will some more complex traps, too.\t Make sure you’re prepared before going in.
 しかしまだ扉は開かない。=The door still won’t budge.
 !FILE:dat_script_f02.bin/file014_PACK2/file012.bin
 開かない。\v鍵がかけられているようだ。=It won’t budge.\vThe door seems to be locked.
@@ -3122,6 +3122,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file010_PACK2/file011.bin
 外せそうなパーツは|この外装ぐらいでしょうか。\v外装に何かペンキのような物が|付着しています。|\tそちらも調べてみてください。=The only part that can be removed is this outer cover.\vThere is some kind of paint on it.|\tIt might be important.
 さほどしっかり固定されている|わけではありませんね。|\t簡単に外れます。=The cover isn’t being held on by anything special.\t It’ll come off easily.
+外装を外した！=Removed the cover!
 できる事は多くなさそうですね。|\tこのボタンの付いた装置を|外しましょう。=There’s not much you can do here.|\tTry to remove the device with the buttons on it.
 この装置は正しい順番で|ボタンを押すとロックが|解除されるようです。\vそしてその正しい順番とは、|先ほど外した外装についていた|ペンキの順です。=The device should unlock if the buttons are pressed in the correct order.\vOne can only assume that order is the order of the paint on the case you removed earlier.
 フタを開けられそうな気がしますが、|まずはそれを押さえている|ボルトから外しましょう。=You may be able to open the lid, but first we need to remove the bolt that’s keeping it in place.
@@ -3700,16 +3701,18 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file007.bin
 蹴り飛ばす！=Yeet the trap!#qc this might be too comical
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file010.bin
+外装を外した！=Removed the case!
 中には小箱のついた装置があった。=Two small boxes are attached|to the detonator.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file011.bin
 このままではどうしようもありません。\t|まずは外装を外して|中を見てみましょう。=We can’t do anything with the case on.\t|Let’s start by removing that and having a look inside.
 正しいボタンを押せば|ロックが外れます。\t|簡単ですね。=Pressing the right button will release the lock.\t There’s nothing to it.
+外装を外した！=Removed the case!
 起爆装置を外してしまえば、|爆弾を無力化できます。=If you remove the detonator, you can neutralize the bomb.
 小箱の処理がポイントです。\t|そこさえクリアできれば|たいした爆弾ではありません。=The key is to deal with the small boxes.\t|Once they’re off, the rest will be a breeze.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file012.bin
 金属の外装だ。\vボタンが付いている。=A metal case.\vThere are several buttons.
 起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間はこじ開けられている。=The case covering the detonator.\vSomething is caught on the inside,|making it hard to remove.\vA part of it has been pried open.
-起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間に@fRスキマ@fWが見える。=The case covering the detonator.\vSomething is caught on the inside,|making it hard to remove.\vThere is a @fRsmall gap@fW in the case.
+起爆装置を覆っている。\v中で何かが引っかかっていて、|簡単には外せそうにない。\v起爆装置との間に@fRスキマ@fWが見える。=The case covering the detonator.\vSomething is caught on the inside,|making it hard to remove.\vThere is a @fRsmall gap@fW around the edge.
 !FILE:dat_script_trapsmall.bin/file007_PACK2/file013.bin
 何かのボタンだ。 =Some kind of button.
 何かのボタンだ。\vすでに押されている。=Some kind of button.\vIt has already been pushed.
