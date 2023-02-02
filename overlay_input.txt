@@ -818,7 +818,7 @@
 チョコミントアイス=Mint Choc Chip Ice Cream
 いちごミックスソフト=Strawberry & Vanilla Cone
 何か裏がありそうだ。=You seem to have an ulterior motive.
-今のところ７０％か…=I’d say it was about 70％ right now...
+今のところ７０％か…=I’d say it was about 70% right now...
 チョコマーブルアイス=Chocolate Swirl Ice Cream
 すっかり夜更けです。=It has gotten very late.
 チョコクリームシュー=Chocolate Cream Choux Bun
@@ -863,7 +863,7 @@
 今日の予定は…あれか。=The plan for today is... right.
 いろいろ考えなければ。=I have a lot of thinking to do.
 チョコスプレードーナツ=Chocolate Sprinkle Doughnut
-５０％…|いや３０％か。=50％...|No, 30％.
+５０％…|いや３０％か。=50%...|No, 30%.
 横櫛目テクスチャ壁紙‐青=Paper - Blue#tc
 夜…今日も終わりですか。=Night-time... I guess the day’s already over.
 夜になってしまいました。=The day has gone by so fast.
@@ -872,7 +872,7 @@
 そういえば…そうだった。=Come to think of it... That’s right.
 クリスマスケーキですか。=Christmas cake?
 あ…生ハムメロンですか。=Ah... Ham and melon?
-１００％スッキリしたい。=I want to feel 100％ refreshed.#tc
+１００％スッキリしたい。=I want to feel 100% refreshed.#tc
 横櫛目テクスチャ壁紙‐黄=Paper - Yellow
 キウイのクレープですか。=A crepe with kiwis?
 チョコですか。なるほど。=Chocolate? I see.
