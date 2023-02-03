@@ -1,0 +1,52 @@
+name: Build
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Checkout tool
+        uses: actions/checkout@v3
+        with:
+          repository: Illidanz/ProLogueTranslation
+          token: ${{ secrets.GH_PAT }}
+      - name: Checkout data
+        uses: actions/checkout@v3
+        with:
+          path: ProLogueData
+      - name: Download data
+        uses: Difegue/action-megacmd@master
+        with:
+          args: get ${{ secrets.URL_DATA }} ${GITHUB_WORKSPACE}
+      - name: Download ndstool
+        uses: Difegue/action-megacmd@master
+        with:
+          args: get ${{ secrets.URL_NDSTOOL }} ${GITHUB_WORKSPACE}
+      - name: Download xdelta
+        uses: Difegue/action-megacmd@master
+        with:
+          args: get ${{ secrets.URL_XDELTA }} ${GITHUB_WORKSPACE}
+      - name: Install dependencies
+        run: pipenv sync
+      - name: Extract
+        run: python tool.py extract
+      - name: Repack
+        run: python tool.py --log repack
+      - name: Upload log
+        uses: actions/upload-artifact@v3
+        with:
+          name: tool.log
+          path: tool.log
+      - name: Upload patch
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch.xdelta
+          path: patch.xdelta
