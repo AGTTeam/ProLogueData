@@ -40,11 +40,11 @@
 ここを抜けるために、私たちが必ず|破壊しなくてはならない壁なのです。@=Walls that we must destroy to solve this case.@
 そ、それが…ど、どうした…！=T-That’s...!?
 集まった難民たちは『クリエラの月』を|難民支援団体だと思っていたはずです。=The refugees would have believed that Criella Moon was a support group.
-安全な国へ避難すると説明するだけで、|あなたの言うことを聞いたはずです。|銃で脅す必要などなかったのでは？@=They would have followed orders if they were told they were being evacuated. There was no need for guns, was there?@
+安全な国へ避難すると説明するだけで、|あなたの言うことを聞いたはずです。|銃で脅す必要などなかったのでは？@=They would have followed orders if they were told they were being evacuated.|There was no need for guns, was there?@
 う、上からの指示だったのですよ…=I-It was an order from the top.
 ＮＰＯとしての活動を偽装するなら、|力も強くなく扱いやすい子供や|若い女性を「救済」すべきでしょう。=If you were going to disguise yourself as an NPO, you would “rescue” children and women who are weaker and easier to handle.
 実際に『クリエラの月』は多くの子供や|女性を誘拐しています…でも、あなたは|成人男性が多かったと言いました。=And in fact, most of the people kidnapped by Criella Moon were. But you suggested that it was mainly adult males.
-それは、あなたが「アメリカで殺された|難民たちの多くが成人男性である」と|いうニュースを見たからです。@=That’s because you saw on the news that “many of the refugees killed in the United States were adult men.”, right?@
+それは、あなたが「アメリカで殺された|難民たちの多くが成人男性である」と|いうニュースを見たからです。@=That’s because you saw on the news that “many of the refugees killed in the United States were adult men”, right?@
 ち、違う…そんなことは…=N-No, that’s not...
 ＦＢＩ情報では、『クリエラの月』には|このような手口を使うトラップ職人は|存在しないはずです。@=
 手口も何も、氷を入れるのに冷凍庫を|使うなという方が無理がありませんか？|そこにあれば誰でも使いますよ。=
@@ -53,15 +53,15 @@
 逆説的に考えて…外には組織をにおわす|ランドマーク的なものが何もないのでは|ありませんか？=If I put it conversely... Isn’t there anything outside which would give away the organization?
 位置を特定されることではなく、|組織と無縁だと言うことを私たちに|知られたくないのでしょう？@=It’s not that you don’t want us to know the location, but that we’d discover you’re not part of the organization, right?@
 その説明が、私が組織の一員でないと|いう根拠になりえますか？=That’s hardly enough ground to go basing such a theory on.
-私たちを混乱させ、焦らせたいのなら、|「ある」と言うべきでした、だが…|あなたは答えをあいまいにした。=If you wanted to confuse and panic us, you should have said you had one. But you left the answer ambiguous...
-その理由はただひとつ。|あなたは「知らない」のです。|@犯人のあなたが…=There’s only one reason why that could be. You “don’t know”.|@You, the one behind it all..
-そ、そんなランチボックスの隅を|突くような揚げ足取りをされましても、|答えようが…ありませんよ…=E-Even if you nit-pick and complain about it, I... can’t answer that...
+私たちを混乱させ、焦らせたいのなら、|「ある」と言うべきでした、だが…|あなたは答えをあいまいにした。=If you wanted to confuse and panic us, you should have said you had a remote switch. But you left the answer ambiguous...
+その理由はただひとつ。|あなたは「知らない」のです。|@犯人のあなたが…=There’s only one reason why that could be. You ‘don’t know’.|@You, the one “behind it all”...
+そ、そんなランチボックスの隅を|突くような揚げ足取りをされましても、|答えようが…ありませんよ…=E-Even if you nit-pick on a tiny detail like that, I... can’t answer...
 これだけの設備やトラップを用意する|には、相当の資金が必要なはずです。=Setting up all this equipment and these traps must have cost a pretty penny.
 壊滅して間もない組織に、果たして|そのような余力があるでしょうか？@=Would an organization that had just been destroyed really have that kind of money going spare?@
 …ひ、秘密の口座に、相当額の資産が|残っているのですよ…=T-There was a considerable amount reserved in a secret account...
 『クリエラの月』は、闇ブローカーと|しては名の知れた犯罪組織でしたが、|テロリストではありません。=Criella Moon was well-known as a criminal brokerage organization, but not as terrorists.
-防衛としての戦闘を行うことはあっても|自ら罠を仕掛けたり、攻撃をしたりする|ことはなかったはずです。@=They may have engaged in combat as defense, but they did not set traps or launch attacks of their own.@
-ボ…ボスはＦＢＩに射殺されたのです。|やり方が変わっても、おかしくはないと|思いますが…=O-Our boss was killed by the FBI. It’s not unnatural for the way we operate change...
+防衛としての戦闘を行うことはあっても|自ら罠を仕掛けたり、攻撃をしたりする|ことはなかったはずです。@=They may have set traps and engaged in combat as defense, but they did not launch attacks of their own.@
+ボ…ボスはＦＢＩに射殺されたのです。|やり方が変わっても、おかしくはないと|思いますが…=O-Our boss was killed by the FBI. It’s not unnatural for the way we operate to change...
 これら一連のトラップは紛れもなく|ハウスキーパーの作品です。=These traps are unmistakably the work of the Housekeeper.
 Ｊ、あなたが模倣した可能\性も考えては|みましたが、わざわざマネする必要など|ありません。雇えばいいのですから。@=I did consider the possibility that you imitated him, but there would be no point. It’s much easier just to hire him.@
 それで…私を追い詰められますか？=So... You think you have me trapped?
@@ -302,7 +302,7 @@
 ああ、ベーブ・ルースのように打ち、|ベーブ・ルースのように投げた。|それがどうした？=Yeah. I hit like him, pitched like him... What of it?
 あなたはベーブ・ルース２世と|おじいさんに呼ばれたんですよね？@=You said your grandfather used to call you Babe Ruth II?@
 ああ、だから何だ？|さっさとスイッチを選べ！=Yeah, so what?|Hurry up and pick a switch!
-Ｊ、ひとつ聞かせていただけませんか？|あなたの組織が扱う武器の中で、現在|最も売れ筋の「商品」は何ですか？@=I’m curious, J. What is the current best-selling “product” in your organization’s line-up?@
+Ｊ、ひとつ聞かせていただけませんか？|あなたの組織が扱う武器の中で、現在|最も売れ筋の「商品」は何ですか？@=I’m curious, J. What is the current best- selling “product” in your organization’s line-up?@
 も、最も売れている武器？|そ、それは…=The best-selling weapon?|W-Well, that’s...
 あなたがハウスキーパーではないことは|笑えるほど簡単に証明できるのです。|いえ、証明するまでもありません。=It would be ridiculously easy to prove that you’re not the Housekeeper. In fact, it’s not even worth bothering.
 なぜなら、百戦錬磨の爆弾犯、|ハウスキーパーというのは…|男ではなく女なのです。@=After all, the Housekeeper is... a woman.@
@@ -397,7 +397,7 @@
 この借りはお返しします、|必ず……=I will get you for this, I promise...
 !FILE:dat_word_battle.bin/LUA_BTL_SETTING.lua
 今までの調査で得られた情報をもとに|犯人の真の目的を推理せよ！=Use the information you’ve gathered so far to identify the kidnapper’s aim!
-Ｊが『クリエラの月』の残党では|ないことを証明せよ！=Prove that J is not a remnant of Criella Moon!
+Ｊが『クリエラの月』の残党では|ないことを証明せよ！=Prove that J is not a remnant|of Criella Moon!
 Ｊがハウスキーパーではないことを|証明せよ！=Prove that J is not the Housekeeper!
 ハウスキーパーの嘘を暴\け！=Expose the Housekeeper's lies!
 ここがホテルではないことを|証明せよ！=Prove that it isn’t a hotel!
@@ -435,7 +435,7 @@
 答える必要がありますか？=Do you want me to answer that?
 ふっ…=Hmph...
 Ｊの言う通り、この仮説は突飛すぎる。|だが、私の勘はこの仮説が『正しい』と|告げている…=Like J said, to jump to this conclusion is a bit of a stretch. But my gut is telling me it’s true.#floor2
-これまでに判明した情報とＪの発言…|どこかに歪みがあるはずだ…|それを見破ることができれば…=Everything we’ve learned so far, and what J’s said... There must be an inconsistency somewhere. If we could just identify that...
+これまでに判明した情報とＪの発言…|どこかに歪みがあるはずだ…|それを見破ることができれば…=Everything we’ve learned so far, and what J’s said... There must be an inconsistency somewhere. If I could just identify that...
 壊滅したばかりの組織が、復讐のために|大金を投入してホテル跡を利用した|トラップを作りますか？=Would an organization that had just been destroyed invest a lot of money to set a trap in a hotel for the sake of revenge?
 『人道支援団体』として難民を信用させ|集めておきながら、わざわざ銃で脅して|移送させる必要がありますか？=Why pose as a humanitarian group to earn the trust of the refugees, and then threaten them at gunpoint?
 隠れ蓑として使うのに最適な、女性や|子供を無視するための、納得がいく|理由をここで説明できますか？=Can you provide a compelling explanation why you’d ignore women and children when they’re the best option to use as a cover?
@@ -750,7 +750,7 @@
 復讐を企む犯罪組織の一員にしては、|Ｊの態度はあまりにも紳士的だ…|本当に復讐する気があるのか？=For a member of a criminal organization bent on revenge, J’s been all too chivalrous...|Is revenge really his goal?
 遠隔スイッチの有無に関係なく、|「ある」と言えば私たちにはかなりの|プレッシャーになるはずだが…=Whether or not such a switch really exists, telling us it did would put us under a lot of pressure...
 周囲がひと目でわかるような場所…仮に|観光地だとするならば、このような古い|ホテルを放置しておくだろうか…=Somewhere you could recognize at first glance... If it were a famous site, they would never leave such an old hotel unattended...
-元から窓のないホテルなどありえない。|窓をコンクリートで埋めるとなれば|かなりのコストがかかるはずだ…=You wouldn’t build a hotel without windows to start with. And, trying to fill them in concrete would cost quite a bit...
+元から窓のないホテルなどありえない。|窓をコンクリートで埋めるとなれば|かなりのコストがかかるはずだ…=You wouldn’t build a hotel without windows|to start with. And, trying to fill them in concrete would cost quite a bit...
 この手口には見覚えがある。|だが、『クリエラの月』関連事件では|一度も使われていないはずだ…=I’ve seen this technique used before. But I don’t remember it ever coming up in any cases where Criella Moon were involved...
 Ｊがハウスキーパーの手口を真似した|可能\性は…？　いや、ハウスキーパーに|罪を押し付ける必要などない…=Could J have imitated the Housekeeper’s technique...? No, there’d be no need to try and shift the blame.
 これまでの事件に使われたトラップは|利き腕の痕跡はなかったが、今回、|ひとつだけそれがあった…=None of the Housekeeper’s traps in the past have shown evidence of a dominant hand, but this time...

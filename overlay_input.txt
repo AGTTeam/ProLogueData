@@ -391,8 +391,8 @@
 一般的なカードキーだ。|対応した扉を開けることができる。|=A standard keycard.|Can be used to open doors with the same kind of lock.
 何かの装置からはずされたツマミだ。|マークの色が青色だ。|=A dial which must have come from some kind of device.|Has a blue mark on it.
 ゴムでできたリングだ。|厚みがあるため、電気を通さない。|=A ring made of rubber.|It’s thickness makes it a good electrical insulator.
-３Ｆ階段ホールの鍵だ。|対応した扉を開けることができる。|=The key to the stairwell on the 3rd floor.
-４Ｆ階段ホールの鍵だ。|対応した扉を開けることができる。|=The key to the stairwell on the 4th floor.
+３Ｆ階段ホールの鍵だ。|対応した扉を開けることができる。|=The key to the stairwell door on the 3rd floor.
+４Ｆ階段ホールの鍵だ。|対応した扉を開けることができる。|=The key to the stairwell door on the 4th floor.
 プレーンドーナツに|スイートチョコレートをかけました。||||=A plain doughnut smothered in sweet chocolate.
 暗証番号が書かれたメモだ。|どこかに入力できるのだろうか。|=A note with a PIN code.|There must be some place to input it.
 普通の六角レンチだ。|ボルトやナットを締めることができる。|=A hexagonal wrench.|Used to tighten nuts and bolts.
