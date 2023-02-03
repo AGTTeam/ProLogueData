@@ -104,8 +104,8 @@
 引き続き、よろしくお願いします。=Please keep up the good work.
 残り時間が少なくなってきたら|@fR【再挑戦】@fWするという手もあります。=You always have the option of @fRretrying@fW if you start to run low on time.
 Ｊが『クリエラの月』のメンバーである|可能性は、１％もないでしょう。=The probability of J being a member of Criella Moon is less than 1%.
-今まで解除したトラップの特徴を|総合すると、これらは間違いなく|ハウスキーパーの〝作品〟です。=The traps we’ve disarmed so far are undoubtedly the work of the Housekeeper.
-ちょっと、脳に糖分を|補給させてください。=Excuse me, I need to go and refuel my brain with sugar.
+今まで解除したトラップの特徴を|総合すると、これらは間違いなく|ハウスキーパーの〝作品〟です。=The traps we’ve disarmed so far are unmistakably the work of the Housekeeper.
+ちょっと、脳に糖分を|補給させてください。=Excuse me, I just need to refuel my brain with sugar.
 Ｊは、まだ何かを隠している……=J is still hiding something...
 ハウスキーパーの犯罪歴は|かなり昔にさかのぼりますね……=The Housekeeper has a long criminal history.
 『クリエラの月』は、ハウスキーパーを|金で雇っていたのでしょう。=Criella Moon must be paying the Housekeeper.
@@ -301,19 +301,19 @@
 !FILE:dat_script.bin/file004_PACK2/file009.bin
 やりますね、Ｌ。\t|一度ならず二度までも、私のトラップが|破られてしまうとは…=You’re really something, L.\t|I didn’t think you’d see through my traps once, let alone twice.
 本当にあなたのトラップ…ですか？=Are they really your traps?
-何を…言いたいのですか、Ｌ？=...What are you trying to imply?
+何を…言いたいのですか、Ｌ？=...What are you trying to suggest?
 何を言いたいのでしょうね、私は。\t|いえ…自分でも驚いているんです…|突然、そう思えてしまったもので…\vそうですね、\tこう言い換えるのが|最も適切でしょうか…=That’s a good question.\t|I’m even surprising myself here, but... the thought just suddenly came to me.\vYes, maybe this is the best way to phrase it...
 ミスターＪ…\tあなたは本当に|闇ブローカー組織『クリエラの月』の|残党なのですか？=Mister J...\t Are you really a remnant of the criminal organization, Criella Moon?
 おもしろい仮説ですが…ずいぶんと|思い切った思考の飛び方ですよ。\t|説明、していただけるんでしょうね？=That’s an interesting theory, but it’s really quite a leap.\t I’d love to hear your reasoning.
 ええ、もちろんです…=Yes, of course.
 !FILE:dat_script.bin/file004_PACK2/file010.bin
-ＰＤＡの電波の逆探知に成功しました。\t|発信源を動的に変化させているようで|正確な位置はまだ不明ですが…\v中米クリエラ共和国の国内であることは|まちがいありません。=We have been able to trace the PDA’s radio signal.\vHowever, the exact location is still unknown, as the source of the signal seems to be actively changing...\vWhat I can say for certain, is that it is within the Republic of Criella, Central America.
+ＰＤＡの電波の逆探知に成功しました。\t|発信源を動的に変化させているようで|正確な位置はまだ不明ですが…\v中米クリエラ共和国の国内であることは|まちがいありません。=I have been able to trace the PDA’s radio signal.\vHowever, the exact location is still unknown, as the source of the signal seems to be actively changing...\vWhat I can say for certain is that it is within the Republic of Criella, Central America.
 クリエラ…\t内戦中の国で、古いホテルが|放置されているなどということは|ありえない…\v攻撃のポイントとしてどちらかの勢力が|占拠するか、敵に使われないように|破壊してしまうか、どちらかです。=Criella...\t A country in the middle of a civil war, where it’s hard to imagine they’d just leave an old hotel abandoned...\vEither one of the sides would have occupied it to use as a base, or destroyed it so that the enemy couldn’t take advantage.
 これをどう説明すればいい…=So how do you explain this...?
-『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=It was occupied by the remnants of Criella Moon.\t|That fits, doesn’t it?
+『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=It was occupied by the remnants of Criella Moon.\t That fits, doesn’t it?
 無駄話はこのくらいにしましょう。\t|爆発まで残り時間はどれくらいですか？|あまりゆとりはないと思いますよ？=Enough with this talk.\t|How long is there left until things go boom?|I don't think you have time to waste, do you?
 その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=I agree with you on that point.\t|Right now, it’s more important that @n0|and I work together to stop the explosion.\vBy the way Mister J, do you have any women working with you?
-何をわけのわからないことを？\t|せいぜい、がんばってください。\t|では、また…=What in the world are you on about?\t|You’d better stop messing around.\t|Good luck...
+何をわけのわからないことを？\t|せいぜい、がんばってください。\t|では、また…=What in the world are you on about?\t|You’d better stop messing around.\t|I’ll be watching you...
 !FILE:dat_script.bin/file005_PACK2/file006.bin
 Ｌ、無駄話をしているヒマはないと|思いますよ？=Is now really a good time for idle chit-chat, L?
 無駄話…\tそういう見方もありますね。\t|よろしければＪ、あなたは何利きか|教えていただけませんか？=Idle chit-chat?\t I suppose you could see it that way.\t Speaking of which, J, would you mind telling me what your dominant hand is?
@@ -1017,7 +1017,7 @@
 開かない。\v鍵がかかっているようだ。=It won’t budge.\vThe door must be locked.
 …なるほど、間違いありません。\t|わかりました、トラップの製作者が…\vこれは、ハウスキーパーと呼ばれる|爆弾魔の〝作品〟です。\vあなたを誘拐するためのトラップを|仕掛けたのもハウスキーパーです。=...Yes, I get it now.\t The person who made these traps...\vThis is the handiwork of a bomber known as the “Housekeeper”.\vHe’s also the one who set up the trap to kidnap you.
 情報キーワード|@fR【爆弾魔ハウスキーパー】@fW|を入手した。=Keyword added:|@fR“The Bomber"@fW
-…ハウスキーパーについては、情報を|集めておきたいところですね…\vワタリ、\tハウスキーパーの情報収集と|Ｊのプロファイリングをお願いします。=...I need to know more about the Housekeeper.\vWatari,\t gather anything you can find to build a profile on the Housekeeper and J.
+…ハウスキーパーについては、情報を|集めておきたいところですね…\vワタリ、\tハウスキーパーの情報収集と|Ｊのプロファイリングをお願いします。=I need to know more about the Housekeeper.\vWatari,\t gather anything you can find to build a profile on the Housekeeper and J.
 了解しました。\tしばしお待ちを。=Understood.\t Please give me some time.
 大至急でお願いします。=Make it top priority.
 !FILE:dat_script_f03.bin/file003_PACK2/file006.bin
@@ -1045,13 +1045,13 @@
 !FILE:dat_script_f03.bin/file005_PACK2/file006.bin
 お待たせしました。\t|Ｊのプロファイリングが終了しました。\t|すぐにそちらに転送します。=I apologize for the delay.\t|I have completed the profile on J.\t|I will forward it to you right away.
 情報キーワード|@fR【Ｊのプロファイリング結果】@fW|を入手した。=Keyword added:|@fR“J’s Profile”@fW
-…ワタリ、ごくろうさまでした。=...Thank you for your hard work, Watari.
+…ワタリ、ごくろうさまでした。=Thank you for your hard work, Watari.
 英語のネイティブではない…|中々興味深い情報ですね…\vそれに、この声の緊張…=Not a native English speaker...|That’s interesting.\vNot to mention the strain in his voice...
 論理ではなく、心理を揺さぶれば|面白い反応が出るかもしれませんね…=If I pressure him psychologically instead of with facts, there may be some interesting results.
 !FILE:dat_script_f03.bin/file005_PACK2/file010.bin
 古い南京錠だ。=There’s an old padlock.
 !FILE:dat_script_f03.bin/file005_PACK2/file011.bin
-ショーケースだ。\v鍵がかけられており、外すことはできない。=A showcase.\vIt’s locked, and can’t be opened.
+ショーケースだ。\v鍵がかけられており、外すことはできない。=A showcase.\vIt’s locked and can’t be opened.
 !FILE:dat_script_f03.bin/file005_PACK2/file012.bin
 写真だ。\v椅子に座った若い女性が写っている。=A photograph.\vIt shows a young woman sitting in a chair.
 !FILE:dat_script_f03.bin/file005_PACK2/file014.bin
@@ -1099,7 +1099,7 @@
 !FILE:dat_script_f03.bin/file010_PACK2/file011.bin
 Ｌ、\tハウスキーパーに関する資料を|用意しました。\t|今、そちらに転送します。=L,\t I have prepared a list of materials on the Housekeeper.\t|I will forward them to you now.
 情報キーワード|@fR【ハウスキーパーの生い立ち】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s History”@fW
-…ワタリ、ごくろうさまでした。\t|ハウスキーパーは、かなりのベテラン|犯罪者です…気が抜けませんね…=...Thank you, Watari.\t|The Housekeeper is quite the seasoned criminal... We can’t let our guard now...
+…ワタリ、ごくろうさまでした。\t|ハウスキーパーは、かなりのベテラン|犯罪者です…気が抜けませんね…=...Thank you, Watari.\t|The Housekeeper is quite the seasoned criminal... We can’t let our guard down.
 !FILE:dat_script_f03.bin/file011_PACK2/file011.bin
 クッションの下に何かある。=There’s something under the cushion.
 !FILE:dat_script_f03.bin/file011_PACK2/file012.bin
@@ -1109,7 +1109,7 @@
 !FILE:dat_script_f03.bin/file012_PACK2/file010.bin
 ３０３号室=Room 303
 !FILE:dat_script_f03.bin/file012_PACK2/file011.bin
-ハウスキーパーのトラップ、噂どおり|ですね…\vその場にあるものを有効活用する…\t|爆弾の配線の色使いに法則性がない…\t|構造にクセがない…\vその法則性のなさが、このトラップは|ハウスキーパーの作品だと教えてくれて|います…=The Housekeeper’s traps live up to their name...\t They make use of whatever happens to be around.\vThere’s no rules about the coloring of the wires,\t and no particularities in the construction.\vIt’s the lack of consistency which marks it as his work.
+ハウスキーパーのトラップ、噂どおり|ですね…\vその場にあるものを有効活用する…\t|爆弾の配線の色使いに法則性がない…\t|構造にクセがない…\vその法則性のなさが、このトラップは|ハウスキーパーの作品だと教えてくれて|います…=The Housekeeper’s traps live up to their reputation...\t They make use of whatever happens to be around.\vThere’s no rules about the coloring of the wires,\t and no particularities in the construction.\vIt’s the lack of consistency which marks it as his work.
 情報キーワード|@fR【法則性のないトラップ構造】@fW|を入手した。=Keyword added:|@fR“Inconsistent Trap Designs”@fW
 @n0さん…ひとつ質問があります。\t|あなた、利き腕はどちらですか？=@n0... May I ask you a question?\t|Which is your dominant hand?
 右利き=Right-handed
@@ -3797,8 +3797,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ガラスのドームだ。\v赤い液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s red liquid inside.\vThe amount of liquid is slowly decreasing.
 フラスコがさかさまに|取り付けられている。\v中には、赤い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a red liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file019.bin
-フラスコを固定しているネジだ。\v緩められている。=The screws holding the flasks in place.\vThey are loose.
-フラスコを固定している@fRネジ@fWだ。=There are @fRscrews@fW holding the flasks in place.
+フラスコを固定しているネジだ。\v緩められている。=The screws holding the|flasks in place.\vThey are loose.
+フラスコを固定している@fRネジ@fWだ。=There are @fRscrews@fW holding the|flasks in place.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file021.bin
 液晶画面に何かが表示されている。=Something is displayed on the LCD screen.
 これは……\t|左右の数字を合わせるんでしょうね。\t|くだらない仕掛けです。=This is...\t|So you have to match the numbers on the left and the right.\t What a silly trick.
