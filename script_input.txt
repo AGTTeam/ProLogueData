@@ -1124,7 +1124,7 @@
 !FILE:dat_script_f03.bin/file013_PACK2/file012.bin
 入手した部品を組合わせると|スタンガンになった。=Combined the parts into a stun gun.
 !FILE:dat_script_f03.bin/file013_PACK2/file019.bin
-女の子が好きそうな可愛いデザインの|ツートンカラーのクマのぬいぐるみだ。=A two-colored teddy bear with a cute design that girls would love.
+女の子が好きそうな可愛いデザインの|ツートンカラーのクマのぬいぐるみだ。=A two-colored teddy bear with a cute|design that girls would love.
 なぜ、こんなものがあるんでしょうね。\t|でも安全そうなので無視して下さい。=What is this doing here?\t|Well, it doesn’t seem to be a trap, so you can just ignore it.
 !FILE:dat_script_f03.bin/file014_PACK2/file010.bin
 ３０５号室=Room 305
@@ -2356,12 +2356,12 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 青い基板を止めている@fRネジ@fWだ。=The @fRscrews@fW are securing|the blue board.
 ネジを緩めた。=Loosened the screws.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file032.bin
-爆薬だ。=An explosive.
-爆薬だ。\v@fR衝撃@fWを与えると爆発してしまうだろう。=An explosive.\vIt would likely explode on @fRimpact@fW.
-起爆装置も出てきましたし、|そろそろ爆薬の解除を始めましょう。=Now that the detonator has been located, we’re nearly ready to tackle the explosive.
+爆薬だ。=The explosives.
+爆薬だ。\v@fR衝撃@fWを与えると爆発してしまうだろう。=The explosives.\vThey would likely trigger on @fRimpact@fW.
+起爆装置も出てきましたし、|そろそろ爆薬の解除を始めましょう。=Now that the detonator has been located, we’re nearly ready to tackle the explosives.
 今までどおり、|まずはランプの色を|合わせるところからです。=The first step is to match the color of the lights, like before.
-ヘッドが弧を描きながら|爆薬に直撃した。=The head swerved and hit the explosive.#qc not sure if this is actually used.
-爆薬を叩いた。=Hit the explosive.
+ヘッドが弧を描きながら|爆薬に直撃した。=The head swerved and hit the explosives.#qc not sure if this is actually used.
+爆薬を叩いた。=Hit the explosives.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file033.bin
 トラップのケースだ。\v特に珍しい部分はない。=The trap’s case.\vNothing jumps out.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file034.bin
@@ -3016,7 +3016,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 電子基板に足りないパーツならば、|何かの電子部品、でしょうね。=Given that it’s a circuit board, the thing which is missing is likely to be some kind of electronic component.
 ＩＣチップをはめ込んだ。=Fit the IC Chip.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file020.bin
-ネジが締められている。=The screw has been fastened in tight.
+ネジが締められている。=The screw has been|fastened in tight.
 変ですね、このネジ…|まったく回せる気配がありません。\v何かロックのようなものが|かかっているみたいです。=That’s strange...|It doesn’t look like that screw wants to turn at all.\vThere must be something locking it in place.
 基板のロックが解除されて、|このネジを回せるように|なったようです。=Now that the board has been unlocked, it seems this screw can be turned.
 ネジを緩めた。=Loosened the screw.
@@ -3409,9 +3409,13 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 残るは起爆装置ですね。|\tこれを外しましょう。=The detonator is the only thing left.|\tLet’s remove it.
 ３本のコードの中に|正解が１本あります。\vそれを抜く事ができれば、|起爆装置を外せるようになります。=Of the three wires, only one is safe to disconnect.\vIf you can unplug it, you will be able to remove the detonator.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file013.bin
-@fRネジ@fWが締められている。=The @fRscrews@fW have been fastened in tight.
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
+ネジを緩めた。=Loosened the screws.
+ネジが緩んでいる。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file014.bin
-@fRネジ@fWが締められている。=The @fRscrews@fW have been fastened in tight.
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
+ネジを緩めた。=Loosened the screws.
+ネジが緩んでいる。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file015.bin
 ロックの部分に絡んでいる|@fRハリガネ@fWだ。=@fRMetal wire@fW is wrapped|around the locks.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file017.bin
@@ -3429,20 +3433,20 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 カバーを冷やした。=Cooled the cover.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file022.bin
 電極だ。\v強力な@fR電流@fWが流れている。=An electrode.\vA strong @fRcurrent@fW is|flowing through it.
-電極だ。\v強力な電流が流れているが、|絶縁テープを巻いて|安全に触れるようになった。=An electrode.\vA strong current is flowing through it, but the tape has made it safe to touch.
+電極だ。\v強力な電流が流れているが、|絶縁テープを巻いて|安全に触れるようになった。=An electrode.\vA strong current is flowing through it,|but the tape has made it safe to touch.
 電極を外す=Remove the electrodes
 電極を外さない=Don’t remove the electrodes
 かなり強力な@fR電流@fWが|流れていますね。|\t今、電極を外すのは危険です。=That @fRcurrent@fW is no joke.|\tIt’s too dangerous to try and remove the electrodes like this.
 あえて電極を外す=Attempt to remove the electrodes
 感電した！=Received an electric shock!
-電極を外せなかった。=The electrodes have not been removed.
+電極を外せなかった。=Failed to remove the electrodes.
 電極を絶縁した。\v電極を外せるようになった。=Insulated the electrodes.\vThey can now be removed.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file024.bin
 @fR発熱@fWしたコイルだ。=The coil is @fRhot@fW.
 冷やされたコイルだ。=The cooled coil.
 @fR発熱@fWしたコイルだ。\v両端の電極を外したので、|冷やせるようになった。=The coil is @fRhot@fW.\vThe electrodes at both ends|have been removed, so it should be|possible to cool it down.
-@fR発熱@fWしたコイルだ。\v両端の電極によって、|熱を起こしているようだ。=The coil is @fRhot@fW.\vThe electrodes at both ends seem to be causing the heat.
-コイルを冷やした。\v熱すぎて効果が無かった。=The heat was so great that the spray had no effect.
+@fR発熱@fWしたコイルだ。\v両端の電極によって、|熱を起こしているようだ。=The coil is @fRhot@fW.\vThe electrodes at both ends seem|to be causing the heat.
+コイルを冷やした。\v熱すぎて効果が無かった。=The heat was so great that|the spray had no effect.
 送電されている間は|常に加熱していますから、|冷やすのは無理でしょう。=As long as there’s power it will continue to conduct heat, making it impossible to cool down.
 コイルを冷やした。\vコイルが完全に冷えたようだ。=Cooled the coil.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file025.bin
@@ -3455,7 +3459,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file012_PACK2/file026.bin
 金属カバーの下にあるケースだ。=There is a case under the metal cover.
 金属カバーの下にあるケースだ。\vカバーに固定されている。=There is a case under the metal cover.\vIt is secured to the top cover.
-上のカバーを外さなければ|どうにもできませんね。=It seems we won’t be able to do anything here we take the top cover off.
+上のカバーを外さなければ|どうにもできませんね。=It seems we won’t be able to do anything here until we remove the top cover.
 重厚な雰囲気のケースだ。=An imposing case.
 重厚な雰囲気のケースだ。\vコイルが冷やされて、|外せそうになっている。=An imposing case.\vWith the coil cooled, it can now be removed.
 重厚な雰囲気のケースだ。\v@fR発熱@fWしたコイルが邪魔で|簡単に外せそうにない。=An imposing case.\vThe @fRheat@fW from the coil makes removing it difficult.
@@ -3466,7 +3470,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 起爆装置のフタだ。\vロックがかかっていて|このままでは開きそうに無い。=The lid of the detonator.\vIt is locked and can’t be opened.
 起爆装置のフタだ。\vロックはすでに解除されている。=The lid of the detonator.\vIt has already been unlocked.
 フタにメモが書いてある。\v「?5432」「53?14」|「2??5?」「3?5?1」|「XXXXX」=There is writing on the lid.\v「?5432」「53?14」|「2??5?」「3?5?1」|「XXXXX」
-この最後のXにはいる数列が|暗証番号のようですね。=It looks like the numbers which make up the X’s is the password for the lock.
+この最後のXにはいる数列が|暗証番号のようですね。=I would assume the numbers which make up the X’s are the password for the lock.
 縦と横の並びがポイントです。|縦横で数字がかぶらないように|穴を埋めてみてください。=It’s like sudoku; the vertical and horizontal sequences are the key.\vTry to fill the gaps so no number repeats on the same horizontal or vertical line.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file031.bin
 起爆装置の中にあるコードだ。=There are wires inside the detonator.
@@ -3479,9 +3483,9 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 このコードが本物の|解除用のコードだ。=This is the wire to disarm the bomb.
 このコードはダミーだ。\v抜くと爆発するだろう。=This wire is a feint.\vRemoving it will trigger the detonator.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file037.bin
-起爆装置だ。|@fRコード@fWが爆弾と繋がっている。=The detonator.|It is connected to the|explosives by @fRwire@fW.
-フタを開けなければ|解除はできそうにありませんね。=I don’t imagine you’ll be able to disarm it until we can get the lid off.
-起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。=The detonator.\vIt is connected to the explosives by @fRwire@fW.
+起爆装置だ。|@fRコード@fWが爆弾と繋がっている。=The detonator. It is connected|to the explosives by @fRwire@fW.
+フタを開けなければ|解除はできそうにありませんね。=I don’t imagine you’ll be able to disarm it until we get the lid off.
+起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。=The detonator.\vIt is connected to the|explosives by @fRwire@fW.
 起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。\v内部にも３本の@fRコード@fWが見える。=The detonator.\vIt is connected to the explosives by @fRwire@fW.\vThree @fRwires@fW are visible inside.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file038.bin
 台座のようになっていますね。|\t上から順に解除する必要が|あるようです。=It’s supporting the rest of the trap.|\tIt looks like we’ll have to work our way down from the top.
@@ -3770,17 +3774,17 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ヒビをふさぐ！=Seal the cracks!
 大きく深呼吸！=Take a deep breath!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file010.bin
-液体がすごい勢いで|下のパーツへ落ちだした！！=The liquid has started to drip onto the lower parts at great speed!!
+液体がすごい勢いで|下のパーツへ落ちだした！！=The liquid has started to drip onto the|lower parts at great speed!!
 フラスコを外した！=Removed the flasks!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file011.bin
-カバーが邪魔ですので、|外さなくてはいけませんが、|何か仕掛けがありそうですね。\v外すのは準備をしっかりしてから|開始した方が良いでしょう。=The cover is in the way so you could do with removing it, but I expect it’s booby trapped.\vYou should do everything you can first before you try to take it off.
+カバーが邪魔ですので、|外さなくてはいけませんが、|何か仕掛けがありそうですね。\v外すのは準備をしっかりしてから|開始した方が良いでしょう。=The cover is in the way so you could do with removing it, but I expect it’s booby trapped.\vYou should work out as much as you can first before you try to take it off.
 カバーを取る事自体は|非常に簡単です。\vただ、この後が問題ですね。\t|気を抜かずに行きましょう。=Removing the cover itself is easy, but the problem starts after.\vDon’t let your guard down.
 フラスコの中の液体が|すごい勢いで減っています。\t|すばやく外してしまうべきですね。\v数字を合わせて仕掛を解きましょう。=The liquid in the flasks is going down quick.\t You need to take them off as soon as possible.\vMatch the numbers and release the trap.
 上下のボタンで数字を調節すれば|簡単に解除できます。=Just match the numbers using the buttons, and there you have it.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file012.bin
 トラップを覆っているカバーだ。\v中を確認する事ができない。=There’s a cover on the trap.\vIt’s unclear what’s behind it.
-トラップを覆っているカバーだ。\vスキマがこじ開けられている。\vガラスのドーム内の液体が|落ちるスピードを制限しているようだ。=It’s the cover.\vA gap has been pried open.\vIt seems to be limiting the speed at which the liquid in the glass domes is dripping.
-トラップを覆っているカバーだ。\v@fRスキマ@fWはあるが、|中を確認する事ができない。=It’s the cover.\vThere is a @fRsmall gap@fW around the edge, but not enough to see what’s inside.
+トラップを覆っているカバーだ。\vスキマがこじ開けられている。\vガラスのドーム内の液体が|落ちるスピードを制限しているようだ。=The cover conceals the trap.\vA gap has been pried open around the edge.\vIt seems to be limiting the speed at which the liquid in the glass domes is dripping.
+トラップを覆っているカバーだ。\v@fRスキマ@fWはあるが、|中を確認する事ができない。=The cover conceals the trap.\vThere is a @fRsmall gap@fW around the edge, but not enough to see what’s inside.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file013.bin
 カバーを固定しているネジだ。\v緩められている。=The screws holding the cover in place.\vThey are loose.
 カバーを止めていたネジを緩めた。=Loosened the screws.
@@ -3804,13 +3808,13 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 これは……\t|左右の数字を合わせるんでしょうね。\t|くだらない仕掛けです。=This is...\t|So you have to match the numbers on the left and the right.\t What a silly trick.
 左右の数字を合わせると|何かありそうですね。=If you can get the numbers on the left and the right to match up, you should be good.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file041.bin
-ボタンを押した。\v電子パネルの表示が|変化したようだ。=Pushed the button.\vThe display on the electronic panel|seems to have changed.
+ボタンを押した。\v電子パネルの表示が|変化したようだ。=Pushed the button.\vThe display on the electronic panels appears to have changed.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file043.bin
 トラップ本体だ。\vいくつかの数字とボタンがついている。=Some kind of device.\vIt has several numbers and buttons on it.
 トラップに表示されている数字が|解除の鍵ですね。=The numbers on the LCD screens must be the key to releasing the trap.
 何かの装置だ。\vいくつかの数字とボタンがついている。=Some kind of device.\vIt has several numbers and buttons on it.
-ボタンは電子パネルを|操作するための物でしょう。=The buttons must be to control the electronic panel.
-ボタンは電子パネルを|操作するための物でしょうか。=Could the buttons be to control the electronic panel?
+ボタンは電子パネルを|操作するための物でしょう。=The buttons must be to control the electronic panels.
+ボタンは電子パネルを|操作するための物でしょうか。=Could the buttons be to control the electronic panels?
 !FILE:dat_script_trapsmall.bin/file011_PACK2/file007.bin
 走って逃げる！=Run for it!
 その場に伏せる！=Drop to the ground!
