@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: pipenv --python 3.10 sync
       - name: Extract
-        run: pipenv run python tool.py extract
+        run: pipenv run python tool.py extract --rom
       - name: Repack
         run: pipenv run python tool.py --log repack
       - name: Upload log
@@ -53,3 +53,16 @@ jobs:
         with:
           name: patch.xdelta
           path: ProLogueData/patch.xdelta
+      - name: Check patch existence
+        id: check_patch
+        uses: andstor/file-existence-action@v2
+        with:
+          files: "ProLogueData/patch.xdelta"
+      - name: Webhook
+        if: steps.check_files.outputs.files_exists == 'true'
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          username: "AGTTBot"
+          avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
