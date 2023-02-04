@@ -38,9 +38,9 @@ jobs:
       - name: Install dependencies
         run: pipenv --python 3.10 sync
       - name: Extract
-        run: pipenv run tool.py extract
+        run: pipenv run python tool.py extract
       - name: Repack
-        run: pipenv run tool.py --log repack
+        run: pipenv run python tool.py --log repack
       - name: Upload log
         uses: actions/upload-artifact@v3
         with:
