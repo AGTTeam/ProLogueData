@@ -21,17 +21,18 @@ jobs:
         with:
           path: ProLogueData
       - name: Download data
-        uses: Difegue/action-megacmd@master
+        uses: suisei-cn/actions-download-file@v1.3.0
         with:
-          args: get ${{ secrets.URL_DATA }} ${GITHUB_WORKSPACE}
-      - name: Download ndstool
-        uses: Difegue/action-megacmd@master
+          url: get ${{ secrets.URL_DATA }}
+          target: ProLogueData
+      - name: Extract data
+        run: 7z x ProLogueData/dn3.7z
+      - name: Download tools
+        uses: suisei-cn/actions-download-file@v1.3.0
         with:
-          args: get ${{ secrets.URL_NDSTOOL }} ${GITHUB_WORKSPACE}
-      - name: Download xdelta
-        uses: Difegue/action-megacmd@master
-        with:
-          args: get ${{ secrets.URL_XDELTA }} ${GITHUB_WORKSPACE}
+          url: get ${{ secrets.URL_TOOLS }}
+      - name: Extract tools
+        run: 7z x tools.7z
       - name: Install dependencies
         run: pipenv sync
       - name: Extract
