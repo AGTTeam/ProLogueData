@@ -28,7 +28,9 @@ jobs:
           url: ${{ secrets.URL_DATA }}
           target: ProLogueData
       - name: Extract data
-        run: 7z x ProLogueData/dn3.7z
+        run: |
+          cd ProLogueData
+          7z x dn3.7z
       - name: Download tools
         uses: suisei-cn/actions-download-file@v1.3.0
         with:
@@ -50,4 +52,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: patch.xdelta
-          path: patch.xdelta
+          path: ProLogueData/patch.xdelta
