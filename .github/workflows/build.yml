@@ -36,11 +36,11 @@ jobs:
       - name: Extract tools
         run: 7z x tools.7z
       - name: Install dependencies
-        run: pipenv sync
+        run: pipenv --python 3.10 sync
       - name: Extract
-        run: python tool.py extract
+        run: pipenv run tool.py extract
       - name: Repack
-        run: python tool.py --log repack
+        run: pipenv run tool.py --log repack
       - name: Upload log
         uses: actions/upload-artifact@v3
         with:
