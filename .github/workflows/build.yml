@@ -3,7 +3,7 @@ name: Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: '0 2 * * *'
 
 jobs:
   check_date:
@@ -18,7 +18,7 @@ jobs:
   - id: should_run
     continue-on-error: true
     name: Check latest commit is less than a day
-    if: ${{ github.event_name == "schedule" }}
+    if: ${{ github.event_name == 'schedule' }}
     run: test -z $(git rev-list  --after="24 hours"  ${{ github.sha }}) &amp;&amp; echo "::set-output name=should_run::false"
   build:
     runs-on: windows-latest
@@ -72,7 +72,7 @@ jobs:
         with:
           files: "ProLogueData/patch.xdelta"
       - name: Webhook
-        if: steps.check_patch.outputs.files_exists == "true"
+        if: steps.check_patch.outputs.files_exists == 'true'
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
