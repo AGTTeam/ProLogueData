@@ -23,7 +23,7 @@ jobs:
   build:
     runs-on: windows-latest
     needs: check_date
-    if: ${{ needs.check_date.outputs.should_run != "false" }}
+    if: ${{ needs.check_date.outputs.should_run != 'false' }}
     steps:
       - name: Install Python
         uses: actions/setup-python@v4
@@ -72,7 +72,7 @@ jobs:
         with:
           files: "ProLogueData/patch.xdelta"
       - name: Webhook
-        if: steps.check_patch.outputs.files_exists == 'true'
+        if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
         uses: tsickert/discord-webhook@v5.3.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
