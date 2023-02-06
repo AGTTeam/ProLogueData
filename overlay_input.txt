@@ -434,7 +434,7 @@
 果物の果汁を使ったゼリーを|足付きグラスに流して冷やし|固めました。|涼しげな一品。||=A jello made from fruit juice poured into a fancy glass and put in the fridge to set.
 チョコとバナナは相性抜群。|ホイップクリームもたっぷり搾った|名コンビのクレープ。|||=Chocolate and banana are a match made in heaven. Paired with a crepe and plenty of whipped cream, it makes for a classic dish.
 何も書かれていない日記だ。|本当に何も書かれていない。|保存状態はよく、乾燥している。|=A journal with nothing written in it.|It’s in good condition though, and dry.
-甘い香りのミルクココア。|カカオのポリフェノールと|繊維たっぷり。|実は健康食品です。||=Milky cocoa with a sweet smell. It’s full of polyphenols and fiber from the cocoa. In fact, it’s practically a health drink.
+甘い香りのミルクココア。|カカオのポリフェノールと|繊維たっぷり。|実は健康食品です。||=Milky cocoa with a sweet smell. It’s full of polyphenols and fiber from the cocoa.|In fact, it’s practically a health drink.
 真っ赤ないちごをクリームにも|たっぷり使用。|見た目にもゴージャスな|シュークリーム。||=A choux pastry that doubles as a feast for the eyes. They weren’t stingy on the strawberries, either.
 あんこ好きの方にはこのだんご。|丁寧にさらした上品なこしあんを|たっぷりのせました。|||=A dango for lovers of red bean paste. Topped with high-quality, carefully strained bean paste.
 アイスクリームの基本、バニラ味。|バニラの上品な甘い香りが|幸せな気分にしてくれます。|||=The staple of all ice creams. The gentle, sweet scent of vanilla will take you to that happy place.
@@ -693,7 +693,7 @@
 あんみつ=Anmitsu
 おしるこ=Shiruko
 水玉‐青=Polka Dots - Blue
-さてと…=Well then...
+さてと…=Hmm...
 歯車‐青=Gears - Blue
 黒タイル=Black Tiles
 歯車‐黄=Gears - Yellow
@@ -764,7 +764,7 @@
 さてこれから…=After this, I need to...
 ショートケーキ=Strawberry Shortcake
 曲線の模様‐黄=Curved Pattern - Yellow
-いただきます。=Bottom’s up.
+いただきます。=Down the hatch.
 バナナですか。=A banana?
 フルーツパフェ=Fruit Parfait
 アメリカバス停=American Bus Stop
@@ -1161,7 +1161,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 考え抜いた者が勝ちます。|チェスも推理も、そうです。|けれど恋愛の場合は…知りません。=The one who has thought it through wins. It’s true for chess, and for deduction. But in the case of love... I don't know.
 紅葉シーズンです。|もみじのような手と言いますが、|手のようなもみじとは言いませんね。=It’s the time for autumn leaves. They say babies’ hands look like maple leaves, but no one ever says the leaves look like hands.#qc replace reference?
 真夜中に考えが煮詰まると、|迷路にはまった気分です。しかし、|abcdさんがいると心強い。=When my thoughts hit a dead end late at night, I feel like I’m stuck in a maze. But, having you here makes me feel reassured.
-甘い香りのミルクココア。|カカオのポリフェノールと|繊維たっぷり。|実は健康食品です。|=Milky cocoa with a sweet smell. It’s full of polyphenols and fiber from the cocoa. In fact, it’s practically a health drink.
+甘い香りのミルクココア。|カカオのポリフェノールと|繊維たっぷり。|実は健康食品です。|=Milky cocoa with a sweet smell. It’s full of polyphenols and fiber from the cocoa.|In fact, it’s practically a health drink.
 薄く焼き上げたクレープの中にも|いちごがいっぱい。|甘酸っぱい、フレッシュな一品です。|=The thin crepe is generously stuffed with strawberries. It’s a sweet, tangy and refreshing dish.#I know it means fresh as in ‘fresh juice’, but I didn’t how to make that work here.
 アイスクリームの基本、バニラ味。|バニラの上品な甘い香りが|幸せな気分にしてくれます。|=The staple of all ice creams. The gentle, sweet scent of vanilla will take you to that happy place.
 シュークリームと言えば|カスタードクリーム。|なめらかな食感と卵の風味豊かな|定番の味。|=You can’t think choux bun without thinking custard. The smooth texture and rich flavor make it a classic.
