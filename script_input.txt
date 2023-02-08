@@ -1478,7 +1478,7 @@ debug jump?=
 起爆装置だ。=The detonator.
 起爆装置を調査します。|よろしいですか？=Investigate the detonator?
 !FILE:dat_script_f07.bin/file005_PACK2/file021.bin
-コードだ。\v爆薬と起爆装置を繋いでいる。=Wires connect the explosives to the detonator.
+コードだ。\v爆薬と起爆装置を繋いでいる。=Wires connect the explosives|to the detonator.
 !FILE:dat_script_f07.bin/file007_PACK2/file010.bin
 穴が開いている。=There is a hole.#qc can be more than one
 取っ手を取り付けた。=Attached the handle.
@@ -2208,7 +2208,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ダミーのコードのみ残っている。\v@fR切断@fWすると爆発してしまうだろう。=Only the fake wires remain.\v@fRCutting@fW them would likely|trigger an explosion.
 ダミーのコードのみ残っているが、|爆薬を外したので危険性は無い。=The fake wires are still connected, but they pose no risk now that the explosives have been removed.
 ダミーのコードを切断した。=Cut the fake wire.
-本物のコードを切断した。=Cut the live wire.
+本物のコードを切断した。=Cut the correct wire.
 電圧計を使った。=Used Voltmeter.
 しかし電圧計は壊れてしまった。=The Voltmeter broke.
 本物のコードがどれか分かった。=Identified the real wire.
@@ -2321,27 +2321,27 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 赤い基板とコネクタが接続されている。\v簡単に外せそうだ。=The connecter is plugged|into the red board.\vIt looks easy to disconnect.
 スイッチはオンにしましたか？\t|コネクタを外すのはそれからです。=Have you turned the switch on?\t|That needs to be done first before unplugging the connectors.
 コネクタを外す=Unplug the connector
-コネクタを外さない=Don’t unplug it
+コネクタを外さない=Don’t unplug the connector
 コネクタを外した。=Unplugged the connector.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file023.bin
 赤い基板だ。\vいくつかのパーツがついている。=A red board.\vIt has various components on it.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file024.bin
 何かのコードだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=Some kind of wires.\vIt’s hard to see them clearly|under the red board.
 何かのコードだ。\v絶縁テープで補修してある。=Some sort of wires.\vThey have been repaired with tape.
-何かのコードだ。\v@fRむき出し@fWになった部分が|ショートしてしまいそうだ。=Some sort of wires.\vThe @fRexposed part@fW is likely to short-circuit.
+何かのコードだ。\v@fRむき出し@fWになった部分が|ショートしてしまいそうだ。=Some sort of wires.\vThe @fRexposed part@fW is likely|to short-circuit.
 コードを切断した。=Cut the wire.
 しかし絶縁テープは壊れてしまった。=The Tape broke.
 コードを補修中に、|スイッチが入ったような音がした。=As you repair the wires, a switch clicks.
 コードを補修した。=Repaired the wires.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file026.bin
 何かのパーツだ。\v赤い基板の下に入ってしまい、|うまく確認できない。=Some kind of part.\vIt’s hard to see it clearly under the red board.
-何かのパーツだ。\v青い基板にも起爆装置はないようだ。=Some kind of part.\vIt doesn’t look like the detonator is on the blue board either.
+何かのパーツだ。\v青い基板にも起爆装置はないようだ。=Some kind of part.\vIt doesn’t look like the detonator|is on the blue board either.
 今回もスイッチを入れてから|解除をしていってくださいね。=Just like before, make sure to flip the switch before dismantling anything.
-何かのパーツだ。\v赤い基板にあったものと|同じ物だろうか？=Some kind of part.\vCould it be the same as the part that was on the red board?
+何かのパーツだ。\v赤い基板にあったものと|同じ物だろうか？=Some kind of part.\vIt appears to be similar to the part|that was on the red board.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file027.bin
 @fRハリガネ@fWで青い基板が止められている。=The blue board is being held|in place by a @fRmetal wire@fW.
-下の基板が見えないので、|手を出さない方がよさそうだ。=It’s probably best not to touch it without knowing what’s on the board below.
-ハリガネで青い基板が止められている。\vハリガネは切れ目が入れられ、|簡単にちぎれそうだ。=The metal wire holding the blue board in place.\vIt has a small cut in it and should be easy to take off.
+下の基板が見えないので、|手を出さない方がよさそうだ。=It’s probably best not to|touch it right now.
+ハリガネで青い基板が止められている。\vハリガネは切れ目が入れられ、|簡単にちぎれそうだ。=The metal wire holding the|blue board in place.\vIt has a small cut in it and|should be easy to take off.
 ハリガネに切れ目を入れると、|スイッチの入る音が聞こえた。=As you cut the wire, a switch clicks.
 ハリガネに切れ目を入れた。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file028.bin
@@ -2352,7 +2352,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 これで青い基板に|アイテムを使う事ができます。=You should be able to use items on the blue board now.
 ランプを青にしましょう。=You need to turn the blue light on first.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file030.bin
-青い基板を止めている|ネジは緩められている。=The screws securing the red board are loose.
+青い基板を止めている|ネジは緩められている。=The screws securing the|blue board are loose.
 青い基板を止めている@fRネジ@fWだ。=The @fRscrews@fW are securing|the blue board.
 ネジを緩めた。=Loosened the screws.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file032.bin
@@ -2363,17 +2363,17 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ヘッドが弧を描きながら|爆薬に直撃した。=The head swerved and hit the explosive.#qc not sure if this is actually used.
 爆薬を叩いた。=Hit the explosive.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file033.bin
-トラップのケースだ。\v特に珍しい部分はない。=The trap’s case.\vNothing jumps out.
+トラップのケースだ。\v特に珍しい部分はない。=The trap’s case.\vNothing stands out about it.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file034.bin
-爆薬とトラップ本体を繋ぐコードだ。=The wires connect the explosive to the main body of the trap.
-爆薬とトラップ本体を繋ぐコードだ。\vトラップの中身が確認できないため、|@fR切断@fWできるコードを|見分ける事ができない。=The wires connect the explosive to the main body of the trap.\vWithout knowing more about the wiring, it’s impossible to tell which to @fRcut@fW.
-爆薬とトラップ本体を繋ぐコードだ。\v本物のコードは、|すでに切断されている。=The wires connecting the explosive to the main body of the trap.\vThe necessary wire has already been cut.
-爆薬とトラップ本体を繋ぐコードだ。\v本物のコードが分かった。|@fR切断@fWできれば解除に役立つだろう。=The wires connecting the explosive to the trap.\vThe real wire has been identified.|@fRCutting@fW it will improve the chances of successfully disarming the trap.
+爆薬とトラップ本体を繋ぐコードだ。=The wires connect the explosive|to the main body of the trap.
+爆薬とトラップ本体を繋ぐコードだ。\vトラップの中身が確認できないため、|@fR切断@fWできるコードを|見分ける事ができない。=The wires connect the explosive|to the main body of the trap.\vWithout knowing more about the wiring,|it’s impossible to tell which to @fRcut@fW.
+爆薬とトラップ本体を繋ぐコードだ。\v本物のコードは、|すでに切断されている。=The wires connecting the explosive|to the main body of the trap.\vThe necessary wire has already been cut.
+爆薬とトラップ本体を繋ぐコードだ。\v本物のコードが分かった。|@fR切断@fWできれば解除に役立つだろう。=The wires connecting the explosive|to the main body of the trap.\vThe real wire has been identified.|@fRCutting@fW it will improve the chances of successfully disarming the trap.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file035.bin
 電気が供給されている。\v装置が安定しているようだ。=Electricity is being supplied to the device.\vIt appears to be stable.
 ２Ｆの電源パネルは|このトラップと|繋がっていたのですね。=It seems the power control panel on the 2nd floor was connected to this trap.
 電気が供給されていない。\v装置が不安定なようだ。=No electricity is being|supplied to the device.\vIt appears to be unstable.#if not used power supply panel?
-どこかに電源があるようですね。\vうまくいかないようであれば、|電源を探しましょう。=There must be a power supply somewhere.\vIf you can’t get it to turn on, let’s go back and look for it.
+どこかに電源があるようですね。\vうまくいかないようであれば、|電源を探しましょう。=There must be a power supply somewhere.\vIf you run into trouble, let’s go back and look for it.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file037.bin
 @fRカードリーダー@fWだ。=It’s a @fRcard reader@fW.
 赤いランプがついている。=The red light is on.
@@ -2395,15 +2395,15 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 何かのコードだ。=Some kind of wires.
 コードを切断した。=Cut the wire.
 このコードは、後でまた確認しましょう。=Let’s come back to these later.
-爆薬と起爆装置を|繋いでいるコードだ。=Wires connect the detonator to the explosive.
-爆薬と起爆装置を|繋いでいるコードだ。\v爆薬のコードの中から、|切断できる物が判明した。=Wires connect the detonator to the explosive.\vIt’s now clear which wire can be cut.
-爆薬と起爆装置を|繋いでいるコードだ。\vスイッチを入れるまでは、|細かい調査はできない。=Wires connect the detonator to the explosive.\vSince the switch is not turned on,|it is too risky to investigate further.
+爆薬と起爆装置を|繋いでいるコードだ。=Wires connect the detonator|to the explosive.
+爆薬と起爆装置を|繋いでいるコードだ。\v爆薬のコードの中から、|切断できる物が判明した。=Wires connect the detonator|to the explosive.\vIt’s now clear which of the wires extending from the explosive can be cut.
+爆薬と起爆装置を|繋いでいるコードだ。\vスイッチを入れるまでは、|細かい調査はできない。=Wires connect the detonator|to the explosive.\vSince the switch is not turned on,|it is too risky to investigate further.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file044.bin
 何かのコードだ。\v青い基板のパーツに接続されている。=Some kind of wires.\vThey’re connected to a part on the blue board.
 ケースの奥の方を通って、|爆薬に繋がっているようだ。=It seems they’re connected to the explosive via the back of the case.
 準備ができていないため、|詳しく調べる事ができない。=It is too risky to investigate further without doing some prep work.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file045.bin
-小さい穴の奥に何かのスイッチがある。\v青い基板に接続されている。=There’s some kind of switch inside the small hole.\vIt’s connected to a blue board.
+小さい穴の奥に何かのスイッチがある。\v青い基板に接続されている。=There’s some kind of switch|inside the small hole.\vIt’s connected to a blue board.
 小さい穴の奥に何かのスイッチがある。\v@fR細長いもの@fWで押す事ができそうだ。\v青い基板に接続されている。=There’s some kind of switch|inside the small hole.\vIt looks like you should be able to|push it with something @fRthin@fW.\vIt’s connected to a blue board.
 スイッチを押した。=Pushed the switch.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file046.bin
@@ -2412,10 +2412,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 非常用のバッテリーだ。\v稼動していたのか、|@fR熱@fWを持っている。=An emergency battery.\vIt may have been running,|as it is @fRwarm@fW.
 バッテリーが冷やされ、安定した。=Cooled and stabilized the battery.
 !FILE:dat_script_trapbig.bin/file004_PACK2/file047.bin
-起爆装置だろうか？\v隠れてしまっているため、|うまく確認できない。=Could this be the detonator?\vIt’s hard to be sure as the view is obscured.
-青い基板には起爆装置らしい物は|見当たらない。\vトラップを解除するには、|基板を外していくしかないようだ。=There doesn’t seem to be anything that looks like a detonator on the blue board.\vIt appears the only way to disarm the trap is to remove the board.
+起爆装置だろうか？\v隠れてしまっているため、|うまく確認できない。=Could this be the detonator?\vIt’s hard to be sure while|the view is obscured.
+青い基板には起爆装置らしい物は|見当たらない。\vトラップを解除するには、|基板を外していくしかないようだ。=There doesn’t seem to be anything that looks like a detonator on the blue board.\vIt appears the only way to disarm the trap|is to remove the board.
 起爆装置だ。\v別のパーツを通して|爆薬に接続されている。=The detonator.\vIt appears to be connected to|the explosive via another part.
-通過しているスイッチは|解除用のもののようだ。=The switch it’s connected to seems to be for releasing it.
+通過しているスイッチは|解除用のもののようだ。=The switches seem to be for disabling it.
 スイッチを入れていないので、|細かい調査ができない。=Since the switch is not turned on,|it is too risky to investigate further.
 !FILE:dat_script_trapbig.bin/file005_PACK2/file010.bin
 カバーを外した！=Removed the cover!
@@ -3373,7 +3373,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 起爆装置から外されている。=It has been disconnected from the detonator.
 起爆装置と爆薬を繋いでいる。=It connects the detonator to the explosives.
 コードを外す=Disconnect the wire
-コードを外さない=Do not disconnect the wire
+コードを外さない=Don’t disconnect the wire
 電流の流れが分かった。=Discovered where the current is flowing.
 コードを外した。=Disconnected the wire.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file048.bin
