@@ -110,8 +110,8 @@
 ハウスキーパーの犯罪歴は|かなり昔にさかのぼりますね……=The Housekeeper has a long criminal history.
 『クリエラの月』は、ハウスキーパーを|金で雇っていたのでしょう。=Criella Moon must be paying the Housekeeper.
 イギリス出身、か……=From England, hm...
-…犯罪者に同類扱いされるのは|非常に不愉快です。=It is very unpleasant to be treated like a criminal.#qc
-Ｊ…\tいや、ジェフリーは|自分は『計画の責任者』だと|言いましたね……=J...\t no, Jeffrey said he was ‘in charge of the plan’...
+…犯罪者に同類扱いされるのは|非常に不愉快です。=It is very unpleasant to be made to play games with a criminal.
+Ｊ…\tいや、ジェフリーは|自分は『計画の責任者』だと|言いましたね……=J... no, Jeffrey said he was “in charge of the plan”, hm...
 では、次のフロアに向かいましょう。=Let's head to the next floor.
 ジェフリーの陰に隠れていた|ハウスキーパーを引きずり出せたのは|大きな収穫です。=I’d say that was a good catch, dragging the Housekeeper out from Jeffery’s shadow.
 乱雑な場所は何度か調べてください。\t|一度調べただけではわからない|発見があるかもしれません。=Examine cluttered areas several times.\t|You may discover something new that you didn’t spot the first time.
@@ -325,7 +325,7 @@
 Ｊは右利きですか…\t|覚えておきましょう。=J is right-handed...\t|That’s worth keeping a note of.
 情報キーワード|@fR【Ｊの利き腕】@fW|を入手した。=Keyword added:|@fR“J’s Dominant Hand"@fW
 !FILE:dat_script.bin/file005_PACK2/file007.bin
-やりますね、Ｌ…\t私が精魂込めて|仕掛けた、かわいいトラップたちも|あなたに解かれて本望でしょう…=You’re good, L... \tI’m sure the sweet little traps I made with my heart and soul are happy to be solved by you.
+やりますね、Ｌ…\t私が精魂込めて|仕掛けた、かわいいトラップたちも|あなたに解かれて本望でしょう…=You’re good, L... \tI’m sure the sweet traps I made with my heart and soul are happy to be solved by you.
 あなたが作ったトラップ？=The traps you made?
 おかしいですね…\tこのトラップは、|あなたの作品ではないと思いますが…=That’s odd.\t And here I am, convinced that someone else made them.
 …どういうことですか？=What are you on about?
@@ -334,13 +334,13 @@
 どこからそんな発想が出てくると|いうのです、Ｌ？|説明していただきましょうか。=Now, what gives you that idea?|I hope you’ll explain it to me, L.
 ええ、そのつもりです…=I intend to.
 !FILE:dat_script.bin/file005_PACK2/file008.bin
-Ｌよ、例の事件では俺の作品を|オモチャ扱いしてくれたそうだな。\vもっとも、あの時はＦＢＩの低脳どもを|ターゲットにしていたから、あんたには|ぬる過ぎただろうよ。\vあんたが出てくるとわかってたなら、|俺の勝負球を用意してやったのにな…\t|残念だが、仕方あるまい。\vまあ、この『トラップボックス』は|この前のように楽じゃないがな。=L, I heard that you treated my traps at the warehouse as if they were toys.\vThen again, I was targeting those idiots in the FBI, so I guess it was too easy for you.\vIf I had known you were going to show up,|I would have had my ball game ready for you...\t Oh well, it doesn’t matter now.\vJust don’t expect this “trap box” to be so easy.
+Ｌよ、例の事件では俺の作品を|オモチャ扱いしてくれたそうだな。\vもっとも、あの時はＦＢＩの低脳どもを|ターゲットにしていたから、あんたには|ぬる過ぎただろうよ。\vあんたが出てくるとわかってたなら、|俺の勝負球を用意してやったのにな…\t|残念だが、仕方あるまい。\vまあ、この『トラップボックス』は|この前のように楽じゃないがな。=L, I heard that you treated my trap at the warehouse as if it was a toy.\vThen again, I was targeting those idiots in the FBI, so I guess it was too easy for you.\vIf I had known you were going to show up,|I would have had my ball game ready for you...\t Oh well, it doesn’t matter now.\vJust don’t expect this “trap box” to be so easy.
 ハウスキーパー、計画の責任者は私だ。\t|よけいな事は…=Housekeeper, I’m the one in charge of the plan.\t|Don’t do anything rash...
-よけいな事だと？|おまえみたいにオドオドやってたら|Ｌにつけ込まれるだけだ。\v傷口が広がる前にピッチャー交代だ。|おまえは引っ込んで、コンピュータの|お守りでもしてろ。=Rash? If you keep acting like such a coward, L will only take advantage.\vWe’re just changing pitchers before he has a chance to score a home run.\t You should go back to babysitting the computer.
+よけいな事だと？|おまえみたいにオドオドやってたら|Ｌにつけ込まれるだけだ。\v傷口が広がる前にピッチャー交代だ。|おまえは引っ込んで、コンピュータの|お守りでもしてろ。=Rash? If you keep acting like such a coward, L will only take advantage.\vWe’re just changing pitchers before he has a chance to hit a home run.\t You should go back to babysitting the computer.
 くっ……=Ngh...
 Ｌ、ジェフリーと俺はひと味もふた味も|違うぜ…\tエースで４番の俺はな。=Just so you know, I do things a little differently to Jeffery.\t I’m the MVP here.#qc baseball reference.
 たいした自信ですね…=You certainly seem confident.
-Ｌ、おまえは人の思考と行動を読み|推理する。\t俺も同じさ。\t|人の行動の先に罠をかける。\vここからは、俺が直接勝負してやる。\t|ベースボールのようなスリリングな|ゲームを味わわせてやるよ。\vまだまだ、試合は始まったばかり。\t|面白いゲームにしようじゃないか。=You read people’s thoughts and predict their movements.\t I can do the same.\vI set traps before they’ve even made their next move.\vFrom here on, I’m going to face you myself.\t I’ll give you a game more thrilling than any baseball match you’ve ever seen.\vThe fun is just getting started.\t|It’ll be a game to die for.
+Ｌ、おまえは人の思考と行動を読み|推理する。\t俺も同じさ。\t|人の行動の先に罠をかける。\vここからは、俺が直接勝負してやる。\t|ベースボールのようなスリリングな|ゲームを味わわせてやるよ。\vまだまだ、試合は始まったばかり。\t|面白いゲームにしようじゃないか。=You read people’s thoughts and predict their movements.\t I can do the same.\vI trap them before they’ve even made their next move.\vFrom here on, I’m going to face you myself.\t I’ll show you the thrill playing for the big leagues.\vThe fun is just getting started.\t|It’ll be a game to die for.
 おもしろい犯罪なんてありませんよ。\t|特に、私の前ではね…=Crime never pays off.\t|I’ll make sure of it...
 !FILE:dat_script.bin/file006_PACK2/file006.bin
 俺のトラップが不完全だと！？\t|聞き捨てならんな、Ｌ！=Flawed!?\t|Don’t think I’ll just let that slide, L!
@@ -418,8 +418,8 @@
 通りがかりにある扉に|制御パネルの表示がありましたが、|覚えていますか？\vついでによって見ましょう。=Do you remember the control panel we passed?\vIts importance will become apparent very soon.#qc I have no idea where he’s talking about. There’s a panel INSIDE the elevator control room, but nothing on any doors that you pass unless he means the elevator which comes later.
 !FILE:dat_script.bin/file008_PACK2/file008.bin
 @n0さん、まだ先は長そうです。\t|つらい状況だと思いますが、私も全力で|フォローしますので…=@n1, I’m afraid it seems like you still|have a long journey ahead.\t It will be tough, but I’ll do my best to support you.
-…用の…回線の準………だろうな？=...The controls... for the...
-…信室のメン……ンスは、完了…\t|電波状…………良好………=...Communication...st, good.\t|Signal... ready.
+…用の…回線の準………だろうな？=...The control... for the...
+…信室のメン……ンスは、完了…\t|電波状…………良好………=...Communication... nk, okay.\t|Signal... ready.
 …今のは一体…？\t|電波の混線のようですが…\t|覚えておきましょう…=...What was that?\t It seemed like we picked up some interference...\t That’s worth keeping a mental note of.
 !FILE:dat_script.bin/file009_PACK2/file006.bin
 おい、まだそんな事を言ってるのか！\t|このヤマは『クリエラの月』をツブした|おまえへの、依頼人の復讐に過ぎん！=Are you still going on about that!?\t|This is nothing more than my client’s revenge on you for destroying Criella Moon!
@@ -815,7 +815,7 @@
 そう、私もそのことが|気になっていました。=Yes. That is my concern as well.
 そんなにくさいんですか？\t|少し興味が出てきました。\vですが、私が気になっているのは|そんなことではありません。=Is it really so dirty?\t|That is interesting.\vBut that's not exactly what was on my mind.
 誘拐犯が作ったにしては、|このトラップは出来が良すぎる…\t|そう思いませんか？=That trap...\t|It was far too sophisticated for an ordinary kidnapper, don't you think?
-情報キーワード|@fR【上出来なトラップ】@fW|を入手した。=Keyword added:|@fR“Sophisticated Trap"@fW
+情報キーワード|@fR【上出来なトラップ】@fW|を入手した。=Keyword added:|@fR“Sophisticated Design"@fW
 さて、これでドアは開くはずです。\t|気をつけて進んでください。=The door should be open now.\t|Proceed with caution.
 !FILE:dat_script_f01.bin/file008_PACK2/file006.bin
 トラップを仕掛けてこちらの行動を|制限しているというのに、肝心の部屋が|施錠されていないのは不思議ですね。=It’s strange that the main rooms haven’t been locked, even though they’ve set traps to restrict your movements.
@@ -1021,7 +1021,7 @@
 了解しました。\tしばしお待ちを。=Understood.\t Please give me some time.
 大至急でお願いします。=Make it top priority.
 !FILE:dat_script_f03.bin/file003_PACK2/file006.bin
-それと、これまでの階にはドアがなく|気づきませんでしたが、ここに|エレベーターがあったのですね…\vエレベーターはヒジカタ社のＳＹＧ型…\t|２０年前まで世界中で販売されていた、|定番のものです。\v自由に使わせてくれるとは思いませんが|この階で存在を我々に知らせるのなら、|今まで隠しておいた理由は一体…=I hadn’t noticed that any of the floors you’ve been on were missing doors, but suddenly there’s an elevator on this one...\vIt’s a Hijikata SYG.\t|A standard make that was very common all over the world until 20 years ago.\vI don’t imagine you’ll be allowed use it freely, but why keep it hidden only to reveal its existence now?
+それと、これまでの階にはドアがなく|気づきませんでしたが、ここに|エレベーターがあったのですね…\vエレベーターはヒジカタ社のＳＹＧ型…\t|２０年前まで世界中で販売されていた、|定番のものです。\v自由に使わせてくれるとは思いませんが|この階で存在を我々に知らせるのなら、|今まで隠しておいた理由は一体…=I hadn’t noticed that any of the floors you’ve been on were missing doors, but suddenly there’s an elevator on this one...\vIt’s a Hijikata SYG.\t A standard make that was very common all over the world until 20 years ago.\vI don’t imagine you’ll be allowed use it freely, but why keep it hidden only to reveal its existence now?
 見てください。\t扉の脇に残っているのは|あなたが解除したトラップです。\t|どういうことかわかりますか？=Look there.\t Next to the door is the trap you disarmed.\t Do you get what that means?
 はい=Yes
 いいえ=No
@@ -2282,7 +2282,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬を解除した！=Removed the explosive!
 !FILE:dat_script_trapbig.bin/file004_PACK2/file011.bin
 見た感じ起爆装置はありませんね。\t|基板を外していきましょう。=There’s no sign of the detonator.\t|Try removing the top board.
-そこのスイッチも気になります。\vスイッチを入れてから、|手を加えた方がよさそうですね。=I am also curious about that switch there.\t I get the feeling you should switch it on before doing anything else with the board.
+そこのスイッチも気になります。\vスイッチを入れてから、|手を加えた方がよさそうですね。=I am also curious about that switch there.\t|I get the feeling you should switch it on before doing anything else with the board.
 まずは赤ランプをつけましょう。\v私が見た感じでは、|怪しいのは@fRカードリーダー@fWですね。=Let’s try and get the red light on first.\vSomething’s telling me that @fRcard reader@fW is important.
 後はスイッチを入れて、|コネクタを外せば|赤い基板を外す事ができます。=After turning the switch on, you should be able to unplug the connectors and remove the red board.
 次は青い基板ですか。=So it’s a blue board next.

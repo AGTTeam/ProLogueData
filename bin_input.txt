@@ -53,7 +53,7 @@
 ５階フロアの内装=5th Floor
 ホテル全体の内装=Hotel Interior
 ６階フロアの内装=6th Floor
-上出来なトラップ=Sophisticated Trap
+上出来なトラップ=Sophisticated Design
 誘拐された難民たち=Kidnapped Refugees
 豪華客船グラナダ号=The Granada
 風景からの位置特定=Landscape Location

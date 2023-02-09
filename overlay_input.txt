@@ -519,7 +519,7 @@
 グラナダの所有者=Ship’s Owner
 ６階フロアの内装=6th Floor
 ホテル全体の内装=Hotel Interior
-上出来なトラップ=Sophisticated Trap
+上出来なトラップ=Sophisticated Design
 ５階フロアの内装=5th Floor
 トラップの発案者=The Mastermind
 ジェフリーの家族=Jeffrey’s Family
