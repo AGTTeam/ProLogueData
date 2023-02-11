@@ -123,9 +123,9 @@
 同じトラップを|何度も仕掛けるというのは|セオリーに反しますね……=Setting the same traps over and over again goes against logic...
 相手の意図が読みにくい時は、|複数の思惑がからんでいると|考えるべきだ……=When it's hard to read your opponent’s intentions, you should consider that there may be multiple agendas involved.
 要するに、@n0さんは|私を巻き込むために誘拐された、と|いうわけですね。=In short, @n1, you were kidnapped to implicate me.
-彼らの狙いは|私を事件に介入させること……=Their aim was to get me to intervene in the case...
+彼らの狙いは|私を事件に介入させること……=Someone wanted me to get involved...
 最後まで思い通りになる気は|ありませんよ。\t|…先へ進みましょう、@n0さん。=I’m not going to let them have their way...\t|Let’s keep going, @n1.
-@n1さん、ご心配なく。\t|Ｌはすぐに戻ってきます。=Don’t worry, @n0. L will be back soon.
+@n1さん、ご心配なく。\t|Ｌはすぐに戻ってきます。=Don’t worry, @n0.|L will be back soon.
 さて、それでは|先に進むといたしましょう。=Well then, let’s continue onwards.#Watari
 Ｌが席を外したのは、|あなたの実力を認めたからです。|自信を持ってください。=L left because he knew he could trust in your abilities.|Have confidence.
 Ｌが戻るまでは|私がサポートさせていただきます。=I will support you until L returns.
@@ -348,7 +348,7 @@
 何が言いたい！？=What are you trying to suggest!?
 今回の@n0さん誘拐事件の目的は|私とＦＢＩへの復讐ではありません。\t|目的は他のところにあります。=The reason @n1 was kidnapped was not about getting revenge on us. There’s some other motive.
 そんなことはない！\t|ジェフリーのヤツが言っていただろう？|忘れたのか！=You’re way off the mark there!\t|Didn’t Jeffery already tell you?|Don’t tell me you forgot?!
-覚えていますよ。\t|しかし、それは表向きの理由で、|本当の目的は別にあります。=I remember.\t|But, that is only the alleged reason.|The true reason lies elsewhere.
+覚えていますよ。\t|しかし、それは表向きの理由で、|本当の目的は別にあります。=I remember.\t|But that is only the alleged reason.|The true reason lies elsewhere.
 な、なんだと！\t|だったらそれを説明してみせろ！=W-What!?\t|Explain yourself!
 !FILE:dat_script.bin/file006_PACK2/file007.bin
 あなたの依頼人はハウスキーパーという|プロの腕を買っておきながら、技術を|１００％使い切るつもりはない…\v必要な部分だけ利用して、自分の目的を|達成しようと考えているのです。=Your client paid for your skills as the Housekeeper, but they’ve no intention of using those skills to the fullest.\vThey only want to use what they need to achieve their goals.
@@ -1147,9 +1147,9 @@ debug jump?=
 情報キーワード|@fR【ハウスキーパーの依頼人】@fW|を入手した。=Keyword added:|@fR“The Client”@fW
 見てください。|\t以前には降りていたシャッターが|開いています。\vジェフリーがここを通って行ったことは|間違いありませんね。\vシャッターを閉め忘れるほど|焦っているのでしょうか。=Look, that shutter was closed before.\vJeffery must have gone through here.\vWas he in such a rush that he forgot to close the shutters?
 !FILE:dat_script_f04.bin/file001_PACK2/file010.bin
-シャッターが閉まっている。\vここから３階へは戻れないようだ。=The shutter is closed.\vThere’s no way to get back to the third floor from here.
+シャッターが閉まっている。\vここから３階へは戻れないようだ。=The shutter is closed.\vThere’s no way to get back to|the third floor from here.
 !FILE:dat_script_f04.bin/file002_PACK2/file011.bin
-鍵は開いている。=It’s open.
+鍵は開いている。=It’s unlocked.
 !FILE:dat_script_f04.bin/file002_PACK2/file012.bin
 鍵がかかっているようだ。=It’s locked.
 !FILE:dat_script_f04.bin/file003_PACK2/file017.bin
@@ -1229,7 +1229,7 @@ debug jump?=
 !FILE:dat_script_f04.bin/file016_PACK2/file006.bin
 この部屋には何かありそうです。|気をつけてください。=There’s something here...|Be careful.
 これで、このフロアはクリアですね…\t|果たしてこのゲームは|いつまで続くのでしょうか…=That’s this floor cleared.\t|I wonder how much more there could be to this ‘game’...
-それにしても、この事件には|おかしな印象が目立ちます。\v私とＦＢＩへの復讐としてはあまりにも|不適切で不完全なトラップです…=Still, this whole setup gives me a very strange feeling.\vIt just doesn’t make sense and seems too flawed to be supposed revenge against myself and the FBI.
+それにしても、この事件には|おかしな印象が目立ちます。\v私とＦＢＩへの復讐としてはあまりにも|不適切で不完全なトラップです…=Still, there’s something very strange about this whole setup.\vIt seems too flawed to be supposed revenge against myself and the FBI.
 !FILE:dat_script_f04.bin/file016_PACK2/file011.bin
 ダンボール箱を調べた。=Examined cardboard box.
 中に何かあるようだ。=There’s something inside.
@@ -1255,7 +1255,7 @@ debug jump?=
 壁の質感が違うようですね。=The wall here is different.
 !FILE:dat_script_f05.bin/file001_PACK2/file006.bin
 @n0さん、\t依頼人の目的が具体的に|わかれば、あなたの居場所や救出方法も|見つかるかもしれません。=If we can figure out what exactly the client is after, we may be able to find out where you are and how to rescue you.
-Ｌ、\t居場所に関連する情報ですが、|先ほどの地震の件で報告します。\v各国の気象台や専門機関に問い合わせ|ましたが、やはりクリエラ周辺で地震は|発生していません。=L,\t on the subject of whereabouts, I have further information to report about the earthquake earlier.\vI contacted weather stations in various countries, but there is still no record of an earthquake having occurred in the area.
+Ｌ、\t居場所に関連する情報ですが、|先ほどの地震の件で報告します。\v各国の気象台や専門機関に問い合わせ|ましたが、やはりクリエラ周辺で地震は|発生していません。=L,\t on the subject of whereabouts, I have further information to report about the earthquake earlier.\vI contacted weather stations in various countries, but there is still no record of an earthquake having occurred in Criella.
 情報キーワード|@fR【クリエラの地震・続報】@fW|を入手した。=Keyword added:|@fR“Earthquake Follow-up"@fW
 ！\t…そうですか。\t|ワタリ、しばらく私は席を外します。=!!\t ...I see.\t|Watari, I will be leaving my post for a while.
 どちらへ？=Where are you going?
