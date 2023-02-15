@@ -33,7 +33,7 @@
 残された数多くの証拠からリブート社の|アロイス会長の事件への関与が明らかと|なり、ＦＢＩは逮捕状を請求。=The plentiful evidence left on the ship revealed Reboot’s involvement in the case, and the FBI issued an arrest warrant for Alois.
 しかし、その直後、アロイスの自殺体が|スイスの別荘から発見された…=However, shortly afterwards, Alois’s body was found in his Swiss villa in an apparent attempt to take his own life.
 捜査本部はＣＬＮによる口封じだとし、|必死の捜査を続けたが、決定的な証拠を|見つけることはできなかった…=The investigation team assumed that the CLN was trying to silence him, and a desperate manhunt ensued, but they were unable to find any conclusive evidence.
-事件は、アロイスの死とともに|幕を降ろした──=With his death, the case was closed...
+事件は、アロイスの死とともに|幕を降ろした──=With his death, the case turns cold...
 クリアデータを保存しますか？=Save game clear data?
 !FILE:dat_script.bin/file001_PACK2/file008.bin
 …や、やったのか…\t|いや、船を停めなくては…！=...I-I did it...\t|Wait, we still need to stop the ship--!
@@ -1371,7 +1371,7 @@ debug jump?=
 いえ、どういたしまして。=You’re welcome.
 @n0さん、調査を続けましょう。=@n1, let’s keep moving.
 @n0さん…正解です。=@n1... You were right.
-ここは３階の内装と同じです。\t|あなたも私と同じ考えのようですね。\v残念ながらクイズ正解の賞品は|ないのですが…=The design matches the third floor.\t|It looks like we were both thinking the same thing.\vAlthough, I’m afraid there’s no prize for getting the correct answer in the quiz.
+ここは３階の内装と同じです。\t|あなたも私と同じ考えのようですね。\v残念ながらクイズ正解の賞品は|ないのですが…=The design matches the third floor.\t|It looks like we were both thinking the same thing.\vAlthough, I’m afraid there’s no prize for getting the correct answer.
 では、私から正解の賞品を|お送りしましょう。=Well then, allow me to give you a prize.
 …なるほど。\tすばらしい賞品です。\t|@n0さん、これは勝負に使えます。\t|切り札にとっておきましょう。\vワタリ、いいものをありがとう。=...How interesting.\t That is a wonderful prize.\v@n1, we can use this when the time|comes to challenge our foe.\t|Let’s keep it as a trump card.\vWatari, thank you for the excellent information.
 @n0さん、幸先いいですよ。\t|この調子で一気に６階の起爆装置を|解除してしまいましょう。=You’re on top form, @n1.\t|Keep it up, and let’s get this floor disarmed.
@@ -4082,7 +4082,7 @@ The @fRscrew@fW has been|fastened in tight.
 これだけ壊せば十分でしょう。\t|中の状態が判らないのにここまで|やれるのは、ある意味すごいです。=That should be enough.\t To be honest, it’s amazing you’ve been able to do all that while we still don’t know what’s inside.
 金属製のカバーだ。\v４つに分かれている。=A metal cover.\vIt is divided into four.
 頑丈なカバーではありませんね。\t|何か@fR硬い物で叩いて@fWみては|どうでしょうか。=It doesn’t look particularly strong.\t|I wonder what would happen if you @fRhit it with something hard@fW?
-カバーが歪んで|外しやすくなった。=Warped the cover making it easier to remove.
+カバーが歪んで|外しやすくなった。=Warped the cover making it|easier to remove.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file013.bin
 金具が緩んだようだ。=Loosened the fittings.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file014.bin
@@ -4095,7 +4095,7 @@ The @fRscrew@fW has been|fastened in tight.
 コードを挿し直す=Plug the wire back in
 コードを挿し直さない=Don’t plug the wire back in
 制御装置が動き出した！=The control device came on!
-爆薬と制御装置を|繋いでいる@fRコード@fWだ。\v@fRコード@fWは簡単に抜く事ができそうだ。=A @fRwire@fW connects the explosives to the controls.\vIt looks easy to remove.
+爆薬と制御装置を|繋いでいる@fRコード@fWだ。\v@fRコード@fWは簡単に抜く事ができそうだ。=A @fRwire@fW connects the explosives|to the controls.\vIt looks easy to remove.
 このコードが何か重要な物|である事は確かです。\t|扱いは慎重にお願いします。=There’s no doubt that this wire is something important.\t|Take the necessary caution.
 制御装置が停止した！=The control device switched off!
 コードを切断した。=Cut the wire.
@@ -4112,7 +4112,7 @@ The @fRscrew@fW has been|fastened in tight.
 何かの調節ネジだ。=Some kind of adjustment dial.
 何かの調節ネジだ。\v時計回りにしか回せないように|なっている。=Some kind of adjustment dial.\vIt can only be turned clockwise.
 これ以上回す意味は|無さそうです。\t|触らないでおきましょう。=There’s no need to turn it any further.\t|I would just leave it alone.
-この調節ネジは横のランプと|何か関係がありそうです。\t|回せるようですがどうしましょうか。=This dial seems to be connected with the lamp on the side.\t It looks like you can turn it, but I can’t predict the outcome.
+この調節ネジは横のランプと|何か関係がありそうです。\t|回せるようですがどうしましょうか。=This dial seems to be connected to the lamp on the side.\t It looks like you can turn it, but I can’t predict the outcome.
 調節ネジを回す=Turn the dial
 調節ネジを回さない=Don’t turn it
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file031.bin
@@ -4131,7 +4131,7 @@ The @fRscrew@fW has been|fastened in tight.
 爆薬を回さない=Don’t rotate
 ロックが外れた！=Removed the lock!
 爆薬が起爆装置に直結している。\vロックがかかっているようだ。\vあまり動かせそうな気配は無い。=The explosive is directly|connected to the detonator.\vIt appears to be locked.\vIt doesn’t look like it can be moved much.
-何か仕掛けがあるのでしょう。\t|このままの状態での爆薬解除は|少し難しいですね。=There must be some kind of trick to it.\t|It won’t be easy to remove it like this.
+何か仕掛けがあるのでしょう。\t|このままの状態での爆薬解除は|少し難しいですね。=There must be some kind of trick to it.\t|It won’t be easy to remove like this.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file034.bin
 爆弾の台座部分だ。=The base of the bomb.
 爆弾の台座部分だ。\vカバーが取り付けられており、|中はまったく見えない。=The base of the bomb.\vThe insides can’t be seen due to the cover.
