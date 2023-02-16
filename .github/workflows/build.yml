@@ -61,7 +61,7 @@ jobs:
         with:
           name: patch.xdelta
           path: ProLogueData/patch.xdelta
-          retention-days: 30
+          retention-days: 7
       - name: Check patch existence
         id: check_patch
         uses: andstor/file-existence-action@v2
