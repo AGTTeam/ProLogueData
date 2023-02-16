@@ -49,12 +49,6 @@ jobs:
         run: |
           cd ProLogueData
           7z x dn3.7z
-      - name: Download tools
-        uses: suisei-cn/actions-download-file@v1.3.0
-        with:
-          url: ${{ secrets.URL_TOOLS }}
-      - name: Extract tools
-        run: 7z x tools.7z
       - name: Install dependencies
         run: pipenv --python 3.10 sync
       - name: Extract
@@ -66,6 +60,7 @@ jobs:
         with:
           name: patch.xdelta
           path: ProLogueData/patch.xdelta
+          retention-days: 30
       - name: Check patch existence
         id: check_patch
         uses: andstor/file-existence-action@v2
@@ -79,3 +74,4 @@ jobs:
           content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           username: "AGTTBot"
           avatar-url: "https://avatars.githubusercontent.com/u/123242276?v=4"
+          filename: "ProLogueData/patch.xdelta"
