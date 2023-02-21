@@ -1,16 +1,16 @@
 !FILE:dat_script.bin/file001_PACK2/file006.bin
 うぐっ……！\t|ジェ、ジェフリー…貴様…=Ugk--!\t|J-Jeffery, you bastard--!
 …や、やったのか…=...I-I did it...
-@n0さん、ジェフリー、喜ぶのは|まだ早い！\t|さあ、船を停めるんです！=@n1, Jeffrey, it’s too early to|celebrate just yet.\t You need to stop the ship!
+@n0さん、ジェフリー、喜ぶのは|まだ早い！\t|さあ、船を停めるんです！=@n0, Jeffrey, it’s too early to|celebrate just yet.\t You need to stop the ship!
 停まった…|エンジンの爆発ももう心配ありません。=You’ve done it... Now we don’t have to worry about the engines exploding anymore either.
 終わったんです…=It's over...
 どうやらお迎えがきたようですね。=It looks like they’re here.
 『ご苦労様でした』=“Good work.”
 船に残された証拠やジェフリー、|ハウスキーパーの証言などから|ＣＬＮの全貌が判明。|ＣＬＮが手を打つより早く、|Ｌは全世界のマスコミに事件を公表した。=The evidence found on the ship, as well as the testimonies from Jeffrey and the Housekeeper, painted a clear picture of the scene.|Before the CLN could react, L revealed the news to the worldwide press.
 アロイスは逮捕され、|ＣＬＮ自体も社会的に壊滅した。\v──そして後日。=Alois was arrested and the CLN collapsed.\vSome time later...
-@n1、今日、Ｌからこれが届いた。\t|君宛てだ。=@n0, this came for you.\t|It’s from L.#Raye
-@n1、今日、Ｌからこれが|届いたわ。\tあなた宛てよ。=@n0, a message arrived from L.\t|It’s addressed to you.#Naomi
-@n0さん、おひさしぶりです。\t|その後、お体の具合はいかがですか？\vこのたび連絡を差し上げたのは、|あの事件の時、伝え忘れたことがあった|のを思い出したからです。\vあの事件は世界中でセンセーショナルに|報道がなされ、ＣＬＮやリブート社の|悪事が日々暴かれています。\vアロイスやハウスキーパー…そして、|ジェフリーの素性や生い立ちを取り上げ|ている。まるでＴＶショーのように…\vしかし、あの事件が起きてしまった|最大の原因…事件の裏にある『叫び』に|誰も耳を貸そうとしていません…\vそう、その叫びとは…=Hello again, @n1.\t|How have you been?\vI’m contacting you because I remembered something I forgot to mention the last time we spoke.\vAfter the news broke about the incident, there has been worldwide interest in the case. New information about wrongdoings of the CLN and Reboot Inc. is being discovered daily.\vAlois, the Housekeeper and even Jeffery’s identity and history are being covered.|It’s like they’ve become celebrities...\vBut no one has been paying any attention to the real reason why the whole thing happened...\vThat voice crying out...
+@n1、今日、Ｌからこれが届いた。\t|君宛てだ。=@n2, this came for you.\t|It’s from L.#Raye
+@n1、今日、Ｌからこれが|届いたわ。\tあなた宛てよ。=@n2, a message arrived from L.\t|It’s addressed to you.#Naomi
+@n0さん、おひさしぶりです。\t|その後、お体の具合はいかがですか？\vこのたび連絡を差し上げたのは、|あの事件の時、伝え忘れたことがあった|のを思い出したからです。\vあの事件は世界中でセンセーショナルに|報道がなされ、ＣＬＮやリブート社の|悪事が日々暴かれています。\vアロイスやハウスキーパー…そして、|ジェフリーの素性や生い立ちを取り上げ|ている。まるでＴＶショーのように…\vしかし、あの事件が起きてしまった|最大の原因…事件の裏にある『叫び』に|誰も耳を貸そうとしていません…\vそう、その叫びとは…=Hello again, @n0.\t|How have you been?\vI’m contacting you because I remembered something I forgot to mention the last time we spoke.\vAfter the news broke about the incident, there has been worldwide interest in the case. New information about wrongdoings of the CLN and Reboot Inc. is being discovered daily.\vAlois, the Housekeeper and even Jeffery’s identity and history are being covered.|It’s like they’ve become celebrities...\vBut no one has been paying any attention to the real reason why the whole thing happened...\vThat voice crying out...
 ……Ｌ、私はこの事件に関わったことを|後悔していない…\tなぜなら、あなたと|話をする機会を得られたからです…=...I don’t regret being involved in this case.\t After all, it gave me a chance to talk to you, L.
 …………？=...?
 あなたに指摘されたように、私は戦争で|家族も故郷も未来も奪われてしまった。\t|私は戦争が憎い…\v今回の件で、ＣＬＮを壊滅に追い込める|かもしれませんが、世界中で紛争は今も|続いています…\v憎しみや悲しみを生み出す戦争なんて|この地上からなくなってしまえばいい。\t|あなたもそう思いませんか？=As you said, it was war that took away my family, my home and even my future.\t|I hate war...\vWhat happened here might be enough to destroy the CLN, but it won’t stop the conflicts taking place all around the world.\vWar only creates suffering and sadness. Something like that shouldn’t exist in this world.\t Don’t you agree?
@@ -28,7 +28,7 @@
 こ、これは、催涙ガス…！？=Is that... tear gas...!?
 俺は負けない…\t|いつか必ず、おまえに復讐してやる。\t|おぼえておけ、Ｌ！=I haven’t lost yet.\t|One day, I’ll get my revenge on you.\t|Remember that, L!
 …ま、待て…！=W-Wait--!
-@n0さん、ジェフリー！|今は、船を停めることが先です！\t|急いでください！=@n1, Jeffrey!|Right now, stopping the ship is more important!\t Hurry, please!
+@n0さん、ジェフリー！|今は、船を停めることが先です！\t|急いでください！=@n0, Jeffrey!|Right now, stopping the ship is more important!\t Hurry, please!
 グラナダ号の暴走は寸前のところで|阻止され、大惨事は免れた。=The Granada was stopped just in time to avert a catastrophe.
 残された数多くの証拠からリブート社の|アロイス会長の事件への関与が明らかと|なり、ＦＢＩは逮捕状を請求。=The plentiful evidence left on the ship revealed Reboot’s involvement in the case, and the FBI issued an arrest warrant for Alois.
 しかし、その直後、アロイスの自殺体が|スイスの別荘から発見された…=However, shortly afterwards, Alois’s body was found in his Swiss villa in an apparent attempt to take his own life.
@@ -41,20 +41,20 @@
 緊急停止システムです！\t|プログラムを無効にしておいたのに、|まさか、アロイス会長が…！=It’s the emergency shutdown protocol!\t|I thought I’d disabled the program, don’t tell me Alois--!
 彼も元はプログラマーです。\t|そのくらいのことはやりかねません。=He used to be a programmer too.\t|It wouldn’t be impossible.
 くそっ、どうして気づけなかったんだ！=Damn it, why didn’t I realize sooner!?
-嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|ジェフリーとハウスキーパーを連れて|脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n1! Take Jeffrey and the|Housekeeper and get out of there!
+嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|ジェフリーとハウスキーパーを連れて|脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n0! Take Jeffrey and the|Housekeeper and get out of there!
 大惨事は免れたが、グラナダ号は爆沈し|証拠は海の藻屑と消えた…=The worst-case scenario was averted, but the Granada self-imploded and the evidence was lost to the sea...
 逮捕されたジェフリーの証言から、|アロイスとリブート社が徹底捜査された|が、今回の事件にＣＬＮが関与している|という証拠は見つからなかった。=Jeffery was arrested, and his testimony prompted a thorough investigation of Alois and Reboot Inc., but no evidence of the CLN’s involvement was found.
 ハウスキーパーは黙秘を続けていたが、|逮捕から１週間後、刑務所内で何者かに|襲われ、死亡した。=The Housekeeper ultimately refused to speak, but a week after his arrest, he was attacked and killed in prison.
 事件の真相は明かされないまま、|『グラナダ号』事件は終わった…=The Granada case came to an end without the truth ever coming to light...
 !FILE:dat_script.bin/file001_PACK2/file009.bin
-嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|急いでそこから脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n1! Get out of there!
+嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|急いでそこから脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n0! Get out of there!
 ＦＢＩは逃亡したハウスキーパーの|行方を追っているが、未だに足取りは|つかめないままである。=The FBI have been trying to track down the fugitive Housekeeper, but his whereabouts remain unknown.
 !FILE:dat_script.bin/file001_PACK2/file010.bin
 この勝負は俺の勝ちだ、Ｌ。\t|ふっふっふっ……ははははははは！\t|俺は、俺はＬに勝ったぞ！！=I win this match, L.\t|Ahaha... HA HA HA!\t|I-I beat the great L!!
-@n0さん！　ハウスキーパーの|身柄を確保してください！=@n1! Arrest the Housekeeper!
+@n0さん！　ハウスキーパーの|身柄を確保してください！=@n0! Arrest the Housekeeper!
 そうはいくか！=Not so fast!
 あばよ、負け犬Ｌ！\t|おまえとの『勝負』おもしろかったぜ。\t|おまえは意外とショボかったけどな！\vはははははははは……！=Bye bye, L.\t|I enjoyed our little game.\t|I didn’t think you’d be so pathetic, though.\vAh ha ha ha...!
-…@n0さん、ジェフリーを連れて|急いでそこから脱出してください！\t|もう爆発を止めることは不可能です！=....@n1, get Jeffrey and get out of|there as soon as you can!\t|We can’t stop the ship now!
+…@n0さん、ジェフリーを連れて|急いでそこから脱出してください！\t|もう爆発を止めることは不可能です！=....@n0, get Jeffrey and get out of|there as soon as you can!\t|We can’t stop the ship now!
 暴走したグラナダ号は、クリエラ政府の|制圧地域であるアルテア港に向かったが|港に突入する寸前──=The Granada relentlessly headed for the Port Altair, an area controlled by the Criellan government. Moments before disaster stuck...
 Ｌの要請により介入した米軍の爆撃機に|よって爆沈した──=The Granada was blown up and sunk by the US military who intervened at L’s request.
 事件は未解決のまま、迷宮入りした…=The case remains unsolved...
@@ -122,10 +122,10 @@
 さっきの地震…気にはなりますが、|ハウスキーパーを追い詰める材料には|ならないでしょう。=The earthquake earlier... It does interest me, but it’s not going to give us material to track down the Housekeeper.
 同じトラップを|何度も仕掛けるというのは|セオリーに反しますね……=Setting the same traps over and over again goes against logic...
 相手の意図が読みにくい時は、|複数の思惑がからんでいると|考えるべきだ……=When it's hard to read your opponent’s intentions, you should consider that there may be multiple agendas involved.
-要するに、@n0さんは|私を巻き込むために誘拐された、と|いうわけですね。=In short, @n1, you were kidnapped to implicate me.
+要するに、@n0さんは|私を巻き込むために誘拐された、と|いうわけですね。=In short, @n0, you were kidnapped to implicate me.
 彼らの狙いは|私を事件に介入させること……=Someone wanted me to get involved...
-最後まで思い通りになる気は|ありませんよ。\t|…先へ進みましょう、@n0さん。=I’m not going to let them have their way...\t|Let’s keep going, @n1.
-@n1さん、ご心配なく。\t|Ｌはすぐに戻ってきます。=Don’t worry, @n0.|L will be back soon.
+最後まで思い通りになる気は|ありませんよ。\t|…先へ進みましょう、@n0さん。=I’m not going to let them have their way...\t|Let’s keep going, @n0.
+@n1さん、ご心配なく。\t|Ｌはすぐに戻ってきます。=Don’t worry, @n2.|L will be back soon.
 さて、それでは|先に進むといたしましょう。=Well then, let’s continue onwards.#Watari
 Ｌが席を外したのは、|あなたの実力を認めたからです。|自信を持ってください。=L left because he knew he could trust in your abilities.|Have confidence.
 Ｌが戻るまでは|私がサポートさせていただきます。=I will support you until L returns.
@@ -134,7 +134,7 @@
 あのハウスキーパーという男、|ずいぶん短気ですな……=That Housekeeper certainly has quite a temper.
 Ｌは間もなく戻ると思います。|それまで、もう少し調査を進めて|おきましょう。=I’m sure L will be back shortly.|Let’s continue to look around until then.
 そちらがクリエラ共和国内であることは|間違いないのですが、そうすると|いささか矛盾が出てきますな……=There is no mistaking that you are in the Republic of Criella, but it doesn’t add up...
-@n0さんもワタリも|よくやってくれました。=@n1, Watari, good work.
+@n0さんもワタリも|よくやってくれました。=@n0, Watari, good work.
 おかげで、非常に興味深い|情報を確認できました。\t|詳しいことは、また後で……=I discovered some very interesting information during my break.\t|I’ll tell you more later...
 まあ、調べ物の最中に|お茶菓子を食べていたのも|事実なんですが。=Well, it is true that I was also eating sweets during my excursion, but...
 起爆装置はあと２つ……=There are two more detonators...
@@ -151,7 +151,7 @@
 「３階」と「４階」をつなぐ手段を|エレベーターのみにして、上下の|移動感覚を混乱させたわけです。=The elevator is the only way to get between the third and fourth floors, confusing the sense of movement up and down.
 階段を登ってください。\t|答えは、そこにあります。=Go up the stairs.\t|The answer is there.
 答え合わせが終わったら、|最後の起爆装置を解除しましょう。=When you have the answer, it’ll be time to disarm the final detonator.
-@n0さんには、もう答えが|わかっているかもしれませんね。=@n1, you may already know the answer.
+@n0さんには、もう答えが|わかっているかもしれませんね。=@n0, you may already know the answer.
 わざわざ、トラップルームを|客船の中に作った理由は何か…\t|問題はそこです。=Why go to the trouble of building a trap inside a cruise ship...\t|That is the question.
 残る起爆装置は、あと１つだけです。\t|がんばりましょう。=There is only one detonator left.\t|Let’s do our best.
 確かに、こんな大仕掛けは|ハウスキーパーの流儀に|反していますね……=Such a complex trick is against the Housekeeper’s style...
@@ -183,7 +183,7 @@
 ハウスキーパーも協力してくれとは|言いませんが、せめて私との勝負は|中止して欲しいものです……=I’m not asking the Housekeeper to cooperate, but I would have at least liked him to stop playing games with me.
 これで、ジェフリーも|本気で協力してくれるでしょう。\t|あと一息です。=This time, we have Jeffery’s full support.\t|We’re nearly there.
 ハウスキーパーとも、そろそろ|決着をつける時か……=It’s time to settle things with the Housekeeper.
-…行きましょう、@n0さん。\t|私も全力でフォローします。=...Let’s go, @n1.\t|I’ll do my best to support you.
+…行きましょう、@n0さん。\t|私も全力でフォローします。=...Let’s go, @n0.\t|I’ll do my best to support you.
 ここが最後のフロアです。\t|……よろしくお願いします。=This is the last floor.\t|...I’m counting on you.
 このミッションの成否は|ハウスキーパーを止められるかどうかに|かかっている……=The success or failure of this mission rests on whether we can stop the Housekeeper.
 フロアの安全が確保できたら、|ジェフリーがエンジンを停止させます。\t|それで、今度こそ終わりです。=Once the floor is secure, Jeffrey will stop the engine.\t|Let’s end this.
@@ -218,16 +218,16 @@
 ＬはＦＢＩの強制捜査班を無線で指揮。|\t|現場からの中継映像のみでトラップの|有無や種類を判断し、的確な解除方法を|現場に伝えた。|\t|Ｌの協力により、ＦＢＩは闇ブローカー|組織の壊滅に成功──事件は解決した。=L took over command of the FBI investigation wirelessly.|\t|Through only live video from the site, he was able to detect the presence of traps and provide instruction on their deactivation.|\t|Thanks to L's assistance, the FBI succeeded in dismantling the shadow organization, and the case was solved.
 それから１年。|\t|クリエラでは、政府側と反政府側双方が|和平交渉のテーブルに着くことに合意。|\t|ようやく内戦終結への道筋が見え始めて|いたのだが……=One year later...|\t|The Criellan government and the rebels agreed to begin peace talks.|\t|At last, a path toward the end of the|civil war was in sight.
 そんな中、『クリエラの月』が|活動を再開したとの情報をつかんだ|ＦＢＩは、ただちに捜査を始めた。=Meanwhile, Criella Moon had resumed|its activities, and the FBI's investigation began once more.
-@n1、捜査命令は受け取ったか？\t|今度の事件のバックアップは、僕が担当|することになった。\v前回の難民救出作戦では、初任務だった|ことから君にはバックアップを担当して|もらったが、今回はフォワードだ。=@n0, you received the investigation|orders, correct? I have been tasked to provide you with assistance on this case.\vThe last refugee rescue operation was your first mission, but you're not on backup this time around.
+@n1、捜査命令は受け取ったか？\t|今度の事件のバックアップは、僕が担当|することになった。\v前回の難民救出作戦では、初任務だった|ことから君にはバックアップを担当して|もらったが、今回はフォワードだ。=@n2, you received the investigation|orders, correct? I have been tasked to provide you with assistance on this case.\vThe last refugee rescue operation was your first mission, but you're not on backup this time around.
 目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたそうだ。\v準備が出来次第、すぐに出発するぞ。=We're headed to Key West, Florida.|The organization seems to have a new base in the West Coast Bay Area.\vWe can leave immediately.
 僕が外を見張る。\t|その間に君は倉庫の内部を探れ。\t|何かあればすぐ無線で知らせる。=I’ll keep watch out here, you go check out the warehouse.\t|I’ll radio in if anything changes.
 事件はまだ初動捜査の段階であり、|ＦＢＩ上層部はＬの手を借りるまでも|ないと判断していた──だが。=The FBI directors had deemed L's assistance not to be necessary|at these early stages. However--
-しまった、罠だ！　逃げろ@n1！\t|僕も負傷した……聞こえるか@n1！\t|撤退！　撤退するんだ！=Damn! It's a trap!\t|They got me... Can you hear me, @n0!?\t|Get out of there!
+しまった、罠だ！　逃げろ@n1！\t|僕も負傷した……聞こえるか@n1！\t|撤退！　撤退するんだ！=Damn! It's a trap!\t|They got me... Can you hear me, @n2!?\t|Get out of there!
 背後からスタンガンで一撃され、|レイの声を聞きながら@n1は|意識を失った……=@n1 was hit from behind with a stun gun|and lost consciousness as Raye's voice rang in his ears.
-@n1、捜査命令は受け取ったわね？\t|今度の事件のバックアップは、私が担当|することになったわ。\v前回の難民救出作戦では、初任務だった|あなたにはバックアップを任せたけど|今回はフォワードをやってもらうわ。=@n0, you’ve already received the|orders for this investigation, right?\t|I’ve been asked to act as your backup.\vYou were on backup for the previous rescue operation as it was your first mission, but this time you’ll be in the lead.
+@n1、捜査命令は受け取ったわね？\t|今度の事件のバックアップは、私が担当|することになったわ。\v前回の難民救出作戦では、初任務だった|あなたにはバックアップを任せたけど|今回はフォワードをやってもらうわ。=@n2, you’ve already received the|orders for this investigation, right?\t|I’ve been asked to act as your backup.\vYou were on backup for the previous rescue operation as it was your first mission, but this time you’ll be in the lead.
 目的地はフロリダ州キーウエスト。\t|西海岸ベイエリアに、組織の新拠点と|思われる倉庫が発見されたらしいの。\v準備が出来次第、すぐに出発よ。=We’ll be flying to Key West, Florida.\t|It seems the organization have set up a new base in the West Coast Bay Area.\vWe’ll leave as soon you’re ready.
 私が外を見張るわ。\t|その間に君は倉庫の内部を探って。\t|何かあればすぐ無線で知らせるわ。=You take a look in the warehouse. I'll keep watch out here and radio you if anything happens.#female
-しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=Shoot! It was a trap! Run, @n0!\t|I've been hit... Nnngh...\t|@n0, get out of there!!
+しまった、罠よ！　逃げて@n1！\t|私も負傷したわ……うっ……\t|@n1、撤退しなさい！！=Shoot! It was a trap! Run, @n2!\t|I've been hit... Nnngh...\t|@n2, get out of there!!
 背後からスタンガンで一撃され、|ナオミの声を聞きながら@n1は|意識を失った……=@n1 was hit from behind with a stun gun|and lost consciousness as Naomi's cries rang in her ears.
 !FILE:dat_script.bin/file003_PACK2/file007.bin
 さすがはＬ。\t遅かれ早かれ気づかれると|思っていましたが、予想以上にあっさり|見破られてしまいましたね。=Impressive, L.\t I knew you would notice sooner or later, but you realized a lot quicker than I expected.
@@ -269,7 +269,7 @@
 情報キーワード|@fR【難民の移送方法】@fW|を入手した。=Keyword added:|@fR“Transporting Refugees"@fW
 !FILE:dat_script.bin/file004_PACK2/file007.bin
 @n1さんも災難でしたね。\t|調べたところ、ＦＢＩでの初仕事が|私たちの組織の壊滅作戦だそうで。\vもう数ヶ月、配属が遅れていれば|こんな事件に巻き込まれずに済んだと|言うのに…=I feel for you, @n1.\t According to my research, your hand in the organization’s destruction was your first job with the FBI.\vIf only you had been assigned a few months later, you wouldn’t be here right now...
-@n0さんを誘拐して災難なのは、|あなたの方かもしれませんよ？=Kidnapping @n1, who’s to say it isn’t|your luck that’s run out.
+@n0さんを誘拐して災難なのは、|あなたの方かもしれませんよ？=Kidnapping @n0, who’s to say it isn’t|your luck that’s run out.
 どういうことです？=What do you mean?
 さあ、どういうことでしょう？=Well, I wonder.
 それより、ひとつ質問しても？=More importantly, may I ask a question?
@@ -286,7 +286,7 @@
 !FILE:dat_script.bin/file004_PACK2/file008.bin
 先ほど言ったとおり、復讐ですよ。\t|何か疑問でも？=Like I told you before, it’s revenge.\t|What reason could you have to doubt me?
 私なら、相手に復讐する場合、|相手が最も嫌がることをします。=If I were trying to get revenge on someone, I’d do whatever would hurt them the most.
-たとえば…私にとって最も嫌なことは|私の指示のミスによって@n0さんが|傷付くことです。=For example... My worst nightmare would be that @n1 got hurt because I made a|mistake.
+たとえば…私にとって最も嫌なことは|私の指示のミスによって@n0さんが|傷付くことです。=For example... My worst nightmare would be that @n0 got hurt because I made a|mistake.
 そういうことは十分起こりうると|思いますが？=There’s enough chance of that happening, right?
 ええ…\tしかし、それを偶然に任せるのは|いささか手ぬるいのではないか、と私は|言っているんです…=That is true...\t But I think that leaving it to chance is awfully soft.
 情報キーワード|@fR【復讐ゲーム】@fW|を入手した。=Keyword added:|@fR“Revenge Game"@fW
@@ -312,7 +312,7 @@
 これをどう説明すればいい…=So how do you explain this...?
 『クリエラの月』の残党が占拠した、\t|そう考えればつじつまは合いますよ？=It was occupied by the remnants of Criella Moon.\t That fits, doesn’t it?
 無駄話はこのくらいにしましょう。\t|爆発まで残り時間はどれくらいですか？|あまりゆとりはないと思いますよ？=Enough with this talk.\t|How long is there left until things go boom?|I don't think you have time to waste, do you?
-その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=I agree with you on that point.\t|Right now, it’s more important that @n1|and I work together to stop the explosion.\vBy the way Mister J, do you have any women working with you?
+その点に関してはあなたに同意します。\t|今は@n0さんと協力して、爆破を|阻止することが最も重要です。\vところで、ミスターＪ、\tあなたの仲間に|女性は含まれていますか？=I agree with you on that point.\t|Right now, it’s more important that @n0|and I work together to stop the explosion.\vBy the way Mister J, do you have any women working with you?
 何をわけのわからないことを？\t|せいぜい、がんばってください。\t|では、また…=What in the world are you on about?\t|You’d better stop messing around.\t|I’ll be watching you...
 !FILE:dat_script.bin/file005_PACK2/file006.bin
 Ｌ、無駄話をしているヒマはないと|思いますよ？=Is now really a good time for idle chit-chat, L?
@@ -346,14 +346,14 @@
 俺のトラップが不完全だと！？\t|聞き捨てならんな、Ｌ！=Flawed!?\t|Don’t think I’ll just let that slide, L!
 聞き捨ててもらっては困りますよ。\t|私は、私とＦＢＩへの復讐としては|正しくない…と言ったんです。=I’d rather you didn’t, either.\t|Like I said, as revenge against myself and the FBI, this is wrong.
 何が言いたい！？=What are you trying to suggest!?
-今回の@n0さん誘拐事件の目的は|私とＦＢＩへの復讐ではありません。\t|目的は他のところにあります。=The reason @n1 was kidnapped was not about getting revenge on us. There’s some other motive.
+今回の@n0さん誘拐事件の目的は|私とＦＢＩへの復讐ではありません。\t|目的は他のところにあります。=The reason @n0 was kidnapped was not about getting revenge on us. There’s some other motive.
 そんなことはない！\t|ジェフリーのヤツが言っていただろう？|忘れたのか！=You’re way off the mark there!\t|Didn’t Jeffery already tell you?|Don’t tell me you forgot?!
 覚えていますよ。\t|しかし、それは表向きの理由で、|本当の目的は別にあります。=I remember.\t|But that is only the alleged reason.|The true reason lies elsewhere.
 な、なんだと！\t|だったらそれを説明してみせろ！=W-What!?\t|Explain yourself!
 !FILE:dat_script.bin/file006_PACK2/file007.bin
 あなたの依頼人はハウスキーパーという|プロの腕を買っておきながら、技術を|１００％使い切るつもりはない…\v必要な部分だけ利用して、自分の目的を|達成しようと考えているのです。=Your client paid for your skills as the Housekeeper, but they’ve no intention of using those skills to the fullest.\vThey only want to use what they need to achieve their goals.
 どういうことだ？=What do you mean?
-あなたの腕を１００％使うということは|@n0さんを殺すということです。\t|だが、依頼人にはそのつもりはない。\vそれはつまり、復讐以外のところに|本当の目的がある、ということです！=Using your skills to the fullest would mean killing @n1.\t|But, your client has no intention to do that.\vWhich means, revenge isn’t their true goal!
+あなたの腕を１００％使うということは|@n0さんを殺すということです。\t|だが、依頼人にはそのつもりはない。\vそれはつまり、復讐以外のところに|本当の目的がある、ということです！=Using your skills to the fullest would mean killing @n0.\t|But, your client has no intention to do that.\vWhich means, revenge isn’t their true goal!
 くっ…\tだったら、目的は何なんだ！=Gck...\t Then, what is it!?
 詳しいことはまだわかりませんが、|あなたの依頼人の目的は、おそらく…\t|私こと『Ｌ』あるのです。\vわかりやすく言えば、|『この事件にＬを介入させる』という|状況そのものが犯人の目的なのです！=I don’t know for sure yet, but your client’s objective is probably...\t me, “L”.\vTo put it simply, this very situation of “having L intervene in the case” is what they’re after.
 そんな…=That’s--
@@ -362,7 +362,7 @@
 …少しずつ見えて来ました。\t|しかし、ハウスキーパーの言うように|今はトラップを解くしかないですね…\vさあ、急ぎましょう。=It looks like we’re getting ever closer to the truth.\t But as the Housekeeper said, all we can do for now is solve the traps...\vLet’s keep going.
 !FILE:dat_script.bin/file006_PACK2/file008.bin
 Ｌ、\t俺のトラップにビビッて慎重になる|気持ちはわかるが、あんたらに残された|時間は多くはないぞ。=L,\t I get that you’re scared and being cautious of my traps, but you’re running out of time here.
-ええ、承知していますよ。\t|ですが、かかっているのは私のではなく|@n0さんの命ですからね…\v最大限の慎重さと最低限のロスで|あなたのトラップを破ってみせますよ。\t|必ず…=Yes, I know.\t|But it’s not my life that’s at risk,|it’s @n1’s.\vWe’re going to defeat your traps with the utmost caution and minimum losses.\t|That’s a promise...
+ええ、承知していますよ。\t|ですが、かかっているのは私のではなく|@n0さんの命ですからね…\v最大限の慎重さと最低限のロスで|あなたのトラップを破ってみせますよ。\t|必ず…=Yes, I know.\t|But it’s not my life that’s at risk,|it’s @n0’s.\vWe’re going to defeat your traps with the utmost caution and minimum losses.\t|That’s a promise...
 ふん、せいぜい急ぐことだな。=Hmph. You’d better make it snappy, then.
 …ハウスキーパーはプロで、|仕事の受注は金次第ですが…=...The Housekeeper is a professional, and he does what he gets paid to do.
 トラップを仕掛けた時点で仕事は完了…\t|クライアントに代わって表に出るような|積極性を見せたことはなかったはず…=When the traps are set, his job is over.\t|I don’t recall there being any cases where he appeared on a client’s behalf.
@@ -370,7 +370,7 @@
 情報キーワード|@fR【ハウスキーパーの積極性】@fW|を入手した。=Keyword added:|@fR“Being Proactive"@fW
 !FILE:dat_script.bin/file006_PACK2/file009.bin
 おいＬ、さっきの俺のアドバイスを|忘れたのか？\t　もっと急がないと|時間切れで最後まで行けないぜ？=Oi L, did you forget what I said?\t|If you don’t get a move on, you won’t make it to the end.
-さっきの私の言葉を忘れましたか？\t|@n0さんの命がかかっている以上、|ミスは許されないんです。\vそれに…最後まで行けない方が|あなたにとっては都合が良いのでは|ありませんか？\vまるで、私に最後まで行って欲しいと|言っているように聞こえますよ？=Didn’t you hear what I said?\t|As long as @n1’s life is on the line,|I can’t afford to make any mistakes.\vBesides... Wouldn’t it be better for you if we didn’t make it to the end?\vIt sounds almost as if you’re hoping we make it through.
+さっきの私の言葉を忘れましたか？\t|@n0さんの命がかかっている以上、|ミスは許されないんです。\vそれに…最後まで行けない方が|あなたにとっては都合が良いのでは|ありませんか？\vまるで、私に最後まで行って欲しいと|言っているように聞こえますよ？=Didn’t you hear what I said?\t|As long as @n0’s life is on the line,|I can’t afford to make any mistakes.\vBesides... Wouldn’t it be better for you if we didn’t make it to the end?\vIt sounds almost as if you’re hoping we make it through.
 ふ、ふん…！\t　そんなことはない。\t|好きなだけのんびりやればいいさ。=H-Hmph!\t You’ve got your wires crossed.\t|Meander all you want, I don’t care.
 ハウスキーパーが私を急がせている|のは、ほぼ間違いありません…\t|しかし、なぜでしょう…=There’s no doubt that the Housekeeper is trying to rush us.\t|But, why...?
 情報キーワード|@fR【ハウスキーパーの矛盾】@fW|を入手した。=Keyword added:|@fR“The Paradox"@fW
@@ -401,23 +401,23 @@
 私は、ティーブレイクを楽しんで来た|だけですよ。\t|甘くて美味しい情報をお茶菓子にね。=I only went to enjoy my tea break.\t|As for dessert, I had some sweet and juicy information on the side.
 ええ、おかげで確信を持つことが|できました。=Yes, thanks to you I am now convinced.
 何を確信したというんだ！？=Convinced of what!?
-まあ見ていてください。\t|@n0さん、先を急ぎましょう。=You’ll find out soon enough.\t|Come on @n1, let’s hurry on.
+まあ見ていてください。\t|@n0さん、先を急ぎましょう。=You’ll find out soon enough.\t|Come on @n0, let’s hurry on.
 起爆装置は──おそらくあと２つです。=The detonators-- There’s probably only two more.
 !FILE:dat_script.bin/file008_PACK2/file006.bin
-@n0さんの体力を考えると、|このトラップもそろそろ|終わりにしたいところですが…=Considering how exhausting this must be for @n1, I think I’d like to finish with this|trap here.
+@n0さんの体力を考えると、|このトラップもそろそろ|終わりにしたいところですが…=Considering how exhausting this must be for @n0, I think I’d like to finish with this|trap here.
 このトラップを終わりにするだと？=You want to finish with this trap...?
 ええ、見えました。\t|この大掛かりで、あまりにも単純な|トラップボックスのからくりが──=Yes, it’s all quite clear to me.\t|I see what’s going on with this huge, incredibly simple “trap box”.
 言ってくれるじゃねえか。\t|だったら、そのからくりとは何だ！=You don’t say.\t|Go on then, reveal the trick!
-@n0さんのいるトラップボックスは|ホテルの中ではありませんね。=The trap box that @n1 is in, isn’t|a hotel, is it?
+@n0さんのいるトラップボックスは|ホテルの中ではありませんね。=The trap box that @n0 is in, isn’t|a hotel, is it?
 だったら、どこだというんだ？\t|ジェフリーのようにハッタリで落とせる|ほど、俺は甘くないぜ！=Then, where is it?\t|If you think I’ll just fall for your bluffs like Jeffery, then you’re as dumb as him!
 いいでしょう、説明して差し上げます。=Alright then, allow me to explain.
 !FILE:dat_script.bin/file008_PACK2/file007.bin
-@n0さん、そろそろここが|『ホテル』ではなく何なのか、|確かめに行きましょう。\v今、解除したトラップに使用されていた|爆弾を使わせてもらいますが、異論は|ありませんね、ハウスキーパー？=@n1, I believe it’s time you see for|yourself what this place actually is.\vI’d like to use the bomb from the trap we just disarmed. You’ve no objections, do you, Housekeeper?
+@n0さん、そろそろここが|『ホテル』ではなく何なのか、|確かめに行きましょう。\v今、解除したトラップに使用されていた|爆弾を使わせてもらいますが、異論は|ありませんね、ハウスキーパー？=@n0, I believe it’s time you see for|yourself what this place actually is.\vI’d like to use the bomb from the trap we just disarmed. You’ve no objections, do you, Housekeeper?
 す、好きにしやがれ！=D-Do what you want!
-@n0さん、解除したトラップから|爆弾を取り出し、廊下の突き当たりへ|向かいましょう。=@n1, remove the bomb and head to the|end of the corridor.
+@n0さん、解除したトラップから|爆弾を取り出し、廊下の突き当たりへ|向かいましょう。=@n0, remove the bomb and head to the|end of the corridor.
 通りがかりにある扉に|制御パネルの表示がありましたが、|覚えていますか？\vついでによって見ましょう。=Do you remember the control panel we passed?\vIts importance will become apparent very soon.#qc I have no idea where he’s talking about. There’s a panel INSIDE the elevator control room, but nothing on any doors that you pass unless he means the elevator which comes later.
 !FILE:dat_script.bin/file008_PACK2/file008.bin
-@n0さん、まだ先は長そうです。\t|つらい状況だと思いますが、私も全力で|フォローしますので…=@n1, I’m afraid it seems like you still|have a long journey ahead.\t It will be tough, but I’ll do my best to support you.
+@n0さん、まだ先は長そうです。\t|つらい状況だと思いますが、私も全力で|フォローしますので…=@n0, I’m afraid it seems like you still|have a long journey ahead.\t It will be tough, but I’ll do my best to support you.
 …用の…回線の準………だろうな？=...The control... for the...
 …信室のメン……ンスは、完了…\t|電波状…………良好………=...Communication... nk, okay.\t|Signal... ready.
 …今のは一体…？\t|電波の混線のようですが…\t|覚えておきましょう…=...What was that?\t It seemed like we picked up some interference...\t That’s worth keeping a mental note of.
@@ -449,9 +449,9 @@
 わ、わかりました、会長…=Y-Yes, sir.
 予定通りの処理…\t気になりますね。|まだ何か隠し玉があるとすれば…=On schedule...?\t I wonder.|Could they still be hiding something from us...
 急いでジェフリーを止めなくては…！=...You have to stop Jeffery!
-@n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n1,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vMake for the walkway first.\vIt’s on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time!
+@n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n0,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vMake for the walkway first.\vIt’s on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time!
 !FILE:dat_script.bin/file009_PACK2/file008.bin
-@n0さん、\t|その扉を開けてください。=@n1, please open that door.
+@n0さん、\t|その扉を開けてください。=@n0, please open that door.
 @n0さん、驚きましたか？\vそうです。この『トラップボックス』は|『ホテル』ではなく、海上を航行する|『客船』そのものなんです！\v詳細はワタリに調査してもらっている|ところですが…\vこれは、マーメイド・グループ傘下の|マーメイドシップビルダーズ社が|作った豪華客船『グラナダ号』です。=Are you surprised?\vThat’s right. This trap box is not a hotel but a cruise ship, on the sea.\vWatari is currently investigating the full details.\vWhat we do know is that you’re on the “Granada”, a luxury cruise ship built by a subsidiary of the Mermaid Group.
 情報キーワード|@fR【豪華客船グラナダ号】@fW|を入手した。=Keyword added:|@fR“The Granada"@fW
 ホテルに似た客室、\t記録にない地震、\t|狭い通路、\tふさがれた窓、\t|錆びてカビたスタッフルーム…\v『客船』というキーワードひとつで|すべてが説明つきます。\t|ずいぶん手の込んだ仕掛けです。\vハウスキーパーの仕事としては、|色々思うところもありますが…=Hotel-like rooms,\t an unrecorded earthquake,\t narrow corridors,\t blocked windows,\t rust and mold in the staff room...\vThe word “cruise ship” accounts for them all.\t It is a very elaborate set-up.\vAs for it being the Housekeeper’s work, I still have a lot of unanswered questions.
@@ -462,9 +462,9 @@
 シロウト相手だと聞いて安心したか？=Do you feel better knowing you’re up against an amateur?
 いえ、むしろ、やっかいですね。\t|あなたの手口なら細部まで読めますが、|シロウトは何をするかわかりません…=No, on the contrary.\t I can see through your techniques, but with an amateur, you never know what they’re going to do.
 ふん。せいぜいがんばるんだな。=Hmph. At least try to put on a good show.
-@n0さん、始めましょう。\t|まずは起爆装置の解除です。\t|解除後、船を停止させてください。\v急かすつもりはありませんが、|これだけの大型船舶だと、停止までに|それなりの時間と距離が必要です。\v爆弾を解除しても、船が港や陸地に|突っ込んでしまったらおしまいです。\v大丈夫。\t爆弾はあと１つ。\tこれまで同様|慎重かつ迅速に行動すれば、必ず|この爆弾客船を止められます！=We’d best get a move on, @n1.\t|First, you need to disarm the last trap.\t|Once that’s done, stop the ship.\vI don’t mean to rush you, but with such a large ship, it takes time for it to come to a full stop.\vEven if you disarm everything, if the ship reaches a port or land, it’ll be game over.\vDon't worry.\t There’s only one bomb left.\t If you act as carefully and quickly as you have been, I know you can do it!
+@n0さん、始めましょう。\t|まずは起爆装置の解除です。\t|解除後、船を停止させてください。\v急かすつもりはありませんが、|これだけの大型船舶だと、停止までに|それなりの時間と距離が必要です。\v爆弾を解除しても、船が港や陸地に|突っ込んでしまったらおしまいです。\v大丈夫。\t爆弾はあと１つ。\tこれまで同様|慎重かつ迅速に行動すれば、必ず|この爆弾客船を止められます！=We’d best get a move on, @n0.\t|First, you need to disarm the last trap.\t|Once that’s done, stop the ship.\vI don’t mean to rush you, but with such a large ship, it takes time for it to come to a full stop.\vEven if you disarm everything, if the ship reaches a port or land, it’ll be game over.\vDon't worry.\t There’s only one bomb left.\t If you act as carefully and quickly as you have been, I know you can do it!
 !FILE:dat_script.bin/file009_PACK2/file009.bin
-展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。\vハウスキーパー、\tそれにしても|大きな客船ですね…\vまさかとは思いますが、@n0さん|以外にも同じようなお客さんは|いたりしませんよね？=There didn’t seem to be any traps in the observation cabin.\t|We should check elsewhere.\vSpeaking of which, Housekeeper.\t|It is a large ship.\vI can’t see there being, but to confirm, there aren’t any passengers on the ship other than @n1, are there?
+展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。\vハウスキーパー、\tそれにしても|大きな客船ですね…\vまさかとは思いますが、@n0さん|以外にも同じようなお客さんは|いたりしませんよね？=There didn’t seem to be any traps in the observation cabin.\t|We should check elsewhere.\vSpeaking of which, Housekeeper.\t|It is a large ship.\vI can’t see there being, but to confirm, there aren’t any passengers on the ship other than @n0, are there?
 おまえが世の中にザラにいる程度の|ショボイ探偵なら、そういう可能性も|あるかもしれない。\tどう思う？=If you’re half as dumb as those other good-for-nothing detectives out there,|you can’t rule out the possibility.\vWhat do you think?
 …感じの悪い質問ですね。=...That’s in bad taste.
 ふん。客は@n1だけだ。\t|外から出入できないように、出入口は|コンピューターで管理している。=Hmph. @n1 is the only guest.\t The|entrance and exit are controlled by computer so that no one can get in or out.
@@ -486,9 +486,9 @@
 !FILE:dat_script.bin/file010_PACK2/file007.bin
 おそらく彼はＣＬＮの幹部の一人です。\t|次期ＣＬＮ会長の座を得るために、|すべての事件を仕組んだ…\v私を巻き込んで新商品を開発し、莫大な|利益をもたらせば、ライバルの会長候補|たちに勝てると考えたのでしょう。=We can assume he is one of the CLN’s senior figures.\t He arranged this whole affair to secure his place as their next director.\vHe probably thought that if he could use me to develop a hit new product, he could beat his rivals to the seat.
 …Ｌ、\tあなたの前では、どんな秘密も|存在し得ないのですね…=...I guess it’s true that there can be no secrets in your presence.
-ジェフリー、あなたがどういう経緯で|この事件に関わったかはわかりません。\t|しかし、あなたに爆弾は似合わない…\v船を停めさせてください。\t|@n0さんと私に…=Jeffrey, I don’t know how you came to be involved in this case.\t But, one thing I do know is that bombs don’t suit you.\vStop the ship.\t|Together with @n1 and myself...
+ジェフリー、あなたがどういう経緯で|この事件に関わったかはわかりません。\t|しかし、あなたに爆弾は似合わない…\v船を停めさせてください。\t|@n0さんと私に…=Jeffrey, I don’t know how you came to be involved in this case.\t But, one thing I do know is that bombs don’t suit you.\vStop the ship.\t|Together with @n0 and myself...
 エレベーターのロックを解除します…=I’m unlocking the elevator...
-@n0さん、急いでブリッジへ|向かってください！=@n1, hurry to the bridge!
+@n0さん、急いでブリッジへ|向かってください！=@n0, hurry to the bridge!
 !FILE:dat_script.bin/file010_PACK2/file008.bin
 ジェフリー、今すぐ船を停めてください。=Jeffrey, please stop the ship.
 できません…=I can’t...
@@ -523,13 +523,13 @@
 な、なんだと…\tジェフリー…？=W-What are you talking about?\t Jeffery...?
 アロイス会長との通信を|断ったのですか？=You cut off communications with Mr. Alois?
 はい。|これで会長からの妨害はありません。\t|船を停めましょう。私も手伝います。=Yes.|Now he can’t interfere anymore.\t|Let’s stop this ship. I’ll help you.
-では、@n0さんと協力して、|全システムの再起動を行ってください。=Right. Please help @n1 to reboot the system.
+では、@n0さんと協力して、|全システムの再起動を行ってください。=Right. Please help @n0 to reboot the system.
 それでは間に合いません。\t|システム再起動には１５分必要ですが、|その間にエンジンが爆発します…！=That’ll take too long!\t It will take 15 minutes to restart the system, by which point the engines will have exploded...!
 Ｌ…\t米軍の介入を要請してください。\t|@n1さんを助けた後、この船を|撃沈してもらうのがベストです。=L...\t Please ask the US military to intervene.\t After rescuing @n1, it would|be best to have them sink the ship.
 いえ…\tそれはベストではありません。\t|和平調停中のクリエラ領内に米軍が|介入すれば、話がこじれるだけです。\v我々の力でエンジンを止めるのが|今、出来うるベストの方法です。=No...\t that wouldn’t be for the best.\vIf the US military appears in Criella while the peace mediation is still going on, it will only complicate things.\vThe best thing we can do now is to stop the engines ourselves.
 この船のエンジンは、複数の発電機と、|電力モーターを回転させる推進器から|成る電気推進式エンジンです。\v機関室へ行き、まず、発電機と推進器を|遮断して船の足を止め、次にエンジンを|１つずつ直接停止させましょう。\vその上でシステム再設定をすれば、|暴走や爆発の確率を低くできますし、|すべてはこの船の上で終わります。=The ship's engines are electric propulsion engines, consisting of several generators and a propulsion unit that turns the motor.\vGo to the engine room and stop the ship by shutting off the generators and propulsors, then shut down the engines.\vIf you can reconfigure the system, you can stop the engines overheating and shut the operation down for good.
 わかりました……\v機関室へ行くには、|船倉を経由しなくてはいけません。\vプロムナードにある階段を使えば|行けるはずです。|\t鍵はそこの引き出しにあります。=Alright...\vTo get to the engine room, you need to go through the ship's hold.\vYou can get there using the walkway stairs.|\tThere’s a key in the drawer over there.
-では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=I’ll be counting on you to assist @n1|from the bridge and disarm the autopilot.\v@n1, you’re in charge of stopping the engines.
+では、あなたはには@n0さんを|ブリッジから支援していただくと同時に|オートパイロットの解除を頼みます。\v@n0さん、あなたはエンジンの|分断をお願いします。=I’ll be counting on you to assist @n0|from the bridge and disarm the autopilot.\v@n0, you’re in charge of stopping the engines.
 「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=“I am indebted to you”, hm?|There’s more to this story.\t|I’ll have Watari look into it.
 !FILE:dat_script.bin/file011_PACK2/file006.bin
 急いで次に進みましょう。=Let’s move on.
@@ -556,7 +556,7 @@
 この船を停めるために、|力を貸してください…|今度こそ…=Please help me to stop this ship.|We can do it, together.
 …わかりました。\t|全力でサポートします。=...I understand.\t|I’ll help you in any way I can.
 ありがとう。=Thank you.
-では@n0さん、先へ進みましょう。|いよいよ最後の仕事です。=Well, @n1, let’s move on.|We have one last job to do.
+では@n0さん、先へ進みましょう。|いよいよ最後の仕事です。=Well, @n0, let’s move on.|We have one last job to do.
 !FILE:dat_script.bin/file011_PACK2/file008.bin
 ジェフリー、ハウスキーパーとの回線を|開いてください。=Jeffrey, please open a line to the Housekeeper.
 …はい。=Okay...
@@ -588,8 +588,8 @@
 情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=Keyword added:|@fR“Jeffery Involved in Plan"@fW
 !FILE:dat_script.bin/file011_PACK2/file011.bin
 ダメだ…！\t　もうどうにもならない！|早く、早く船を沈めてくれ！=It’s no good!\t There's nothing we can do!|W-We need to sink the ship!
-沈めるのは最後の手段です。\t|そのために、@n0さんは命を|かけているんです。=Sinking the ship is the last resort.\t|@n1 has put their life on the line to|prevent that.
-@n0さんの努力と勇気を無駄に|しないでください！=Don't waste @n1’s hard work and|courage!
+沈めるのは最後の手段です。\t|そのために、@n0さんは命を|かけているんです。=Sinking the ship is the last resort.\t|@n0 has put their life on the line to|prevent that.
+@n0さんの努力と勇気を無駄に|しないでください！=Don't waste @n0’s hard work and|courage!
 くっ…\tや、やります…=Ngh...\t Alright.
 !FILE:dat_script.bin/file011_PACK2/file012.bin
 Ｌ、やはり無理だ！\t　船を停めても、|ここにあるのはガラクタばかりだ…\t|証拠になんてならない…=This isn’t going to work, L!\t Even if we stop the ship, all of this stuff is junk. It’s not evidence...
@@ -600,9 +600,9 @@
 はい…アロイス会長の命令で私が|セットしました。\vアロイス会長の手元にある制御装置で|発電機と推進器を自由にコントロール|することが可能です。=Yes... The chairman ordered me to set it up.\vHe has a control unit which allows him to control the generators and the propulsors at will.
 つまり、暴走させることが可能だと|いうわけですね？=So you’re saying he could send them into overdrive at any time?
 …その通りです。\t|データリンク用の回線を断てば、|発電機と推進器を分離できます。=...That’s right.\t If you cut off the data link, you can uncouple the generators and the propellers.
-…ということです。\t|@n0さん、回線を断ちましょう。=...Well, there we have it.\t|@n1, cut the line.
+…ということです。\t|@n0さん、回線を断ちましょう。=...Well, there we have it.\t|@n0, cut the line.
 !FILE:dat_script.bin/file012_PACK2/file006.bin
-ジェフリー、\t@n0さんと合流して|制御パネルを操作してください。=Jeffrey,\t please join up with @n1 and operate the control panel.
+ジェフリー、\t@n0さんと合流して|制御パネルを操作してください。=Jeffrey,\t please join up with @n0 and operate the control panel.
 はい！=On it!
 あとは、私に任せてください！=I’ll take care of this.
 おっと、その制御パネルには|まだ触らない方がいい。=Oops, you better not touch that control panel yet.
@@ -612,7 +612,7 @@
 うそだ…\tそんな話聞いてない！=No way...\t I wasn’t told about this!
 バカか、おまえは？\t|おまえたちだって俺に黙って|色々やってくれただろうに。=Are you that thick?\t|You did plenty of stuff you didn’t tell me, right?
 くっ…！=Ngh...!
-@n0さん、ジェフリー、|言うことを聞いてください。\vハウスキーパーの言うことが本当でも|ウソだとしても関係ありません。\v私たちは、７つの起爆装置を|解除しましたが、爆弾そのものは|まだ生きているのですから…！=@n1, Jeffrey, listen to me.\vIt doesn’t matter if the Housekeeper is telling the truth or not.\vWe’ve disarmed seven detonators, but the explosives themselves are still dangerous.
+@n0さん、ジェフリー、|言うことを聞いてください。\vハウスキーパーの言うことが本当でも|ウソだとしても関係ありません。\v私たちは、７つの起爆装置を|解除しましたが、爆弾そのものは|まだ生きているのですから…！=@n0, Jeffrey, listen to me.\vIt doesn’t matter if the Housekeeper is telling the truth or not.\vWe’ve disarmed seven detonators, but the explosives themselves are still dangerous.
 さすがはＬ、いい判断だ。=How very understanding you are, L.
 よし、じゃあ、最後の勝負と行く前に|おまえたちが隠し持っている物騒な|モノを全部出せ！=Alright, before we start the final round, I’ll have you empty out your pockets so you can’t cheat.#2nd round
 @n1はスタンガンを捨てた。=@n1 threw away their stun gun.
@@ -623,13 +623,13 @@
 この船を爆破することなど無意味です。=It’s meaningless to blow up the ship.
 意味なんてどうだっていい。|俺が勝つか、あんたが勝つか…|これは勝負なんだよ。\vおまえは、俺との『勝負』を続けるしか|ないんだ…さあ、選べ！=I don’t care about that.|Who will reign supreme, you or me...|This is sport.\vYou have no choice but to continue this game with me... Now, choose!
 !FILE:dat_script.bin/file012_PACK2/file007.bin
-@n0さん！！|右側が爆破スイッチです！！=@n1!!|The detonation switch is on the right!
+@n0さん！！|右側が爆破スイッチです！！=@n0!!|The detonation switch is on the right!
 もう勝負は終わったんです！|無駄なことはやめなさい！=The match is already over.|Don’t do anything stupid!
 たとえ俺が負けたとしても、|この船をブッ飛ばして、ＦＢＩや|ジェフリーを道連れにすれば…\v犠牲を出したおまえも『負け』同然だ！|ははっ…はははははははっ！=Even if you say I’ve lost, if I blow up this ship and take your friends with me, you’ll be the biggest loser!\vAha... HA HA HA!
 !FILE:dat_script.bin/file012_PACK2/file008.bin
 ジェフリー、あなたの出番も|すぐに来るはずです。\vそろそろ機関室に向かって|おいてもらえますか？=Jeffrey, we’ll be needing you very soon.\vCould you please start heading to the engine room now?
-ただし、@n0さんが|すべてを解除するまでこのフロアには|入らないでください。=Don’t enter until @n1 has disarmed everything.
-それでは、@n0さん…\t|最後のミッションを始めましょう。=Now then, @n1...\t|It’s time we get this show on the road.
+ただし、@n0さんが|すべてを解除するまでこのフロアには|入らないでください。=Don’t enter until @n0 has disarmed everything.
+それでは、@n0さん…\t|最後のミッションを始めましょう。=Now then, @n0...\t|It’s time we get this show on the road.
 !FILE:dat_script.bin/file012_PACK2/file009.bin
 どうだ、俺の主催するゲームは？\t|ワールドシリーズにふさわしい|勝負になりそうだろう？=How are you finding this game of mine?\t|It’s a match worthy of a World Series,|isn’t it?
 …いえ、これ以上、くだらない|ゲームはありませんね。=...No, I doubt there has ever been such a pathetic showing.
@@ -697,7 +697,7 @@
 @fR【Ｌに聞ける回数】@fW|の上限が増えた！=The @fRnumber of times you can ask L for help@fW has increased!
 世の中、こんなに都合よく欲しいものが|落ちていることはないのですが…=I’ve never known there to be so many useful things just lying around...
 情報キーワード|@fR【意図的な落し物】@fW|を入手した。=Keyword added:|@fR“Convenient Tools"@fW
-@n0さん、あなたの観察力は|なかなか鋭いものがありますね。=@n1, you have a very keen eye.
+@n0さん、あなたの観察力は|なかなか鋭いものがありますね。=@n0, you have a very keen eye.
 あなたがＦＢＩの捜査官でよかった。\t|民間人では、なかなかこうは行きません|からね…=I’m glad that you’re an FBI agent.\t|This would be a very challenging situation for a regular civilian...
 情報キーワード|@fR【ＦＢＩ捜査官】@fW|を入手した。=Keyword added:|@fR“FBI Agent"@fW
 !FILE:dat_script_f01.bin/file001_PACK2/file017.bin
@@ -715,8 +715,8 @@
 !FILE:dat_script_f01.bin/file003_PACK2/file011.bin
 扉を開きます。|よろしいですか？=Open door?
 !FILE:dat_script_f01.bin/file004_PACK2/file006.bin
-……聞こえますか？　私はＬです。\v聞こえたら返事をしてください。\t|あなたは@n0さんですね？=Can you hear me? I'm L.\vRespond if you can hear me.\t|You're Agent @n0, correct?#gender neutral
-あなたは@n0ですか？=Are you @n1 @n0?
+……聞こえますか？　私はＬです。\v聞こえたら返事をしてください。\t|あなたは@n0さんですね？=Can you hear me? I'm L.\vRespond if you can hear me.\t|You're Agent @n2, correct?#gender neutral
+あなたは@n0ですか？=Are you @n1 @n2?
 電波状況がよくないようですね…\t|もう一度、呼びかけてみましょうか…=There must be some interference with the signal. I'll call you back.#no
 よかった、無事でしたか。\t|いきなりですが、状況を説明します。=Good. I'm glad you're safe. Now, let me explain the current situation.#yes
 ３日前、あなたは誘拐されました。\t|『クリエラの月』の新たな拠点だと|思われる場所を捜査中のことです。\v犯人はネゴシエイターに私を指名し、|本日、通信機を送りつけて来ました。\t|今、その通信機で話をしています。\vおそらく、新拠点の情報は|あなたを誘拐するための罠として|意図的に流されたのでしょう。\v前回の作戦で、組織を壊滅させた私と|ＦＢＩへの復讐が犯行の動機ではないか|と思われます。\tそう──\v今回の事件には『クリエラの月』が|関与している可能性が高い。\t|となると問題は\t──トラップです。\v救助隊を派遣したいところですが、|まだ、あなたの居場所を特定するには|至っていません。\v３日あれば世界中のどこにでも移動は|可能ですし、当然、通信機の逆探知は|できないように細工されています。\vつまり、あなたは私との交信のみで|そこから脱出するしかないのです。\t|状況は把握できましたか？=You were kidnapped three days ago while investigating what was believed to be Criella Moon's new base of operations.\vThe perpetrator requested I act as the negotiator and sent me this wireless communicator.\vThe new base's location may have been leaked deliberately to lure you into a trap.\vTheir motivation seems to be revenge for mine and the FBI’s involvement in shutting down their previous operations.\vYes, there is a high possibility that Criella Moon is behind this.\t|Which introduces a new problem... \tTraps.\vI would like to send in a rescue team, but I haven't yet been able to pinpoint your exact whereabouts.\vYou could have been moved anywhere, and this communicator was designed to prevent us locating you through it.\vOur only option is to work together to get you out of there.\t|Do you understand the situation?
@@ -806,8 +806,8 @@
 処理を誤れば──ドカン。\t|一巻の終わりです。\vでも、落ち着いてください。\t|この型のトラップはこれまでに何度も|処理したことがあります。\v私の指示に従って、冷静に処理すれば|必ず解除できるはずです。\t|始めましょう。=One wrong step and boom.\t|End of the line.\vJust try to stay calm.\t|I've dealt with this sort of trap on numerous occasions.\vFollow my every instruction and don't panic, and everything will be fine.\t|Now, let's get started.
 このトラップ、仕掛けは単純ですが|よくできています。=The mechanism for that trap was simple,|but well-implemented.
 とはいえ、あなたの解除の手つきも|なかなかのものでしたよ。\t|この調子で今後も解除してください。=Nonetheless, you did an excellent job disarming it.\t|Take them all on with that same approach.
-@n0さん、大丈夫ですか？\t|あなたの命が最優先です。\t|危ない時は逃げてください。\v解除ミスを気にすることはありません。\t|このトラップ、仕掛けは単純ですが|よくできていますから。=@n1, are you alright?\t|Your life is the number one priority.\t|If things get dangerous, please get away.\vDon’t worry about struggling with that trap.\t The mechanism was simple, but it was well-implemented.
-ところで、@n0さん、\t|私は気になることが出てきました。\t|あなたは何か感じませんか？=By the way, @n1, I have this ominous|feeling.\t Do you feel it as well?
+@n0さん、大丈夫ですか？\t|あなたの命が最優先です。\t|危ない時は逃げてください。\v解除ミスを気にすることはありません。\t|このトラップ、仕掛けは単純ですが|よくできていますから。=@n0, are you alright?\t|Your life is the number one priority.\t|If things get dangerous, please get away.\vDon’t worry about struggling with that trap.\t The mechanism was simple, but it was well-implemented.
+ところで、@n0さん、\t|私は気になることが出てきました。\t|あなたは何か感じませんか？=By the way, @n0, I have this ominous|feeling.\t Do you feel it as well?
 ここはどこだろうか？=This place, what is it?
 トラップの出来が良すぎる=That trap was too sophisticated.
 ホコリくさい=What's with all this dust?#repeated option text, different translation
@@ -859,7 +859,7 @@
 !FILE:dat_script_f01.bin/file011_PACK2/file011.bin
 トラップが発動したようですね。\t|解除キーを使わないと作動するように|セットしてあったのですね。\v少々やっかいなタイプですが、|なんとかするしかありません。\t|私と一緒に解除しましょう。=It sounds like a trap has been triggered.\t It must have been set so that it would only activate if the key wasn’t used.\vIt’s a bit of a troublesome trap, but there’s nothing we can do about that now.\t|Let’s disarm it together.
 よくやってくれました。\t|このトラップ、構造はシンプルでも|内部が非常にデリケートなんです。=You did a great job.\t|The construction was simple, but the components were very delicate.
-@n0さん、大丈夫ですか？\t|あなたが無事なら、よしとしましょう。\v解除ミスを気にすることはありません。\t|このトラップ、構造はシンプルでも|内部が非常にデリケートなんです。=@n1, are you okay?\t|As long as you’re unhurt, that’s all that matters.\vDon’t worry about making a mistake.\t|The construction of the trap was simple, but the components were very delicate.
+@n0さん、大丈夫ですか？\t|あなたが無事なら、よしとしましょう。\v解除ミスを気にすることはありません。\t|このトラップ、構造はシンプルでも|内部が非常にデリケートなんです。=@n0, are you okay?\t|As long as you’re unhurt, that’s all that matters.\vDon’t worry about making a mistake.\t|The construction of the trap was simple, but the components were very delicate.
 !FILE:dat_script_f01.bin/file011_PACK2/file013.bin
 セキュリティ用だろうか？|カードを通すスリットがある。=It appears to be a security lock.|There is a slit for a card.
 カードキーリーダーは生きているよう|ですね…\tいや、これはトラップです。\vカードキーを使わずにドアを開けると|爆発するタイプのトラップです。\t|ドアには触れないでください。\vおそらくこのフロアのどこかに|カードキーがあるはずです。\t|まずはそれを入手しましょう。=The card key reader seems to be powered on...\t Wait, this is a trap.\vIf you open the door without the keycard, you’ll trigger a trap.\t|Don’t touch the door.\vThere is probably a keycard somewhere on this floor.\t|Find that first.
@@ -1025,7 +1025,7 @@
 見てください。\t扉の脇に残っているのは|あなたが解除したトラップです。\t|どういうことかわかりますか？=Look there.\t Next to the door is the trap you disarmed.\t Do you get what that means?
 はい=Yes
 いいえ=No
-さすがは@n0さんですね。\t|改めて説明するまでもありませんが、|この壁が『トリック』の核なんです。=I knew you’d get it, @n1.\t|You don’t need me to explain, but that wall was the crux of the trick.
+さすがは@n0さんですね。\t|改めて説明するまでもありませんが、|この壁が『トリック』の核なんです。=I knew you’d get it, @n0.\t|You don’t need me to explain, but that wall was the crux of the trick.
 では、説明しましょう。\t|この壁こそが、『トラップボックス』の|『トリック』の核なんです。=Then allow me to explain.\t|That wall was the foundation of the trap box’s ‘trick’.
 @n0さんは１階から６階までの|トラップを解除して来ました。\vしかし、ここは６階ではなく３階建ての|『建造物』だったんです。\vフロアの良きところに壁を作り、|２つに分け…\t右側が１～３階、\t|反対側を４～６階に設定します。\vその際、ポイントとなるのは|エレベーターです。\v１、２階はエレベーターを隠し、階段で|上に進ませ、３階からエレベーターを|使用可能とします。\vそして、エレベーターを細工して、|４階に登ると見せかけて、|@n0さんを１階に戻したのです。\vエレベーターのすぐ隣に壁が作られ|ふさがれているので、さっきまでいた|右側のフロアは見えません。\vその後は、@n0さんは|５階という２階…６階という３階へと|のぼって来たのです。\v１階と４階、２階と５階、３階と６階の|内装が同じだったのは、こういうわけ|だったんです。=You’ve disarmed the traps from the first floor to the sixth floor.\vBut, this isn’t really the sixth floor, it’s a construction on the third.\vThey picked an appropriate spot and built a wall to separate each floor into two.\vThe right side was designated as floors one to three, and the left as four to six.\vThe elevator completes the illusion.\vOn the first and second floors, it was hidden forcing you to use the stairs, and it was made available on the third floor.\vBy manipulating the elevator, they made it look like you were going to the fourth floor, when really you were returned to the first.\vThe wall was built right next to the elevator, blocking it, so you couldn’t see to the right where you’d just been.\vAfter that, you went up to the fifth floor, which was the second, and to the sixth floor, the third again.\vThat’s why the interiors of the first and fourth, the second and fifth, and the third and sixth floors were the same.
 もう一度今の説明を聞く=Listen to the explanation again
@@ -1040,7 +1040,7 @@
 配線盤だ。=It’s a wiring board.
 気をつけてください。\t|何かを感じます…=Something’s there...\t|Be careful.
 配線盤を調べます。|よろしいですか？=Examine the wiring board?
-…無事に解除できたようですね。\t|@n0さん、お見事でした。=It looks like you were able to safely disarm it.\t|Good work, @n1.
+…無事に解除できたようですね。\t|@n0さん、お見事でした。=It looks like you were able to safely disarm it.\t|Good work, @n0.
 しばらくお休みくださいと言いたい|ところですが、状況が状況です。\t|休まずに先へ進みましょう。=I want to say that you should take a break, but the situation is what it is.\t|Let’s keep moving forward.
 !FILE:dat_script_f03.bin/file005_PACK2/file006.bin
 お待たせしました。\t|Ｊのプロファイリングが終了しました。\t|すぐにそちらに転送します。=I apologize for the delay.\t|I have completed the profile on J.\t|I will forward it to you right away.
@@ -1111,7 +1111,7 @@
 !FILE:dat_script_f03.bin/file012_PACK2/file011.bin
 ハウスキーパーのトラップ、噂どおり|ですね…\vその場にあるものを有効活用する…\t|爆弾の配線の色使いに法則性がない…\t|構造にクセがない…\vその法則性のなさが、このトラップは|ハウスキーパーの作品だと教えてくれて|います…=The Housekeeper’s traps live up to their reputation...\t They make use of whatever happens to be around.\vThere’s no rules about the coloring of the wires,\t and no particularities in the construction.\vIt’s the lack of consistency which marks it as his work.
 情報キーワード|@fR【法則性のないトラップ構造】@fW|を入手した。=Keyword added:|@fR“Inconsistent Trap Designs”@fW
-@n0さん…ひとつ質問があります。\t|あなた、利き腕はどちらですか？=@n1... May I ask you a question?\t|Which is your dominant hand?
+@n0さん…ひとつ質問があります。\t|あなた、利き腕はどちらですか？=@n0... May I ask you a question?\t|Which is your dominant hand?
 右利き=Right-handed
 左利き=Left-handed
 両利き=Ambidextrous
@@ -1244,7 +1244,7 @@ debug jump?=
 ４階の内装は…|１階のものとまったく同じですね。\t|ホテルだから当然ではありますが…=The design of the fourth floor is identical to the first.\t Well, it is a hotel, so maybe that’s to be expected...
 情報キーワード|@fR【４階フロアの内装】@fW|を入手した。=Keyword added:|@fR“4th Floor"@Fw
 一応、頭の片隅に置いておきましょう。\t|では、調査を続けてください。=I still think it’s worth keeping in the back of our minds.\t|Well then, let’s keep going.
-地震…？\t|@n0さん、気をつけて！=An earthquake...?\t|Watch out, @n1!
+地震…？\t|@n0さん、気をつけて！=An earthquake...?\t|Watch out, @n0!
 収まったようですね…\t|物が落ちたり、壁が壊れたりしなかった|のは幸いでしたね。\vゆったりしていましたが、このレベルの|大きな揺れなら観測されているはず。\vワタリ、今の地震の観測情報を調べて|みてください。=It looks like its stopped...\t|It’s a good job nothing fell over or got broken.\vIt was slow, but an earthquake of that scale should appear in the records.\vWatari, check the weather reports for information about that earthquake.
 了解しました。大至急調べます。=Understood. I will see to it posthaste.
 情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Huge Earthquake"@Fw
@@ -1260,12 +1260,12 @@ debug jump?=
 ！\t…そうですか。\t|ワタリ、しばらく私は席を外します。=!!\t ...I see.\t|Watari, I will be leaving my post for a while.
 どちらへ？=Where are you going?
 甘いものを仕入れに行くんですよ…=I need to stock up on sweets.
-私の代わりに@n0さんのフォローを|頼みます。=Please support @n1 in my stead.
-@n0さん、しばらくワタリと共に|調査を進めていてください。=@n1, Watari will assist you, so keep it|up.
+私の代わりに@n0さんのフォローを|頼みます。=Please support @n0 in my stead.
+@n0さん、しばらくワタリと共に|調査を進めていてください。=@n0, Watari will assist you, so keep it|up.
 !FILE:dat_script_f05.bin/file003_PACK2/file006.bin
 このフロアの内装ですが…\t|２階のものと合わせてあるようですな。=The design of this floor...\t It seems that it matches the second floor.
 情報キーワード|@fR【５階フロアの内装】@fW|を入手した。=Keyword added:|@fR“5th Floor"@fW
-@n1さん、|Ｆからの報告が入りました。=@n0, I have received word from F.
+@n1さん、|Ｆからの報告が入りました。=@n2, I have received word from F.
 Ｆについて尋ねる=Ask about F
 報告を聞く=Listen to the report
 Ｆというのは、いろいろいる|私の仲間の一人でして。\v危険な場所や、ヘンピなところ、普通の|人が近寄らないような場所での調査を|得意とする頼りになる人物です。=F is one of my various associates.\vHe is a reliable person who specializes in investigating dangerous sites and remote locations which most would never approach.
@@ -1344,8 +1344,8 @@ debug jump?=
 !FILE:dat_script_f05.bin/file013_PACK2/file018.bin
 特に異常はないようだ。=There’s nothing out of the ordinary.
 !FILE:dat_script_f05.bin/file013_PACK2/file021.bin
-@n1さん、気をつけてください。\t|それはトラップですぞ。=@n0, please be careful.\t|There is no doubt that a trap has been set inside.
-お見事です、@n1さん。\t|私の助言など必要ありませんでしたな。=Excellent work, @n0.\t|You didn’t need me at all.
+@n1さん、気をつけてください。\t|それはトラップですぞ。=@n2, please be careful.\t|There is no doubt that a trap has been set inside.
+お見事です、@n1さん。\t|私の助言など必要ありませんでしたな。=Excellent work, @n2.\t|You didn’t need me at all.
 !FILE:dat_script_f05.bin/file013_PACK2/file025.bin
 ボタンのカバーを調べた。=Examined button cover.
 !FILE:dat_script_f05.bin/file015_PACK2/file007.bin
@@ -1363,18 +1363,18 @@ debug jump?=
 !FILE:dat_script_f06.bin/file003_PACK2/file006.bin
 ここ６階の内装は３階と同じですね。=The design of the sixth floor is the same as the third floor.
 情報キーワード|@fR【６階フロアの内装】@fW|を入手した。=Keyword added:|@fR“6th Floor"@fW
-@n0さん…残念でしたね。\t|法則性があるので、わかりやすいと思い|ましたが…\t深読みしすぎましたね？\vいえ、今は、そのくらい疑り深くても|足りないくらいですよ。\v残念ながらクイズ正解の賞品は|おあずけですが…=@n1, I’m afraid you were incorrect.\t I thought it would be easy to spot the pattern...\t Maybe I read too much into it.\vAh, no. Just being suspicious of it doesn’t solve the problem.\vWell, I’m afraid I can’t give you any prizes for answering the quiz correctly...
+@n0さん…残念でしたね。\t|法則性があるので、わかりやすいと思い|ましたが…\t深読みしすぎましたね？\vいえ、今は、そのくらい疑り深くても|足りないくらいですよ。\v残念ながらクイズ正解の賞品は|おあずけですが…=@n0, I’m afraid you were incorrect.\t I thought it would be easy to spot the pattern...\t Maybe I read too much into it.\vAh, no. Just being suspicious of it doesn’t solve the problem.\vWell, I’m afraid I can’t give you any prizes for answering the quiz correctly...
 では、代わりに私から贈り物を……=Actually, I have something I would like to give you.
 ５階の仕掛けに使われたランプに|関する情報です。=I have some information about the lamps used in the puzzle on the fifth floor.
 『米国カプール社・１９７７年製。\t|　受注生産モデルで数は少ない。\t|　主な販売先はマーメイドグループ』=“Made by Kapoor, USA in 1977.\t|A bespoke model, very few produced.\t|Mainly sold by the Mermaid Group.”
-…なるほど。\tすばらしい賞品です。|@n0さん、これは勝負に使えます。\t|切り札にとっておきましょう。\vワタリ、いいものをありがとう。=...How interesting.\t That is a wonderful prize.\v@n1, we can use this when the time|comes to challenge our foe.\t Let’s keep it as a trump card.\vWatari, thank you for the excellent information.
+…なるほど。\tすばらしい賞品です。|@n0さん、これは勝負に使えます。\t|切り札にとっておきましょう。\vワタリ、いいものをありがとう。=...How interesting.\t That is a wonderful prize.\v@n0, we can use this when the time|comes to challenge our foe.\t Let’s keep it as a trump card.\vWatari, thank you for the excellent information.
 いえ、どういたしまして。=You’re welcome.
-@n0さん、調査を続けましょう。=@n1, let’s keep moving.
-@n0さん…正解です。=@n1... You were right.
+@n0さん、調査を続けましょう。=@n0, let’s keep moving.
+@n0さん…正解です。=@n0... You were right.
 ここは３階の内装と同じです。\t|あなたも私と同じ考えのようですね。\v残念ながらクイズ正解の賞品は|ないのですが…=The design matches the third floor.\t|It looks like we were both thinking the same thing.\vAlthough, I’m afraid there’s no prize for getting the correct answer.
 では、私から正解の賞品を|お送りしましょう。=Well then, allow me to give you a prize.
-…なるほど。\tすばらしい賞品です。\t|@n0さん、これは勝負に使えます。\t|切り札にとっておきましょう。\vワタリ、いいものをありがとう。=...How interesting.\t That is a wonderful prize.\v@n1, we can use this when the time|comes to challenge our foe.\t|Let’s keep it as a trump card.\vWatari, thank you for the excellent information.
-@n0さん、幸先いいですよ。\t|この調子で一気に６階の起爆装置を|解除してしまいましょう。=You’re on top form, @n1.\t|Keep it up, and let’s get this floor disarmed.
+…なるほど。\tすばらしい賞品です。\t|@n0さん、これは勝負に使えます。\t|切り札にとっておきましょう。\vワタリ、いいものをありがとう。=...How interesting.\t That is a wonderful prize.\v@n0, we can use this when the time|comes to challenge our foe.\t|Let’s keep it as a trump card.\vWatari, thank you for the excellent information.
+@n0さん、幸先いいですよ。\t|この調子で一気に６階の起爆装置を|解除してしまいましょう。=You’re on top form, @n0.\t|Keep it up, and let’s get this floor disarmed.
 !FILE:dat_script_f06.bin/file003_PACK2/file016.bin
 本を調べた。=Examined books.
 !FILE:dat_script_f06.bin/file004_PACK2/file010.bin
@@ -1457,13 +1457,13 @@ debug jump?=
 !FILE:dat_script_f07.bin/file001_PACK2/file010.bin
 展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。=There didn’t seem to be any traps in the observation cabin.\t|Let’s look elsewhere.
 !FILE:dat_script_f07.bin/file001_PACK2/file011.bin
-@n0さん、がんばっていますね。|\tこの先どんな仕掛けがあるか|分かりません。\v調査を念入りにして|準備を万端にして挑みましょう。=You’ve been working hard, @n1.|\tWe don’t know what kind of tricks they have left in store for you.\vKeep up the good work, and make sure you’re prepared for anything.
-@n0さん、おつかれさまです。|\tトラップ解除用のアイテムが|本当にたくさん仕込まれていますね。=Good work, @n1.|\tYou’ve managed to build up quite the collection of tools now.
+@n0さん、がんばっていますね。|\tこの先どんな仕掛けがあるか|分かりません。\v調査を念入りにして|準備を万端にして挑みましょう。=You’ve been working hard, @n0.|\tWe don’t know what kind of tricks they have left in store for you.\vKeep up the good work, and make sure you’re prepared for anything.
+@n0さん、おつかれさまです。|\tトラップ解除用のアイテムが|本当にたくさん仕込まれていますね。=Good work, @n0.|\tYou’ve managed to build up quite the collection of tools now.
 !FILE:dat_script_f07.bin/file005_PACK2/file006.bin
-@n0さん…\tついに見つけました。=@n1...\t We’re here.
+@n0さん…\tついに見つけました。=@n0...\t We’re here.
 おそらくこれが、最後のトラップです。\t|集中していきましょう。=This is probably the final trap.\t|Stay focused.
 爆弾を解除したことで|残り時間がリセットされた。=Disarming the bomb reset the remaining time.
-@n0さん…よくやってくれました。\t|これであなたの役目は終わりです。\t|ここからは私の勝負です…=You’ve done well, @n1.\t|You can rest now.\t|I’ll take it from here.
+@n0さん…よくやってくれました。\t|これであなたの役目は終わりです。\t|ここからは私の勝負です…=You’ve done well, @n0.\t|You can rest now.\t|I’ll take it from here.
 ハウスキーパー、わかりましたよ。\t|あなたの依頼者の目的が。=Housekeeper, I’ve figured it out.\t|I know what your client is after.
 !FILE:dat_script_f07.bin/file005_PACK2/file010.bin
 ビデオポーカーを調べた。=Examined video poker machine.
@@ -1487,14 +1487,14 @@ debug jump?=
 !FILE:dat_script_f07.bin/file007_PACK2/file012.bin
 起爆装置は解除済みだ。=The detonator has already been deactivated.
 起爆装置を解除します。|よろしいですか？=Disarm the detonator?
-@n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=@n1...\t I know that I’m jumping the gun|here, but once we deactivate this and get you off that ship, I have a present for you.\vIt’s not much but, a secret pudding made by the phantom patissier I’m acquainted with...
+@n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=@n0...\t I know that I’m jumping the gun|here, but once we deactivate this and get you off that ship, I have a present for you.\vIt’s not much but, a secret pudding made by the phantom patissier I’m acquainted with...
 秘密のプリン？=Secret pudding?
 幻のデザート職人？=Phantom patissier?
 甘いものはキライです=I’m not into sweet stuff.
 ええ、誰にもいえない秘密が隠された|プリンなんですが、トラップを解除した|後に、特別にお教えしますよ…=Yes, it’s a pudding with a secret that can never be repeated, but I will tell you about it specially once you’ve disarmed that trap.
 はい、知る人ぞ知る、世界最高ランクの|デザート職人です。\tトラップ解除の後に|特別にお教えしますよ…=Yes, the best patissier in the whole world, only known to a select few.\vI will tell you about it specially once you’ve disarmed that trap.
 …そうですか。\tではそのプリンで|甘い物嫌いを直しましょう。=...I see.\t Well, I’ll have to fix that with this special pudding.
-@n0さん…\tその表情、いいですね。|無駄な力を入れず、これまで通り|トラップ解除に挑みましょう…=That’s a good look in your eye, @n1.|Just like before, let’s disarm this trap with not a step wasted.
+@n0さん…\tその表情、いいですね。|無駄な力を入れず、これまで通り|トラップ解除に挑みましょう…=That’s a good look in your eye, @n0.|Just like before, let’s disarm this trap with not a step wasted.
 !FILE:dat_script_f07.bin/file007_PACK2/file013.bin
 丈夫な箱だ。\v起爆装置が入っている。=A sturdy box.\vIt contains the detonator.
 丈夫な箱だ。\vおそらく起爆装置が入っているのだろう。=A sturdy box.\vIt probably contains the detonator.
@@ -1508,7 +1508,7 @@ debug jump?=
 Ｌ、『豪華客船グラナダ』の情報を|入手しました。=L, I have new information about the “Luxury Liner Granada”.
 聞かせてください。=I’m all ears.
 『グラナダ号』は|マーメイドシップビルダーズ社、|１９８５年製の大型客船です。\v全長２３８ｍ、全幅３２ｍ、\t総重量|５１０００ｔ、\t巡航速力２３ノット、\t|客室３層を含むデッキは全７層。\v最初の所有者だった欧州の観光会社が|経営破綻を起こし５年前に倒産……\v北米のＩＴ企業リブート社に所有権が|渡りましたが、直後に廃船処分され、|行方不明になっています。=The Granada is a large passenger ship built in 1985 by Mermaid Shipbuilders.\vIt is 238 meters long,\t 32 meters wide,\t and has seven decks, including three floors for passenger cabins.\vThe first owner, a European tourism company, went bankrupt five years ago.\vOwnership passed to North American IT company Reboot, but the ship was retired shortly after.
-しかし、廃船となったはずの船が、|実際に今、@n0さんと爆弾を|積んで海の上を航行している…\vＩＴ企業が買い、すぐに処分したと|いう、古びた客船を…\t|なんというチグハグ感…=And yet, that supposedly retired ship is currently out at sea, with @n1 and|bombs on board...\vAn old cruise ship that an IT company bought and immediately scrapped...\t|It doesn’t make sense.
+しかし、廃船となったはずの船が、|実際に今、@n0さんと爆弾を|積んで海の上を航行している…\vＩＴ企業が買い、すぐに処分したと|いう、古びた客船を…\t|なんというチグハグ感…=And yet, that supposedly retired ship is currently out at sea, with @n0 and|bombs on board...\vAn old cruise ship that an IT company bought and immediately scrapped...\t|It doesn’t make sense.
 リブート社とグラナダの廃船後に|ついては現在、追跡調査中ですが|難航しています。=I am currently trying to uncover what happened to the Granada after it was retired, but it is proving to be difficult.
 …………\t|では、クリエラと隣国のドックを|調べてみてください。=...\t|See what you can dig up about the docks in Criella and all neighboring countries.
 ドックですね…\t了解しました。|しばしお待ちを。=The docks...?\t|I understand. I will get back to you shortly.
@@ -1594,7 +1594,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file003_PACK2/file013.bin
 反応がない。\v電力が通ってないようだ。=There was no response.\vIt seems the power is off.
 !FILE:dat_script_f08_a.bin/file005_PACK2/file006.bin
-@n1さん、このフロアの情報です。\t|ブリッジに行くには、屋外プロムナード|経由が近道です。\t外に出ましょう。\vそれからＬ…\tグラナダ号のシステムに|関する情報も入手しました。=@n0, listen closely.\t There’s a shortcut|to the bridge through the outdoor walkway.\t You need to head outside.\vI also have an update for you, L...\t I found out more about the Granada’s system.
+@n1さん、このフロアの情報です。\t|ブリッジに行くには、屋外プロムナード|経由が近道です。\t外に出ましょう。\vそれからＬ…\tグラナダ号のシステムに|関する情報も入手しました。=@n2, listen closely.\t There’s a shortcut|to the bridge through the outdoor walkway.\t You need to head outside.\vI also have an update for you, L...\t I found out more about the Granada’s system.
 情報キーワード|@fR【システムの設計者】@fW|を入手した。=Keyword added:|@fR“System Designer"@fW
 なるほど…\tこの船を止めるには、|彼を止めるしかないようですね…=I see...\t It looks like the only way to stop this ship is to stop him.
 !FILE:dat_script_f08_a.bin/file006_PACK2/file010.bin
@@ -1663,12 +1663,12 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file011_PACK2/file022.bin
 ソーサーを調べた。=Examined plates.
 !FILE:dat_script_f08_a.bin/file014_PACK2/file006.bin
-ここから先は脱出のためでなく、|この船を止めるためのミッションです。\vこのまま止められなければ、|船は港に突入し大惨事となるでしょう。\t|それだけは食い止めたい…\vしかし、たとえＦＢＩ捜査官といえども|@n0さん、あなたには自分の命を|守る権利はある。\v選択肢は２つです。\t|救命ボートで船を離れるか、|このままミッションを進めるか…\v私には強制する権利はありません。\t|あなた自身で選択してください。=From here on out the mission is no longer to escape, but to stop the ship.\vIf we can’t stop it, the ship will reach the port and it will be a disaster.\t|If nothing else, I want to stop that.\vBut even if you are an FBI agent, @n1,|you have the right to put your life first.\vYou have two options.\t|You can escape in a lifeboat, or you can continue with the mission...\vI can’t force you to do anything.\t|You must make your own choice.
+ここから先は脱出のためでなく、|この船を止めるためのミッションです。\vこのまま止められなければ、|船は港に突入し大惨事となるでしょう。\t|それだけは食い止めたい…\vしかし、たとえＦＢＩ捜査官といえども|@n0さん、あなたには自分の命を|守る権利はある。\v選択肢は２つです。\t|救命ボートで船を離れるか、|このままミッションを進めるか…\v私には強制する権利はありません。\t|あなた自身で選択してください。=From here on out the mission is no longer to escape, but to stop the ship.\vIf we can’t stop it, the ship will reach the port and it will be a disaster.\t|If nothing else, I want to stop that.\vBut even if you are an FBI agent, @n0,|you have the right to put your life first.\vYou have two options.\t|You can escape in a lifeboat, or you can continue with the mission...\vI can’t force you to do anything.\t|You must make your own choice.
 どちらを選ぼうと、あなたのここまでの|活躍に敬意を表したいと思います。=Whichever you choose, my respect for what you have done so far will not change.
 救命ボートで脱出=Escape by lifeboat
 ミッション続行=Continue with the mission
 …わかりました。\t|無事、生き延びてください…=...I understand.\t|Please be safe...
-@n0さん、ありがとう。|パートナーがあなたでよかった。\t|急いで先へ進みましょう。=Thank you, @n1.|I’m glad you are my partner.|Let’s hurry and move on.
+@n0さん、ありがとう。|パートナーがあなたでよかった。\t|急いで先へ進みましょう。=Thank you, @n0.|I’m glad you are my partner.|Let’s hurry and move on.
 そこにあるのは救命ボートですね。\t|見たところ、新しいものを取り付けて|あるようです。\v使わずに済ませたいですが、|いざという場合のために、一応、|覚えておきましょう。=There’s a lifeboat.\t|It looks like it was recently installed.\vI hope you won’t have a need for it, but just in case, we should keep it in mind.
 情報キーワード|@fR【救命ボート】@fW|を入手した。=Keyword added:|@fR“Lifeboat"@fW
 !FILE:dat_script_f08_a.bin/file014_PACK2/file010.bin
@@ -1688,7 +1688,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file017_PACK2/file006.bin
 怪しい雰囲気ですね…\t|この部屋には何かありそうです。\t|注意して調査してください。=There’s something here...\t|Please investigate with caution.
 付近の施設に電力が供給された。=Power is being supplied.
-@n0さん、この事件が終わったら、|あなたは爆弾処理チームに|スカウトされるかもしれませんね。\v冗談ではなく、すばらしい腕です。=@n1, when this is all over, you might|find yourself scouted for the bomb disposal team.\vI’m serious, you have great potential.
+@n0さん、この事件が終わったら、|あなたは爆弾処理チームに|スカウトされるかもしれませんね。\v冗談ではなく、すばらしい腕です。=@n0, when this is all over, you might|find yourself scouted for the bomb disposal team.\vI’m serious, you have great potential.
 !FILE:dat_script_f08_a.bin/file017_PACK2/file022.bin
 電源パネルだ。\vこのあたりの電源を監視しているようだ。=A control panel.\vIt’s monitoring the power supply in the area.
 !FILE:dat_script_f08_a.bin/file017_PACK2/file023.bin
@@ -1724,21 +1724,21 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file001_PACK2/file013.bin
 コンテナを調べた。=Examined container.
 !FILE:dat_script_f09.bin/file003_PACK2/file006.bin
-@n0さん…この部屋の雰囲気は|他とは違います。\t何かありそうです。=@n1... This hall isn’t like the others.\t|There must be something here.
+@n0さん…この部屋の雰囲気は|他とは違います。\t何かありそうです。=@n0... This hall isn’t like the others.\t|There must be something here.
 Ｌ、ひとつ報告があります。=L, I have some news to report.
 なんでしょう？=What is it?
-船から発せられている電波の分析を|行いましたところ、特殊な電波を|キャッチしました。\v@n1さんのお使いになられている|ＰＤＡ以外に、もうひとつの電波が|グラナダ号から発せられています。\v非常にキャッチしづらい電波ですが、|時々、他の電波に干渉するのです。=Whilst tracking the radio signals coming from the ship, I detected an unusual signal.\vAs well as the signal from @n0’s PDA,|there is another signal being transmitted from the Granada.\vIt’s not easy to trace, but I have been picking up the odd bits of interference.
+船から発せられている電波の分析を|行いましたところ、特殊な電波を|キャッチしました。\v@n1さんのお使いになられている|ＰＤＡ以外に、もうひとつの電波が|グラナダ号から発せられています。\v非常にキャッチしづらい電波ですが、|時々、他の電波に干渉するのです。=Whilst tracking the radio signals coming from the ship, I detected an unusual signal.\vAs well as the signal from @n2’s PDA,|there is another signal being transmitted from the Granada.\vIt’s not easy to trace, but I have been picking up the odd bits of interference.
 電波の干渉？\t　そういえば、先ほど|回線が混乱したときがありましたね…=Radio interference?\t Come to think of it, there was that unusual transmission before...
 それがどういうものかは不明ですが、|何かの信号電波のようなのです。=I haven’t been able to confirm the contents, but it appears to be a digital signal.
 信号…通話用電波ではないのですね？\t|船のコントロールに関わるものかも|しれませんね…=A digital signal... In other words, it’s not being used for communication?\t It could be something to do with the ship...#qc I have no idea how radio signals work or how to compare a 信号電波 to a 通話用電波
-こちら分析では、@n1さんと|Ｌの通信電波が、最も乱れていたのは|このフロアだということです。=My readings show that @n0’s PDA|picked up the most interference whilst on this floor.
+こちら分析では、@n1さんと|Ｌの通信電波が、最も乱れていたのは|このフロアだということです。=My readings show that @n2’s PDA|picked up the most interference whilst on this floor.
 つまり、このフロアに通信室があると|いうことですね。=Meaning, there’s a probably some sort of communications room on this floor.
 そのようです。=It appears so.
-@n0さん、時間がありませんが|気になる情報です。\t|調べてみてください。=@n1, I know we don’t have much time,|but this could be vital information.\t Please see what you can find.
+@n0さん、時間がありませんが|気になる情報です。\t|調べてみてください。=@n0, I know we don’t have much time,|but this could be vital information.\t Please see what you can find.
 エレベーターに電力が供給された。=Power is being supplied to the lift.
-@n0さん、よくやってくれました。\t|そろそろ体力的にもつらい頃だと|思いますが、がんばってください。=Well done, @n1\t|You must be feeling quite worn down by now, but you have to keep fighting.
+@n0さん、よくやってくれました。\t|そろそろ体力的にもつらい頃だと|思いますが、がんばってください。=Well done, @n0\t|You must be feeling quite worn down by now, but you have to keep fighting.
 ！！=!!
-すみません、@n0さん。|\t通信が入りました。|\t少々お待ちを。=Excuse me, @n1.|\tI have an incoming call.|\tPlease give me a second.
+すみません、@n0さん。|\t通信が入りました。|\t少々お待ちを。=Excuse me, @n0.|\tI have an incoming call.|\tPlease give me a second.
 お待たせしました。|\tさぁ、先に進みましょう。=Thank you for waiting.|\tLet’s keep going.
 !FILE:dat_script_f06.bin/file003_PACK2/file011.bin
 奥の部屋に進みます。|よろしいですか？=Move to the side room?
@@ -1760,7 +1760,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=It looks like that didn’t work.|\tIsn’t there a hint anywhere?
 ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=It looks like that didn’t work.|\tHave you seen anything about how to use the hints anywhere?
 !FILE:dat_script_f09.bin/file005_PACK2/file006.bin
-@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n1.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous bombs ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and stay strong.
+@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous bombs ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and stay strong.
 !FILE:dat_script_f09.bin/file005_PACK2/file010.bin
 階段ホールへ移動します。|よろしいですか？=Move to the stairwell?
 !FILE:dat_script_f09.bin/file005_PACK2/file016.bin
@@ -1814,8 +1814,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file016_PACK2/file010.bin
 倉庫Ｅ=Cargo Hold E
 !FILE:dat_script_f09.bin/file017_PACK2/file006.bin
-@n1さんのＰＤＡからの電波に|乱れが出ているようです。=I am picking up interference in the signal from @n0’s PDA.
-この部屋のどこかに、通信室へつながる|隠し通路があるはずです。\t|@n0さん、調べてください。=There must be a hidden passage somewhere in this room.\t|@n1, please do another sweep.
+@n1さんのＰＤＡからの電波に|乱れが出ているようです。=I am picking up interference in the signal from @n2’s PDA.
+この部屋のどこかに、通信室へつながる|隠し通路があるはずです。\t|@n0さん、調べてください。=There must be a hidden passage somewhere in this room.\t|@n0, please do another sweep.
 !FILE:dat_script_f09.bin/file017_PACK2/file011.bin
 ノートパソコンを調べた。=Examined laptop.
 キーロックがかかっており、|起動できない。=It is locked and can’t be booted.
@@ -1837,7 +1837,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ケーブルを切断する=Cut the cable
 ケーブルを切断しない=Don’t cut the cable
 ケーブルを切断した。=Cut the cable.
-これで、エンジンの暴走はなくなり|ましたね。\v行きましょう、@n0さん。|今度こそ本当に最後の仕事です。=Now no one can mess with the engines.\vLet’s go, @n1.|There’s only one last thing I need you to do.
+これで、エンジンの暴走はなくなり|ましたね。\v行きましょう、@n0さん。|今度こそ本当に最後の仕事です。=Now no one can mess with the engines.\vLet’s go, @n0.|There’s only one last thing I need you to do.
 !FILE:dat_script_f09.bin/file019_PACK2/file013.bin
 通話用ケーブルだ。=The communications line.
 @n0さん、こっちのケーブルは|通信用の回線ですね。\vこの回線を切ると|私との交信も途絶えてしまいます。|\tデータリンク用を切ってください。=This is the communications line.\vIf you cut this cable, you’ll also lose your connection to me.|\tYou need to cut the blue cable instead.
@@ -1861,7 +1861,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file020_PACK2/file011.bin
 布を調べた。=Examined cloth.
 !FILE:dat_script_f09.bin/file020_PACK2/file012.bin
-やはりこの部屋でしたね。|@n0さん、行きましょう。=So there is another room behind here.|@n1, let’s go.
+やはりこの部屋でしたね。|@n0さん、行きましょう。=So there is another room behind here.|@n0, let’s go.
 !FILE:dat_script_f10_a.bin/file001_PACK2/file006.bin
 おそらくこのフロアのどこかに|ハウスキーパーがいます。\vヤツは自分を守るためにも今まで以上に|トラップを張り巡らせているはずです。\vエンジン周りは特に注意してください。\t|『その場にあるものを有効に使う』\t|これがヤツの手口です。\vこの船において、エンジンは最高の|材料となっているはずですから…=The Housekeeper is most likely somewhere on this floor.\vHe will have placed extra traps to protect himself.\vBe especially careful as you get near the engine.\t “Make good use of what’s around”.\t That’s his philosophy.\vI would have thought the engine is the best material on this ship...
 !FILE:dat_script_f10_a.bin/file003_PACK2/file012.bin
@@ -1953,7 +1953,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_b.bin/file004_PACK2/file010.bin
 整備室Ｅ=Maintenance Room E
 !FILE:dat_script_f10_b.bin/file005_PACK2/file006.bin
-よくやってくれました、@n0さん…\t|これで、あとは船を停めるだけです。=Good work, @n1.\t|Now all we need to do is stop the ship.
+よくやってくれました、@n0さん…\t|これで、あとは船を停めるだけです。=Good work, @n0.\t|Now all we need to do is stop the ship.
 !FILE:dat_script_f10_b.bin/file005_PACK2/file010.bin
 ハウスキーパーのトラップです。|一刻も早くこれを解除して、|船を停めましょう。=It’s another of the Housekeeper’s traps.|Let’s disarm it as quickly as possible so we can stop the ship.
 トラップの解除を行います。|よろしいですか？=Disarm the trap?
@@ -2649,6 +2649,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 中には基板が入っていた。=There is a circuit board inside.
 システムが正常に動き出した！=Returned the system to working order!
 ボタンの辺りから|起動音が聞こえた。=Something connected to the buttons seemed to have started up.
+爆薬を外した！=Removed the explosive!
 !FILE:dat_script_trapbig.bin/file007_PACK2/file011.bin
 動かせそうなのはこの中央にある|閂（かんぬき）のようなパーツ。\t|これだけですね。=The only part that seems to be movable is the bolt in the center.
 無理やりにでも外そうと思えば、|外せてしまう程度の物です。=We have no choice but to remove it.
@@ -2660,9 +2661,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 足りないパーツを補完すれば|正常に動作しはじめます。=If you add in the missing parts, it will start working properly.
 ロックを解除して爆薬を|取り外しましょう。\t|それで解除完了です。=The final step is to undo the lock and remove the explosive.
 爆薬を固定しているロックは|起爆装置内部のシステムが|関係しています。\vランプをうまく点灯させられれば|解除できるようです。\v私の言う順番で|ボタンを押してください。=The lock that’s holding the explosive in place is connected to the device on the detonator.\vTurning on all the lights should unlock it.\vPress them like this.
+爆薬を外した！=Removed the explosive!
 !FILE:dat_script_trapbig.bin/file007_PACK2/file013.bin
 透明のケースのフタだ。\vスライド式の開け口が付いている。=The lid of the glass case.\vIt has a sliding lock.
-今は関係が無さそうです。\t|放っておきましょう。=I don’t think that’ll be much help to us right now.\t|Just leave it as is.
+今は関係が無さそうです。\t|放っておきましょう。=I don’t think that’ll be of much use to us right now.\t|Just leave it as is.
 透明のケースのフタだ。\vスライド式の開け口が開いている。=The lid of the glass case.\vThe lock is open.
 ここから@fR振り子を固定する@fWものを、|入れる事ができそうです。=You could use this opening to add something that would @fRhold the pendulum in place@fW.
 フタを開ける=Open the lock
@@ -2683,13 +2685,13 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 もう一押しできそうな感じですね。\t|何かで@fR引っかけて@fWみては|どうでしょうか。=It looks like it could use another push.\t|Why don’t you try @fRlifting@fW it with something?
 もう一押しできそうな感じですね。\t|少し@fR叩いて@fWみては|どうでしょうか。=It looks like it could use another push.\t|Why don’t you try gently @fRhitting@fW it with something?
 透明のケースの下に、|閂（かんぬき）のようなパーツがある。\vこのパーツがフタを固定している。\v中で何かが@fR引っかかって@fWいる。=Under the glass case is a part|which looks like a bolt.\vIt is holding the lid in place.\vIt’s @fRstuck@fW on something.
-中でパーツに引っかかる部分が|あるようですね。\t|何かで@fR持ち上げる@fWといいでしょう。\v@fR叩いて@fWみるのも|効果があるかもしれません。\t|うまくいけば押し出せるでしょう。=It must be caught on something inside.\t|See if you can @fRlift@fW it up.\v@fRHitting@fW it might also help.\t|Hopefully you should be able to push it out.
+中でパーツに引っかかる部分が|あるようですね。\t|何かで@fR持ち上げる@fWといいでしょう。\v@fR叩いて@fWみるのも|効果があるかもしれません。\t|うまくいけば押し出せるでしょう。=It must be caught on something inside.\t|See if you can @fRlift@fW it up.\v@fRHitting@fW it might also help.\t|Hopefully you should be free it.
 手前の@fRネジ@fWが邪魔ですね。\t|これを外せば|いろいろできそうです。=That @fRscrew@fW at the front is in the way.\t If you can remove it, you’ll be able to make a lot more progress.
 中央のパーツを叩いた。\v反対側からパーツが|押し出されたようだ。=Hit the bolt.\vSomething came loose on the other end.
-中央パーツを持ち上げた。\v中でパーツが引っかかっていたのが|外れたようだ。=Lifted the bolt.\vIt seems that whatever it was caught on has been dislodged.
+中央パーツを持ち上げた。\v中でパーツが引っかかっていたのが|外れたようだ。=Lifted the bolt.\vIt seems that whatever it was caught on|has been dislodged.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file018.bin
-振り子のような装置から、|起爆装置に@fRコード@fWがのびている。=@fRWires@fW extend from the pendulum component to the detonator.
-振り子の装置と起爆装置を|繋いでいるコード…\t|とても危険な気配です。=Wires connecting a pendulum to a detonator...\t|This doesn’t bode well.
+振り子のような装置から、|起爆装置に@fRコード@fWがのびている。=@fRWires@fW extend from the pendulum|to the detonator.
+振り子の装置と起爆装置を|繋いでいるコード…\t|とても危険な気配です。=A pendulum connected to a detonator...\t|This doesn’t bode well.
 振り子が止まっても|装置は生きています。\t|うかつな事はしないで下さいね。=Even if the pendulum has stopped, the device is still live.\t|Don’t do anything reckless.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file019.bin
@@ -2698,14 +2700,14 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 やはり閂（かんぬき）のパーツを|外すほかないようですね。\t|嫌な感じがします。=It seems we have no choice but to remove the bolt.\t Though, I have to say it does give me a bad feeling.
 振り子が内壁に触れると|爆発する仕組みのようです。\t|慎重に調査をお願いします。=It appears that if the pendulum touches the glass, the whole thing will blow.\t|Use extreme caution.
 透明のケースの中に、|振り子のような物が見える。\v振り子は凝固剤によって、|動きを止められている。=A pendulum is visible behind the glass.\vIt is stuck in place thanks to the coagulant.
-あえて振り子を揺らす=Attempt to knock the pendulum
-振り子を揺らさない=Don’t knock the pendulum
+あえて振り子を揺らす=Daringly shake the pendulum
+振り子を揺らさない=Don’t shake the pendulum
 完全に無力化していますね。\t|安心して調査ができます。=It can’t move anywhere now.\t|You can investigate with peace of mind.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file020.bin
 起爆装置のフタだ。=The detonator’s lid.
-起爆装置のフタだ。\v中央のパーツによって|振り子の装置と固定されている。\v振り子が付いた装置からの|@fRコード@fWが接続されている。=The detonator’s lid.\vIt is fixed to the glass case|by a bolt in the center.\vThere are @fRwires@fW running through it from where the pendulum is.
-起爆装置のフタだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator’s lid.\vThere are @fRwires@fW running through it from where the pendulum is.
-起爆装置のフタだ。\v振り子装置が上にのっているので|動かすのは危険だ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator’s lid.\vThe pendulum is on top,|so it’s dangerous to move it.\vThere are @fRwires@fW running through it from where the pendulum is.
+起爆装置のフタだ。\v中央のパーツによって|振り子の装置と固定されている。\v振り子が付いた装置からの|@fRコード@fWが接続されている。=The detonator’s lid.\vIt is fixed to the glass case|by a bolt in the center.\vThere are @fRwires@fW running through it|from where the pendulum is.
+起爆装置のフタだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator’s lid.\vThere are @fRwires@fW running through it|from where the pendulum is.
+起爆装置のフタだ。\v振り子装置が上にのっているので|動かすのは危険だ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator’s lid.\vThe pendulum is on top,|so it’s dangerous to move it.\vThere are @fRwires@fW running through it|from where the pendulum is.
 あえてフタを動かす=Move the lid anyway
 フタを動かさない=Don’t move the lid
 起爆装置のフタだ。\v振り子装置が上にのっているが、|まとめて外せそうだ。=The detonator’s lid.\vIt is attached to the glass case on top, but it appears they should come off together.
@@ -2717,42 +2719,42 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 フタのスキマを持ち上げた。\vフタが緩んだようだ。=Pried the gap open.\vThe lid has become loose.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file021.bin
 液晶パネルだ。\vエラーマークが出ている。=An LCD panel.\vIt’s showing an error.
-液晶パネルだ。\vパネルには正常作動のマークが|表示されている。=An LCD panel.\vA symbol indicates that it is|functioning normally.
+液晶パネルだ。\vパネルには正常作動のマークが|表示されている。=An LCD panel.\vThe symbol indicates that it is|functioning normally.
 これは…電力不足のマークです。\v供給されている電力が|足りていないようですね。=That symbol...\vIt looks like the panel isn’t receiving enough power.
 液晶パネルだ。\vエラーマークが出ている。\vパネルの横に差込口がついている。=An LCD panel.\vIt’s showing an error.\vThere is a slot on the side.
 何かコードのようなものが|本来ここに差し込まれているべき|なのかもしれません。=I wonder if there used to be some kind of wire plugged in there.
 システムは正常に動作している|ようですね。=It looks like everything’s functioning now.
 配線用コードを繋いだ。\vパネルのマークが変わった。=Connected the Electric Cable.\vThe symbol on the panel changed.
-配線用コードを繋ごうとしたら、|感電した！=As you try to connect the cable, you receive an electric shock!
+配線用コードを繋ごうとしたら、|感電した！=As you try to connect the cable,|you receive an electric shock!
 !FILE:dat_script_trapbig.bin/file007_PACK2/file024.bin
-配線用のコードだ。\v液晶画面とバッテリースロットを|繋いでいる。=An Electric Cable.\vIt connects the LCD screen to the battery case.
+配線用のコードだ。\v液晶画面とバッテリースロットを|繋いでいる。=An electric cable.\vIt connects the LCD screen|to the battery case.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file026.bin
 バッテリー用のスロットのようだ。\v今は何も入っていない。=It looks like a slot for a battery.\vThere’s nothing in it right now.
 バッテリーが入っている。\v電力は正常に供給されている。=There is a battery in the slot.\vPower is being supplied.
-バッテリーが入っている。\vしかし、正常に電力は供給されて|いないようだ。=There is a battery in the slot.\vHowever, it doesn’t seem to be supplying enough power.
+バッテリーが入っている。\vしかし、正常に電力は供給されて|いないようだ。=There is a battery in the slot.\vHowever, it doesn’t seem to be|supplying enough power.
 まだ何か足りないようですね。\t|電気の扱いは慎重にお願いします。|結構危険な物ですから。=Something is still missing.\t|Be careful what you do. An electric shock could be nasty.
 バッテリーを外す=Remove the battery
 バッテリーを外さない=Don’t remove the battery
-バッテリー用のスロットのようだ。\v今は何も入っていない。\vバッテリーがあれば正常に|動かせるかもしれない。=It looks like a slot for a battery.\vThere’s nothing in it right now.\vInserting a battery should get things up and running.
+バッテリー用のスロットのようだ。\v今は何も入っていない。\vバッテリーがあれば正常に|動かせるかもしれない。=It looks like a slot for a battery.\vThere’s nothing in it right now.\vInserting a battery should|get things up and running.
 電力は十分に供給されて|いるようです。\t|バッテリーは抜かないで下さい。=It looks like enough power is getting through.\t|Please leave the battery as it is.
 バッテリーをスロットに入れた。\v十分な電力が供給され始めた。=Placed the battery in the slot.\vPower is now being supplied to the panel.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file028.bin
-起爆装置に設置された基板だ。=A circuit board installed in the detonator.
-起爆装置に設置された基板だ。\vバッテリー用のスロットと|液晶パネルがついている。=A circuit board installed in the detonator.\vThere is an LCD screen and battery slot attached.
+起爆装置に設置された基板だ。=A circuit board has been|built into the detonator.
+起爆装置に設置された基板だ。\vバッテリー用のスロットと|液晶パネルがついている。=A circuit board has been|built into the detonator.\vThere is an LCD screen and|battery slot attached.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file029.bin
 起爆装置についているランプだ。=There are lights installed in the detonator.
-起爆装置についているランプだ。\v消灯している。=Lights installed in the detonator.\vThey are off.
+起爆装置についているランプだ。\v消灯している。=Lights have been installed|in the detonator.\vThey are off.
 この装置の部分は…、\t|動いていないような感じですね。=It doesn’t look like this device is switched on.
-起爆装置についているランプだ。\vランプが光っている。=Lights installed in the detonator.\vThey are lit up.
+起爆装置についているランプだ。\vランプが光っている。=Lights have been installed|in the detonator.\vThey are lit up.
 システムは動いていますから、|ボタンを操作すれば|ランプがつくでしょう。=The system is working, so if you push the buttons, the lamps should come on.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file037.bin
-起爆装置についているボタンだ。=There are buttons installed in the detonator.
-起爆装置についているボタンだ。\vロックと何か関係がありそうだ。=Buttons are installed in the detonator.\vThey seem to have something to do with the lock.
+起爆装置についているボタンだ。=There are buttons installed|in the detonator.
+起爆装置についているボタンだ。\vロックと何か関係がありそうだ。=Several buttons have been installed|in the detonator.\vThey seem to have something|to do with the lock.
 ボタンを押してみる=Try pushing the button
 何もおきなかった。=Nothing happened.
-起爆装置についているボタンだ。\v爆薬を固定していたロックの|解除装置だったようだ。=Buttons are installed in the detonator.\vThey are part of a system to release the lock on the explosive.
+起爆装置についているボタンだ。\v爆薬を固定していたロックの|解除装置だったようだ。=Several buttons have been installed|in the detonator.\vThey are part of a system to release the lock on the explosive.
 ランプを全部点灯させれば|良いようです。\t|単純な仕掛けですね。=So you need to light up all the lamps.\t|It’s a simple trick.
-ロックが解除されたようです。\t|爆薬を外しましょう。=It looks like that released the lock.\t|Now you can remove the explosives.
+ロックが解除されたようです。\t|爆薬を外しましょう。=It looks like that released the lock.\t|Now you can remove the explosive.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file041.bin
 起爆装置と爆薬を|固定しているロックだ。=The lock holds the detonator and|the explosive in place.
 起爆装置と爆薬を|固定しているロックだ。\t|びくともしない。=The lock holds the detonator and|the explosive in place.\vIt’s fixed tight.
@@ -2766,10 +2768,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_trapbig.bin/file007_PACK2/file042.bin
 起爆装置のようだ。=This appears to be the detonator.
 起爆装置のようだ。\v振り子が付いた装置から|@fRコード@fWがのびている。=The detonator.\vThere are @fRwires@fW running through it from where the pendulum is.
-起爆装置のようだ。\v中には基板といくつかの|パーツが入っている。=The detonator.\vThere is a circuit board with some parts attached.
+起爆装置のようだ。\v中には基板といくつかの|パーツが入っている。=The detonator.\vA circuit board and several other parts are attached to it.
 !FILE:dat_script_trapbig.bin/file007_PACK2/file043.bin
 爆薬だ。\v起爆装置にロックされている。=The explosive.\vIt has been locked to the detonator.
-いまはどうしようもありませんね。\t|他の調査を進めましょう。=There’s nothing we can do with it for the moment.\t|Let’s look elsewhere.
+いまはどうしようもありませんね。\t|他の調査を進めましょう。=There’s nothing we can do about that for the moment.\t|Let’s look elsewhere.
 相変わらずこの爆薬は|外せそうにありませんね。\t|しばらく放っておきましょう。=As usual, the explosive isn’t easy to reach.\t|Best to leave it alone for the time being.
 いよいよ解除する段階です。\t|ロックを外しましょう。=The time has finally come.\t|Let’s remove the lock.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file010.bin
