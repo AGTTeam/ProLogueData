@@ -6,3 +6,4 @@ out_*
 *.nds
 *.sav
 *.xdelta
+.DS_Store
