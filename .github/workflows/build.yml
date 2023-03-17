@@ -51,7 +51,9 @@ jobs:
       - name: Install dependencies
         run: pipenv --python 3.11 sync
       - name: Install ImageMagick
-        run: sudo apt install imagemagick
+        run: |
+          wget https://download.imagemagick.org/ImageMagick/download/binaries/magick
+          chmod +x magick
       - name: Extract
         run: pipenv run python tool.py extract --rom
       - name: Repack
