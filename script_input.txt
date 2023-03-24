@@ -476,7 +476,7 @@
 確かにそうですね…|とりあえず、調査を続行してください。=That’s true...|For now, please continue your investigation.
 了解しました。=Understood.
 軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of military satellites as a bargaining chip...
-情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=Keyword added:|@fR“Military Reconnaissance"@fW
+情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=Keyword added:|@fR“Satellites"@fW
 !FILE:dat_script.bin/file010_PACK2/file006.bin
 あとはブリッジへ向かうだけです。\t|問題は、エレベーターがロックされて|いるということ…\vジェフリー、聞こえていますね。\t|Ａが最後に言った『予定通り』が|何を意味するのかはわかりません…\vしかし、たとえこの船が沈んでも、|私はあなたとあなたのボスを必ず|追い詰めますよ。\vなぜなら、私にはあなたのボスの正体…\t|すなわちこの事件の首謀者が誰なのか|わかってしまったからです！=All that remains is for you to get to the bridge.\t The only problem is that the elevator is locked...\vJeffrey, I know you can hear me.|I don’t know what A meant by keeping things ‘on schedule’,\vbut even if the ship sinks, you should know that I will hunt you and your boss down.\vNow I know who your boss, the mastermind behind it all, really is!
 そ、そんなハッタリ、やめてください！\t|たったあれだけの会話で、そんなことが|わかるはずが…！=S-Stop bluffing!\t|How could you possibly know that from just that one conversation?
@@ -537,7 +537,7 @@
 そうならないための努力です。\t|爆発の惨劇も、紛争も、あなただって|見たくはないでしょう？=We’re trying to prevent that from happening.\vYou don’t want to see the fallout of the explosion, or the start of a new war either, do you?
 Ｌ…私は…！=L... I--!
 （…状況は確かに絶望的だが…|　ジェフリーの態度は極端すぎる…|　米軍の介入をなぜそこまで望む？）=(...It’s true that the situation is desperate, but Jeffrey’s attitude is too extreme.)\v(Why does he want the US military to intervene so badly?)
-情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“U.S. Military Intervention"@fW
+情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“Military Intervention"@fW
 …………\t|ジェフリー、あなたはまだ何か|隠していますね。=...\t|Jeffrey, I know that you are still hiding something.
 えっ？=Huh?
 あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=You seem to want to sink the ship more than you want to stop it.\t|What is your real purpose?
@@ -883,7 +883,7 @@
 ここは地下…\tいや、違います…\t|ホテルの客室を地下に作るなど|聞いたことないですからね…\vシェルターならありえますが、|それなら扉の素材や作りが違ってくる|はずですし…\vそんなに外の景色を見られたくないと|言うのでしょうか…\vよほど目立つランドマークでもあれば|別ですが、窓からの景色で現在地を|特定するのは楽ではないはずです…=You’re underground...\t No, that’s not it.\t|I’ve never heard of anyone building a hotel underground.\vIt could be a shelter, but if so, the door designs and materials would have been different...\vThey’re that concerned with stopping you from being able to look out?\vBut unless there was a prominent landmark, it wouldn’t be easy to recognize your location just from the view...
 情報キーワード|@fR【風景からの位置特定】@fW|を入手した。=Keyword added:|@fR“Landscape Location"@fW
 うーん…\t窓がひとつもないというのは|やはり妙ですね…\vホテルの窓をふさぐのは楽ではない|はずですが…=Hmm...\t It’s odd that we still haven’t seen a single window.\vIt can’t be easy to block up all the windows of a hotel...
-情報キーワード|@fR【窓のない部屋】@fW|を入手した。=Keyword added:|@fR“Windowless Rooms"@fW
+情報キーワード|@fR【窓のない部屋】@fW|を入手した。=Keyword added:|@fR“No Windows"@fW
 !FILE:dat_script_f02.bin/file003_PACK2/file010.bin
 薄い金属のカバーがある。\v素手で開けられそうだ。=There is a thin metal cover.\vIt looks like it can be opened|with bare hands.
 カバーを開けます。|よろしいですか？=Open the cover?
@@ -908,7 +908,7 @@
 部屋全体の空気が温まっており、|とても暑い。=It’s warm inside the room.
 !FILE:dat_script_f02.bin/file005_PACK2/file010.bin
 中に何か入っているようですね…\t|その大きさでは、すぐには溶けそうに|ないですし、破壊も難しいですね…=It looks like there’s something trapped inside...\t It’s not going to be quick to melt at that size, and its sturdy too.
-情報キーワード|@fR【巨大な氷塊】@fW|を入手した。=Keyword added:|@fR“Giant Block of Ice"@fW
+情報キーワード|@fR【巨大な氷塊】@fW|を入手した。=Keyword added:|@fR“Block of Ice"@fW
 !FILE:dat_script_f02.bin/file005_PACK2/file012.bin
 氷が溶けた跡だ。=The ice has left a wet puddle behind.
 氷解したようです…=The ice has melted...
@@ -1247,7 +1247,7 @@ debug jump?=
 地震…？\t|@n0さん、気をつけて！=An earthquake...?\t|Watch out, @n0!
 収まったようですね…\t|物が落ちたり、壁が壊れたりしなかった|のは幸いでしたね。\vゆったりしていましたが、このレベルの|大きな揺れなら観測されているはず。\vワタリ、今の地震の観測情報を調べて|みてください。=It looks like its stopped...\t|It’s a good job nothing fell over or got broken.\vIt was slow, but an earthquake of that scale should appear in the records.\vWatari, check the weather reports for information about that earthquake.
 了解しました。大至急調べます。=Understood. I will see to it posthaste.
-情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Huge Earthquake"@Fw
+情報キーワード|@fR【大きな地震】@fW|を入手した。=Keyword added:|@fR“Earthquake"@Fw
 !FILE:dat_script_f04.bin/file020_PACK2/file010.bin
 壁の質感が違うようだ。=This wall is different.
 壁の質感が違うようですね。|\t廊下をふさぐために壁を追加したように|見えますが…\vこの先に何かあるというのでしょうか…=The wall here is different.|\tIt looks like it was added to block off the corridor...\vThere must be something on the other side.
@@ -1522,13 +1522,13 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 頼みます。=Please do.
 情報キーワード|@fR【ＣＬＮ】@fW|を入手した。=Keyword added:|@fR“CLN"@fW
 これまでに解除した小さなトラップには|あまり強い爆薬は使われていませんね…\t|人を殺すための爆弾ではない、か…=All of these small traps you’ve disarmed haven’t contained particularly strong explosives.\t They’re not designed to kill...
-情報キーワード|@fR【殺傷能力の低い爆薬】@fW|を入手した。=Keyword added:|@fR“Nonlethal Explosives"@fW
+情報キーワード|@fR【殺傷能力の低い爆薬】@fW|を入手した。=Keyword added:|@fR“Nonlethal Traps"@fW
 !FILE:dat_script_f07.bin/file010_PACK2/file010.bin
 立て付けの悪い引き出しだ。\v中にはもう、何もない。=The drawer is wonky.\vThere’s nothing inside.
 立て付けの悪い引き出しだ。\v何かがひっかかっているようだ。=The drawer is wonky.\vSomething seems to be caught inside.
 無理やり開けますか？=Force it open?
 小さなトラップの制限時間は|一定ではなく、長短様々ですね…\vこちらに予測を立てられないように|するためか、それとも他に何か意図が|あるのか…=There’s no consistent time limit for these small traps, they all vary.\vIs that to stop us from being able to make predictions, or is there some other goal?
-情報キーワード|@fR【小トラップの制限時間】@fW|を入手した。=Keyword added:|@fR“Time Limit of Small Traps"@fW
+情報キーワード|@fR【小トラップの制限時間】@fW|を入手した。=Keyword added:|@fR“Small Trap Time Limits"@fW
 !FILE:dat_script_f07.bin/file010_PACK2/file017.bin
 レバーのついた箱だ。=A box with a lever installed.
 !FILE:dat_script_f07.bin/file011_PACK2/file010.bin
@@ -1636,7 +1636,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 噂、ならひとつあります。=There is one rumor I’ve heard.
 ＣＬＮの実権を握るといわれる会長が、|病気を理由に引退すると幹部会に伝えた|そうです…\vＣＬＮでは今、激しい後継者争いが|行われていると。=The director of the CLN has told the board that he will be retiring due to illness.\vThere is a fierce battle to find his successor at the CLN right now.
 なるほど…興味深い噂ですね。|覚えておきましょう。=I see... That’s an interesting rumor.|I’ll keep that in mind.
-情報キーワード|@fR【ＣＬＮ会長の引退？】@fW|を入手した。=Keyword added:|@fR“CLN Director Retirement?"@fW
+情報キーワード|@fR【ＣＬＮ会長の引退？】@fW|を入手した。=Keyword added:|@fR“CLN Director Retires?"@fW
 確か…ＣＬＮは株式公開していますね。|株主を調べることは可能でしょうか？=As I recall, the CLN is publicly traded. Is it possible to find out who the shareholders are?
 すでに調べましたが、アロイス会長の|名前はありません…というよりも|個人名がほとんど出ません。\v世界各国の企業や投資家が出資している|と思われますが、ＣＬＮは軍需産業ゆえ|皆、名前を伏せているのでしょうな。\v投資ファンドを経由しての出資が多く、|個人名特定は厳しい状況といえます。=I have already checked, but there was no mention of Alois. In fact, there are hardly any individuals listed.\vThe CLN have investors from all over the world, but given the industry, I suppose they’d like to keep their identities hidden.\vMost of the investments were made via investment funds, so it is difficult to find individual names.
 一応、調べた情報を送ってください。=Send me what you have so far.
