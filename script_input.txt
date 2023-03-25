@@ -24,7 +24,7 @@
 ここまでは前置きです。\t|伝え忘れたのは事件の話ではなく…|例のデザート職人の話です。\v本人の強い意志で名前を教えることは|できないのですが、ヒントをひとつ…\t|『彼』は私のそばにいる人物です。\vそれから最後に…=Well, now I’m waffling.\t|What I wanted to tell you is not|about the case...|It’s about the phantom patissier.\vI’m afraid I can’t reveal his name, but I can give you a hint...\t|“He” is someone close to me.\vAnd, finally...
 !FILE:dat_script.bin/file001_PACK2/file007.bin
 くそっ！　ここまでか！=Damn! Is this it!?
-ゴホッ、ゴホッ…！=*Cough, cough...!*
+ゴホッ、ゴホッ…！=＊Cough, cough...!＊
 こ、これは、催涙ガス…！？=Is that... tear gas...!?
 俺は負けない…\t|いつか必ず、おまえに復讐してやる。\t|おぼえておけ、Ｌ！=I haven’t lost yet.\t|One day, I’ll get my revenge on you.\t|Remember that, L!
 …ま、待て…！=W-Wait--!
@@ -537,7 +537,7 @@
 そうならないための努力です。\t|爆発の惨劇も、紛争も、あなただって|見たくはないでしょう？=We’re trying to prevent that from happening.\vYou don’t want to see the fallout of the explosion, or the start of a new war either, do you?
 Ｌ…私は…！=L... I--!
 （…状況は確かに絶望的だが…|　ジェフリーの態度は極端すぎる…|　米軍の介入をなぜそこまで望む？）=(...It’s true that the situation is desperate, but Jeffrey’s attitude is too extreme.)\v(Why does he want the US military to intervene so badly?)
-情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“Military Intervention"@fW
+情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“US Intervention"@fW
 …………\t|ジェフリー、あなたはまだ何か|隠していますね。=...\t|Jeffrey, I know that you are still hiding something.
 えっ？=Huh?
 あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=You seem to want to sink the ship more than you want to stop it.\t|What is your real purpose?
