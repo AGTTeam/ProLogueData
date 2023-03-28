@@ -1,4 +1,4 @@
-!FILE:overlay_0000_dec.bin
+﻿!FILE:overlay_0000_dec.bin
 レシピ【%s】を追加！=Recipe “%s” added!
 【%s】を手に入れた！=“%s” found!#went with found over obtained to make sense with next line, but may not work in all contexts.
 しかしこれ以上持つことはできない！=You can’t hold any more!
@@ -34,17 +34,17 @@
 台=Pedestal
 壷=Vase
 装置=Device
-Ｖ２=
-Ｖ３=
-Ｖ４=
-Ｖ１=
+Ｖ２=V2
+Ｖ３=V3
+Ｖ４=V4
+Ｖ１=V1
 通路=Passageway
 廊下=Corridor
 花瓶=Vase
 廊下奥=Corridor-B
 倉庫Ｂ=Cargo Hold B
 一斗缶=Square Can
-Ｖ２奥=Ｖ２ Back
+Ｖ２奥=V2 Back
 倉庫Ｃ=Cargo Hold C
 大倉庫=Large Warehouse
 カフェ=Cafe

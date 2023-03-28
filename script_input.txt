@@ -154,7 +154,7 @@
 @n0さんには、もう答えが|わかっているかもしれませんね。=@n0, you may already know the answer.
 わざわざ、トラップルームを|客船の中に作った理由は何か…\t|問題はそこです。=Why go to the trouble of building a trap inside a cruise ship...\t|That is the question.
 残る起爆装置は、あと１つだけです。\t|がんばりましょう。=There is only one detonator left.\t|Let’s do our best.
-確かに、こんな大仕掛けは|ハウスキーパーの流儀に|反していますね……=Such a complex trick is against the Housekeeper’s style...
+確かに、こんな大仕掛けは|ハウスキーパーの流儀に|反していますね……=Making such a complex trick goes against the Housekeeper’s style...
 この船を買い取ったリブート社と|ドックを所有していたCLN…\t|この２社をつなぐものは何だ……=Reboot Inc. who bought the ship, and the CLN who owned the dock...\t|What connects these two companies?
 仮に…\t|トラップを何度も解除させること自体に|真の目的があるとすれば……=What if their real purpose is having the traps repeatedly solved...?
 そろそろ、ハウスキーパーの依頼者が|本当に求めているものを|見つけられそうです……=It’s about time we found out what the Housekeeper’s client is really after.
@@ -454,7 +454,7 @@
 @n0さん、\t|その扉を開けてください。=@n0, please open that door.
 @n0さん、驚きましたか？\vそうです。この『トラップボックス』は|『ホテル』ではなく、海上を航行する|『客船』そのものなんです！\v詳細はワタリに調査してもらっている|ところですが…\vこれは、マーメイド・グループ傘下の|マーメイドシップビルダーズ社が|作った豪華客船『グラナダ号』です。=Are you surprised?\vThat’s right. This trap box is not a hotel but a cruise ship, on the sea.\vWatari is currently investigating the full details.\vWhat we do know is that you’re on the “Granada”, a luxury cruise ship built by a subsidiary of the Mermaid Group.
 情報キーワード|@fR【豪華客船グラナダ号】@fW|を入手した。=Keyword added:|@fR“The Granada"@fW
-ホテルに似た客室、\t記録にない地震、\t|狭い通路、\tふさがれた窓、\t|錆びてカビたスタッフルーム…\v『客船』というキーワードひとつで|すべてが説明つきます。\t|ずいぶん手の込んだ仕掛けです。\vハウスキーパーの仕事としては、|色々思うところもありますが…=Hotel-like rooms,\t an unrecorded earthquake,\t narrow corridors,\t blocked windows,\t rust and mold in the staff room...\vThe word “cruise ship” accounts for them all.\t It is a very elaborate set-up.\vAs for it being the Housekeeper’s work, I still have a lot of unanswered questions.
+ホテルに似た客室、\t記録にない地震、\t|狭い通路、\tふさがれた窓、\t|錆びてカビたスタッフルーム…\v『客船』というキーワードひとつで|すべてが説明つきます。\t|ずいぶん手の込んだ仕掛けです。\vハウスキーパーの仕事としては、|色々思うところもありますが…=Hotel-like rooms,\t an unrecorded earthquake,\t narrow corridors,\t blocked windows,\t rust and mold in the staff room...\vThe word “cruise ship” accounts for them all.\t It’s a very elaborate set-up.\vAs for it being the Housekeeper’s work, I still have a lot of unanswered questions.
 そりゃそうだろう？\t|こんな手間のかかる大仕掛け、|わざわざ俺が考えたりすると思うか？\vこれはな、金持ちの道楽だよ。\t|シロウトさんのオモチャなのさ。=Well, duh.\t|Do I seem like the type who’d bother with such a convoluted trick?\vOnly the rich have such hobbies.\t|It’s an amateur’s toy.
 つまり、すべてクライアントの|用意したものということですね。=In other words, the client did all the planning.
 ああ、俺はただのアドバイザーだ。=Yeah, I’m just an advisor.
@@ -462,10 +462,10 @@
 シロウト相手だと聞いて安心したか？=Do you feel better knowing you’re up against an amateur?
 いえ、むしろ、やっかいですね。\t|あなたの手口なら細部まで読めますが、|シロウトは何をするかわかりません…=No, on the contrary.\t I can see through your techniques, but with an amateur, you never know what they’re going to do.
 ふん。せいぜいがんばるんだな。=Hmph. At least try to put on a good show.
-@n0さん、始めましょう。\t|まずは起爆装置の解除です。\t|解除後、船を停止させてください。\v急かすつもりはありませんが、|これだけの大型船舶だと、停止までに|それなりの時間と距離が必要です。\v爆弾を解除しても、船が港や陸地に|突っ込んでしまったらおしまいです。\v大丈夫。\t爆弾はあと１つ。\tこれまで同様|慎重かつ迅速に行動すれば、必ず|この爆弾客船を止められます！=We’d best get a move on, @n0.\t|First, you need to disarm the last trap.\t|Once that’s done, stop the ship.\vI don’t mean to rush you, but with such a large ship, it takes time for it to come to a full stop.\vEven if you disarm everything, if the ship reaches a port or land, it’ll be game over.\vDon't worry.\t There’s only one bomb left.\t If you act as carefully and quickly as you have been, I know you can do it!
+@n0さん、始めましょう。\t|まずは起爆装置の解除です。\t|解除後、船を停止させてください。\v急かすつもりはありませんが、|これだけの大型船舶だと、停止までに|それなりの時間と距離が必要です。\v爆弾を解除しても、船が港や陸地に|突っ込んでしまったらおしまいです。\v大丈夫。\t爆弾はあと１つ。\tこれまで同様|慎重かつ迅速に行動すれば、必ず|この爆弾客船を止められます！=We’d best get a move on, @n0.\t|First, you need to disarm the last trap.\t|Once that’s done, stop the ship.\vI don’t mean to rush you, but with such a large ship, it’ll take time for it to come to a full stop.\vEven if you disarm everything, if the ship reaches a port or land, it’ll be game over.\vDon't worry.\t There’s only one bomb left.\t|If you act as quickly and carefully as you have been, I know you can do it!
 !FILE:dat_script.bin/file009_PACK2/file009.bin
 展望キャビンにはトラップなどは|無いようです。\t|他の場所を調べてください。\vハウスキーパー、\tそれにしても|大きな客船ですね…\vまさかとは思いますが、@n0さん|以外にも同じようなお客さんは|いたりしませんよね？=There didn’t seem to be any traps in the observation cabin.\t|We should check elsewhere.\vSpeaking of which, Housekeeper.\t|It is a large ship.\vI can’t see there being, but to confirm, there aren’t any passengers on the ship other than @n0, are there?
-おまえが世の中にザラにいる程度の|ショボイ探偵なら、そういう可能性も|あるかもしれない。\tどう思う？=If you’re half as dumb as those other good-for-nothing detectives out there,|you can’t rule out the possibility.\vWhat do you think?
+おまえが世の中にザラにいる程度の|ショボイ探偵なら、そういう可能性も|あるかもしれない。\tどう思う？=If you’re really as dumb as all those other good-for-nothing detectives out there, you can’t rule out the possibility.\vWhat do you think?
 …感じの悪い質問ですね。=...That’s in bad taste.
 ふん。客は@n1だけだ。\t|外から出入できないように、出入口は|コンピューターで管理している。=Hmph. @n1 is the only guest.\t The|entrance and exit are controlled by computer so that no one can get in or out.
 なるほど……=I see...
@@ -1507,7 +1507,7 @@ debug jump?=
 !FILE:dat_script_f07.bin/file009_PACK2/file011.bin
 Ｌ、『豪華客船グラナダ』の情報を|入手しました。=L, I have new information about the “Luxury Liner Granada”.
 聞かせてください。=I’m all ears.
-『グラナダ号』は|マーメイドシップビルダーズ社、|１９８５年製の大型客船です。\v全長２３８ｍ、全幅３２ｍ、\t総重量|５１０００ｔ、\t巡航速力２３ノット、\t|客室３層を含むデッキは全７層。\v最初の所有者だった欧州の観光会社が|経営破綻を起こし５年前に倒産……\v北米のＩＴ企業リブート社に所有権が|渡りましたが、直後に廃船処分され、|行方不明になっています。=The Granada is a large passenger ship built in 1985 by Mermaid Shipbuilders.\vIt is 238 meters long,\t 32 meters wide,\t and has seven decks, including three floors for passenger cabins.\vThe first owner, a European tourism company, went bankrupt five years ago.\vOwnership passed to North American IT company Reboot, but the ship was retired shortly after.
+『グラナダ号』は|マーメイドシップビルダーズ社、|１９８５年製の大型客船です。\v全長２３８ｍ、全幅３２ｍ、\t総重量|５１０００ｔ、\t巡航速力２３ノット、\t|客室３層を含むデッキは全７層。\v最初の所有者だった欧州の観光会社が|経営破綻を起こし５年前に倒産……\v北米のＩＴ企業リブート社に所有権が|渡りましたが、直後に廃船処分され、|行方不明になっています。=The Granada is a large passenger ship built in 1985 by Mermaid Shipbuilders.\vIt is 238 meters long,\t 32 meters wide,\t and has seven decks, including three floors for passenger cabins.\vThe first owner, a European tourism company, went bankrupt five years ago.\vOwnership passed to North American IT company Reboot Inc., but the ship was retired shortly after.
 しかし、廃船となったはずの船が、|実際に今、@n0さんと爆弾を|積んで海の上を航行している…\vＩＴ企業が買い、すぐに処分したと|いう、古びた客船を…\t|なんというチグハグ感…=And yet, that supposedly retired ship is currently out at sea, with @n0 and|bombs on board...\vAn old cruise ship that an IT company bought and immediately scrapped...\t|It doesn’t make sense.
 リブート社とグラナダの廃船後に|ついては現在、追跡調査中ですが|難航しています。=I am currently trying to uncover what happened to the Granada after it was retired, but it is proving to be difficult.
 …………\t|では、クリエラと隣国のドックを|調べてみてください。=...\t|See what you can dig up about the docks in Criella and all neighboring countries.
@@ -1516,9 +1516,9 @@ debug jump?=
 情報キーワード|@fR【グラナダの所有者】@fW|を入手した。=Keyword added:|@fR“Ship’s Owner"@fW
 お待たせしました、Ｌ。\t|グラナダの廃船処分後の足取りが|判明しました。\vクリエラ国内にあるドックのうち、|グラナダ級の大型船を隠せるような|ドックは１箇所だけでした。\vドックの所有者はＣＬＮ系の|海運会社です。=I apologize for the delay.\t|I discovered a clue about the Granada’s journey after it was retired.\vOf the docks in the Criella, there is only one which would have been able to hide such a large ship.\vThe owner of the dock is a shipping company affiliated with the CLN.
 COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需産業ですね。=The Combat Logistics Network...\t CLN for short.\t A multinational munitions company from the Middle East.
-過去半年の衛星写真を調べたところ|グラナダと思われる船舶が、深夜に|出航する様子が写っていました。=I discovered satellite photos from over the past six months which I believe show the Granada, sailing in the dead of night.
+過去半年の衛星写真を調べたところ|グラナダと思われる船舶が、深夜に|出航する様子が写っていました。=I discovered satellite photos from over the past six months which I believe show the Granada sailing in the dead of night.
 間違いないですね…\t|あとは、リブート社とＣＬＮの関係さえ|見えれば…=Then there’s no doubt.\t|If only we knew what the relationship between this Reboot Inc. and the CLN is...
-今、総力をあげて、調査中です。\t|何か見つかり次第、報告します。=I am organizing an all-out investigation as we speak.\t I will report back as soon as I find something.
+今、総力をあげて、調査中です。\t|何か見つかり次第、報告します。=I am investigating them as we speak.\t I will report back as soon as I find something.
 頼みます。=Please do.
 情報キーワード|@fR【ＣＬＮ】@fW|を入手した。=Keyword added:|@fR“CLN"@fW
 これまでに解除した小さなトラップには|あまり強い爆薬は使われていませんね…\t|人を殺すための爆弾ではない、か…=All of these small traps you’ve disarmed haven’t contained particularly strong explosives.\t They’re not designed to kill...
@@ -1963,7 +1963,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus|and press the @fR“Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room, move in front of a door.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file010.bin
 上のケースを開けた！=Removed the top lid!
-しかしケース内に起爆装置は|見当たらない。=But, there is no detonator to be seen.
+しかしケース内に起爆装置は|見当たらない。=But there is no detonator to be seen.
 下のケースを開けた！=Removed the bottom lid!
 起爆装置を発見した。=Located the detonator.
 起爆装置を解除した！=Disarmed the detonator!
@@ -4088,11 +4088,11 @@ The @fRscrew@fW has been|fastened in tight.
 頑丈なカバーではありませんね。\t|何か@fR硬い物で叩いて@fWみては|どうでしょうか。=It doesn’t look particularly strong.\t|I wonder what would happen if you @fRhit it with something hard@fW?
 カバーが歪んで|外しやすくなった。=Warped the cover making it|easier to remove.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file013.bin
-金具が緩んだようだ。=Loosened the fittings.
+金具が緩んだようだ。=Loosened the fitting.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file014.bin
-金具が緩んだようだ。=Loosened the fittings.
+金具が緩んだようだ。=Loosened the fitting.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file015.bin
-金具が緩んだようだ。=Loosened the fittings.
+金具が緩んだようだ。=Loosened the fitting.
 !FILE:dat_script_trapsmall.bin/file016_PACK2/file024.bin
 爆薬と制御装置を|繋いでいる@fRコード@fWだ。=A @fRwire@fW connects the explosives|to the controls.
 爆薬と繋がっていたコードだ。\vコードを戻す事ができそうだ。=A wire which was connected|to the explosive.\vIt should be possible to plug it back it.
@@ -4155,32 +4155,32 @@ The @fRscrew@fW has been|fastened in tight.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file014.bin
 下側のケースだ。\vスライド式で開けられそうだが、|今は少ししか動かない。=The lower case.\vIt looks like the lid should slide off,|but it won’t budge.
-下側のケースだ。\v爆薬からの@fRコード@fWが繋がっている。\v中に起爆装置があるらしい。=The lower case.\vThere are @fRwires@fW feeding into it from the explosive.\vThe detonator must be inside.
+下側のケースだ。\v爆薬からの@fRコード@fWが繋がっている。\v中に起爆装置があるらしい。=The lower case.\vThere are @fRwires@fW feeding into it|from the explosive.\vThe detonator must be inside.
 下側のケースだ。\v重心の移動に違和感がある。\v起爆装置には、|液体が使われているかもしれない。|大きく動かすと爆発するだろう。=The lower case.\vThere’s something odd about the way its center of gravity keeps shifting.\vA liquid may have been used for|the detonator.|If moved suddenly, it will explode.
 下側のケースだ。\vカバーが外され、|シリンダーを固定する部分だけ|残っている。=The lower case.\vNow that the lid has been removed, only the piece securing the cylinder remains.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file015.bin
-ネジが緩んだ。=The screws have been loosened.
+ネジが緩んだ。=Loosened the screws.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file017.bin
-フタつきのケースだ。\vフタは@fRネジ@fW止めされているが、|@fRスキマ@fWができている=A case with a lid.\vThe lid is held on by @fRscrews@fW,|but there is a small @fRgap@fW.
+フタつきのケースだ。\vフタは@fRネジ@fW止めされているが、|@fRスキマ@fWができている=A case with a lid.\vThe lid is being held in place by @fRscrews@fW, but there is a small @fRgap@fW.
 まず、やるべき事は|このフタを開ける事ですね。=The first thing to do is get this lid off.
-フタつきのケースだ。\vこじ開けられてスキマができている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=A case with a lid.\vThe lid has been pried open slightly.\vIt has a catch, so requires caution when removing.
-フタつきのケースだ。\vネジは緩められている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=A case with a lid.\vThe screws have been loosened.\vThe lid has a catch, so requires caution when removing.
+フタつきのケースだ。\vこじ開けられてスキマができている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=A case with a lid.\vThe lid has been pried open slightly.\vIt seems to be catching on something,|so must be removed with caution.
+フタつきのケースだ。\vネジは緩められている。\vフタは引っ掛かりがあるため、|外すときは注意が必要だ。=A case with a lid.\vThe screws have been loosened.\vIt seems to be catching on something,|so must be removed with caution.
 このケースの中には|起爆装置はないようだ。=It doesn’t look like the detonator is in here.
-フタの上部を叩いたら|少し歪んでしまった。=The top of the lid has become warped from being hit.
-ケースのスキマをこじ開けた。=Widened the gap between the lid and the case.
+フタの上部を叩いたら|少し歪んでしまった。=Warped the top of the lid.
+ケースのスキマをこじ開けた。=Widened the gap between|the lid and the case.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file018.bin
 何かのボタンだ。\vシリンダーと接続している|コードを切断したため、|機能を果たしていない。=Some kind of button.\vAs the wires connected to the cylinder have been cut, it no longer does anything.
 何かのボタンだ。\v解除ボタンのようにも見えるが、|これ自体がトラップかもしれない。=Some kind of button.\vIt looks like a release button,|but could very well be a trap.
 ボタンを叩いた。\vスイッチが入ってしまった！=Hit the button.\vThe switch turned on!
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file019.bin
-下のケースとシリンダーを|固定している@fRハリガネ@fWだ。=@fRMetal wire@fW secures the lower case and cylinder.
+下のケースとシリンダーを|固定している@fRハリガネ@fWだ。=@fRMetal wire@fW secures the cylinder|to the lower case.
 複雑に絡みついていますね。\t|@fR切断@fWしてしまった方が|楽に外す事ができそうです。\v強引に外すと起爆装置が|作動してしまうと思いますので、|気をつけてください。=That is extremely tangled.\t|@fRCutting@fW it should make it easier to remove.\vIf you try to pull it out by force, I expect it will trigger the detonator, so do be careful.
-シリンダーと下のケースを固定している|ハリガネを切断した。=Removed the metal wire securing the lower case and cylinder.
+シリンダーと下のケースを固定している|ハリガネを切断した。=Removed the metal wire securing the cylinder to the lower case.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file020.bin
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=The wire connecting the button and the detonator.\vIt has been repaired with insulation tape.
-ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=The wire connecting the button and the detonator.\vThe wire is @fRexposed@fW meaning even a slight touch could energize it.\vIt would be advisable to use an item to @fRinsulate@fW it.
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connecting the button and the detonator.\vIt has been repaired with tape, and has a slit in it.
-ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=The wire connecting the button and the detonator.\vIt has a slit in it.
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=The wire connecting the button to the detonator.\vIt has been repaired with insulation tape.
+ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=The wire connects the button to the detonator.\vThe wire is @fRexposed@fW meaning even a|slight touch could energize it.\vIt would be advisable to @fRinsulate@fW it with an item.
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connecting the button to the detonator.\vIt has been repaired with tape, and has a slit in it.
+ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=The wire connecting the button to the detonator.\vIt has a slit in it.
 これでボタンを押さない限り、|この装置は機能しないでしょう。=This way, it shouldn’t activate unless you push the button.
 コードに切れ目を入れた。=Cut a slit into the wire.
 コードを切断した。=Cut the wire.
