@@ -1,4 +1,4 @@
-﻿!FILE:overlay_0000_dec.bin
+!FILE:overlay_0000_dec.bin
 レシピ【%s】を追加！=Recipe “%s” added!
 【%s】を手に入れた！=“%s” found!#went with found over obtained to make sense with next line, but may not work in all contexts.
 しかしこれ以上持つことはできない！=You can’t hold any more!
@@ -490,7 +490,7 @@
 ブラフ=Bluff
 ＣＬＮ=CLN
 未確定=Undefined
-米軍介入=US Intervention
+米軍介入=Military Int_$n@on
 狭い通路=Narrow Corridors
 他の乗船者=Other Pa~engers
 自由な人質=Free Hostage
@@ -540,7 +540,7 @@
 クリエラの地震・続報=Earthquake Follow-up
 〝右利き〟のトラップ=Right-handed Trap
 ハウスキーパーの目的=Housekeeper’s Goal
-小トラップの制限時間=Small Trap Time Limits
+小トラップの制限時間=Time Limit⊂Small Traps
 ハウスキーパーの報酬=Housekeeper’s Pay#debug only
 ハウスキーパーの性格=Housekeeper’s Personality
 爆弾魔ハウスキーパー=The Bomber
@@ -557,7 +557,7 @@
 ２階フロアとまったく同じ。=>>It matches the 2nd floor.
 ３階フロアとまったく同じ。=>>It matches the 3rd floor.
 １階のフロアとまったく同じ。=>>It matches the 1st floor.
-Ｊは右利き。右投げ右打ち。|利き目も右。=>>J is right-handed. He throws with his right and hits with his right.
+Ｊは右利き。右投げ右打ち。|利き目も右。=>>J is right-handed.
 ハウスキーパーは冷静さを失いつつ|あるようだ。=>>The Housekeeper seems to be losing his cool.
 大陸も海上も、世界は軍事偵察衛星の|監視下にある。=>>There are sur$illance satellites around the world.
 船は古いが、救命ボートは新品に|取り替えられている。=>>The ship is old, but the lifeboat looks new.
@@ -566,14 +566,14 @@
 ハウスキーパーはかなりの|ベースボールファンだと思われる。=>>The Housekeeper appears to be a big baseball fan.
 ハウスキーパーの起用では、高額の|報酬が用意されたとみられる。=>>Hiring the Housekeeper would surely come at a high cost.#debug only
 大型客船なら潜伏は容易であり、|出入りの自由は封じられている。=>>It would be easy for someone to hide on such a large ship.
-各国の気象台や専門機関でも|クリエラでの地震は観測されていない。=>>No earthquakes ha$ b/n obs_$d in Criella by any weath_ stations.
-トラップを解除すれば行動は自由。|大半の部屋のカギはかかっていない。=>>There's no restriction on movement. Most of the rooms are unlocked.
+各国の気象台や専門機関でも|クリエラでの地震は観測されていない。=>>No earthquakes ha$ b/n obs_$d in Criella by any weath_ stations.{#leave {
+トラップを解除すれば行動は自由。|大半の部屋のカギはかかっていない。=>>There's no restriction on movement.|Most of the rooms are unlocked.
 この船に仕掛けられた小さなトラップの|爆薬のほとんどは殺傷能力が低い。=>>The explosives in the small traps aren’t powerful enough to kill.
 廊下の突き当たりの壁は、|比較的最近追加されたと思われる。|破壊は不可能。=>>The wall at the end of the corridor appears to be a recent addition.
 仕掛ける現場にあるものを巧みに|利用したトラップ。|プロのテクニックが必要。=>>The traps clev_ly utilize their environment. That requires spe^alist skills.
 幅１．５ｍ弱程度の狭い通路。|内装の豪華さを考えると若干の違和感を|覚える。=>>The corridors are le~ than 1.5 m}_s wide. That doesn't scream luxury hotel.
 部屋の壁には窓がない。|ホテルを改装して窓をふさぐのは|簡単な作業ではない。=>>Th_e are no windows. Renova@ng a hotel to block the windows is no easy task.
-中東の多国籍軍需産業。|グラナダを隠していたドックを|所有する海運会社はＣＬＮ系列。=>>A munitions company. Affiliated with the shipping company wh_e the Granada was held.
+中東の多国籍軍需産業。|グラナダを隠していたドックを|所有する海運会社はＣＬＮ系列。=>>A multinational munitions company. Affiliated with the shipping company wh_e the Granada was held.
 装置の発動から解除までの制限時間は|一定ではなく、長いものや短いものが|混在している。=>>The time limits for the traps aren’t consistent. There are long ones and short ones.
 ホテルの客室とよく似たつくり。|かなり傷んでおり、現在は使用されて|いないと思われる。=>>The room looks a lot like a hotel guest room. It appears to no longer be in use.
 監禁場所であるにもかかわらず、|意図的とも思えるほどに、|使えそうなものが落ちている。=>>For a place of confinement, th_e are a|lot of useful to+s around. It seems delib_ate.
@@ -583,9 +583,9 @@
 壁には１ｍｘ１ｍほどの日焼け跡が|残されている。小窓から入った陽光で|色あせたと思われる。=>>There was a 1m x 1m mark on the wall. It is believed to have been caused by sunlight.#debug only
 トラップの仕掛けは単純だが出来は良く|爆発物が仕掛けられている。|素人が作れる代物ではない。=>>The mechanism for the traps are simple, but well-implemented. Their maker is no amateur.
 最新型のデジタルキー。|ホテル跡を犯罪の舞台にしているが、|トラップの装置は決して古くない。=>>The hotel is old, but the equipment for this trap was state-of-the-art.
-米国のＩＴ企業リブート社が３年前に|中古で購入したが、わずか半年後には|廃船処分されている。=>>It was purchased by the IT company Reboot Inc. 3 years ago, and scrapped 6 months later.
+米国のＩＴ企業リブート社が３年前に|中古で購入したが、わずか半年後には|廃船処分されている。=>>It was purchased by the IT company Reboot Inc. three years ago, and scrapped six months later.
 プライドが高く、負けず嫌い。|Ｌの関与する今回の事件以外では|仕事の成功率は１００％だった。=>>The Housekeeper is prideful and hates to lose.
-紛争で家族を失った子供たちのために|リブート社が設立した援助基金。|発案・代表はアロイス会長。=>>An aid fund s} up by Reb[t Inc. to support children orphaned by war. Headed by Chairman Alois.
+紛争で家族を失った子供たちのために|リブート社が設立した援助基金。|発案・代表はアロイス会長。=>>An aid fund s} up by Reb[t Inc. to support children orphaned by war.
 クリエラでは地震は珍しいはずだが、|先ほどの地震に関するニュースは|まったく報道されていない。=>>Earthquakes aren’t common in Criella, but th_e has b/n no co$rage of the recent earthquake.
 過去、現在ともクリエラ共和国内には、|人質のいる場所と同じ内装の|ホテルが存在した記録はない。=>>There's no record of any hotel in Criella, past or present, with the same interior as this.
 ホテルを使った大掛かりなトラップに|制限時間が用意されていないのは|不自然な状況だと思われる。=>>It would seem unnatural for there not to be a time limit on getting through the hotel.
@@ -598,22 +598,22 @@
 難民は陸路でアメリカに送った。|その際、難民たちが逃げないよう|Ｊの仲間が銃で難民たちを脅していた。=>>The refugees were transported overland. J’s associates used guns to prevent them escaping.
 会長アロイス・ベイトソン率いる北米の|ＩＴ会社。業界トップの業績を誇る。|会長の完全なるワンマン経営。=>>North American IT company led by Chairman Alois Bateson. He has control over the entire company.
 米軍の介入は事態の混乱を招く恐れが|高いのだが、ジェフリーは必要以上に|米軍への介入要請を口にしている。=>>Intervention by the US military would stir up controversy, but Jeffrey seems insistent on it.
-壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=>>The paint on the walls is rusty and the carpet is moldy. It seems odd for a non-humid area like Criella.
+壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=>>The paint on the walls is rusty and the carpet is moldy. It seems odd for a non-humid area like Criella.{#leave {
 ハウスキーパーは基本的にはトラップを|仕掛けるだけで、表舞台で行動しない。|今回は異例の行動だと思われる。=>>The Housekeep_ typically only sets traps and does not get inv+$d. His actions this time are unprecedented.
-大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=>>The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
-一連のトラップの製作者である爆弾魔。|３日前、<name>が誘拐された際にも|同様のトラップが仕掛けられていた。=>>The Housekeeper is responsible for a series of traps. A similar trap was set|three days ago when <name> was abducted.
-トラップボックスは『ホテル』ではなく|『大型客船』だった。搭載された爆弾が|爆発しても周囲への被害は少ない。=>>Even if the bombs on board the ship exploded, there would be little damage to the surroundings.
-３階の日焼け跡と同じ形。|日焼けの具合から逆算すると、|窓からの日光の入射角が同じになる。|本来はありえない。=>>The marks were the same as the third floor, right down to the angle. Something doesn’t add up.#debug only
-リブート社の会長。ビジネス至上主義で|野心家。投資ファンド『シュウエイ』を|経由して複数の企業を所有している。=>>The Chairman of Reboot Inc. He owns several companies via the investment fund “Shuei”.
+大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=>>The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
+一連のトラップの製作者である爆弾魔。|３日前、<name>が誘拐された際にも|同様のトラップが仕掛けられていた。=>>The Housekeeper is responsible for a series of traps. A similar trap was set|three days ago when <name> was|abducted.
+トラップボックスは『ホテル』ではなく|『大型客船』だった。搭載された爆弾が|爆発しても周囲への被害は少ない。=>>The “trap box” is not a hotel, but a ship. E$n if the bombs⊃board exploded, there would be little damage to the surroundings.
+３階の日焼け跡と同じ形。|日焼けの具合から逆算すると、|窓からの日光の入射角が同じになる。|本来はありえない。=>>The marks were the same as the 3rd floor, right down to the angle. Something doesn’t add up.#debug only
+リブート社の会長。ビジネス至上主義で|野心家。投資ファンド『シュウエイ』を|経由して複数の企業を所有している。=>>The Chairman of Reboot Inc. He owns several companies via the investment|fund “Shuei”.
 今回のトラップは、裕福な依頼人の|手によってすべて考案、準備された。|ハウスキーパーはアドバイザーに|過ぎない。=>>The traps were conceived of and prepared by a wealthy client. The Housekeeper is merely an adviser.
 Ｊは、組織を壊滅させたＦＢＩとＬへの|復讐のためにこの〝ゲーム〟を仕組んだ。|だが、その割にはやり方が生ぬるい。=>>J devised this ‘game’ as revenge against the FBI and L, but his methods are too lenient.
-３年前、アロイスにスカウトされ、|計画の立案時から参加している。|参加直後、アロイスとＣＬＮの|つながりを知った。=>>3 years ago, he was recruited to help with the trap. S[n aft_, he disco$red the connec@on b}w/n Alois and the CLN.
+３年前、アロイスにスカウトされ、|計画の立案時から参加している。|参加直後、アロイスとＣＬＮの|つながりを知った。=>>Thr/ years ago, he was recruited to help with the trap. S[n aft_, he disco$red the connec@on b}w/n Alois and the CLN.
 ハウスキーパーは何者かに雇われて|今回の犯行に携わっている。|ハウスキーパーと依頼人が手を組むのは|初めてだと思われる。=>>The Housekeeper was hired by someone. This appears to be the first time that he and his client have worked together.
 ２０代後半の男性。|ＦＢＩのデータには一致する声紋なし。|英語のネイティブスピーカーではない。|声に極度の緊張が見られる。=>>Male, late 20s; no matching voiceprint in FBI data. Not a native English speaker.
 本名はクリロ・ミラニッチ。|旧ユーゴ内戦時に戦争孤児となったが、|アロイスの財団によって救助され|学費を支援してもらった。=>>Real name Kirilo Milanoviс. Orphaned during the ^vil war in the form_ Yugoslavia, but was rescued by the Alois Foundation.
-少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Houskeeper was nicknamed Babe Ruth II as they had a similar way of batting. They also write the same.
+少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Housek/per was nicknamed Babe Ruth II as they had a similar way of batting. They also write the same.
 今回の犯行に使われている部品は、普段|とは異なり、高価で精巧なものばかり。|ハウスキーパーの犯行では、珍しい|ケースといえる。=>>The parts used this time are expensive|and elaborate, not typical for the Housekeeper’s crimes.
-ハウスキーパーのセットしたトラップは|本来なら利き腕がわからない作りだが、|このフロアのトラップには右利きの|クセが出ている。=>>The Housek/p_\traps are normally designed to hide any tells, but the ones|on this fl[r show the quirks of a right-handed mak_.
+ハウスキーパーのセットしたトラップは|本来なら利き腕がわからない作りだが、|このフロアのトラップには右利きの|クセが出ている。=>>The Housek/p_\traps are normally designed to hide any tells, but the ones|on this fl[r show the quirks of a right- handed mak_.#added space for wordwrap
 アメリカ・メジャーリーグの伝説の|ホームランバッター。背番号３。|通産本塁打７１４本。左投げ左打ち。|ニックネームはバンビーノ。=>>A legendary home run hitter in US Major League Baseball. Throws left-handed and bats left-handed. Nicknamed ‘the Bambino’.
 ＦＢＩ捜査官を誘拐した際、このホテル、|およびクリエラ国内で使用された|トラップはすべてハウスキーパーの|製造したものだと断定。=>>The results show that both the traps used in the hotel and the ones found in the warehouse were made by the Housekeeper.
 ハウスキーパーは、自分の手で|難しいトラップを仕掛けておきながら、|まるで時間内に解いて欲しいといわん|ばかりの話しぶりをしている。=>>The Housekeeper set difficult traps,|but he’s talking like he wants them to be solved.
@@ -1197,7 +1197,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 アイスクリームとホイップクリーム、|色とりどりの果物を|たっぷり使いました。|見た目も味もパーフェクト。|=A parfait made with ice cream, whipped cream and plenty of colorful fruits. It tastes as good as it looks.
 バニラとチョコレート、|二つの味が両方楽しめます。|２色のコントラストもかわいい|定番のソフトクリーム。|=The joy of both vanilla and chocolate ice cream in just one cone. The contrast between the two colors makes for a unique look.
 カスタードクリームに|ほろ苦チョコレートをたっぷり|混ぜ込みました。|ビターアンドスイートがおいしい一品。|=Dark chocolate has been mixed into the custard to give it a delicious bittersweet flavor.
-バニラアイスクリームに|じっくり熟成させたラムレーズンを|たっぷり使用。|芳醇な味わいの大人のフレーバー。|=Vanilla ice cream chocked full of rum-soaked raisins. Has a mellow flavor that only adults can enjoy.
+バニラアイスクリームに|じっくり熟成させたラムレーズンを|たっぷり使用。|芳醇な味わいの大人のフレーバー。|=Vanilla ice cream chocked full of rum- soaked raisins. Has a mellow flavor that only adults can enjoy.#added space for word wrap
 爽やかな風味のレモンティー。|紅茶の色が明るくなるのは|レモンのクエン酸と紅茶の色素が|反応するからです。|=Lemon tea with a refreshing flavor. The color of the tea is lighter due to the citric acid in the lemon reacting with a pigment in the tea.
 ミルクティーを作るときは|ミルクの味に負けない濃厚な味の|茶葉が適しています。|アッサムなどが代表的です。 |=Milk tea should be made using tea leaves with a rich flavor that won’t be overpowered by the milk.|Assam is a typical choice.
 フレッシュなイチゴの果肉を使用した|アイスクリーム。|まろやかなアイスクリームと|甘酸っぱいいちごが相性抜群。|=Ice cream made with fresh strawberry pulp. The velvety ice cream and slightly tangy strawberries complement each other perfectly.

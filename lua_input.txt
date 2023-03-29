@@ -85,7 +85,7 @@
 ふふっ…苦しい説明ですね、Ｌ。=Heheh... I have to say, I think you’re grasping at straws there, L. 
 日焼け跡は窓から差し込む光の紫外線に|よって色あせたものです。|つまり、窓のサイズとほぼ同じ。=The marks on the wall were caused by sunlight. In other words, they’re approximately the size of the windows.#debug only 
 １ｍ四方の窓というのは小さい…|ホテルの窓にしては小さ過ぎます。=A 1m square window... That’s too small for a hotel.#debug only
-世界中のホテルの窓サイズと照合して|みたのですが、そんな窓のホテルは|ありませんでした。@=We looked at information for hotels around the world, but there are none with such windows.
+世界中のホテルの窓サイズと照合して|みたのですが、そんな窓のホテルは|ありませんでした。@=We looked at information for hotels around the world, but there are none with such windows.@
 ちっ…壁紙を変えておけば…=Ugh... I should have changed the wallpaper.
 Ｊ、あなたは２０代後半…おそらく|２６、７歳といったところです。=From what I can see, you’re in your late 20's... Maybe 26 or 7.
 この調書にある『最初の犯行』は、|あなたには遂行できるはずがない…=There’s no way you could have carried out the first know crime listed in this document.
@@ -176,7 +176,7 @@
 その目的は、解除する我々を混乱させる|ことだけではありません。|様々な制限時間を『試した』のです。=This wasn’t just intended to be off putting. The time limits are a test.
 制限時間は、多すぎても少なすぎても|意味がない…解除できるかできないか、|ギリギリにしなくてはなりません…=There’s no point in a time limit that’s too little or lax. It needs to be just enough that the pressure’s on.
 しかし、それには数多くの実験を行い|平均値を出す必要があるのです。|優秀なテストプレイヤーを使って…=But to determine that, you need to do a lot of experiments and calculate the average. By using the best possible test subjects...
-私とＦＢＩの捜査官が手を組めば、|かなりハイレベルな実験が行えます。|解除までの所要時間が計れるのです。@=With myself and an FBI agent, it’s possible to conduct a high-level experiment.
+私とＦＢＩの捜査官が手を組めば、|かなりハイレベルな実験が行えます。|解除までの所要時間が計れるのです。@=With myself and an FBI agent, it’s possible to conduct a high-level experiment.@
 た、確かにそうだ…=That makes sense...
 今回のトラップボックスは、客船ではなく|ホテルだったとしてもなんら問題なく|成立します。=This trap box would work even if it was just in a hotel instead of a cruise ship.
 それでも船にした理由…船なら深海に|沈めてしまえば、ほとんど見つかる|ことはない…そう考えがちです。=So as to why a ship... One possible explanation is that you could sink it in deep water, making it hard to find.

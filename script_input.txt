@@ -472,10 +472,10 @@
 情報キーワード|@fR【他の乗船者】@fW|を入手した。=Keyword added:|@fR“Other Passengers"@fW
 !FILE:dat_script.bin/file009_PACK2/file010.bin
 ワタリ、この船の現在位置を、|軍事衛星を使って特定できませんか？=Watari, can you determine the current location of the ship using military satellites?
-裏ルートで軍関係者にアクセスしている|ところですが…\vグラナダ号の表面が改装されてしまって|いる場合、特定は容易ではないと|思われます…=I’ve been trying to gain access to the military database, although...\vIf the exterior of the Granada has been refurbished, it will not be easy to identify it.
+裏ルートで軍関係者にアクセスしている|ところですが…\vグラナダ号の表面が改装されてしまって|いる場合、特定は容易ではないと|思われます…=I am in the process of hacking into the military’s database.\vHowever, if the exterior of the Granada has been refurbished, it will not be easy to identify it.
 確かにそうですね…|とりあえず、調査を続行してください。=That’s true...|For now, please continue your investigation.
 了解しました。=Understood.
-軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of military satellites as a bargaining chip...
+軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of the military satellites as a bargaining chip...
 情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=Keyword added:|@fR“Satellites"@fW
 !FILE:dat_script.bin/file010_PACK2/file006.bin
 あとはブリッジへ向かうだけです。\t|問題は、エレベーターがロックされて|いるということ…\vジェフリー、聞こえていますね。\t|Ａが最後に言った『予定通り』が|何を意味するのかはわかりません…\vしかし、たとえこの船が沈んでも、|私はあなたとあなたのボスを必ず|追い詰めますよ。\vなぜなら、私にはあなたのボスの正体…\t|すなわちこの事件の首謀者が誰なのか|わかってしまったからです！=All that remains is for you to get to the bridge.\t The only problem is that the elevator is locked...\vJeffrey, I know you can hear me.|I don’t know what A meant by keeping things ‘on schedule’,\vbut even if the ship sinks, you should know that I will hunt you and your boss down.\vNow I know who your boss, the mastermind behind it all, really is!
@@ -537,7 +537,7 @@
 そうならないための努力です。\t|爆発の惨劇も、紛争も、あなただって|見たくはないでしょう？=We’re trying to prevent that from happening.\vYou don’t want to see the fallout of the explosion, or the start of a new war either, do you?
 Ｌ…私は…！=L... I--!
 （…状況は確かに絶望的だが…|　ジェフリーの態度は極端すぎる…|　米軍の介入をなぜそこまで望む？）=(...It’s true that the situation is desperate, but Jeffrey’s attitude is too extreme.)\v(Why does he want the US military to intervene so badly?)
-情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“US Intervention"@fW
+情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“Military Intervention"@fW
 …………\t|ジェフリー、あなたはまだ何か|隠していますね。=...\t|Jeffrey, I know that you are still hiding something.
 えっ？=Huh?
 あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=You seem to want to sink the ship more than you want to stop it.\t|What is your real purpose?
@@ -1528,9 +1528,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 立て付けの悪い引き出しだ。\v何かがひっかかっているようだ。=The drawer is wonky.\vSomething seems to be caught inside.
 無理やり開けますか？=Force it open?
 小さなトラップの制限時間は|一定ではなく、長短様々ですね…\vこちらに予測を立てられないように|するためか、それとも他に何か意図が|あるのか…=There’s no consistent time limit for these small traps, they all vary.\vIs that to stop us from being able to make predictions, or is there some other goal?
-情報キーワード|@fR【小トラップの制限時間】@fW|を入手した。=Keyword added:|@fR“Small Trap Time Limits"@fW
+情報キーワード|@fR【小トラップの制限時間】@fW|を入手した。=Keyword added:|@fR“Time Limit of Small Traps"@fW
 !FILE:dat_script_f07.bin/file010_PACK2/file017.bin
-レバーのついた箱だ。=A box with a lever installed.
+レバーのついた箱だ。=A box with a lever.
 !FILE:dat_script_f07.bin/file011_PACK2/file010.bin
 Ｖ４=V4
 !FILE:dat_script_f07.bin/file012_PACK2/file010.bin
@@ -4149,9 +4149,9 @@ The @fRscrew@fW has been|fastened in tight.
 シリンダーから伸びている@fRコード@fWだ。=There are @fRwires@fW coming out|of the cylinder.
 気をつけてください。\t|ダミーのコードを@fR切断@fWしてしまうと|起爆装置が作動するかもしません。=Be careful.\t If you @fRcut@fW the wrong wire, you might trigger the detonator.
 シリンダーから伸びている@fRコード@fWだ。\vどれかは分からないが、|起爆センサーからのコードではない|物が混じっているようだ。=There are @fRwires@fW coming out|of the cylinder.\vSome appear to unrelated to the detonator, but it is not clear which is which.
-シリンダーから伸びているコードだ。\v危険なコード以外は切断してある。=There are wires coming out of the cylinder.\vEverything but the dangerous ones have been cut.
+シリンダーから伸びているコードだ。\v危険なコード以外は切断してある。=There are wires coming out of the cylinder.\vEverything but the dangerous|ones have been cut.
 シリンダーから伸びているコードだ。\v接続部分が確認できるため、|メインセンサーと無関係な|衝撃や、起爆ボタンから信号を伝える|コードを見分けられるようになった。=There are wires coming out|of the cylinder.\vNow that it’s clear how everything is connected, it’s possible to determine which wires relate to the main sensor, and which carry the signal from the button.
-メインセンサー以外の|コードを切断した。=Cut all the wires except for those relating to the main sensor.
+メインセンサー以外の|コードを切断した。=Cut all the wires except for those|relating to the main sensor.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file014.bin
 下側のケースだ。\vスライド式で開けられそうだが、|今は少ししか動かない。=The lower case.\vIt looks like the lid should slide off,|but it won’t budge.
@@ -4177,10 +4177,10 @@ The @fRscrew@fW has been|fastened in tight.
 複雑に絡みついていますね。\t|@fR切断@fWしてしまった方が|楽に外す事ができそうです。\v強引に外すと起爆装置が|作動してしまうと思いますので、|気をつけてください。=That is extremely tangled.\t|@fRCutting@fW it should make it easier to remove.\vIf you try to pull it out by force, I expect it will trigger the detonator, so do be careful.
 シリンダーと下のケースを固定している|ハリガネを切断した。=Removed the metal wire securing the cylinder to the lower case.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file020.bin
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=The wire connecting the button to the detonator.\vIt has been repaired with insulation tape.
-ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=The wire connects the button to the detonator.\vThe wire is @fRexposed@fW meaning even a|slight touch could energize it.\vIt would be advisable to @fRinsulate@fW it with an item.
-ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connecting the button to the detonator.\vIt has been repaired with tape, and has a slit in it.
-ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=The wire connecting the button to the detonator.\vIt has a slit in it.
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている。=The wire connects the button|to the detonator.\vIt has been repaired with insulation tape.
+ボタンと起爆装置を繋ぐコードだ。\vコードが@fRむき出し@fWなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムを使えば@fR絶縁@fWできそうだ。=A wire connects the button|to the detonator.\vThe wire is @fRexposed@fW meaning even a|slight touch could energize it.\vIt would be advisable to|@fRinsulate@fW it with an item.
+ボタンと起爆装置を繋ぐコードだ。\v絶縁テープで補修されている上、|切れ目が入っている。=The wire connects the button|to the detonator.\vIt has been repaired with tape,|and has a slit in it.
+ボタンと起爆装置を繋ぐコードだ。\v切れ目が入っている。=The wire connects the button|to the detonator.\vIt has a slit in it.
 これでボタンを押さない限り、|この装置は機能しないでしょう。=This way, it shouldn’t activate unless you push the button.
 コードに切れ目を入れた。=Cut a slit into the wire.
 コードを切断した。=Cut the wire.
@@ -4191,17 +4191,17 @@ The @fRscrew@fW has been|fastened in tight.
 衝撃を与えないように|注意してください。=Please be careful to avoid accidentally knocking it.
 シリンダーを叩いた。=Hit the cylinder.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file023.bin
-センサーと起爆回路を繋ぐ@fRコード@fWだ。=The @fRwires@fW connect the sensor to the detonation circuit.
+センサーと起爆回路を繋ぐ@fRコード@fWだ。=The @fRwires@fW connect the sensor to|the detonation circuit.
 解除のポイントはこれですね。=Those wires will be key to disarming the trap.
-センサーと起爆回路を繋ぐコードだ。\v切れ目を入れてある。=The @fRwire@fW connecting the sensor to the detonation circuit.\vThere is a slit in it.
-センサーと起爆回路を繋ぐ@fRコード@fWだ。\vこの中の1本は、センサーとの|接続解除信号を送るコードのようだ。=The @fRwires@fW connect the sensor to the detonation circuit.\vOne of them must be used to send the signal to trigger detonation.
+センサーと起爆回路を繋ぐコードだ。\v切れ目を入れてある。=The @fRwires@fW connect the sensor to|the detonation circuit.\vOne of them has been cut.
+センサーと起爆回路を繋ぐ@fRコード@fWだ。\vこの中の1本は、センサーとの|接続解除信号を送るコードのようだ。=The @fRwires@fW connect the sensor to|the detonation circuit.\vOne of them must be used to send|the detonation signal.
 ハサミを使った。\vコードを切断した。=Used Scissors.\vCut the wires.
-センサーからの接続解除信号送信用の|コードに切れ目を入れた。=Cut a slit into the wire used to send the detonation signal.
+センサーからの接続解除信号送信用の|コードに切れ目を入れた。=Cut a slit into the wire used to send|the detonation signal.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file025.bin
-しっかりと固定されたケースだ。=The case is snugly fit.
+しっかりと固定されたケースだ。=The case is fixed to the trap.
 中身は起爆回路でしょうね。=It most likely contains the detonation circuit.
-きしむようないやな音がした。=Attempting to release the case caused it to make an unsettling creaking sound.
+きしむようないやな音がした。=There was an unsettling sound.
 !FILE:dat_script_trapsmall.bin/file017_PACK2/file026.bin
 ガラスのシリンダーの中に|液体が入っている。=There is a liquid in the glass cylinder.
 センサーが液体から出ると、|起爆する仕組みでしょうか。\t|あまり揺らさない方が良いですね。=I imagine it’s set up so if there’s no liquid on the sensor, it detonates.\t|Try not to shake it too much.
