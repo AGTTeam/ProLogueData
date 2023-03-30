@@ -475,7 +475,7 @@
 裏ルートで軍関係者にアクセスしている|ところですが…\vグラナダ号の表面が改装されてしまって|いる場合、特定は容易ではないと|思われます…=I am in the process of hacking into the military’s database.\vHowever, if the exterior of the Granada has been refurbished, it will not be easy to identify it.
 確かにそうですね…|とりあえず、調査を続行してください。=That’s true...|For now, please continue your investigation.
 了解しました。=Understood.
-軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of the military satellites as a bargaining chip...
+軍事衛星の存在は、駆け引きには|使えるかもしれませんね…=We may be able to use the existence of the military's satellites as a bargaining chip...
 情報キーワード|@fR【軍事偵察衛星】@fW|を入手した。=Keyword added:|@fR“Satellites"@fW
 !FILE:dat_script.bin/file010_PACK2/file006.bin
 あとはブリッジへ向かうだけです。\t|問題は、エレベーターがロックされて|いるということ…\vジェフリー、聞こえていますね。\t|Ａが最後に言った『予定通り』が|何を意味するのかはわかりません…\vしかし、たとえこの船が沈んでも、|私はあなたとあなたのボスを必ず|追い詰めますよ。\vなぜなら、私にはあなたのボスの正体…\t|すなわちこの事件の首謀者が誰なのか|わかってしまったからです！=All that remains is for you to get to the bridge.\t The only problem is that the elevator is locked...\vJeffrey, I know you can hear me.|I don’t know what A meant by keeping things ‘on schedule’,\vbut even if the ship sinks, you should know that I will hunt you and your boss down.\vNow I know who your boss, the mastermind behind it all, really is!
