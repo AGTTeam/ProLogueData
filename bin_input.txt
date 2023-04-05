@@ -95,7 +95,7 @@
 トラップに遠隔スイッチがあるかどうか|Ｊは明言を避けた。=>>J didn’t say whether the traps have a remote switch.
 ハウスキーパーはかなりの|ベースボールファンだと思われる。=>>The Housekeeper appears to be a big baseball fan.
 ハウスキーパーの起用では、高額の|報酬が用意されたとみられる。=>>Hiring the Housekeeper would surely come at a high cost.#debug only
-大型客船なら潜伏は容易であり、|出入りの自由は封じられている。=>>It would be easy for someone to hide on such a large ship.
+大型客船なら潜伏は容易であり、|出入りの自由は封じられている。=>>It would be easy for someone to hide on such a large ship, and there’s no way out either.
 各国の気象台や専門機関でも|クリエラでの地震は観測されていない。=>>No earthquakes have been observed in Criella by any weather stations.
 トラップを解除すれば行動は自由。|大半の部屋のカギはかかっていない。=>>Once the traps are released, there are no restrictions on movement. Most of the rooms are unlocked.
 この船に仕掛けられた小さなトラップの|爆薬のほとんどは殺傷能力が低い。=>>The explosives in the small traps aren’t powerful enough to kill.
@@ -111,9 +111,9 @@
 その場にあるものを有効活用する。|爆弾の配線の色使いに法則性がない。|構造にクセがない。=>>The traps take advantage of whatever is around. The designs have no commonalities, and no obvious quirks.
 誘拐された人質はＦＢＩの捜査官。|各種訓練をされており、人質としては|極めて扱いにくい。=>>An FBI agent has training and makes for a difficult hostage.
 壁には１ｍｘ１ｍほどの日焼け跡が|残されている。小窓から入った陽光で|色あせたと思われる。=>>There was a 1m x 1m mark on the wall. It is believed to have been caused by sunlight entering through a small window.#debug only
-米国のＩＴ企業リブート社が３年前に|中古で購入したが、わずか半年後には|廃船処分されている。=>>It was purchased by the IT company Reboot Inc. three years ago, and scrapped six months later.
+米国のＩＴ企業リブート社が３年前に|中古で購入したが、わずか半年後には|廃船処分されている。=>>It was purchased by the North American IT company Reboot Inc. three years ago, and scrapped a mere six months later.
 トラップの仕掛けは単純だが出来は良く|爆発物が仕掛けられている。|素人が作れる代物ではない。=>>The mechanism for the traps are simple, but well-implemented. It is not something that an amateur could make.
-プライドが高く、負けず嫌い。|Ｌの関与する今回の事件以外では|仕事の成功率は１００％だった。=>>The Housekeeper is prideful and hates to lose.
+プライドが高く、負けず嫌い。|Ｌの関与する今回の事件以外では|仕事の成功率は１００％だった。=>>The Housekeeper is prideful and hates to lose. Before meeting L, he had a 100% success rate.
 最新型のデジタルキー。|ホテル跡を犯罪の舞台にしているが、|トラップの装置は決して古くない。=>>The hotel is old, but the equipment for this trap was state-of-the-art.
 何かが氷漬けにされているようだが|詳細は不明。簡単に溶けそうにない。|破壊も困難だと思われる。=>>Something is hidden in the ice.|It’s difficult to melt, and can’t be easily broken up either.
 クリエラでは地震は珍しいはずだが、|先ほどの地震に関するニュースは|まったく報道されていない。=>>Earthquakes aren’t common in Criella, but th_e has b/n no news co$rage of the recent earthquake.
@@ -140,11 +140,11 @@
 ３年前、アロイスにスカウトされ、|計画の立案時から参加している。|参加直後、アロイスとＣＬＮの|つながりを知った。=>>Three years ago, he was recruited by Alois to help with the planning of the trap. Immediately after joining, he discovered the connection between Alois and the CLN.
 ハウスキーパーは何者かに雇われて|今回の犯行に携わっている。|ハウスキーパーと依頼人が手を組むのは|初めてだと思われる。=>>The Housekeeper was hired by someone. This appears to be the first time that he and his client have worked together.
 ２０代後半の男性。|ＦＢＩのデータには一致する声紋なし。|英語のネイティブスピーカーではない。|声に極度の緊張が見られる。=>>Male, late 20s; no matching voiceprint in FBI data. Not a native English speaker.
-本名はクリロ・ミラニッチ。|旧ユーゴ内戦時に戦争孤児となったが、|アロイスの財団によって救助され|学費を支援してもらった。=>>Real name Kirilo Milanoviс. Orphaned during the ^vil war in the form_ Yugoslavia, but was rescued by the Alois Foundation.
+本名はクリロ・ミラニッチ。|旧ユーゴ内戦時に戦争孤児となったが、|アロイスの財団によって救助され|学費を支援してもらった。=>>Real name Kirilo Milanoviс. Orphaned during the ^vil war in the form_ Yugoslavia, but was rescued by the Alois Foundation who funded his education.
 ハウスキーパーのセットしたトラップは|本来なら利き腕がわからない作りだが、|このフロアのトラップには右利きの|クセが出ている。=>>The Housek/p_\traps are normally designed to hide any tells, but the ones|on this fl[r show the quirks of a right- handed mak_.#added space for wordwrap
 今回の犯行に使われている部品は、普段|とは異なり、高価で精巧なものばかり。|ハウスキーパーの犯行では、珍しい|ケースといえる。=>>The parts used this time are expensive|and elaborate, not typical for the Housekeeper’s crimes.
 少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Housek/per was nicknamed Babe Ruth II as they had a similar way of batting. They also write the same.
-アメリカ・メジャーリーグの伝説の|ホームランバッター。背番号３。|通産本塁打７１４本。左投げ左打ち。|ニックネームはバンビーノ。=>>A legendary home run hitter in US Major League Baseball. Throws left-handed and bats left-handed. Nicknamed ‘the Bambino’.
+アメリカ・メジャーリーグの伝説の|ホームランバッター。背番号３。|通産本塁打７１４本。左投げ左打ち。|ニックネームはバンビーノ。=>>A legendary home run hitter in US Major League Baseball. Had 714 home runs in all. Throws left-handed and bats left-handed. Nicknamed ‘the Bambino’.
 ＦＢＩ捜査官を誘拐した際、このホテル、|およびクリエラ国内で使用された|トラップはすべてハウスキーパーの|製造したものだと断定。=>>The results show that both the traps used in the hotel and the ones found in the warehouse were made by the Housekeeper.
 ハウスキーパーは、自分の手で|難しいトラップを仕掛けておきながら、|まるで時間内に解いて欲しいといわん|ばかりの話しぶりをしている。=>>The Housekeeper set difficult traps,|but he’s talking like he wants them to be solved.
 ヒジカタ社製ＳＹＧ型。|２０年前まで世界中で販売されていた|定番の品で、使用ホテルの特定は困難。|３階になって初めて存在が確認された。=>>A Hijikata SYG. It is a standard make that used to be very common all over the world.#debug only

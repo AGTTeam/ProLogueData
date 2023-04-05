@@ -1480,14 +1480,14 @@ debug jump?=
 !FILE:dat_script_f07.bin/file005_PACK2/file021.bin
 コードだ。\v爆薬と起爆装置を繋いでいる。=Wires connect the explosives|to the detonator.
 !FILE:dat_script_f07.bin/file007_PACK2/file010.bin
-穴が開いている。=There is a hole.#qc can be more than one
+穴が開いている。=There are two small holes.#qc can be more than one
 取っ手を取り付けた。=Attached the handle.
 !FILE:dat_script_f07.bin/file007_PACK2/file011.bin
 箱を開きます。|よろしいですか？=Open the box?
 !FILE:dat_script_f07.bin/file007_PACK2/file012.bin
 起爆装置は解除済みだ。=The detonator has already been deactivated.
 起爆装置を解除します。|よろしいですか？=Disarm the detonator?
-@n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=@n0...\t I know that I’m jumping the gun|here, but once we deactivate this and get you off that ship, I have a present for you.\vIt’s not much but, a secret pudding made by the phantom patissier I’m acquainted with...
+@n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=@n0...\t I know that I’m jumping the gun|here, but once we deactivate this and get you off that ship, I have a present for you.\vIt’s not much but, I’d like to share with you a secret pudding made by the phantom patissier I’m acquainted with...
 秘密のプリン？=Secret pudding?
 幻のデザート職人？=Phantom patissier?
 甘いものはキライです=I’m not into sweet stuff.
@@ -2098,6 +2098,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 怪しいコードを切断した。=Cut the suspicious wire.
 適当にコードを切断した。=Cut a wire at random.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file020.bin
+穴が開いている。=There is a hole.
 パーツをはめ込む事が|できそうですね。=It looks like a part should fit in there.
 プラグがはまっている。=The plug is set in.
 全てのプラグをはめましたね。\t|さぁ、解除しましょう。=The plugs are all set.\t|Time to execute.
@@ -2107,7 +2108,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 調査おつかれさまです。\t|解除まで後一歩です。=You’re doing well.\t|We’re one step away from deactivating the trap.
 プラグをはめた！=Fit the plug.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file021.bin
+穴が開いている。=There is a hole.
 ぴったりですね。\t|残りの穴にもプラグをはめてください。=It’s a perfect fit.|\tPlease set the remaining plug too.
+!FILE:dat_script_trapbig.bin/file002_PACK2/file022.bin
+穴が開いている。=There is a hole.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file025.bin
 起爆装置を覆うカバーだ。\v特に手がかりになりそうな事は無い。=A red case sits inside the metal cover.\vNothing particularly jumps out about it.
 このパーツは後回しにした方が|良さそうですね。=It might be best to return to this part later.
@@ -2131,6 +2135,12 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬ケースが歪んでしまった。=Warped the case.
 爆薬ケースが少し外れた。=Dislodged the case slightly.
 ケースを固定していた|ネジが緩んだ。=Loosened the screws holding the case.
+!FILE:dat_script_trapbig.bin/file002_PACK2/file026.bin
+穴が開いている。=There is a hole.
+!FILE:dat_script_trapbig.bin/file002_PACK2/file027.bin
+穴が開いている。=There is a hole.
+!FILE:dat_script_trapbig.bin/file002_PACK2/file028.bin
+穴が開いている。=There is a hole.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file029.bin
 ボタンの位置などから見て、|この部分が起爆装置のようだ。=Judging from the placement of the button,|this seems to be the detonator.
 ケースを外せば起爆装置を|調べる事ができそうですね。=If you can remove the case, we’ll be able to examine the detonator.
@@ -2456,6 +2466,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 このトラップで動いていない部分は|この歯車のみ……\t|これが冷却装置でしょうか？\vうまくかみ合う歯車があれば|はめる事ができそうですね。=The only part of the trap that isn’t moving are these gears...\t|Is this the cooling system?\vYou might be able to get it to work if you have a gear that fits.
 歯車をはめ込んだ。=Attached the gear.
 !FILE:dat_script_trapbig.bin/file005_PACK2/file018.bin
+穴が開いている。=There is a hole.
 プラグをはめ込む事が|できそうですね。\t|似た仕掛けがあったような……=It looks like you could fit a plug into there.\t|This feels very familiar...
 手持ちに無いようでしたら、|もう一度調査を行いましょう。\vさすがにこの数の|プラグをはめる必要はなさそうですが。=If you don’t have any plugs, you might need to stop and do some more investigating.\vThough, I don’t expect you’ll actually need something for all five sockets.
 全てのプラグを正しくはめましたね。\t|さぁ、解除しましょう。=The plugs are in the right places.\t|Time to execute.
@@ -2816,8 +2827,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金属製の箱を叩く事で|箱とフレームの間に@fRスキマ@fWができた。=Hitting the box created a @fRgap@fW between the panels and the frame.
 箱とフレームのスキマをこじ開けた。=Widened the gap between the frame.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file015.bin
-起爆装置らしきものの|一部が外に出ている。=Part of what could be the detonator is sticking out.
-起爆装置らしきものの|一部が外に出ている。\t|そこから@fRコード@fWがのびている。=Part of what could be the detonator is sticking out.\t|There are @fRwires@fW extending from it.
+起爆装置らしきものの|一部が外に出ている。=Part of what could be the|detonator is sticking out.
+起爆装置らしきものの|一部が外に出ている。\t|そこから@fRコード@fWがのびている。=Part of what could be the|detonator is sticking out.\t|There are @fRwires@fW extending from it.
 起爆装置のようですが、|このままでは処置ができません。\t|まず箱を分解しましょう。=I imagine that is the detonator, but we can’t deal with it like this.\t|Let’s disassemble the puzzle box first.
 起爆装置だ。\v@fRコード@fWが外部にのびている。=The detonator.\v@fRWires@fW are leading out of it.
 起爆装置だ。\v@fRコード@fWが外部にのびている。\t|=The detonator.\v@fRWires@fW are leading out of it.
@@ -2844,7 +2855,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 箱から出ているコードだ。\v起爆装置を通して、|外部にある爆弾に連動していたが|コードはすべて切断されている。=Wires are coming out of the box.\vThey were connecting the detonator to the external bombs, but now they’ve been cut.
 さきほどのボタンは装置の動作を|停止するボタンでした。\t|つまりこの@fRコード@fW、いまならば…=The button you pressed was to stop the device.\t|Which means, these @fRwires@fW are...
 コードを調べた。\vコードは通電しており、|慎重に扱ったほうが良さそうだ。=Examined the wires.\vThey are live, and should be approached with caution.
-コードを切断した。=Cut the wire.
+コードを切断した。=Cut the wires.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file017.bin
 カバーを止めている金具だ。\v叩かれて緩んでいる。=The metal clasps securing the cover.\vThey’ve become loose from being hit.
 カバーを止めている@fR金具@fWだ。\v衝撃を与えれば緩むかもしれない。=The metal clasps are securing the cover.\vA good hit might loosen them.
