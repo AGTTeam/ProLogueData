@@ -429,7 +429,7 @@
 俺がピエロだと！？=You think I’m a clown!?
 違いますね。\tピエロには意思がある。\t|あなたは見えない糸に操られた|マリオネットです。=No, that’s not quite right.\t Clowns have a will.\t You’re just a marionette controlled by invisible strings.
 ……なに！=WHAT!?
-私が『糸』を切ってあげますよ。=I’ll cut those ‘strings’ for you.
+私が『糸』を切ってあげますよ。=I’ll cut those “strings” for you.
 !FILE:dat_script.bin/file009_PACK2/file007.bin
 わ、私はただの監視役で…\t|それ以上のことは何も…=I-I’m just an observer.\t|I don’t know anything...
 ジェフリー、もういい。\t|初めまして、Ｌ。=It’s fine, Jeffery.\t|Nice to meet you, L.
@@ -2786,53 +2786,53 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 相変わらずこの爆薬は|外せそうにありませんね。\t|しばらく放っておきましょう。=As usual, the explosive isn’t easy to reach.\t|Best to leave it alone for the time being.
 いよいよ解除する段階です。\t|ロックを外しましょう。=The time has finally come.\t|Let’s remove the lock.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file010.bin
-金属製の箱を分解した！=Dissembled the metal box!
+金属製の箱を分解した！=Dismantled the metal box!
 中にはさらに金属製の箱が入っていた。=There is another metal box inside.
 中には歯車がついていた。=There are gears inside.
 金属のフレームが現れた。=A metal frame is visible.
 用心深い造りですね。\t|ですが、だんだん中身が|見えるようになってきました。=He really went to town on this build.\t|But, we’re slowly getting a better look inside.
 鍵穴のようなものが現れた。=A keyhole appeared.
-中には外の爆弾との連動装置が|入っていた。=Inside is a device which is hooked up to the bombs outside.
+中には外の爆弾との連動装置が|入っていた。=Inside is a device which is hooked up|to the bombs outside.
 起爆装置を外した！=Removed the detonator!
 !FILE:dat_script_trapbig.bin/file008_PACK2/file011.bin
-この箱は金属板を組み合わせた|物のようです。|\t分解してしまいましょう。=The box appears to be made of metal plates.|\tLet’s disassemble it.
-各辺を押さえているフレーム、|\tこれを緩めたり|外してしまえば良いのです。=Loosen the frame holding the panels, and take it off.
-動かせるパーツが少ないですね。\t|しいて言えば、|この手前のカバーぐらいです。=There’s not much we can shift.\t|Mostly, it’s just that front cover.
+この箱は金属板を組み合わせた|物のようです。|\t分解してしまいましょう。=The box appears to be made of metal plates.|\tLet’s dismantle it.
+各辺を押さえているフレーム、|\tこれを緩めたり|外してしまえば良いのです。=Loosen the frame holding the panels and take it off.
+動かせるパーツが少ないですね。\t|しいて言えば、|この手前のカバーぐらいです。=There’s not much we can shift.\t|It’s mainly just that front cover.
 金具とネジで固定されていますが|それらが処置できれば|簡単に外せます。=The cover is held on by screws and clasps, but once they’re dealt with, taking it off is easy.
 この歯車のついたカバーが|外れそうです。=That cover with the gears in it should come off.
-歯車の辺りに|足りないパーツがあります。\vいうまでも無く、あの穴に入るのは|…そう、\t歯車でしょうね。\v上の穴は歯車をはめたあとで、|何かを使うようですね。=There’s something missing near those gears.\vIt speaks for itself, but yes,\t you’d think it’d have to be another gear.\vAs for that hole on top, there should be something you can use after the gear is fitted.
+歯車の辺りに|足りないパーツがあります。\vいうまでも無く、あの穴に入るのは|…そう、\t歯車でしょうね。\v上の穴は歯車をはめたあとで、|何かを使うようですね。=There’s something missing near those gears.\vIt should be obvious, but yes, the answer is most likely another gear.\vAs for that hole on the top, there must be something you can use after the gear is fitted.
 この段階まできてなお、|動かせる部分はわずかです。\vこの金属製の箱の部分が|分解できそうですね。=There’s still not a lot we can work with.\vYou could probably take that metal box at the side apart.
-各辺を抑えている|フレームが曲者です。\vこれを緩めてしまえば、|箱の分解は終わったようなものです。=The frame attached to the sides is the tricky part.\vOnce that’s loosened, the rest of the box is as good as dissembled.
-怪しげな鍵穴がありますね。\t|この鍵穴のついたフタ、|これを開けましょう。=That keyhole sticks out like a sore thumb.\t|Let’s open it up and see what’s under that lid.
-これは箱とフタのスキマに|何かが挟まっていますね。\vこれを外せば|開錠が可能になります。\vところで、何か開錠用のアイテムを|持っていますか？=There’s something caught in the gap between the box and the lid.\vRemoving that should enable to open the lock.\vBy the way, do you have an item you can unlock it with?
-この爆弾、はじめから起爆装置は|見えていました。\vここまできてようやく、|これを解除する段階に|なったようですね。=The detonator has been visible from the start.\vWe’re finally at the stage of being able to disarm it.
+各辺を抑えている|フレームが曲者です。\vこれを緩めてしまえば、|箱の分解は終わったようなものです。=The frame attached to the sides is the tricky part.\vOnce that’s loosened, the rest of the box is as good as dismantled.
+怪しげな鍵穴がありますね。\t|この鍵穴のついたフタ、|これを開けましょう。=That keyhole sticks out like a sore thumb.\t|Let’s unlock it and see what’s under that lid.
+これは箱とフタのスキマに|何かが挟まっていますね。\vこれを外せば|開錠が可能になります。\vところで、何か開錠用のアイテムを|持っていますか？=There’s something caught in the gap between the box and the lid.\vRemoving that should allow you to open the lock.\vBy the way, do you have an item you can unlock it with?
+この爆弾、はじめから起爆装置は|見えていました。\vここまできてようやく、|これを解除する段階に|なったようですね。=The detonator has been visible from the start, but now we’re finally at the stage of being able to disarm it.
 奥の装置が起爆装置の|補助的な役割をしています。\v奥の装置さえ無力化してしまえば、|起爆装置は裸も同然です。=The device at the back plays a supporting role to the detonator.\vOnce that’s neutralized, there’s nothing left to get in the way.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file013.bin
 箱を固定しているフレームだ。=The frame is holding the box together.
-箱を固定しているフレームだ。\v各辺毎に止められているが、|かなり緩くなっている。=The frame holding the box together.\vIt stretches round each side, but has become loose.
-箱を固定しているフレームだ。\v各辺毎に止められているが、|叩いたので緩んでいる。=The frame holding the box together.\vIt’s secured on all sides, but is loose where it’s been hit.
+箱を固定しているフレームだ。\v各辺毎に止められているが、|かなり緩くなっている。=The frame holding the box together.\vIt has become loose.
+箱を固定しているフレームだ。\v各辺毎に止められているが、|叩いたので緩んでいる。=The frame holding the box together.\vIt is loose where it’s been hit.
 叩いたところに@fRスキマ@fWが|できていますね。=There’s a @fRgap@fW right where you hit it.
 箱を固定しているフレームだ。\v各辺毎にしっかりと、止められている。=The frame is holding the box together.\vIt’s secured on all sides.
 わずかなスキマもありませんね。\t|何かで@fR叩けば@fWあるいは…=There’s not even the slightest gap.\t|Perhaps if you @fRhit@fW it with something...
-フレームが緩んで、|外し易くなった。=The frame has become loose.
+フレームが緩んで、|外し易くなった。=Loosened the frame.
 フレームのスキマをこじ開けた。=Pried open the gap in the frame.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file014.bin
 金属板を組み合わせた箱だ。=It's a box made up of metal plates.
-金属板を組み合わせた箱だ。\vフレームで固定されているが、|かなり緩くなっている。=It's a box made up of metal plates.\vThey are barely being held together by the frame.
-金属板を組み合わせた箱だ。\vフレームで固定されているが、|叩いたのでだいぶ緩んでいる。=It's a box made up of metal plates.\vThey are being held together by a frame, but it has come loose after being hit.
+金属板を組み合わせた箱だ。\vフレームで固定されているが、|かなり緩くなっている。=It's a box made up of metal plates.\vThey are barely being held|together by the frame.
+金属板を組み合わせた箱だ。\vフレームで固定されているが、|叩いたのでだいぶ緩んでいる。=It's a box made up of metal plates.\vThey are being held together by a frame, but have become loose after being hit.
 叩いたところが緩んで、|@fRスキマ@fWができていますね。=The part you’ve hit has become loose and opened up a @fRgap@fW.
 金属板を組み合わせた箱だ。\vフレームで固定されており、|このまま外すのは難しい。=A box made up of metal plates.\vThey are being held together by a frame, making it hard to take apart.
 結構頑丈にできていますね。\t|@fR叩いて@fWみるといいかもしれません。=It’s been built quite well.\t|It could be worth @fRhitting@fW it.
-金属製の箱の奥側だ。\v半分は解体できないように|なっている。=The back part of the metal box.\vThe whole thing couldn’t be dismantled.
+金属製の箱の奥側だ。\v半分は解体できないように|なっている。=The back part of the metal box.\vIt couldn’t be dismantled fully.
 金属製の箱を叩く事で|箱とフレームの間に@fRスキマ@fWができた。=Hitting the box created a @fRgap@fW between the panels and the frame.
-箱とフレームのスキマをこじ開けた。=Widened the gap between the frame.
+箱とフレームのスキマをこじ開けた。=Widened the gap between|the panels and the frame.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file015.bin
 起爆装置らしきものの|一部が外に出ている。=Part of what could be the|detonator is sticking out.
 起爆装置らしきものの|一部が外に出ている。\t|そこから@fRコード@fWがのびている。=Part of what could be the|detonator is sticking out.\t|There are @fRwires@fW extending from it.
-起爆装置のようですが、|このままでは処置ができません。\t|まず箱を分解しましょう。=I imagine that is the detonator, but we can’t deal with it like this.\t|Let’s disassemble the puzzle box first.
+起爆装置のようですが、|このままでは処置ができません。\t|まず箱を分解しましょう。=I imagine that is the detonator, but we can’t deal with it like this.\t|Let’s dismantle the metal box first.
 起爆装置だ。\v@fRコード@fWが外部にのびている。=The detonator.\v@fRWires@fW are leading out of it.
 起爆装置だ。\v@fRコード@fWが外部にのびている。\t|=The detonator.\v@fRWires@fW are leading out of it.
-上のカバーを外すのが|先決ですね。\t|このままではどうにもできません。=First, we need to get that top cover off.\t|We can’t do anything if we can’t see what we’re dealing with.
+上のカバーを外すのが|先決ですね。\t|このままではどうにもできません。=First, we need to get that front cover off.\t|We can’t do anything if we can’t see what we’re dealing with.
 起爆装置だ。\v@fRコード@fWが外部にのびている。\t|少し発熱しているようだ。=The detonator.\v@fRWires@fW are leading out of it.\t|It is pretty hot.
 冷やせば調査が|進めやすくなりそうです。=If you cool it down it should make things easier.
 起爆装置だ。|@fRコード@fWが外部にのびている。=The detonator.|@fRWires@fW are leading out of it.
@@ -2840,9 +2840,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 無理やり起爆装置を外す=Forcibly remove the detonator
 起爆装置を外さない=Don’t remove the detonator
 あえて起爆装置を外す=Attempt to remove the detonator
-ようやくこの爆弾の正体が|見えました。=At last, the true nature of this trap is visible.
-起爆装置だ。\v@fRコード@fWが外部にのびている。\v奥の装置との間のスキマを|こじ開けてある。=The detonator.\v@fRWires@fW are leading out of it.\vA gap has been opened between it and the device behind.
-起爆装置だ。\v@fRコード@fWが外部にのびている。\v奥の装置との間に|@fRスキマ@fWが見える。=The detonator.\v@fRWires@fW are leading out of it.\vThere is a @fRgap@fW between it and the device at the back.
+ようやくこの爆弾の正体が|見えました。=At last, the true nature of this trap has been revealed.
+起爆装置だ。\v@fRコード@fWが外部にのびている。\v奥の装置との間のスキマを|こじ開けてある。=The detonator.\v@fRWires@fW are leading out of it.\vA gap has been opened between|it and the device behind.
+起爆装置だ。\v@fRコード@fWが外部にのびている。\v奥の装置との間に|@fRスキマ@fWが見える。=The detonator.\v@fRWires@fW are leading out of it.\vThere is a @fRgap@fW between it and|the device at the back.
 起爆装置はこれで|間違いありません。\v奥の装置と連動しているようで|このまま解除するのは|かなり難しいでしょう。=There’s no mistaking that this is the detonator.\vIt seems to be connected to that device behind it, making this a lot more complicated.
 起爆装置のスキマをこじ開けた。=Widened the gap behind the detonator.
 起爆装置を冷やした。=Cooled the detonator.
@@ -2857,9 +2857,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 コードを調べた。\vコードは通電しており、|慎重に扱ったほうが良さそうだ。=Examined the wires.\vThey are live, and should be approached with caution.
 コードを切断した。=Cut the wires.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file017.bin
-カバーを止めている金具だ。\v叩かれて緩んでいる。=The metal clasps securing the cover.\vThey’ve become loose from being hit.
-カバーを止めている@fR金具@fWだ。\v衝撃を与えれば緩むかもしれない。=The metal clasps are securing the cover.\vA good hit might loosen them.
-金具が緩んだようだ。=Loosened the clasp.
+カバーを止めている金具だ。\v叩かれて緩んでいる。=The metal clasps securing the cover.\vThey’re loose from being hit.
+カバーを止めている@fR金具@fWだ。\v衝撃を与えれば緩むかもしれない。=Metal clasps are securing the cover.\vA good @fRhit@fW might loosen them.
+金具が緩んだようだ。=Loosened the clasps.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file018.bin
 ネジが緩められている。=The screw is loose.
 ネジを緩めた。=Loosened the screw.
@@ -2869,14 +2869,14 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金属カバーだ。\v叩かれた上にこじ開けられている。=A metal cover.\vIt has been warped and pried open.
 これだけやれば十分でしょう。\t|危険なのであまり過剰に|痛めつけないようにお願いします。=That should be enough.\t|It’d be dangerous to apply any more force.
 金属カバーだ。\v叩かれて所々歪んで、|@fRスキマ@fWができている。=A metal cover.\vIt’s bent where it was hit, creating a @fRgap@fW.
-金属カバーだ。\v@fR金具@fWや@fRネジ@fWで固定されている。=A metal cover.\vIt’s secured with @fRclasps@fW and @fRscrews@fW.
+金属カバーだ。\v@fR金具@fWや@fRネジ@fWで固定されている。=A metal cover.\vIt’s secured with @fRclasps@fW and a @fRscrew@fW.
 固定されている部分を|何とかできれば|簡単に外せそうです。\vこのカバー自体も、|有る程度の@fR衝撃@fWには耐えられる|みたいですね。=If you can remove the parts which are fastening it, the cover should come off.\vBeing metal, I’d assume it can withstand a certain amount of @fRimpact@fW, too.
 カバーがへこんで、@fRスキマ@fWができた。=Warped the cover, creating a @fRgap@fW.
 カバーのスキマをこじ開けた。=Widened the gap in the cover.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file020.bin
 何かをはめ込む穴だ。\v回せるようになっている。=There’s a hole to insert something.\vIt’s rotatable.
 これ以上ハンドルを回す必要は|無さそうだ。=There’s no need to turn the handle any more.
-ミニハンドルがはめ込まれている。=A Crank Handle has been slotted in.
+ミニハンドルがはめ込まれている。=A crank handle has been attached.
 ミニハンドルを回す=Turn the handle
 ミニハンドルを回さない=Don’t turn the handle
 歯車が回りだした。=The gears started to spin.
@@ -2884,7 +2884,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 何も起こらなかった。\v空回りをしているような|手ごたえだ。=Nothing happened.\vThere was no resistance on the handle.
 これは何か足りない物がある、|そんな感じですね。=It seems like something’s still missing.
 この穴にちょうど入るアイテム…\t|そう、何か回すためのアイテムが|あるはずです。=Something that would fit into that hole...\t|Yes, it must be something that you can use to turn things.
-穴にミニハンドルをはめ込んだ。=Slotted the Crank Handle in the hole.
+穴にミニハンドルをはめ込んだ。=Slotted the crank handle in the hole.
 ピッタリ収まった。=It fits perfectly.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file022.bin
 金属製の箱の側面に|歯車がついている。\vはめ込んだ歯車がピッタリと|収まっている。=Gears are fit into the side of the metal box.\vThe new gear fits perfectly.
@@ -2903,15 +2903,15 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 箱の中でロックのようなものが|かかっているようです。\t|何か仕掛けがありますね。=There seems to be some kind of lock in the center of the box.\t|There must be a trick to releasing it.
 金属製の箱のようだ。\v上部に何かをはめる穴が開いている。\v中のロックは外されている。=A metal box of some description.\vThere is a hole in the top to fit something.\vThe central lock has been released.
 カバーを外す事ができそうです。=The cover should come off now.#qc
-金属製の箱のようだ。\v上部に何かをはめる穴が開いている。\vカバーは外れそうだが、|外れない。=A metal box of some description.\vThere is a hole in the top to fit something.\vThe cover seems like it should come off, but it’s stuck.
+金属製の箱のようだ。\v上部に何かをはめる穴が開いている。\vカバーは外れそうだが、|外れない。=A metal box of some description.\vThere is a hole in the top to fit something.\vThe cover seems like it should|come off, but it’s stuck.
 仕掛けを動かしてみるしか|ないようですね。=It seems we have no choice but to release the lock.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file029.bin
-@fRハリガネ@fWがフレームと金属製の箱に|絡まっている。=A @fRmetal wire@fW has been twisted around the frame and box.
+@fRハリガネ@fWがフレームと金属製の箱に|絡まっている。=A @fRmetal wire@fW has been twisted|around the frame and box.
 ハリガネを切断した。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file030.bin
-フレームの角についている金具だ。\v金具は叩かれて緩んでいる。=A metal fitting has been attached to the corner of the frame.\vIt’s become loose from being hit.
+フレームの角についている金具だ。\v金具は叩かれて緩んでいる。=A metal fitting has been attached|to the corner of the frame.\vIt’s loose from being hit.
 これでフレームを固定する力は|だいぶ弱くなったでしょう。=That should weaken the force holding the frame in place.
-フレームの角についている@fR金具@fWだ。=A @fRmetal fitting@fW has been attached to the corner of the frame.
+フレームの角についている@fR金具@fWだ。=A @fRmetal fitting@fW has been attached|to the corner of the frame.
 金具が緩んだようだ。=Loosened the fitting.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file031.bin
 金属のフレームだ。\v金属製の箱の各辺を覆っている。=A metal frame.\vIt’s covering the sides of the box.
@@ -2919,10 +2919,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 さすがですね。\t|これだけやれば十分でしょう。=Great work.\t|That should be plenty.
 金属のフレームだ。\v叩かれて歪んでいる。=A metal frame.\vIt is bent from being hit.
 フレームと箱の間に|@fRスキマ@fWができました。=There’s a @fRgap@fW between the frame and the box that you can take advantage of.
-金属のフレームだ。\v金属製の箱の各辺を覆っている。\t|角の金具が緩んでいる。=A metal frame.\vIt’s covering the sides of the box.\t|The metal fitting on the corner has been loosened.
+金属のフレームだ。\v金属製の箱の各辺を覆っている。\t|角の金具が緩んでいる。=A metal frame.\vIt covers the side of the box.\t|The metal fitting on the corner|has been loosened.
 これならフレームを@fR叩けば@fW|フレームが歪んで、|外しやすくなるでしょう。=If you @fRhit@fW the frame now to warp it, it should make it a lot easier to remove.
-金属のフレームだ。\v金属製の箱の各辺を覆っている。\vさらにフレームを@fR金具@fWが|固定している。=A metal frame.\vIt covers the sides of the box.\vIt’s been secured by @fRmetal fittings@fW.
-しっかりと固定されていますね。\t|まず角の金具をなんとか|しなければいけません。=That’s not going to come off in a hurry.\t|Well, the first thing to do is to deal with those corner fittings.
+金属のフレームだ。\v金属製の箱の各辺を覆っている。\vさらにフレームを@fR金具@fWが|固定している。=A metal frame.\vIt covers the sides of the box.\vIt’s been secured by a @fRmetal fitting@fW.
+しっかりと固定されていますね。\t|まず角の金具をなんとか|しなければいけません。=That’s not going to come off in a hurry.\t|Well, the first thing to do is to deal with that corner fitting.
 フレームが歪んで、|@fRスキマ@fWができた。=Warped the frame, creating a @fRgap@fW.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file032.bin
 箱のフタに鍵穴がついている。=There’s a keyhole in the lid of the box.
@@ -2940,13 +2940,13 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ここまでやれば箱の分解は|だいぶ簡単になったと思います。\v中から聞こえる駆動音が|気になりますので、|これ以上はやめておきましょう。=That should make disassembling the box a lot easier.\vThe noise coming from inside is a concern though, so I don’t suggest you warp it any further.
 箱の表面が歪んで、|フレームとの間に@fRスキマ@fWが|できたようです。=The top of the box is bent, creating a @fRgap@fW between it and the frame.
 各辺をフレームが覆っている形は|このトラップの初期状態と|同じです。\vつまり、@fR同じ方法で分解できる@fW。|そういう事です。=The construction of the frame is the same as the one at the start of this trap.\vIn other words, @fRit can be taken apart in the same way@fW.
-金属製の箱のようだ。\v中から微かな駆動音が聞こえる。\v鍵穴がついており、|フタを開けられるようになっている。=A metal box of some description.\vSomething can be heard whirring inside.\vIt has a keyhole to open the lid.
+金属製の箱のようだ。\v中から微かな駆動音が聞こえる。\v鍵穴がついており、|フタを開けられるようになっている。=A metal box of some description.\vSomething can be heard whirring inside.\vThere is a keyhole to open the lid.
 開錠も済んだ事ですし、|早くフタを開けてしまいましょう。=Now that it’s unlocked, you can open the lid.
 さて、あとは鍵を開けるだけですね。\t|そのためには何かアイテムが|必要だと思いますが…=Now all we need to do is unlock the door.\t|I imagine you’ll need to use an item...
 よく見ると、箱とフタのスキマに|小さなプレートが挟まっている。=On closer inspection, there seems to be a small plate wedged in the gap between the box and the lid.
 プレートを外す=Remove the plate
 プレートを外さない=Don’t remove the plate
-何かが外れる音がした。=Something released.
+何かが外れる音がした。=Something clicked.
 いまのプレートが邪魔をして|鍵が開かないようになっていた|みたいですね。=It seems that the plate was in the way and prevented the lock from opening.
 この中に何かあるのは|間違いありません。\t|フタを開けましょう。=There must be something inside.\t|Let’s get that lid open.
 金属製の箱だ。\v中に何かの装置が入っている。=A metal box.\vThere’s some kind of device inside.
@@ -2954,21 +2954,21 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金属製の箱のスキマをこじ開けた。=Widened the gap.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file034.bin
 外部の爆弾を起爆する装置に、|ボタンがついている。=A button is attached to the device.
-このボタン、一見すると|危険に見えるかもしれませんが、|その逆です。\v爆破するためのボタンなら|ここまで奥につけるのは|意味がありません。=This button may look dangerous at first glance, but it is the opposite.\vIf the button was to detonate the bomb, it’d makes no sense to hide it this far in.
+このボタン、一見すると|危険に見えるかもしれませんが、|その逆です。\v爆破するためのボタンなら|ここまで奥につけるのは|意味がありません。=This button may look dangerous at first glance, but it’s the opposite.\vIf this button was for triggering the detonator, it’d make no sense to hide it this far in.
 このボタン、どう思いますか？\t|危険に見えますか、|それとも…=What do you think this button does?\t|Is it dangerous, or...?
 装置が停止した！=Stopped the device!
 !FILE:dat_script_trapbig.bin/file008_PACK2/file035.bin
-外部の爆弾を|起爆させるための装置だ。=A device used to detonate the external explosives.
-この装置はあくまでサブで、|メインの起爆装置ではありませんね。\vどちらかというと|起爆を補助する連動装置|といった所でしょう。=That can’t be the main detonator, it’s some kind of sub device.\vMy guess would be it’s an additional component that assists detonation.
+外部の爆弾を|起爆させるための装置だ。=A device used to detonate|the external explosives.
+この装置はあくまでサブで、|メインの起爆装置ではありませんね。\vどちらかというと|起爆を補助する連動装置|といった所でしょう。=That can’t be the main detonator, it’s some kind of sub device.\vMy guess would be that it’s an additional component which helps to control the detonation.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file037.bin
-信管を繋いでいるコードだ。=Wires connected to the fuses.
-信管を繋いでいるコードだ。\v引っ張れば簡単に抜けそうだ。=Wires connected to the fuses.\vThey look like they can be pulled out.
+信管を繋いでいるコードだ。=Wires connect to the fuses.
+信管を繋いでいるコードだ。\v引っ張れば簡単に抜けそうだ。=Wires connect to the fuses.\vThey look like they can be pulled out.
 調査の間にうっかり|ひっかけてしまうと危険ですね。\t|コードが抜けそうです。=Do be careful not to accidentally snag them as you work.\t|They look like they’d come right out.
 くれぐれも、うかつな事は|避けてくださいね。\t|信じていますよ。=Don’t do anything reckless.\t|I trust you.
-あえてコードを抜く=Attempt to unplug the wire
-コードを抜かない=Don’t unplug the wire
+あえてコードを抜く=Attempt to unplug the wires
+コードを抜かない=Don’t unplug the wires
 信管のコードを切断した。=Cut the wires to the fuses.
-信管のコードを補強する事で|コードが抜けにくくなった。=Reinforced the wires to make it harder for them to come loose.
+信管のコードを補強する事で|コードが抜けにくくなった。=Reinforced the wires to make it harder|for them to come loose.
 多少の補強はできましたが、|やっぱり簡単に抜けそうですね…=That helped a bit, though they still don’t seem too secure.
 信管のコードを調べた。\v通電しているようだ。|\t切るのは危険だろう。=Examined the wires connected to the fuses.\vThere is energy flowing through them.|\tIt would be a bad idea to cut them.
 !FILE:dat_script_trapbig.bin/file008_PACK2/file038.bin
@@ -2979,7 +2979,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 金属製の箱のようだ。\v中に何が入っているのかは|判らない。=A metal box of some description.\vIt’s unclear what is inside.
 この箱から出ているのは|信管でしょうか。\t|うかつに触れないで下さいね。=I wonder if those are fuses sticking out of the side.\t|Probably best that you don’t go near them.
 金属製の箱のようだ。\v側面に歯車のような物が|ついている。=A metal box of some description.\vGears are fit into the side.
-金属製の箱のようだ。\v中は空洞になっていて、|信管のような物がみえる。=A metal box of some description.\vThe inside is hollow, and two fuses are visible.
+金属製の箱のようだ。\v中は空洞になっていて、|信管のような物がみえる。=A metal box of some description.\vThe inside is hollow,|and two fuses are visible.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file010.bin
 中には基板と|番号入力の装置が入っていた。=There is a circuit board and a keypad inside.
 ロックを解除した！=Released the lock!
@@ -3398,7 +3398,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 起爆装置を固定している@fRネジ@fWだ。=The @fRscrew@fW holds the detonator|in place.
 ネジを緩めた。=Loosened the screw.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file050.bin
-起爆装置を固定している金具だ。\v叩かれて緩んでいる。=The fittings hold the detonator in place.\vThey’ve become loose from being hit.
+起爆装置を固定している金具だ。\v叩かれて緩んでいる。=The fittings hold the detonator in place.\vThey’re loose from being hit.
 起爆装置を固定している@fR金具@fWだ。=The @fRfittings@fW are holding the detonator in place.
 金具を叩く事で|金具が緩んだようだ。=Loosened the fittings.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file052.bin
@@ -3920,7 +3920,7 @@ The @fRscrew@fW has been|fastened in tight.
 !FILE:dat_script_trapsmall.bin/file012_PACK2/file011.bin
 ２つの箱が絡み合っています。\t|まずは手前の木箱を外しましょう。=The two boxes are connected.\t|Let’s remove the wooden box at the front first.
 板をクギで止めただけの|簡単な造りの箱です。\t|よって、外すのも簡単です。=The box is simply made of boards held together by nails.\t|Hence, it is also simple to remove.
-これはまず先に、|木箱を分解しましょう。=Let’s disassemble the puzzle box first.
+これはまず先に、|木箱を分解しましょう。=Let’s dismantle the puzzle box first.
 複雑そうに見えますが、|中が空洞なのは明らかです。\vとなれば、組み合わせ方も|単純にならざるを得ません。=It looks complicated, but we know the box is hollow inside.\vThat means the way it’s joined to the bomb is rudimentary.
 起爆装置はこの中心の棒です。\t|これを外してしまえば良いのです。=The detonator is in the central piece.\t|If you can get it out, the rest is child’s play.
 起爆装置が固定されているという|問題が解決できれば|ほぼ解除は終わったと言えます。=If you can solve the problem of the detonator being secured inside, you’ll be one step away from disarming it.
