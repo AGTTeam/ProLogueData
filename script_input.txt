@@ -435,21 +435,21 @@
 ジェフリー、もういい。\t|初めまして、Ｌ。=It’s fine, Jeffery.\t|Nice to meet you, L.
 あなたがこの事件の首謀者なのですね？=I take it that you’re the mastermind behind this, then?
 ああ…\tとりあえずＡと名乗っておこう。=That’s right.\t You can call me A.
-このゲームへの参加を感謝する。|モルモットのＬ君…=I appreciate your participation in this game. You make a wonderful guinea pig.
+このゲームへの参加を感謝する。|モルモットのＬ君…=I appreciate your participation in this game. You make for a wonderful guinea pig.
 …やはり、実験なのですね。=So it is an experiment.
 おかげでよいデータが取れたよ。\t|我々はこのデータを活かし、新たな|対人トラップを売り出すつもりだ…=Thanks to you, we got some great data.\t|We intend to use it to market a new anti-personnel trap...
 名探偵Ｌが開発協力したトラップ。\t|そう…『Ｌブランド』だ。\t|ヒット商品になると思わないかね？=A trap that the world-famous detective, L, helped develop.\t The “L Brand”.\t|Catchy, don’t you think?
 悪趣味ですね。=You should choose a better hobby.
-趣味ではない、これはビジネスだよ。\t|さて諸君、以上で実験は終了だ。\vこのまま短い船旅を楽しむなり|脱出するなり、すべては自由だ。=It's not a hobby, it’s business.\t|Well then, gentlemen, we’ve reached the end of the experiment.\vYou can enjoy the rest of this short cruise trip, or try to escape, whatever you like.
+趣味ではない、これはビジネスだよ。\t|さて諸君、以上で実験は終了だ。\vこのまま短い船旅を楽しむなり|脱出するなり、すべては自由だ。=This isn’t a hobby, it’s business.\t|Well then, gentlemen, we’ve reached the end of the experiment.\vYou can enjoy the rest of this short cruise trip, or try to escape, whatever you like.
 ちょっと待て。\t|まだＬとの勝負は終わってない。=Hold up.\t|I’m not done playing with L yet.
 おや？\t　私が発注したトラップはもう|ないはずだが？=Oh?\t I thought the traps I ordered have all been disarmed.
 ああ、あんたの発注分はな。=Yes, the ones you ordered.
 だが、レギュラーシーズンの後には、|ワールドシリーズがあるものさ。=But after the regular season, there's always the World Series.
 まあ、好きにしたまえ。\t|ジェフリー、後は予定通りに処理しろ。=Well, suit yourself.\t|Jeffrey, just make sure things stay on schedule.
 わ、わかりました、会長…=Y-Yes, sir.
-予定通りの処理…\t気になりますね。|まだ何か隠し玉があるとすれば…=On schedule...?\t I wonder.|Could they still be hiding something from us...
+予定通りの処理…\t気になりますね。|まだ何か隠し玉があるとすれば…=On schedule...?\t I wonder.|Could they still be hiding something from us...?
 急いでジェフリーを止めなくては…！=...You have to stop Jeffery!
-@n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n0,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vMake for the walkway first.\vIt’s on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time!
+@n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n0,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vHead for the walkway first.\vIt’s on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time!
 !FILE:dat_script.bin/file009_PACK2/file008.bin
 @n0さん、\t|その扉を開けてください。=@n0, please open that door.
 @n0さん、驚きましたか？\vそうです。この『トラップボックス』は|『ホテル』ではなく、海上を航行する|『客船』そのものなんです！\v詳細はワタリに調査してもらっている|ところですが…\vこれは、マーメイド・グループ傘下の|マーメイドシップビルダーズ社が|作った豪華客船『グラナダ号』です。=Are you surprised?\vThat’s right. This trap box is not a hotel but a cruise ship, on the sea.\vWatari is currently investigating the full details.\vWhat we do know is that you’re on the “Granada”, a luxury cruise ship built by a subsidiary of the Mermaid Group.
