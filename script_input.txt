@@ -158,10 +158,10 @@
 この船を買い取ったリブート社と|ドックを所有していたCLN…\t|この２社をつなぐものは何だ……=Reboot Inc. who bought the ship, and the CLN who owned the dock...\t|What connects these two companies?
 仮に…\t|トラップを何度も解除させること自体に|真の目的があるとすれば……=What if their real purpose is having the traps repeatedly solved...?
 そろそろ、ハウスキーパーの依頼者が|本当に求めているものを|見つけられそうです……=It’s about time we found out what the Housekeeper’s client is really after.
-@n0さんという人質を利用して|私をトラップの実験台にした……\t|そういうことか……=They used you as a hostage to force me to be a test subject for their traps...\t|Is that what this is all about?
+@n0さんという人質を利用して|私をトラップの実験台にした……\t|そういうことか……=They used you as a hostage to force me into being a test subject for their traps...
 Ａという人物の正体も気になりますが、|まずはジェフリーを止めましょう。\t|急いでください。=I am also interested in the identity of A, but we have to stop Jeffrey first.\t|Please hurry.
-彼らにデータを提供する形になって|しまいましたが…\tそれを使うことを|許すつもりはありません。=I might have provided them with data...\t but I’m not going to let them use it.
-起爆装置を解除したとはいえ、|この船は爆弾を満載しています。\t|急いで船を止めましょう。=Even though the detonator has been deactivated, the ship is still loaded with explosives.\t We have to hurry and stop it.
+彼らにデータを提供する形になって|しまいましたが…\tそれを使うことを|許すつもりはありません。=I might have provided them with data, but I’m not going to let them use it.
+起爆装置を解除したとはいえ、|この船は爆弾を満載しています。\t|急いで船を止めましょう。=Even though the detonators have been deactivated, the ship is still loaded with explosives.\t We have to stop it.
 ハウスキーパーがトラップを、|ジェフリーは船の運航を担当…\t|役割としてはそんなところでしょう。=The Housekeeper is in charge of the traps and Jeffrey is in charge of operating the ship...
 ハウスキーパーも、このまま|黙って引き下がる気は|ないでしょうね……=The Housekeeper isn’t going to back down without a fight.
 事件の首謀者を特定するには、|リブート社とＣＬＮの接点となる|確実な情報が必要です。=In order to identify the mastermind, we need solid information that will connect the CLN with Reboot Inc.
@@ -1485,7 +1485,7 @@ debug jump?=
 !FILE:dat_script_f07.bin/file007_PACK2/file011.bin
 箱を開きます。|よろしいですか？=Open the box?
 !FILE:dat_script_f07.bin/file007_PACK2/file012.bin
-起爆装置は解除済みだ。=The detonator has already been deactivated.
+起爆装置は解除済みだ。=The detonator has been deactivated.
 起爆装置を解除します。|よろしいですか？=Disarm the detonator?
 @n0さん…\tまだ気が早いですが、|これを解除し、船を降りたらあなたに|プレゼントを贈ります。\vいえ、たいしたものではないのですが、|私が懇意にしている幻のデザート職人|特製の秘密のプリンを…=@n0...\t I know that I’m jumping the gun|here, but once we deactivate this and get you off that ship, I have a present for you.\vIt’s not much but, I’d like to share with you a secret pudding made by the phantom patissier I’m acquainted with...
 秘密のプリン？=Secret pudding?
@@ -1610,8 +1610,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f08_a.bin/file007_PACK2/file021.bin
 服を調べた。=Examined clothes.
 !FILE:dat_script_f08_a.bin/file009_PACK2/file010.bin
-薪だ。\v複雑に絡んでおり、|取り出すことができない。=Firewood.\vIt’s packed in tightly and can’t be pulled out.
-しけっていて火がつかない。=It’s too dry to catch fire.
+薪だ。\v複雑に絡んでおり、|取り出すことができない。=Firewood.\vIt’s packed in tightly and|can’t be pulled out.
+しけっていて火がつかない。=It’s too damp to catch fire.
 !FILE:dat_script_f08_a.bin/file009_PACK2/file011.bin
 日記だ。\v薪にくべてある。=A diary.\vIt has been placed on top of the firewood.
 燃え尽きたようだ。=The fire burned out.
@@ -1960,7 +1960,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_b.bin/file006_PACK2/file010.bin
 エンジンルーム=Engine Room
 !FILE:dat_script_map.bin/file001_PACK2/file006.bin
-タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus|and press the @fR“Move"@fW button or tap the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room, move in front of a door.
+タッチペンで行き先を選んで|@fR【移動】@fWボタンを押すか|カーソルをタッチしてください。\v未調査の部屋はドアだけが|表示されています。\vドアの前に移動してから|中に入ってください。=Select a destination with the stylus|and press the @fR“Move"@fW button or tap|the cursor.\vFor rooms which have not yet been investigated, only the doors will be shown.\vTo enter a room, move in front of a door.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file010.bin
 上のケースを開けた！=Removed the top lid!
 しかしケース内に起爆装置は|見当たらない。=But there is no detonator to be seen.
@@ -2112,6 +2112,12 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ぴったりですね。\t|残りの穴にもプラグをはめてください。=It’s a perfect fit.|\tPlease set the remaining plug too.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file022.bin
 穴が開いている。=There is a hole.
+!FILE:dat_script_trapbig.bin/file002_PACK2/file023.bin
+ネジは緩められている。=The screw is loose.
+@fRネジ@fWで止められている。=A @fRscrew@fW is holding the case on.
+ネジで止められている。=A screw is holding the case on.
+歪んでしまい、外れそうにない。=The screw has been warped and can’t be removed.
+ケースを固定していた|ネジが緩んだ。=Loosened the screw holding the case.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file025.bin
 起爆装置を覆うカバーだ。\v特に手がかりになりそうな事は無い。=A red case sits inside the metal cover.\vNothing particularly jumps out about it.
 このパーツは後回しにした方が|良さそうですね。=It might be best to return to this part later.
@@ -3666,7 +3672,7 @@ The @fRscrew@fW has been|fastened in tight.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file010.bin
 では、いよいよ|解除ステップを@fR【実行】@fWしましょう。\v@fRテクニカルゲージ@fWをうまく止められれば|成功です。\v逆に、失敗すると|制限時間が大幅に減ってしまいます。\v@fR下画面をタッチ@fWして、ゲージ中央の|@fRセーフティゾーン@fW内で止めてください。|\t成功を祈ります。\vちなみに、@fR成功率が100％@fWの時は|@fRテクニカルゲージ@fWは出ません。|\t無条件で成功になります。=Alright, let's @fRexecute@fW the final step and disarm the trap.\vAll you need to do is stop the @fRTechnical Gauge@fW at the right time, and you'll be successful.\vConversely, if you fail, the time limit will be greatly reduced.\v@fRTap the lower screen@fW while the marker is within the @fRsafety zone@fW.\t|I wish you luck.\vI should add, if the @fRsuccess rate is at 100%@fW, the @fRTechnical Gauge@fW won't be displayed.\t You will automatically pass.
 起爆装置を外した!=Removed the detonator!
-次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The “@fRL@fW" button will be enabled for future traps.\vYou can refer to L as necessary|to @fRdiscover the objective@fW|or @fRdisarm the trap@fW.
+次のトラップから、|@fR【Ｌ】@fWボタンが使用可能になります。\v「Ｌに聞ける回数」分だけ|@fR目標の発見@fW、または@fR解除実行@fWを|Ｌに任せることができます。=The “@fRL@fW" button will be enabled|for future traps.\vYou can refer to L as necessary|to @fRdiscover the objective@fW|or @fRdisarm the trap@fW.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file011.bin
 起爆装置と爆薬がくっついているだけの|単純なトラップです。=The detonator is hooked up straight to the explosive. It’s quite the simple trap.
 これで、解除ステップを|@fR【実行】@fWするためのボタンが|使えるようになりました。\tただし……\vトラップの右下にある|@fR「成功率」@fW表示を見てください。\v成功率が低いと、|@fR【実行】@fWボタンを押しても|失敗する可能性が高いです。\v各部を@fR【調査】@fWして情報を集めたり、|適切な箇所に@fR【アイテム】@fWを使う事で|成功率を上げる事ができます。\vある程度成功率を上げてから|@fR【実行】@fWボタンを押してください。|\t５０％以上がおすすめです。=Now, you can use the “@fRExecute@fW" button to attempt to disarm it.\t However...\vTake a look at the @fRSuccess Rate@fW to the bottom right of the trap.\vIf you press the “@fRExecute@fW" button while the success rate is low, there is a strong likelihood that you will fail.\vYou can increase the success rate by @fRinspecting@fW each part of the trap or by using @fRitems@fW when appropriate.\vI would recommend raising the rate above 50% before @fRexecuting@fW.
@@ -3801,6 +3807,8 @@ The @fRscrew@fW has been|fastened in tight.
 小箱だ。\vハリガネで固定されている。 =A small box.\vIt’s being held in place by a metal wire.
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file020.bin
 小箱だ。\v接着剤で固定されている。\v@fR隙間@fWからこじ開ける事ができそうだ。\v中には小さな爆薬が入っている。=A small box.\vIt’s been secured with glue.\vThere should be a way to @fRpry@fW it off.\vThere is a small explosive inside.
+!FILE:dat_script_trapsmall.bin/file008_PACK2/file021.bin
+コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file008_PACK2/file024.bin
 上の小箱を外したので、|このボタンは安全でしょう。=The box has been removed, so the button should be safe to press.
 !FILE:dat_script_trapsmall.bin/file009_PACK2/file010.bin
@@ -3812,6 +3820,8 @@ The @fRscrew@fW has been|fastened in tight.
 !FILE:dat_script_trapsmall.bin/file009_PACK2/file020.bin
 小箱だ。|接着剤で固定されている。=A small box.\vIt’s been secured with glue.
 小箱だ。\v接着剤で固定されている。\v@fRスキマ@fWからこじ開ける事が|できそうだ。\v中には小さな爆薬が入っている。=A small box.\vIt’s been secured with glue.\vThere should be a way to @fRpry@fW it off.\vThere is a small explosive inside.
+!FILE:dat_script_trapsmall.bin/file009_PACK2/file021.bin
+コードを切断した。=Cut the wires.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file007.bin
 急いで伏せる！=Hide quick!
 ヒビをふさぐ！=Seal the cracks!
