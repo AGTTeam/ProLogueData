@@ -165,7 +165,7 @@
 ハウスキーパーがトラップを、|ジェフリーは船の運航を担当…\t|役割としてはそんなところでしょう。=The Housekeeper is in charge of the traps and Jeffrey is in charge of operating the ship...
 ハウスキーパーも、このまま|黙って引き下がる気は|ないでしょうね……=The Housekeeper isn’t going to back down without a fight.
 事件の首謀者を特定するには、|リブート社とＣＬＮの接点となる|確実な情報が必要です。=In order to identify the mastermind, we need solid information that will connect the CLN with Reboot Inc.
-資本主義社会において|会社と会社、会社と個人を|つなぐものと言えば……=If we were going to identify what connects companies with companies, or individuals with companies...
+資本主義社会において|会社と会社、会社と個人を|つなぐものと言えば……=Something that ties companies with other companies and with individuals...
 情報から導き出される人物はただ一人。\t|私の直感とも一致するが……=The information we’ve gathered points to a single person.\t|My intuition was right...
 リブート社会長|アロイス・ベイトソン…\t|それが、Ａの正体です。=The chairman of Reboot Inc., Alois Bateson...\t|That’s A’s true identity.
 急いでブリッジへ向かってください。\t|ジェフリーに船を停めさせましょう！=Please hurry to the bridge.\t|We need Jeffrey to stop the ship!
@@ -2991,7 +2991,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ロックを解除した！=Released the lock!
 基板が外せるようになった。=The board can now be removed.
 基板を外した！=Removed the board!
-下から起爆装置が現れた。=The detonator was underneath.
+下から起爆装置が現れた。=The detonator is underneath.
 起爆装置を停止させたが、|緊急回路が作動した。=The detonator was deactivated, but the emergency circuit was triggered.
 爆薬のカバーを外した！=Removed the cover on the explosive!
 爆薬の本体が見えた。=The explosive is now visible.
@@ -2999,7 +2999,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬を外した！=Removed the explosive!
 !FILE:dat_script_trapbig.bin/file009_PACK2/file011.bin
 考えるまでも無いと思いますが、|このフタを開けてください。=It should be obvious, but we need to get that lid off.
-角のネジを外したり、|フタのスキマをこじ開けたり、|方法はいくらでもあります。=There are a few things you can do, try removing the screws and prying the lid open.
+角のネジを外したり、|フタのスキマをこじ開けたり、|方法はいくらでもあります。=There are a few things you can do here. Try removing the screws and prying the lid open.
 どうやら基板がロックされています。|\tこのままでは外せません。|ロックを解除しましょう。=It looks like something is securing the board.|\tYou won’t be able to remove it like this.\vYou need to unlock it first.
 まず、ＩＣチップとケーブルを|正しい位置にはめ込みます。\vあとは暗証番号の入力です。=First, fit the IC chip and plug the cable in.\vThen you can enter the PIN.
 先ほどロックを解除したのは|この基板を外すためです。=Now that the lock has been released, you can work on removing the board.
@@ -3009,10 +3009,15 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬のカバーを外しましょう。|\t他にできる事は無さそうです。=It looks like the only thing you can do is take off the cover of the explosives.
 このぐらいなら簡単でしょう。|\tただフタを開ける、|それだけの事です。=There’s nothing complicated here.|\tJust take off the top cover.
 いよいよ大詰めです。|\t爆薬を外しましょう。\vあせらず慎重にお願いします。|\tしかし、時間が無い事も|忘れないでください。=Now it’s time for the big finish.|\tLet's remove the explosives.\vPlease be careful and don’t rush.|\tThough, you can’t afford to be idle either.
-爆弾の表面に書いてある文字|これが暗証番号です。\v偶数を順に入力するだけ。|\tたいした仕掛けでもありません。\v答えさえわかれば|後は爆薬を外すだけですね。=The writing on the explosive is our clue.\vJust enter all the even numbers in order into the keypad.|\tIt’s not the most impressive system.\vWhen you know the answer, all you need to do is remove the explosives.
+爆弾の表面に書いてある文字|これが暗証番号です。\v偶数を順に入力するだけ。|\tたいした仕掛けでもありません。\v答えさえわかれば|後は爆薬を外すだけですね。=The writing on the explosive is our clue.\vJust enter every even number, in ascending order, into the keypad.|\tIt’s not the most impressive system.\vWhen you know the answer, all you need to do is remove the explosives.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file013.bin
-ネジが緩んでいる。=The screw is loose.
-ネジを緩めた。=Loosened the screw.
+@fRネジ@fWが締められている。=The @fRscrews@fW are fastened in tight.
+ネジを緩めた。=Loosened the screws.
+ネジが緩んでいる。=The screws are loose.
+!FILE:dat_script_trapbig.bin/file009_PACK2/file014.bin
+@fRネジ@fWが締められている。=The @fRscrews@fW are fastened in tight.
+ネジを緩めた。=Loosened the screws.
+ネジが緩んでいる。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file015.bin
 ケースを閉じているフタだ。\v一部分、中身が横から見える。=The lid of the case.\vPart of the contents are visible.
 ケースを閉じているフタだ。\v一部分、中身が横から見える。\vフタとケースのスキマが|ミニバールでこじ開けられている。=The lid of the case.\vPart of the contents are visible.\vThe gap between the top and bottom of the case has been pried open with a crowbar.
@@ -3022,9 +3027,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 基板から出ているケーブルだ。\vケーブルは外されている。=A cable extends out of the board.\vIt is not connected to anything.
 基板から出ているケーブルだ。\vケーブルは隣の装置に|接続されている。=A cable extends out of the board.\vIt is connected to the neighboring device.
 基板から出ているケーブルだ。\vケーブルは外されている。\vすぐそばに差込口があるようだ。=A cable extends out of the board.\vIt is not connected to anything.\vThere’s a socket next to it.
-ケーブルをはめる=Plug in the cable
-ケーブルをはめない=Don’t plug in the cable
-ケーブルをはめ込んだ。=Fitted the cable.
+ケーブルをはめる=Plug the cable in
+ケーブルをはめない=Don’t plug the cable in
+ケーブルをはめ込んだ。=Plugged the cable into the socket.
 基板から出ているケーブルだ。=A cable is coming out of the board.
 基盤から出ているケーブルだ。\vケーブルは隣の装置に|接続されている。=A cable extends out of the base.\vIt is connected to the neighboring device.
 ケーブルを抜く=Unplug the cable
@@ -3032,29 +3037,33 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ケーブルを抜いた。=Unplugged the cable.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file018.bin
 基板に何かをはめ込める|スペースが空いている。=There is a space in the board where something could be inserted.
-基板にＩＣチップがはめ込まれている。\v正常に作動しているようだ。=An IC chip has been fitted into the board.\vIt seems to be working.
+基板にＩＣチップがはめ込まれている。\v正常に作動しているようだ。=An IC chip has been fit into the board.\vIt seems to be working.
 電子基板に足りないパーツならば、|何かの電子部品、でしょうね。=Given that it’s a circuit board, the thing which is missing is likely to be some kind of electronic component.
 ＩＣチップをはめ込んだ。=Fit the IC Chip.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file020.bin
-ネジが締められている。=The screw has been|fastened in tight.
-変ですね、このネジ…|まったく回せる気配がありません。\v何かロックのようなものが|かかっているみたいです。=That’s strange...|It doesn’t look like that screw wants to turn at all.\vThere must be something locking it in place.
-基板のロックが解除されて、|このネジを回せるように|なったようです。=Now that the board has been unlocked, it seems this screw can be turned.
-ネジを緩めた。=Loosened the screw.
+ネジが締められている。=The screws have been|fastened in tight.
+変ですね、このネジ…|まったく回せる気配がありません。\v何かロックのようなものが|かかっているみたいです。=That’s strange...|It doesn’t look like those screws want to turn at all.\vThere must be something locking them in place.
+基板のロックが解除されて、|このネジを回せるように|なったようです。=Now that the board has been unlocked, it seems the screws can be turned.
+ネジを緩めた。=Loosened the screws.
+ネジが緩められている。=The screws are loose.
+!FILE:dat_script_trapbig.bin/file009_PACK2/file021.bin
+ネジを緩めた。=Loosened the screws.
+ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file022.bin
-ケースに基板が固定されている。\v何かロックがかかっているようだ。\v空いていたスペースに|チップがはめ込まれている。=The board is fixed to the case.\vIt appears to be locked.\vA chip has been fitted into the empty space.
-ケースに基板が固定されている。\v何かロックがかかっているようだ。\v基板の一部に何かをはめ込む|スペースが空いている。=The board is fixed to the case.\vIt appears to be locked.\vThere is an empty space for something to be inserted.
-ケースに基板が固定されている。\vロックは解除されたので|外す事ができそうだ。=The board is fixed to the case.\vThe lock has been released, so it should be safe to take off.
+ケースに基板が固定されている。\v何かロックがかかっているようだ。\v空いていたスペースに|チップがはめ込まれている。=The board is fixed to the case.\vIt appears to be locked.\vA chip has been fit into the empty space.
+ケースに基板が固定されている。\v何かロックがかかっているようだ。\v基板の一部に何かをはめ込む|スペースが空いている。=The board is fixed to the case.\vIt appears to be locked.\vThere is an empty space where something could be inserted.
+ケースに基板が固定されている。\vロックは解除されたので|外す事ができそうだ。=The board is fixed to the case.\vThe lock has been released, so it|should be safe to take off.
 ケースに基板が固定されている。\vスキマをこじ開けられて、|だいぶ緩んでいる。=The board is fixed to the case.\vA gap has been pried open, and the board is much more maneuverable.
 いろいろできる事がありそうです。|\tケースのと間に@fRスキマ@fWも|見えますね。\vこの@fRスキマ@fWなら、|何か@fR細長い物@fWでも基板を|こじ開けられそうです。=There are a number of things you can do here.\t I can also see a @fRgap@fW between it and the case.\vIf you used something @fRlong and thin@fW, you should be able to pry it open.
-基板とケースのスキマをこじ開けた。=Pried open the gap between the circuit board and the case.
+基板とケースのスキマをこじ開けた。=Pried open the gap between the|circuit board and the case.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file023.bin
 この@fRネジ@fWは後回しの方が|いいかもしれません。|\t今は危険な気がします。=It might be better to leave that @fRscrew@fW for later.\t I have a feeling loosening it now would be risky.
 現在の状態なら、|@fRネジ@fWを回しても大丈夫でしょう。=It should now be safe to remove this @fRscrew@fW.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file024.bin
 ケースに挟まった箱状のパーツだ。=A box is sandwiched inside the case.
-ケースに挟まった箱状のパーツだ。\vフタで隠されていてよく判らない。=A box is sandwiched inside the case.\vIt’s hard to tell what it is, as it’s hidden by the lid.
+ケースに挟まった箱状のパーツだ。\vフタで隠されていてよく判らない。=A box is sandwiched inside the case.\vIt’s hard to tell what it is,|as it’s hidden by the lid.
 こういう場合、様子を見るのが|一番です。|\t今は放っておきましょう。=In cases like this, it’s important to know what you’re dealing with first.|\tLet’s leave this for now.
-箱状のパーツだ。\v危なそうなマークが描かれている。=A box-shaped part.\vThe stripes seem to indicate that it’s dangerous.
+箱状のパーツだ。\v危なそうなマークが描かれている。=A box of some kind.\vThe stripes seem to indicate|that it’s dangerous.
 まだ確証はありませんが、|恐らくこれが爆薬でしょう。=It’s too soon to say for certain, but I have a feeling this is the explosive.
 爆薬のケースだ。\v危なそうなマークが描かれている。=The explosives case.\vThe stripes indicate danger.
 他にそれらしき物も見当たりません。|\tこれが爆薬でしょう。=Nothing else fits the bill.|\tI think we can safely say this is the explosive.
@@ -3110,21 +3119,21 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file009_PACK2/file037.bin
 番号を入力する装置だ。\v装置は動いていて、|番号の入力ができるようだ。=There is a keypad.\vIt’s powered on.
 番号を入力する装置だ。\v動いていないように見える。=There is a keypad.\vIt doesn’t seem to be powered on.
-番号を入力する装置だ。\vケーブルを抜いたのに|まだ動いている。=There is a keypad.\vIt still seems to be working even though the cable has been unplugged.
+番号を入力する装置だ。\vケーブルを抜いたのに|まだ動いている。=There is a keypad.\vIt still seems to be working even though|the cable has been unplugged.
 基板と正常に接続する事で|起動する仕組みだったようです。\vまだ動いているという事は|今後もこの装置を|使う事がありそうですね。=It seems connecting it to the board was all that was needed to start the device.\vThe fact it is still running means we can assume we’ll be needing it again later.
 番号を入力する装置だ。=There is a keypad.
 どこかに@fR数字@fWに関わる|ヒントがあるはずです。=There must be a hint about the @fRnumbers@fW somewhere.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file039.bin
-配電盤を覆っている爆弾の|ケースだ。\v発熱していたが、今は冷えている。=The case of the bomb covering the switchboard.\vIt was overheating, but has been cooled down.
-配電盤を覆っている爆弾の|ケースだ。=The case of the bomb covering the switchboard.
-配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWが外部にのびている。=The case of the bomb covering the switchboard.\vA @fRwire@fW extends outwards.
-配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWの付近が高熱を発していたが|今は冷やされている。 =The case of the bomb covering the switchboard.\vThe area near the @fRwire@fW giving off heat has been cooled down.
-配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWが外部にのびている。\v基板のロックを解除したせいか|@fRコード@fWの付近が@fR高熱@fWを|発している。=The case of the bomb covering the switchboard.\vA @fRwire@fW extends outwards.\vThe area near the @fRwire@fW is giving off a lot of @fRheat@fW, possibly due to the board being unlocked.
+配電盤を覆っている爆弾の|ケースだ。\v発熱していたが、今は冷えている。=The case of the bomb|attached to the switchboard.\vIt was overheating, but has been cooled down.
+配電盤を覆っている爆弾の|ケースだ。=The case of the bomb|attached to the switchboard.
+配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWが外部にのびている。=The case of the bomb|attached to the switchboard.\vA @fRwire@fW extends outwards.
+配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWの付近が高熱を発していたが|今は冷やされている。 =The case of the bomb|attached to the switchboard.\vThe area near the @fRwire@fW which was giving off heat has now been cooled down.
+配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWが外部にのびている。\v基板のロックを解除したせいか|@fRコード@fWの付近が@fR高熱@fWを|発している。=The case of the bomb|attached to the switchboard.\vA @fRwire@fW extends outwards.\vThe area near the @fRwire@fW is giving off|a lot of @fRheat@fW, possibly due to|the board being unlocked.
 発熱部分を冷やした。=Cooled the overheating part.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file041.bin
-外部からのびている@fRコード@fWだ。=The @fRwire@fW connects to an external component.
-これは電源@fRコード@fWのようです。|\tこの@fRコード@fWは切らない方が|いいと思います。=It seems to be the power cable.|\tI would assume it’s not a good idea to cut it.
-まずはフタを開けましょう。|\t中を見ずに@fRコード@fWをいじるのは|危険です。=Let’s open the lid first.|\tIt’s dangerous to mess with the @fRwire@fW without knowing what’s inside.
+外部からのびている@fRコード@fWだ。=The @fRwire@fW connects to an|external component.
+これは電源@fRコード@fWのようです。|\tこの@fRコード@fWは切らない方が|いいと思います。=This seems to be the power cable.|\tI would assume it’s not a good idea to cut it.
+まずはフタを開けましょう。|\t中を見ずに@fRコード@fWをいじるのは|危険です。=Let’s open the lid first.|\tIt’s dangerous to mess with that @fRwire@fW without knowing what’s inside.
 電源コードのようだ。\v切断するのは危険だ。=The power cable.\vCutting it would be dangerous.
 コードを切断した。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file010.bin
@@ -3234,7 +3243,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているが、|だいぶ緩んでいる。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt holds the pipe to the case,|but it has become loose.
 液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているようだ。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt looks like it’s holding the case and pipe together.
 何か軽く@fR衝撃@fWを与えてみては|どうでしょうか。|\t緩むかもしれません。=What if you tried @fRhitting@fW it with something? |\tIt might come loose.
-金具を叩く事で|金具が緩んだようだ。=The fitting came loose.
+金具を叩く事で|金具が緩んだようだ。=Loosened the fitting.
 金具を叩いた衝撃で|パイプからガスが|漏れ出した！=The impact caused gas|to leak out of the pipe!
 !FILE:dat_script_trapbig.bin/file010_PACK2/file040.bin
 液体の入ったケースだ。=A case containing liquid.
@@ -3329,6 +3338,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 バッテリーに繋がったコードだ。\vコードはくぼみの裏側に|繋がっているようだ。\v引き抜けば簡単に外れるだろう。=The wire is connected to the battery.\vIt seems to be feeding through a hole.\vIt should be easy to unplug.
 このコードは一体何のために|電力を供給しているのでしょうか。\vとりあえず、起爆に関係する物では|無さそうですよ。=What is this wire supplying power to?\vIt doesn’t appear to be the explosives, at least.
 コードを抜く=Unplug the wire
+コードを抜かない=Don’t unplug the wire
 一見して、特に変化は|無いようですね。\vしかし、仮に気づかなくても|何かが変わっているはずです。|\t調査を進めましょう。=At first glance, it doesn’t seem like anything has changed.\vBut even if we aren’t aware of it, something must have changed.|\tLet’s continue the investigation.
 バッテリーに繋がっていたコードだ。\v今は抜かれている。=The wire that was connected to the battery has been.#dupe
 !FILE:dat_script_trapbig.bin/file011_PACK2/file026.bin
@@ -3424,7 +3434,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ロックに絡んでいるハリガネを|処理しなければなりません。\v後はロックを外して、|カバーを取ってしまえば良いです。=You need to deal with the wire tangled around the locks.\vAfter that, you can release the locks and take the cover off.
 このケースが外せそうですね。|\t少し骨が折れそうですが…=It looks like this case should come off.|\tIt seems like a pain to deal with, though...
 高熱のコイルの処理が問題です。|\tまず電極を外ししょう。\vその上でコイルを冷却すれば、|ケースも簡単に外せるでしょう。=The problem is the coil.|\tFirst, you need to remove the electrodes.\vIf you cool the coil after that, the case should come off easily.
-ロックがかかっているようですが、|このフタを開けるしか|ないようですね。=It looks like the lid is locked, but opening it the only way to see inside.
+ロックがかかっているようですが、|このフタを開けるしか|ないようですね。=It looks like the lid is locked, but opening it is the only way to see inside.
 ロックは暗証番号の|入力で解除できます。\vフタのヒントを元に、|解答を導き出すようですね。\vその答えは…=You can release the lock by entering the right code.\vThe hint on the lid points to the solution.\vThe answer is...
 残るは起爆装置ですね。|\tこれを外しましょう。=The detonator is the only thing left.|\tLet’s remove it.
 ３本のコードの中に|正解が１本あります。\vそれを抜く事ができれば、|起爆装置を外せるようになります。=Of the three wires, only one is safe to disconnect.\vIf you can unplug it, you will be able to remove the detonator.
@@ -3464,14 +3474,14 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file012_PACK2/file024.bin
 @fR発熱@fWしたコイルだ。=The coil is @fRhot@fW.
 冷やされたコイルだ。=The cooled coil.
-@fR発熱@fWしたコイルだ。\v両端の電極を外したので、|冷やせるようになった。=The coil is @fRhot@fW.\vThe electrodes at both ends|have been removed, so it should be|possible to cool it down.
+@fR発熱@fWしたコイルだ。\v両端の電極を外したので、|冷やせるようになった。=The coil is @fRhot@fW.\vThe electrodes at both ends|have been removed, so it should|be possible to cool it down.
 @fR発熱@fWしたコイルだ。\v両端の電極によって、|熱を起こしているようだ。=The coil is @fRhot@fW.\vThe electrodes at both ends seem|to be causing the heat.
 コイルを冷やした。\v熱すぎて効果が無かった。=The heat was so great that|the spray had no effect.
 送電されている間は|常に加熱していますから、|冷やすのは無理でしょう。=As long as there’s power it will continue to conduct heat, making it impossible to cool down.
 コイルを冷やした。\vコイルが完全に冷えたようだ。=Cooled the coil.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file025.bin
 爆薬からのびている@fRコード@Wだ。=A @fRwire@fW extends from the explosives.
-爆薬に直結している@fRコード@fWですね。|\tとても危険な感じがします。=That @fRwire@fW appears to be directly connected to the explosives.|\tI have a very bad feeling about it.
+爆薬に直結している@fRコード@fWですね。|\tとても危険な感じがします。=That @fRwire@fW appears to be directly connected to the explosives.|\tBetter not to touch it.
 爆薬からのびている@fRコード@fWだ。=A @fRwire@fW extends from the explosives.
 解除コードを抜いたので、|このコードも安全になりましたね。=With the main wire removed, we don’t have to worry about this anymore.
 コードを調べた。\v起爆用のコードだろう。|切るのは危険だ。=Examined wire.\vThis wire relays the detonation trigger.|It would be a bad idea to cut it.
@@ -3482,7 +3492,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 上のカバーを外さなければ|どうにもできませんね。=It seems we won’t be able to do anything here until we remove the top cover.
 重厚な雰囲気のケースだ。=An imposing case.
 重厚な雰囲気のケースだ。\vコイルが冷やされて、|外せそうになっている。=An imposing case.\vWith the coil cooled, it can now be removed.
-重厚な雰囲気のケースだ。\v@fR発熱@fWしたコイルが邪魔で|簡単に外せそうにない。=An imposing case.\vThe @fRheat@fW from the coil makes removing it difficult.
+重厚な雰囲気のケースだ。\v@fR発熱@fWしたコイルが邪魔で|簡単に外せそうにない。=An imposing case.\vThe @fRheat@fW from the coil makes|removing it difficult.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file029.bin
 数字を入力する装置だ。=A keypad.
 数字を入力する装置だ。\vもう番号を入力する必要は|ないだろう。=A keypad.\vIt has already served its purpose.
@@ -3494,7 +3504,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 縦と横の並びがポイントです。|縦横で数字がかぶらないように|穴を埋めてみてください。=It’s like sudoku; the vertical and horizontal sequences are the key.\vTry to fill the gaps so no number repeats on the same horizontal or vertical line.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file031.bin
 起爆装置の中にあるコードだ。=There are wires inside the detonator.
-起爆装置の中にあるコードだ。\v解除用の正解コードを抜いてある。=There are wires inside the detonator.\vThe correct wire has already been disconnected.
+起爆装置の中にあるコードだ。\v解除用の正解コードを抜いてある。=There are wires inside the detonator.\vThe correct wire has already|been disconnected.
 起爆装置は止まったようですね。|\t爆薬から外してしまいましょう。=It looks like that’s shut off the detonator.|\tLet’s detach it from the explosives.
 起爆装置の中にあるコードだ。\vこれが正解のコードのようだ。=There are wires inside the detonator.\vThis appears to be the right wire|to disarm the bomb.
 起爆装置の中にあるコードだ。\vこのコードはハズレのようだ。=There are wires inside the detonator.\vThis one appears to be a feint.
@@ -3502,18 +3512,26 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 解除用のコードを調べた。=Examined the wire.
 このコードが本物の|解除用のコードだ。=This is the wire to disarm the bomb.
 このコードはダミーだ。\v抜くと爆発するだろう。=This wire is a feint.\vRemoving it will trigger the detonator.
+コードを抜かない=Don't unplug the wire
+!FILE:dat_script_trapbig.bin/file012_PACK2/file034.bin
+コードを抜かない=Don't unplug the wire
+!FILE:dat_script_trapbig.bin/file012_PACK2/file035.bin
+コードを抜かない=Don't unplug the wire
+!FILE:dat_script_trapbig.bin/file012_PACK2/file036.bin
+コードを抜かない=Don't unplug the wire
 !FILE:dat_script_trapbig.bin/file012_PACK2/file037.bin
 起爆装置だ。|@fRコード@fWが爆弾と繋がっている。=The detonator. It is connected|to the explosives by @fRwire@fW.
 フタを開けなければ|解除はできそうにありませんね。=I don’t imagine you’ll be able to disarm it until we get the lid off.
-起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。=The detonator.\vIt is connected to the|explosives by @fRwire@fW.
-起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。\v内部にも３本の@fRコード@fWが見える。=The detonator.\vIt is connected to the|explosives by @fRwire@fW.\vThree @fRwires@fW are visible inside.
+起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。=The detonator.\vIt is connected to the|explosive by @fRwire@fW.
+起爆装置だ。\v@fRコード@fWが爆弾と繋がっている。\v内部にも３本の@fRコード@fWが見える。=The detonator.\vIt is connected to the|explosive by @fRwire@fW.\vThree @fRwires@fW are visible inside.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file038.bin
 台座のようになっていますね。|\t上から順に解除する必要が|あるようです。=It’s supporting the rest of the trap.|\tIt looks like we’ll have to work our way down from the top.
+コードを抜かない=Don't unplug the wire
 !FILE:dat_script_trapbig.bin/file013_PACK2/file010.bin
 カバーの下にはロックが|かかっていた。=There are locks under the cover.
 !FILE:dat_script_trapbig.bin/file013_PACK2/file011.bin
-上のカバーの継ぎ目にある|この小さなカバーが|外せそうですね。=This small cover running along the seam of the top cover should come off.
-金具を緩めれば、|簡単に外れますよ。=If you loosen the metal fittings, it should come off easily.
+上のカバーの継ぎ目にある|この小さなカバーが|外せそうですね。=That thin cover running along the seam of the top cover should come off.
+金具を緩めれば、|簡単に外れますよ。=If you loosen the metal fitting, it should come off easily.
 高熱のコイルの処理が問題です。|\tまず電極を外しましょう。\vその上でコイルを冷却すれば、|ケースも簡単に外せるでしょう。=The problem is the coil.|\tFirst, you need to remove those electrodes.\vOnce they’re off, you should be able to cool the coil and remove the case.
 !FILE:dat_script_trapbig.bin/file013_PACK2/file013.bin
 カバーを固定している金具だ。\v叩かれて緩んでいる。=The fitting holding the cover in place.\vIt is loose from being hit.
@@ -3521,7 +3539,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file013_PACK2/file014.bin
 何かのカバーだ。\v@fR金具@fWで固定されている。=Some kind of cover.\vIt’s being secured by a @fRmetal fitting@fW.
 何かのカバーだ。\vスキマがこじ開けられている。=Some kind of cover.\vThe gap in the side has been widened.
-何かのカバーだ。\v金具で固定されていたが|緩んで@fRスキマ@fWができている。=Some kind of cover.\vThe metal fitting securing it loose,|creating a @fRgap@fW.
+何かのカバーだ。\v金具で固定されていたが|緩んで@fRスキマ@fWができている。=Some kind of cover.\vThe metal fitting securing it|is loose, creating a @fRgap@fW.
 @fR金具@fWを緩めれば|カバーが外れそうですね。=If that @fRfitting@fW was loosened, the cover would be easier to take off.
 !FILE:dat_script_trapbig.bin/file013_PACK2/file015.bin
 @fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
@@ -3560,6 +3578,14 @@ The @fRscrew@fW has been|fastened in tight.
 下からコードは抜けません。|\t上のプラグ部分を抜きましょう。=You won’t be able to unplug the wire from there.|\tRemove the plug above it instead.#W
 コードの下の部分が見えていますね。|\t@fR電圧計@fWがあればここからコードを|調査できそうです。=The lower parts of the wires aren’t covered.\t Using a @fRvoltmeter@fW should reveal more about them.
 ここから電圧計で|コードの調査をできそうです。=You may be able to find out more about the wires from here using a voltmeter.#W
+!FILE:dat_script_trapbig.bin/file013_PACK2/file043.bin
+コードを抜かない=Don’t unplug the wire
+!FILE:dat_script_trapbig.bin/file013_PACK2/file044.bin
+コードを抜かない=Don’t unplug the wire
+!FILE:dat_script_trapbig.bin/file013_PACK2/file045.bin
+コードを抜かない=Don’t unplug the wire
+!FILE:dat_script_trapbig.bin/file013_PACK2/file046.bin
+コードを抜かない=Don’t unplug the wire
 !FILE:dat_script_trapbig.bin/file013_PACK2/file048.bin
 台座のようになっていますね。|\tこれは上の物から解除しなければ|ならないようになっていますね。=It seems to be supporting the weight of the trap.\t It appears you’ll have to work your way down from the top.
 !FILE:dat_script_trapbig.bin/file014_PACK2/file010.bin
@@ -3584,15 +3610,21 @@ The @fRscrew@fW has been|fastened in tight.
 コイルの脇にある電極のカバーだ。=There is a cover on the electrodes attached to the coil.
 コイルの脇にある電極のカバーだ。\v根元がぐらついていて、|すぐにも外れそうだ。=There is a cover on the electrodes attached to the coil.\vThe base is wobbly and|should be easy to pull out.
 コイルの脇にある電極のカバーだ。\v下部に小さな@fRスキマ@fWが見える。=There is a cover on the electrodes attached to the coil.\vThere is a @fRsmall gap@fW at the bottom.
-何か@fR細長い物@fWならば、|この@fRスキマ@fWに入りそうです。=If you had something @fRlong and thin@fW, you might be able to pry the @fRgap@fW open.
+何か@fR細長い物@fWならば、|この@fRスキマ@fWに入りそうです。=If you use something @fRlong and thin@fW, you might be able to pry the @fRgap@fW open.
 コイルの脇にある電極のカバーだ。\v@fRハリガネ@fWで硬く固定されている。=There is a cover on the electrodes attached to the coil.\vIt is being held in place by a @fRmetal wire@fW.
 電極のカバーのスキマを|こじ開けた。=Widened the gap beneath the cover.
 !FILE:dat_script_trapbig.bin/file014_PACK2/file035.bin
 フタにメモが書いてある。\v「19??5」「?7?59」|「5?39?」「759?3」|「XXXXX」=There is writing on the lid.\v「19??5」「?7?59」|「5?39?」「759?3」|「XXXXX」
 !FILE:dat_script_trapbig.bin/file014_PACK2/file036.bin
-@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
-ネジを緩めた。=Loosened the screws.
-ネジが緩んでいる。=The screws are loose.
+@fRネジ@fWが締められている。=The @fRscrew@fW is fastened in tight.
+ネジを緩めた。=Loosened the screw.
+ネジが緩んでいる。=The screw is loose.
+!FILE:dat_script_trapbig.bin/file014_PACK2/file047.bin
+コードを抜かない=Don’t unplug the wire
+!FILE:dat_script_trapbig.bin/file014_PACK2/file048.bin
+コードを抜かない=Don’t unplug the wire
+!FILE:dat_script_trapbig.bin/file014_PACK2/file049.bin
+コードを抜かない=Don’t unplug the wire
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file006.bin
 はじまりますよ？=Let’s get started.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file007.bin
