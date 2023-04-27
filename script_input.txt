@@ -197,11 +197,11 @@
 !FILE:dat_script.bin/file002_PACK2/file012.bin
 ＤＳワイヤレス通信機能を使って、|ダウンロード配信を開始します。|よろしいですか？=Send a demo to a friend|using DS Download Play?
 !FILE:dat_script.bin/file002_PACK2/file013.bin
-破損データを削除しました。|電源を切って|カードを差し込みなおしてください。=Corrupt data deleted.|Please turn off the power and reinsert the game card.
-データを読み込めませんでした。|電源を切って|カードを差し込みなおしてください。=Could not read data.|Please turn off the power and reinsert the game card.
-データを書き込めませんでした。|電源を切って|カードを差し込みなおしてください。=Could not write data.|Please turn off the power and reinsert the game card.
-通信エラーです。|電源を切って|カードを差し込みなおしてください。=A communication error has occurred.|Please turn off the power and reinsert the game card.
-未知のエラーです。|電源を切って|カードを差し込みなおしてください。=An unknown error has occurred.|Please turn off the power and reinsert the game card.
+破損データを削除しました。|電源を切って|カードを差し込みなおしてください。=Save data was corrupt|and has been deleted.|Please turn off the power and|reinsert the game card.
+データを読み込めませんでした。|電源を切って|カードを差し込みなおしてください。=Could not read data.|Please turn off the power and|reinsert the game card.
+データを書き込めませんでした。|電源を切って|カードを差し込みなおしてください。=Could not write data.|Please turn off the power and|reinsert the game card.
+通信エラーです。|電源を切って|カードを差し込みなおしてください。=A communication error has occurred.|Please turn off the power and|reinsert the game card.
+未知のエラーです。|電源を切って|カードを差し込みなおしてください。=An unknown error has occurred.|Please turn off the power and|reinsert the game card.
 !FILE:dat_script.bin/file002_PACK2/file014.bin
 トラップの解除方法を|@fR【Ｌに聞ける回数】が増えた！=The @fRnumber of times you can ask L for help with traps@fW has increased!
 !FILE:dat_script.bin/file003_PACK2/file006.bin
@@ -2178,7 +2178,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 まだ押してはいけません。=Don’t push it yet.
 ただの爆発ボタンではなさそうだが、|何の対策もなく押すのは危険すぎる。=It doesn’t appear to be the detonator button, but it’s too dangerous to press it unprepared.
 もう少し押さないでおいてください。=Please hold off on pressing that just now.
-プラグをはめた事で、|さっきまでと別の機能に|なっているはずです。\v爆薬との回路を切る事が|できるかもしれません。=Now that the plugs are fitted, it should be in full operation.\vIt may be possible to cut the circuit to the explosives.
+プラグをはめた事で、|さっきまでと別の機能に|なっているはずです。\v爆薬との回路を切る事が|できるかもしれません。=Now that the plugs have been fit, it should be in full operation.\vIt may be possible to cut the circuit to the explosives.
 ボタンを押す=Press the button
 押すのは１回で十分です。=There’s no need to push it more than once.
 しかしハンマーは壊れてしまった。=The Hammer broke.
@@ -2240,7 +2240,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 このパーツは扉と連動している。=This part appears to be|connected to the door.
 これで解除するべきパーツが|判明しましたね。=Now we know which part we need to disarm.
 縦長のスロットだ。=There’s a vertical slot.
-縦長のスロットだ。\v板状のものを鍵としてはめ込んである。=A vertical slot.\vA metal plate has been fitted inside.
+縦長のスロットだ。\v板状のものを鍵としてはめ込んである。=A vertical slot.\vA metal plate has been fit inside.
 気になりますね。\t|何か@fRはめ込めそうな物@fWは|ないですか？=That caught my attention too.\t|Do you have anything that might @fRfit inside@fW?
 板状のものをスロットにはめた。\vダイヤルをはめ込む穴の|金属板が解除された。=Inserted the metal plate into the slot.\vThe pane of metal blocking|the hole for the dial has moved.
 !FILE:dat_script_trapbig.bin/file003_PACK2/file019.bin
@@ -3042,16 +3042,19 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ＩＣチップをはめ込んだ。=Fit the IC Chip.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file020.bin
 ネジが締められている。=The screws have been|fastened in tight.
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 変ですね、このネジ…|まったく回せる気配がありません。\v何かロックのようなものが|かかっているみたいです。=That’s strange...|It doesn’t look like those screws want to turn at all.\vThere must be something locking them in place.
 基板のロックが解除されて、|このネジを回せるように|なったようです。=Now that the board has been unlocked, it seems the screws can be turned.
 ネジを緩めた。=Loosened the screws.
 ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file021.bin
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
+ネジが締められている。=The screws have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
 ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file022.bin
 ケースに基板が固定されている。\v何かロックがかかっているようだ。\v空いていたスペースに|チップがはめ込まれている。=The board is fixed to the case.\vIt appears to be locked.\vA chip has been fit into the empty space.
-ケースに基板が固定されている。\v何かロックがかかっているようだ。\v基板の一部に何かをはめ込む|スペースが空いている。=The board is fixed to the case.\vIt appears to be locked.\vThere is an empty space where something could be inserted.
+ケースに基板が固定されている。\v何かロックがかかっているようだ。\v基板の一部に何かをはめ込む|スペースが空いている。=The board is fixed to the case.\vIt appears to be locked.\vThere is an empty space where|something could be inserted.
 ケースに基板が固定されている。\vロックは解除されたので|外す事ができそうだ。=The board is fixed to the case.\vThe lock has been released, so it|should be safe to take off.
 ケースに基板が固定されている。\vスキマをこじ開けられて、|だいぶ緩んでいる。=The board is fixed to the case.\vA gap has been pried open, and the board is much more maneuverable.
 いろいろできる事がありそうです。|\tケースのと間に@fRスキマ@fWも|見えますね。\vこの@fRスキマ@fWなら、|何か@fR細長い物@fWでも基板を|こじ開けられそうです。=There are a number of things you can do here.\t I can also see a @fRgap@fW between it and the case.\vIf you used something @fRlong and thin@fW, you should be able to pry it open.
@@ -3090,29 +3093,29 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれません。=Even numbers...?|\tIt could be some kind of @fRcode@fW.
 コードを切断した。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file031.bin
-起爆装置に繋がった回路だ。\v起爆装置が停止したときに、|緊急用に作動する物のようだ。=A circuit connected to the detonator.\vIt looks like it was set up to activate in the event of the detonator control system failing.
+起爆装置に繋がった回路だ。\v起爆装置が停止したときに、|緊急用に作動する物のようだ。=A circuit connected to the detonator.\vIt looks like it was set to activate in the event of the detonator control system failing.
 この回路は時限爆破装置の|ようなものですね。|\t爆破までの時間が短縮されます。\vこのまま進めるしかないようです。|\tかなり危険な状態ですが、|がんばりましょう。=This circuit is, in essence, a countdown clock.\t Shutting down the system has cut the amount of time until detonation.\vThere’s nothing we can do but move forward.\t It’s far from ideal, but we need to stay focused.
 起爆装置に繋がった回路だ。\v用途は良く判らない。\v今は動いていないようだ。=A circuit connected to the detonator.\vIt’s not clear what it does.\vIt doesn’t appear to be active right now.
 この装置はあくまで|緊急用の装置です。\v止める事はできませんが、|この装置が及ぼす影響は|爆発までの時間短縮ぐらいです。=This device is for emergency use only.\vIt can’t be stopped, but the only effect it has is shortening the time until detonation.
 @fRコード@fWが何本か|爆弾と繋がっているようです。=It looks like there are several @fRwires@fW connected to the explosive.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file033.bin
-起爆装置にはめられたプラグだ。\vランプが点滅している。\v起爆装置の制御プラグのようだ。=A plug has been fitted into the detonator.\vThe light is flashing.\vIt seems to be the detonator’s control plug.
+起爆装置にはめられたプラグだ。\vランプが点滅している。\v起爆装置の制御プラグのようだ。=A plug has been fit into the detonator.\vThe light is flashing.\vIt seems to be the detonator’s control plug.
 ダミーのプラグがはめ込まれている。\v全体を制御していた装置は|停止しているが、|時限装置が作動している。=A dummy plug has been fitted.\vThe device controlling the system has been shut down, but the timer is still active.
 プラグの差込口だ。\vそばにプラグが落ちている。=A plug socket.\vThe plug is lying nearby.
 プラグをはめる=Fit the plug
 プラグをはめない=Don’t fit the plug
 起爆装置は正常動作に|戻ったようだ。=The detonator appears|to have returned to normal.
-起爆装置にはめられたプラグだ。\vランプが点滅している。\v起爆装置の制御プラグのようだ。\v簡単に外せそうだ。=A plug has been fitted into the detonator.\vThe light is flashing.\vIt seems to be the detonator’s control plug.\vIt looks easy to remove.
-このプラグには何か仕掛けが|あるような気がします。|\t気をつけてください。=I think we can assume the plug is booby trapped.|\tBe careful.
+起爆装置にはめられたプラグだ。\vランプが点滅している。\v起爆装置の制御プラグのようだ。\v簡単に外せそうだ。=A plug has been fit into the detonator.\vThe light is flashing.\vIt seems to be the detonator’s control plug.\vIt looks easy to remove.
+このプラグには何か仕掛けが|あるような気がします。|\t気をつけてください。=I think we can assume this plug is booby trapped.|\tBe careful.
 プラグを外した。\v起爆装置が暴走をはじめた。=Removed the plug.\vThe detonator started making a noise.
 ダミーのプラグがはめ込まれている。=A dummy plug has been fitted.
 ダミープラグを、|プラグ差込口にはめた。=Fit the dummy plug.
 全体を制御していた装置が|機能を停止したようだ。=The control device stopped.
-困りました。代わりに非常時用の|装置が作動したようです。\v暴走は止まりましたが、|爆破までの時間が通常より|短くなっています。\v残念ですが、|後戻りしている時間はありません。|\t急いで解除を進めましょう。=This isn’t good. It looks like the emergency device has activated.\vThe detonator is back under control, but you won’t have as long to disarm the system.\vWe can’t afford to move backwards now though.|\tLet’s deactivate this, fast.
+困りました。代わりに非常時用の|装置が作動したようです。\v暴走は止まりましたが、|爆破までの時間が通常より|短くなっています。\v残念ですが、|後戻りしている時間はありません。|\t急いで解除を進めましょう。=This isn’t good. It looks like the emergency device has activated.\vThe detonator is back under control, but you won’t have as long to disarm the system.\vWe can’t afford to go back now though.|\tLet’s deactivate this, fast.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file036.bin
 全体を制御している起爆装置だ。\vプラグがはめ込まれている。=The detonator control system.\vA plug has been fitted.
 全体を制御していた起爆装置だ。\vダミーのプラグがはめ込まれている。\v今は動いていないようだ。=The detonator control system.\vA dummy plug has been fitted.\vIt has been switched off.
-全体を制御していた起爆装置だ。\vプラグが抜かれて暴走している。=The detonator control system.\vWith the plug removed, it has started to run out of control.
+全体を制御していた起爆装置だ。\vプラグが抜かれて暴走している。=The detonator control system.\vWith the plug removed, it has started|to run out of control.
 全体を制御している起爆装置だ。\vプラグがはめ込まれている。\vそばにある装置とも|連動しているようだ。=The detonator control system.\vA plug has been fitted.\vIt appears to be connected to another device.
 この装置が爆薬などの|状態の監視をしていたようです。\vその装置が停止した今、|ようやく爆弾の解除が|できるわけです。=It seems this device was monitoring the status of the explosives and other equipment.\vNow that it’s been deactivated, we can finally disarm the bomb.
 この装置は完全に|停止しています。|\t他の部分を調査しましょう。=There’s no chance of it reactivating now.|\tLet’s turn our attention elsewhere.
@@ -3124,7 +3127,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 番号を入力する装置だ。=There is a keypad.
 どこかに@fR数字@fWに関わる|ヒントがあるはずです。=There must be a hint about the @fRnumbers@fW somewhere.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file039.bin
-配電盤を覆っている爆弾の|ケースだ。\v発熱していたが、今は冷えている。=The case of the bomb|attached to the switchboard.\vIt was overheating, but has been cooled down.
+配電盤を覆っている爆弾の|ケースだ。\v発熱していたが、今は冷えている。=The case of the bomb|attached to the switchboard.\vIt was overheating, but|has been cooled down.
 配電盤を覆っている爆弾の|ケースだ。=The case of the bomb|attached to the switchboard.
 配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWが外部にのびている。=The case of the bomb|attached to the switchboard.\vA @fRwire@fW extends outwards.
 配電盤を覆っている爆弾の|ケースだ。\v@fRコード@fWの付近が高熱を発していたが|今は冷やされている。 =The case of the bomb|attached to the switchboard.\vThe area near the @fRwire@fW which was giving off heat has now been cooled down.
