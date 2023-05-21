@@ -174,11 +174,11 @@
 残念ながら、@n0さんにとって|状況はさらに厳しくなったと|言わざるを得ません。=I am sorry that your situation only keeps getting more dire.
 ジェフリーが協力してくれることに|なったのはありがたいですが、まだ|ハウスキーパーがいますからね……=I’m grateful that Jeffrey has decided to help us, but there’s still the matter of the Housekeeper...
 今までのハウスキーパーは、仕事として|トラップを仕掛けていました。\t|しかし、これからは違います。=Until now, the Housekeeper was setting traps as part of his job.\t|But now, it’s different.
-実は私、@n0さんが|船を停める方を選んでくれて|ほっとしてます。=I have to say, it was a relief that you decided to stop the ship.
-船を停めるには、まず|モーター推進器への電力供給をカット。|その後、エンジンを停止させます。=To stop the ship, first you need to cut the power supply to the motor propulsion. Then you can shut down the engines.
-こちらへの協力を約束はしたが、|ジェフリーはまだ本心を明かして|いないと考えるべきだ……=He might have agreed to cooperate with us, but I still suspect that Jeffrey is not being fully honest about his true intentions.
+実は私、@n0さんが|船を停める方を選んでくれて|ほっとしてます。=I have to say, it was a relief that you decided to stay and stop the ship.
+船を停めるには、まず|モーター推進器への電力供給をカット。|その後、エンジンを停止させます。=To stop the ship, first you need to cut the power supply to the propulsion unit. Then you can shut down the engines.
+こちらへの協力を約束はしたが、|ジェフリーはまだ本心を明かして|いないと考えるべきだ……=He might have agreed to cooperate with us, but I still suspect that Jeffrey is not being honest about his true intentions.
 ジェフリーがこれほど|船を沈めることにこだわるのは|何か理由があるはず…=There must be a reason why Jeffrey is so obsessed with sinking the ship...
-船を無事停められれば|アロイスを逮捕できます。\tこの船自体が|彼の犯罪の証拠ですから。=If we can stop the ship safely, we can arrest Alois.\t The very ship itself is evidence of his crimes.
+船を無事停められれば|アロイスを逮捕できます。\tこの船自体が|彼の犯罪の証拠ですから。=This ship is vital evidence.\t If we can stop it safely, we’ll have enough to arrest Alois. 
 この船の航行システムは|ジェフリーの手によるもの…\t|当然、疑ってかかるべきだ……=The ship’s navigation system was designed by Jeffrey...\t|That doesn’t rule it out of suspicion.
 ハウスキーパーも協力してくれとは|言いませんが、せめて私との勝負は|中止して欲しいものです……=I’m not asking the Housekeeper to cooperate, but I would have at least liked him to stop playing games with me.
 これで、ジェフリーも|本気で協力してくれるでしょう。\t|あと一息です。=This time, we have Jeffery’s full support.\t|We’re nearly there.
@@ -567,14 +567,14 @@
 断る。\tこれは俺のプライドの問題だ。|おまえの鼻を明かさなくては|気がすまん。=I refuse.\t This is a matter of pride.|I’m not going to concede to you.
 船と共に沈むことになってもですか？\t|ジェフリー同様、あなたもグラナダ号に|乗っているんでしょう？=Even if it means going down with the ship?\t|You're on the Granada like Jeffery, aren't you?
 ああ、そうだ。\t|そんなに俺を心配してくれるなら、|トラップを解除して船を停めてくれ。=That’s right.\t|If you’re so worried about me, disarm my traps and stop the ship.
-エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=There’s still time before the engine’s burnup.\t|I’ll have you see this through to the end.
+エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=There’s still time before the engines burnup.\t|I’ll have you see this through to the end.
 悔しかったら、逆転満塁ホームランを|打ってみろ！=If that upsets you, then you’d better hit it out of the park with a home run!
 ……どこまでも、ベースボールとは。\t|そんなに野球好きなら、爆弾魔ではなく|野球選手を目指すべきでしょうに…=Baseball puns, again?\t|If he loves baseball so much, he should be a baseball player, not a bomber...
 情報キーワード|@fR【ベースボール好きの爆弾魔】@fW|を入手した。=Keyword added:|@fR“Baseball-mad Bomber"@fW
-もう説得は諦めて、トラップを解除して|ヤツを追い詰めるしかありませんね…=I guess we’ll have to give up trying to persuade him and just disarm the traps...
-おや…\t今のトラップ…妙ですね。=Hm?\t That trap you just disarmed is strange.
-今までのトラップは、利き腕を|感じさせないセットの仕方だったのに、|今回は、右利きのクセがでています。\vどうやら彼も、焦っているようですね。=The traps you’ve faced up to this point were designed in a way that didn’t show any of the maker’s quirks...\vBut this time, I can see right-handed favoritism.\t I guess he was in a hurry.
-逆転サヨナラホームランの可能性が|出てきましたよ。=I’d say we’ve got ourselves a home run.
+もう説得は諦めて、トラップを解除して|ヤツを追い詰めるしかありませんね…=I guess we’ll have to give up on trying to persuade him and just keep going.
+おや…\t今のトラップ…妙ですね。=Still... that trap you just disarmed was quite odd.
+今までのトラップは、利き腕を|感じさせないセットの仕方だったのに、|今回は、右利きのクセがでています。\vどうやら彼も、焦っているようですね。=The traps you’ve faced up to this point were designed in such a way as to conceal any of their maker’s quirks...\vBut this time, I can see right-handed favoritism.\t I guess he really was in a hurry.
+逆転サヨナラホームランの可能性が|出てきましたよ。=I’d say we’ve got ourselves a game-winning home run.
 情報キーワード|@fR【〝右利き〟のトラップ】@fW|を入手した。=Keyword added:|@fR“Right-handed Trap"@fW
 !FILE:dat_script.bin/file011_PACK2/file009.bin
 だめだ…！　間に合いません。\t|ＦＢＩに…いえ、米軍に要請して|船を沈めてもらうしかありません！=It’s hopeless! We’ll never make it in time.\t|We have to call in the FBI-- No, the US military and have them sink the ship!
@@ -582,8 +582,8 @@
 は、はい…=R-Right.
 !FILE:dat_script.bin/file011_PACK2/file010.bin
 手短にお願いします。=Please make it brief.
-あなたが、アロイスがＣＬＮの幹部だと|知ったのは、この事件の計画がなされる|ずっと前の話ですよね？=You knew that Alois was an executive of the CLN long before all this, didn’t you?
-えっ…？　ええ…３年ほど前、会長に|プログラムの技術を認めていただき、|計画立案から参加しています。\vＣＬＮとのつながりを知ったのは|参加直後…ですけど、それが何か？=Huh? I did... About three years ago, he became aware of my programming skills and had me involved in the planning.\vIt was just after I joined that I found out about his connection with the CLN. But, why does it matter?
+あなたが、アロイスがＣＬＮの幹部だと|知ったのは、この事件の計画がなされる|ずっと前の話ですよね？=You knew that Alois was an executive of the CLN long before all of this, didn’t you?
+えっ…？　ええ…３年ほど前、会長に|プログラムの技術を認めていただき、|計画立案から参加しています。\vＣＬＮとのつながりを知ったのは|参加直後…ですけど、それが何か？=Huh? Yes, I did... About three years ago, he became aware of my programming skills and got me involved in the planning.\vIt was just after I joined that I found out about his connection with the CLN.|But, why does it matter?
 いえ、特に意味はありません。|作業を続けてください。=No reason.|I won’t keep you from your work any longer.
 情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=Keyword added:|@fR“Jeffery Involved in Plan"@fW
 !FILE:dat_script.bin/file011_PACK2/file011.bin
@@ -1760,7 +1760,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=It looks like that didn’t work.|\tIsn’t there a hint anywhere?
 ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=It looks like that didn’t work.|\tHave you seen anything about how to use the hints anywhere?
 !FILE:dat_script_f09.bin/file005_PACK2/file006.bin
-@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous bombs ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and stay strong.
+@n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous traps ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and stay strong.
 !FILE:dat_script_f09.bin/file005_PACK2/file010.bin
 階段ホールへ移動します。|よろしいですか？=Move to the stairwell?
 !FILE:dat_script_f09.bin/file005_PACK2/file016.bin
@@ -1769,7 +1769,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 やはり扉にトラップが仕掛けられて|いますね…\t注意してください。=A booby trap, of course...\t|Be careful.
 これはあらかじめ仕掛けてあったもの|ではなく、急きょセットされたような|印象があります…\tということは…=I get the impression that this trap wasn’t prepared in advance, but was set in a hurry.\t Which means...
 !FILE:dat_script_f09.bin/file007_PACK2/file006.bin
-遅くなりましたが、|彼の情報をまとめました。\t|まだ必要ですかな？=It took me some time, but I have compiled his information.\t|Would you still like it?
+遅くなりましたが、|彼の情報をまとめました。\t|まだ必要ですかな？=It took me some time, but I have compiled the information.\t|Would you still like it?
 ええ…これから必要になりますよ。|きっと…=Yes... I’m sure it will play a key role going forward.
 ではまず１つ目を送ります。=Then, I shall send you the first paper.
 情報キーワード|@fR【ジェフリー・ミラー】@fW|を入手した。=Keyword added:|@fR“Jeffrey Miller"@fW
@@ -1810,7 +1810,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file015_PACK2/file012.bin
 積荷を調べた。=Examined sacks.
 !FILE:dat_script_f09.bin/file015_PACK2/file017.bin
-コンテナの隙間を調べた。=Examined the space between the containers.
+コンテナの隙間を調べた。=Examined the space between|the containers.
 !FILE:dat_script_f09.bin/file016_PACK2/file010.bin
 倉庫Ｅ=Cargo Hold E
 !FILE:dat_script_f09.bin/file017_PACK2/file006.bin
@@ -4001,7 +4001,7 @@ The @fRscrew@fW has been|fastened in tight.
 !FILE:dat_script_trapsmall.bin/file012_PACK2/file026.bin
 @fRネジ@fWだ。=The @fRscrews@fW have been|fastened in tightly.
 ネジだ。\vだいぶ緩められている。=The screws have been loosened.
-完全に外してしまうのは危険です。\t|この程度緩めるぐらいで|ちょうど良いと思います。=It would be unwise to remove them completely.\t It’s better to just loosen this much.#L
+完全に外してしまうのは危険です。\t|この程度緩めるぐらいで|ちょうど良いと思います。=It would be unwise to remove them completely.\t It’s better to just loosen them this much.#L
 @fRネジ@fWだ。\v２枚の板を固定するように|締められている。=The @fRscrews@fW have been|fastened in tightly.\vThey are securing the two panels together.
 !FILE:dat_script_trapsmall.bin/file012_PACK2/file030.bin
 ２色の@fRコード@fWだ。\v起爆装置と爆薬を繋いでいる。=There are two @fRcolored@fW wires.\vThey connect the detonator|to the explosive.
