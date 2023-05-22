@@ -1757,8 +1757,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 入力する=Input number
 入力しない=Don’t input number
 お見事です。|\t先を急ぎましょう。=Brilliant work.|\tLet’s keep going.
-ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=It looks like that didn’t work.|\tIsn’t there a hint anywhere?
-ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=It looks like that didn’t work.|\tHave you seen anything about how to use the hints anywhere?
+ハズレのようですね。|\t得られるヒントが何をさしているのか|分かれば簡単なはずですが……=It looks like that didn’t work.|\tThere must be a hint somewhere.
+ハズレのようですね。|\tどこかに入力に関する|ヒントがあるのではないでしょうか？=It looks like that didn’t work.|\tHave you seen anything about how to use the hints you’ve found?
 !FILE:dat_script_f09.bin/file005_PACK2/file006.bin
 @n0さん、聞いてください。\t|ハウスキーパーのワールドシリーズは|まだ続いています。\vおそらく、この先には数多くの爆弾が|仕掛けられているはずです。\v時間との戦いになりますが、|慌てず確実に進むしかありません。|がんばりましょう。=Wait, @n0.\t|The Housekeeper’s World Series isn’t over.\vThere are probably still numerous traps ahead.\vIt’s a race against time, but we can’t rush.|Keep a level head and stay strong.
 !FILE:dat_script_f09.bin/file005_PACK2/file010.bin
@@ -3146,100 +3146,105 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 外装を外した！=Removed the cover!
 中にはボタンの付いた装置が|入っていた。=Inside is a device with buttons.
 装置を外した！=Removed the device!
-筒状のパーツはボンベだったようだ。=The cylindrical part appears to be a gas cylinder.
+筒状のパーツはボンベだったようだ。=The cylindrical part appears|to be a gas cylinder.
 ボルトを外した！=Removed the bolt!
 ケースのフタが|開けられるようになった。=The lid of the case can now be opened.
 液体ケースのフタを開けた！=Removed the lid!
-ケースの中でガスと液体が|激しく反応している。=The gas is reacting violently with the liquid in the case.
+ケースの中でガスと液体が|激しく反応している。=The gas is reacting violently with|the liquid in the case.
 液体の中和に成功した！=Successfully neutralized the liquid!
 中の液体は安定しているようだ。=The liquid inside appears to be stable.
 液体ケースを外した！=Removed the case containing liquid!
 !FILE:dat_script_trapbig.bin/file010_PACK2/file011.bin
-外せそうなパーツは|この外装ぐらいでしょうか。\v外装に何かペンキのような物が|付着しています。|\tそちらも調べてみてください。=The only part that can be removed is this outer cover.\vThere is some kind of paint on it.|\tIt might be important.
+外せそうなパーツは|この外装ぐらいでしょうか。\v外装に何かペンキのような物が|付着しています。|\tそちらも調べてみてください。=The only part that can be removed is this outer cover.\vThere’s some kind of paint on it.|\tIt might be important.
 さほどしっかり固定されている|わけではありませんね。|\t簡単に外れます。=The cover isn’t being held on by anything special.\t It’ll come off easily.
 外装を外した！=Removed the cover!
 できる事は多くなさそうですね。|\tこのボタンの付いた装置を|外しましょう。=There’s not much you can do here.|\tTry to remove the device with the buttons on it.
 この装置は正しい順番で|ボタンを押すとロックが|解除されるようです。\vそしてその正しい順番とは、|先ほど外した外装についていた|ペンキの順です。=The device should unlock if the buttons are pressed in the correct order.\vOne can only assume that order is the order of the paint on the case you removed earlier.
 フタを開けられそうな気がしますが、|まずはそれを押さえている|ボルトから外しましょう。=You may be able to open the lid, but first we need to remove the bolt that’s keeping it in place.
-ボルトは形があうレンチがあれば|開ける事ができるでしょう。\vしかし焦って開けると|思わぬ罠が待っていそうです。\vまずはガスの元栓を閉めては|どうでしょうか。=If you have a wrench with the right shape, you should be able to unscrew the bolt.\vAlthough, it might be best to think before you act.\vWhat if you shut off the main gas valve first?
+ボルトは形があうレンチがあれば|開ける事ができるでしょう。\vしかし焦って開けると|思わぬ罠が待っていそうです。\vまずはガスの元栓を閉めては|どうでしょうか。=If you have a wrench with the right shape, you should be able to unscrew the bolt.\vThat said, it could be a trap. We need to be smart about this.\vWhat if you shut off the main gas valve first?
 下のケースを外すには|このフタを開ける必要があります。=To remove the lower case, you need to open the lid.
 ボルトはすでに外されているので|フタ自体を開けるのは|それほど難しくないでしょう。=Now that the bolt has been removed, the lid itself isn’t too difficult to open.
 ケースの中を見てください。|\tすでに注入されていた分のガスと|液体が激しく反応しています。\vこのままでは解除を進められません。|\t液体をなんとかして中和しましょう。=Look inside the case.|\tThe liquid is reacting violently with the gas that already got inside.\vWe can’t proceed in this state.|\tYou need to neutralize the liquid somehow.
 この状態ではうかつな事は|できませんね。\v化学反応を中和するための物が|あると良いのですが。=We can’t afford to make any mistakes here.\vDo you have something to neutralize the liquid with?
-中和をしたとはいえ、|このまま放っておくわけにも|いきません。\vボンベと液体ケースは|分離しておきましょう。=The liquid might be neutralized now, but we can’t just leave it like this.\vLet’s separate the cylinder and the case containing the liquid.
+中和をしたとはいえ、|このまま放っておくわけにも|いきません。\vボンベと液体ケースは|分離しておきましょう。=The liquid might be neutralized now, but we can’t just leave it like this.\vLet’s separate the gas cylinder and the case containing the liquid.
 中の金具がケースを固定して|いるようですね。\v丁寧に外せば|特に問題はおきないでしょう。=It looks like the metal fitting is holding the case in place.\vAs long as you remove it with care, there shouldn’t be any problems.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file013.bin
 外装の継ぎ目に張られたテープだ。\v切れ目が入れられている。=Tape is stuck around the edges.\vIt has been cut.
 外装の継ぎ目に張られた@fRテープ@fWだ。=@fRTape@fW has been stuck|around the edges.
 テープに切れ目を入れた。=Made a cut in the tape.
+!FILE:dat_script_trapbig.bin/file010_PACK2/file017.bin
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
+!FILE:dat_script_trapbig.bin/file010_PACK2/file018.bin
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file019.bin
 爆弾を覆っている外装だ。=A cover has been attached to the bomb.
-爆弾を覆っている外装だ。\vテープやネジで固定されている。\vケースとの間のスキマが|こじ開けられている。=A cover has been attached to the bomb.\vIt is secured with tape and screws.\vThe gap between it and|the part underneath has been widened.
-爆弾を覆っている外装だ。\vテープやネジで固定されている。\v下のケースとの間に|@fRスキマ@fWがあるようだ。=A cover has been attached to the bomb.\vIt is secured with tape and screws.\vThere is a @fRgap@fW between it and the part underneath.
+爆弾を覆っている外装だ。\vテープやネジで固定されている。\vケースとの間のスキマが|こじ開けられている。=A cover has been attached to the bomb.\vIt is secured with tape and screws.\vThe gap between it and the part|underneath has been widened.
+爆弾を覆っている外装だ。\vテープやネジで固定されている。\v下のケースとの間に|@fRスキマ@fWがあるようだ。=A cover has been attached to the bomb.\vIt is secured with tape and screws.\vThere is a @fRgap@fW between it and|the part underneath.
 表面のペンキ跡は何でしょうか。|\t何か意味がありそうです。\v白、緑、黄、青、赤、黒。|\t念のためこの並びを|覚えておいてください。=What are these paint marks?|\tThey must have some significance.\vWhite, green, yellow, blue, red, black.|\tRemember this sequence just in case.
 外装のスキマをこじ開けた。=Pried open the gap.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file020.bin
 装置についているボタンだ。=Buttons are attached to the device.
-装置についているボタンだ。\vロックが解除されたので|もう押す必要はなさそうだ。=Buttons are attached to the device.\vIt has already been unlocked, so there’s no reason to press them.
+装置についているボタンだ。\vロックが解除されたので|もう押す必要はなさそうだ。=Buttons are attached to the device.\vIt has already been unlocked, so there’s|no reason to press them.
 このボタンの色、|先ほど外した外装のペンキと|同じ色ですね。\vただ、並び順が少し|違うようですが…=The color of these buttons is the same as the paint on the case that you just removed.\vBut the order is a little different...
 ロックが解除された。=Released the lock.
 間違えてしまったようです。|もう一度やり直してみてください。=I guess that wasn’t right.|Give it another try.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file026.bin
 装置についている液晶だ。=An LCD is attached to the device.
-装置についている液晶だ。\vロックが解除された表示が|出ている。=An LCD is attached to the device.\vThe display shows that the lock has been released.
-装置についている液晶だ。\vロックの表示が出ている。=An LCD is attached to the device.\vThe display shows that the devise is locked.
+装置についている液晶だ。\vロックが解除された表示が|出ている。=An LCD is attached to the device.\vThe display shows that the|lock has been released.
+装置についている液晶だ。\vロックの表示が出ている。=An LCD is attached to the device.\vThe display shows that the device is locked.
 装置を外すにはこのロックを|解除する必要があるようですね。=It seems we’ll need to unlock it before you can remove the device.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file028.bin
 ボタンと液晶の付いた装置だ。\v何かロックのようなものが|かかっている。=A device with buttons and an LCD.\vIt appears to be locked.
-ボタンと液晶の付いた装置だ。\vロックは解除されており、|簡単に外れそうだ。=A device with buttons and an LCD.\vThe lock has been released, and its ready to be removed.
+ボタンと液晶の付いた装置だ。\vロックは解除されており、|簡単に外れそうだ。=A device with buttons and an LCD.\vThe lock has been released,|so it’s ready to be removed.
 ロックを解除するために、|何かをしなければならないようです。\v下についているボタンが|関係ありそうですね。=It looks like you’ll have to do something to unlock it.\vThe row of buttons must be related.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file029.bin
 ボンベのパイプについている穴だ。=There is a hole in the pipe.
 ボンベの元栓だ。\v今は閉められている。=The main valve.\vIt has been shut.
-位置からすると、|ボンベの元栓に当たる場所|のような感じです。\v何か元栓を締める物は|持っていませんか？=Judging by the position, this must the valve for the cylinder.\vDo you have anything that you could use to tighten it?
+位置からすると、|ボンベの元栓に当たる場所|のような感じです。\v何か元栓を締める物は|持っていませんか？=Judging by the position, this must be the valve for the cylinder.\vDo you have anything that you could use to close it?
 ボンベの元栓だ。|今は閉められている。=The cylinder’s valve.\vIt has been shut.
 一応言っておきますが、|元栓を開けたりしないでくださいね。\vこれ以上液体にガスを混ぜると|爆発する恐れがあります。=I’m sure this goes without saying, but don’t open the valve.\vIf any more gas is allowed to mix with the liquid, it could trigger an explosion.
 あえて元栓を開ける=Open the valve anyway
 元栓を開けない=Don’t open the valve
-パイプについた穴に|ボンベの栓をはめ込み、|元栓を閉めた。=Fit the handwheel into the hole in the pipe and closed the valve.
+パイプについた穴に|ボンベの栓をはめ込み、|元栓を閉めた。=Fit the handwheel into the hole in|the pipe and closed the valve.
 これでガスの注入は止まります。|ある程度、危険は遠ざかったと|思います。=That should stop any gas flow.|To a certain extent, the danger has been removed.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file030.bin
 筒状のパーツだ。=A cylindrical part.
 筒状のパーツだ。\vテープで外装と固定されている。=A cylindrical part.\vIt is being held in place by tape.
-筒を曲げたような形ですね。|\tどんな役割のものなのか、|結論を出すには情報が足りません。=It looks like a tube.|\tWe don’t know enough about the trap to work out what it could be for.
+筒を曲げたような形ですね。|\tどんな役割のものなのか、|結論を出すには情報が足りません。=It looks like a tube.|\tWe don’t know enough about the trap to work out what it’s for yet.
 ガスの入ったボンベだ。=A gas cylinder.
 この中のガスが下のケースの|液体と反応して爆発するようです。=If the gas in here was allowed to react with the liquid in the case below, the whole thing would go boom.
-ガスの入ったボンベだ。\v中央のパイプで|下のケースと繋がっている。=A gas cylinder.\vIt is connected to the case below by a central pipe.
-どうやら左右のパーツと|中央のパーツは別の物ですね。\v中央のパーツはガスボンベ、|左右のパーツはフレームでしょうか。=The part in the center appears to be different to the pieces on the sides.\vIf we assume the central part is the gas cylinder, then the side pieces must be a frame.
+ガスの入ったボンベだ。\v中央のパイプで|下のケースと繋がっている。=A gas cylinder.\vIt is connected to the case below|by a central pipe.
+どうやら左右のパーツと|中央のパーツは別の物ですね。\v中央のパーツはガスボンベ、|左右のパーツはフレームでしょうか。=The brown part in the middle appears to be different to the structures on each side.\vIf we assume that the brown part is the gas cylinder, then the side parts must be a supporting frame.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file031.bin
 ボンベを支えているフレームだ。\v左右についている。=The frame supports the cylinder.\vIt is connected on both sides.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file033.bin
 特殊な形のボルトだ。\vフタを塞ぐように閉められている。=A uniquely shaped bolt.\vIt is keeping the lid shut.
 そろそろこのボルトを外す時です。|\t元栓も閉めてあるし、安全でしょう。=It’s time to remove this bolt.|\tThe valve has been closed so it should be safe.
-見た事の無い形のボルトです。|\t外すための専用のアイテムが|ありそうですね。\vしかし気をつけてください、|このフタは安易に開けると|大変危険な感じがします。\v他にできる事を先にやった方が|いいかもしれません。=I’ve never seen a bolt this shape before.|\tYou might need a special item to remove it.\vYou must be careful though, that lid doesn’t look like something you should open blindly.\vIt might be better to see what else you can do first.
-特殊レンチを使った。=Used Unique Wrench.
+見た事の無い形のボルトです。|\t外すための専用のアイテムが|ありそうですね。\vしかし気をつけてください、|このフタは安易に開けると|大変危険な感じがします。\v他にできる事を先にやった方が|いいかもしれません。=I’ve never seen a bolt this shape before.|\tYou might need a special item to remove it.\vYou should be careful though, that lid doesn’t look like something you should open blindly.\vIt might be better to see what else you can do first.
+特殊レンチを使った。=Used the Unique Wrench.
 特殊ボルトを外した。=Removed the uniquely shaped bolt.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file034.bin
 液体ケースの上部についたフタだ。=The lid of the case containing liquid.
-液体ケースの上部についたフタだ。\v押さえていたボルトは|外されている。=The lid of the case containing liquid.\vThe bolt which was holding it in place has been removed.
+液体ケースの上部についたフタだ。\v押さえていたボルトは|外されている。=The lid of the case containing liquid.\vThe bolt which was holding it in place|has been removed.
 液体ケースの上部についたフタだ。\v特殊な形のボルトが|フタを押さえる形になっている。=The lid of the case containing liquid.\vA uniquely shaped bolt is holding it in place.
 スキマは十分に広がりましたね。|\tこれで開けやすくなりました。=That gap should be wide enough.|\tThat’ll make it a lot easier to take off.
 フタに@fRスキマ@fWが見えますね。|\tこじ開けられそうです。=I can see a @fRgap@fW around the edge.|\tI think you could try to pry it open.
 フタを叩いた。\v中の液体が衝撃に反応している！=Hit the lid.\vThe impact caused the liquid inside to react!
+フタのスキマをこじ開けた。=Widened the gap in the lid.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file036.bin
-ボンベと液体ケースを繋ぐパイプだ。=A pipe connecting the gas cylinder to the case containing liquid.
-ボンベと液体ケースを繋ぐパイプだ。\v元栓が閉められていて、|ガスを送る役目は果たしていない。=A pipe connecting the gas cylinder to the case containing liquid.\vThe valve has been closed so it can no longer deliver gas.
-ボンベと液体ケースを繋ぐパイプだ。\vボンベの根元付近に|穴の開いたパーツがついている。=A pipe connecting the gas cylinder to the case containing liquid.\vThere is a hole in the pipe near the base of the cylinder.
+ボンベと液体ケースを繋ぐパイプだ。=A pipe connecting the gas cylinder|to the case containing liquid.
+ボンベと液体ケースを繋ぐパイプだ。\v元栓が閉められていて、|ガスを送る役目は果たしていない。=A pipe connecting the gas cylinder|to the case containing liquid.\vThe valve has been closed so it|can no longer deliver gas.
+ボンベと液体ケースを繋ぐパイプだ。\vボンベの根元付近に|穴の開いたパーツがついている。=A pipe connecting the gas cylinder|to the case containing liquid.\vThere is a hole in the pipe near|the base of the cylinder.
 今ならフタを開けても|安全そうです。=It should be safe to open the lid now.
-ボンベと液体ケースを繋ぐパイプだ。\vつけ根からガスが漏れていたが、|絶縁テープで応急処置が|施されている。=A pipe connecting the gas cylinder to the case containing liquid.\vGas was leaking from the base, but it has been patched up with tape.
+ボンベと液体ケースを繋ぐパイプだ。\vつけ根からガスが漏れていたが、|絶縁テープで応急処置が|施されている。=A pipe connecting the gas cylinder|to the case containing liquid.\vGas was leaking from the base, but it|has been patched up with tape.
 ガスはしっかり止まったようですね。=That seems to be working well.
-ボンベと液体ケースを繋ぐパイプだ。\v金具を叩いた衝撃で、|つけ根の部分から|ガスが漏れている。=A pipe connecting the gas cylinder to the case containing liquid.\vThe impact of striking the fitting has caused gas to leak from the bottom.
+ボンベと液体ケースを繋ぐパイプだ。\v金具を叩いた衝撃で、|つけ根の部分から|ガスが漏れている。=A pipe connecting the gas cylinder|to the case containing liquid.\vThe impact of striking the fitting has caused gas to leak from the bottom.
 いけませんね、何か|@fR穴を塞げる物@fWはありませんか？=Not good. Do you have anything you could use to @fRplug the leak@fW?
-ガスが漏れている部分を塞いだ。\vガス漏れが止まったようだ。=Plugged the area where gas was escaping.\vThe gas leak seems to have stopped.
+ガスが漏れている部分を塞いだ。\vガス漏れが止まったようだ。=Plugged the area where gas was escaping.\vThe leak seems to have stopped.
 !FILE:dat_script_trapbig.bin/file010_PACK2/file038.bin
 ボンベからのびているチューブだ。=A tube extends from the cylinder.
-ボンベからのびているチューブだ。\vパイプと液体ケースを|繋いでいるように見える。=A tube extends from the cylinder.\vIt appears to connect the pipe to the case containing liquid.
-パイプで繋がっているのに、|何故このチューブがあるのでしょう。\v罠の気配がします。|\tこのチューブは触れない方が|良いでしょう。=The cylinder already connected by pipe, so what’s this tube for?\vIt must be a trap.|\tI suggest you don’t touch it.
+ボンベからのびているチューブだ。\vパイプと液体ケースを|繋いでいるように見える。=A tube extends from the cylinder.\vIt appears to connect the pipe|to the case containing liquid.
+パイプで繋がっているのに、|何故このチューブがあるのでしょう。\v罠の気配がします。|\tこのチューブは触れない方が|良いでしょう。=The cylinder is already connected by pipe, so what’s this tube for?\vIt must be a trap.|\tI suggest you don’t touch it.
 元栓は閉めましたし、|このチューブも無力化しています。|\t邪魔なら@fR切断@fWしてもいいでしょう。=We’ve closed the valve, so this tube no longer serves any purpose.\t You can @fRdisconnect@fW it if it’s in the way.
 チューブにかまっている場合では|ありませんよ。=This tube is not of interest to us.
 ボンベのチューブを切断した。=Cut the tube.
@@ -3247,30 +3252,30 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 液体ケースの中にある金具だ。\vパイプの先についている。=There is a fitting inside the case.\vIt is attached to the end of the pipe.
 いまはそれどころではありません。|\t液体を中和するのが先です。=Now’s not the time for this.|\tWe need to neutralize the liquid first.
 液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているが、|だいぶ緩んでいる。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt holds the pipe to the case,|but it has become loose.
-液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているようだ。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt looks like it’s holding the case and pipe together.
-何か軽く@fR衝撃@fWを与えてみては|どうでしょうか。|\t緩むかもしれません。=What if you tried @fRhitting@fW it with something? |\tIt might come loose.
+液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているようだ。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt looks like it’s holding|the case and pipe together.
+何か軽く@fR衝撃@fWを与えてみては|どうでしょうか。|\t緩むかもしれません。=What if you tried @fRhitting@fW it with something? \tIt might come loose.
 金具を叩く事で|金具が緩んだようだ。=Loosened the fitting.
 金具を叩いた衝撃で|パイプからガスが|漏れ出した！=The impact caused gas|to leak out of the pipe!
 !FILE:dat_script_trapbig.bin/file010_PACK2/file040.bin
 液体の入ったケースだ。=A case containing liquid.
 液体の入ったケースだ。\v小窓から中の液体が見える。=A case containing liquid.\vThe liquid inside is visible|through a small window.
-この液体は…|\t今の段階では、何もわかりませんね。|\t一応、注意はしておきましょう。=That liquid...\t It’s too early to tell at this stage what it is.|\tWe should be careful.
+この液体は…|\t今の段階では、何もわかりませんね。|\t一応、注意はしておきましょう。=That liquid...\t It’s too early to tell what it’s for.|\tWe should be careful.
 爆弾の正体が見えてきました。\v上のボンベからガスが送られ、|ケースの液体と反応して|爆発する仕組みのようです。=I understand how the bomb works now.\vIt seems to be a mechanism whereby gas is sent from the top cylinder and reacts with the liquid in the case, causing it to explode.
-液体の入ったケースだ。\v小窓から中の液体が見える。\vケースは冷却されているが、|まだ少し暖かい。=A case containing liquid.\vThe liquid inside is visible through a small window.\vThe case has been cooled, but still retains some heat.
+液体の入ったケースだ。\v小窓から中の液体が見える。\vケースは冷却されているが、|まだ少し暖かい。=A case containing liquid.\vThe liquid inside is visible|through a small window.\vThe case has been cooled down,|but still retains some heat.
 油断は禁物です。|\tくれぐれも@fR衝撃@fWを与えないように。=We can’t let our guard down.|\tPlease be very careful not to @fRknock@fW it.
 すでにいくらかのガスが|液体を反応しているようです。\vケースが@fR発熱@fWして|膨張しています。=It appears that some gas has already reacted with the liquid...\vThe case is @fRheating up@fW and expanding.
 液体の入ったケースだ。|\v中でガスと液体が化学反応を|起こしている。=A case containing liquid.\vA chemical reaction is occurring between the gas and liquid inside.#dupe
-液体の入ったケースだ。\v液体が中和されて、|落ち着いた状態になっている。=A case containing liquid.\vThe liquid has been neutralized and is no longer reacting.#dupe
+液体の入ったケースだ。\v液体が中和されて、|落ち着いた状態になっている。=A case containing liquid.\vThe liquid has been neutralized|and is no longer reacting.#dupe
 この状態なら解除を|進められそうです。=Now we can continue with disarming the trap.
 液体の入ったケースだ。\v中でガスと液体が化学反応を|起こしている。=A case containing liquid.\vA chemical reaction is occurring between the gas and liquid inside.#dupe
-このままでは危険です。|\t何か@fR中和@fWするための物を|持っていませんか？=We can’t leave it like this.|\tDo you have anything to @fRneutralize@fW it with?
-液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で発熱している。=A case containing liquid.\vThe liquid has been neutralized and is stable, but the neutralization process has let off heat.#dupe
+このままでは危険です。|\t何か@fR中和@fWするための物を|持っていませんか？=We can’t leave it like this.|\tDo you have anything to @fRneutralize@fW the liquid with?
+液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で発熱している。=A case containing liquid.\vThe liquid has been neutralized and is stable, but the neutralization process|has let off heat.#dupe
 今のままでは元栓を開ければ、|ガスを追加できてしまいます。\v万全を期すため、|ケースを外しましょう。=If you opened the valve now, the gas would react.\vTo be on the safe side, we should completely remove the case.
 液体の入ったケースだ。|\v液体が中和されて、|落ち着いた状態になっている。=A case containing liquid.\vThe liquid has been neutralized|and is no longer reacting.#dupe
-液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で@fR発熱@fWしている。=A case containing liquid.\vThe liquid has been neutralized and is stable, but the neutralization process has let off @fRheat@fW.#dupe
+液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で@fR発熱@fWしている。=A case containing liquid.\vThe liquid has been neutralized and is stable, but the neutralization process|has let off @fRheat@fW.#dupe
 ケースを叩いた。\v中の液体が衝撃に反応している！=Hit the case.\vThe impact caused the liquid inside to react!
 ケースを冷やした。=Cooled the case.
-液体のケースに、|中和剤を入れた。\v化学反応を起こしていた液体が|徐々に落ち着いてきた。=Poured the Neutralizer into the case.\vThe chemical reaction gradually calmed down.
+液体のケースに、|中和剤を入れた。\v化学反応を起こしていた液体が|徐々に落ち着いてきた。=Poured the Neutralizer into the case.\vThe chemical reaction gradually|calmed down.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file010.bin
 起爆装置のフタを開けた！=Opened the lid of the detonator!
 中には３つのくぼみがあった。=There are three sockets inside.
