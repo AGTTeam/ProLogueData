@@ -57,7 +57,7 @@
 誘拐された難民たち=Kidnapped Refugees
 豪華客船グラナダ号=The Granada
 風景からの位置特定=Landscape Location
-ジェフリー・ミラー=Jeffery Miller
+ジェフリー・ミラー=Jeffrey Miller
 殺傷能力の低い爆薬=Nonlethal Explosives
 トラップの分析結果=Analysis of Traps
 ベーブ・ルース２世=Babe Ruth II
@@ -81,7 +81,7 @@
 ハウスキーパーの生い立ち=Housekeeper’s History
 Ｊのプロファイリング結果=J’s Profile
 法則性のないトラップ構造=Inconsistent Designs
-ジェフリーの計画参加時期=Jeffery Involved in Plan
+ジェフリーの計画参加時期=Jeffrey Involved in Plan
 スタッフルームの荒れ具合=Grotty Staff Room
 脱出ゲームの制限時間は？=Time Limit to Escape
 ２階フロアとまったく同じ。=>>It matches the 2nd floor.

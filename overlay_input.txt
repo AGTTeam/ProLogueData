@@ -531,7 +531,7 @@
 殺傷能力の低い爆薬=Nonlethal Explosives
 誘拐された難民たち=Kidnapped Refugees
 ６階の壁の日焼け跡=6th Floor Damaged Wall#debug only
-ジェフリー・ミラー=Jeffery Miller
+ジェフリー・ミラー=Jeffrey Miller
 トラップの分析結果=Analysis of Traps
 風景からの位置特定=Landscape Location
 アロイス・ベイトソン=Alois Bateson
@@ -547,7 +547,7 @@
 環境を利用したトラップ=Inventive Traps
 ハウスキーパーの積極性=Being Proactive
 ハウスキーパーの依頼人=The Client
-ジェフリーの計画参加時期=Jeffery Involved in Plan
+ジェフリーの計画参加時期=Jeffrey Involved in Plan
 ハウスキーパーの生い立ち=Housekeeper’s History
 Ｊのプロファイリング結果=J’s Profile
 法則性のないトラップ構造=Inconsistent Trap Designs

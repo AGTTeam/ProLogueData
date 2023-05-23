@@ -1,5 +1,5 @@
 !FILE:dat_script.bin/file001_PACK2/file006.bin
-うぐっ……！\t|ジェ、ジェフリー…貴様…=Ugk--!\t|J-Jeffery, you bastard--!
+うぐっ……！\t|ジェ、ジェフリー…貴様…=Ugk--!\t|J-Jeffrey, you bastard--!
 …や、やったのか…=...I-I did it...
 @n0さん、ジェフリー、喜ぶのは|まだ早い！\t|さあ、船を停めるんです！=@n0, Jeffrey, it’s too early to|celebrate just yet.\t You need to stop the ship!
 停まった…|エンジンの爆発ももう心配ありません。=You’ve done it... Now we don’t have to worry about the engines exploding anymore either.
@@ -10,7 +10,7 @@
 アロイスは逮捕され、|ＣＬＮ自体も社会的に壊滅した。\v──そして後日。=Alois was arrested and the CLN collapsed.\vSome time later...
 @n1、今日、Ｌからこれが届いた。\t|君宛てだ。=@n2, this came for you.\t|It’s from L.#Raye
 @n1、今日、Ｌからこれが|届いたわ。\tあなた宛てよ。=@n2, a message arrived from L.\t|It’s addressed to you.#Naomi
-@n0さん、おひさしぶりです。\t|その後、お体の具合はいかがですか？\vこのたび連絡を差し上げたのは、|あの事件の時、伝え忘れたことがあった|のを思い出したからです。\vあの事件は世界中でセンセーショナルに|報道がなされ、ＣＬＮやリブート社の|悪事が日々暴かれています。\vアロイスやハウスキーパー…そして、|ジェフリーの素性や生い立ちを取り上げ|ている。まるでＴＶショーのように…\vしかし、あの事件が起きてしまった|最大の原因…事件の裏にある『叫び』に|誰も耳を貸そうとしていません…\vそう、その叫びとは…=Hello again, @n0.\t|How have you been?\vI’m contacting you because I remembered something I forgot to mention the last time we spoke.\vAfter the news broke about the incident, there has been worldwide interest in the case. New information about wrongdoings of the CLN and Reboot Inc. is being discovered daily.\vAlois, the Housekeeper and even Jeffery’s identity and history are being covered.|It’s like they’ve become celebrities...\vBut no one has been paying any attention to the real reason why the whole thing happened...\vThat voice crying out...
+@n0さん、おひさしぶりです。\t|その後、お体の具合はいかがですか？\vこのたび連絡を差し上げたのは、|あの事件の時、伝え忘れたことがあった|のを思い出したからです。\vあの事件は世界中でセンセーショナルに|報道がなされ、ＣＬＮやリブート社の|悪事が日々暴かれています。\vアロイスやハウスキーパー…そして、|ジェフリーの素性や生い立ちを取り上げ|ている。まるでＴＶショーのように…\vしかし、あの事件が起きてしまった|最大の原因…事件の裏にある『叫び』に|誰も耳を貸そうとしていません…\vそう、その叫びとは…=Hello again, @n0.\t|How have you been?\vI’m contacting you because I remembered something I forgot to mention the last time we spoke.\vAfter the news broke about the incident, there has been worldwide interest in the case. New information about wrongdoings of the CLN and Reboot Inc. is being discovered daily.\vAlois, the Housekeeper and even Jeffrey’s identity and history are being covered.|It’s like they’ve become celebrities...\vBut no one has been paying any attention to the real reason why the whole thing happened...\vThat voice crying out...
 ……Ｌ、私はこの事件に関わったことを|後悔していない…\tなぜなら、あなたと|話をする機会を得られたからです…=...I don’t regret being involved in this case.\t After all, it gave me a chance to talk to you, L.
 …………？=...?
 あなたに指摘されたように、私は戦争で|家族も故郷も未来も奪われてしまった。\t|私は戦争が憎い…\v今回の件で、ＣＬＮを壊滅に追い込める|かもしれませんが、世界中で紛争は今も|続いています…\v憎しみや悲しみを生み出す戦争なんて|この地上からなくなってしまえばいい。\t|あなたもそう思いませんか？=As you said, it was war that took away my family, my home and even my future.\t|I hate war...\vWhat happened here might be enough to destroy the CLN, but it won’t stop the conflicts taking place all around the world.\vWar only creates suffering and sadness. Something like that shouldn’t exist in this world.\t Don’t you agree?
@@ -43,7 +43,7 @@
 くそっ、どうして気づけなかったんだ！=Damn it, why didn’t I realize sooner!?
 嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|ジェフリーとハウスキーパーを連れて|脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n0! Take Jeffrey and the|Housekeeper and get out of there!
 大惨事は免れたが、グラナダ号は爆沈し|証拠は海の藻屑と消えた…=The worst-case scenario was averted, but the Granada self-imploded and the evidence was lost to the sea...
-逮捕されたジェフリーの証言から、|アロイスとリブート社が徹底捜査された|が、今回の事件にＣＬＮが関与している|という証拠は見つからなかった。=Jeffery was arrested, and his testimony prompted a thorough investigation of Alois and Reboot Inc., but no evidence of the CLN’s involvement was found.
+逮捕されたジェフリーの証言から、|アロイスとリブート社が徹底捜査された|が、今回の事件にＣＬＮが関与している|という証拠は見つからなかった。=Jeffrey was arrested, and his testimony prompted a thorough investigation of Alois and Reboot Inc., but no evidence of the CLN’s involvement was found.
 ハウスキーパーは黙秘を続けていたが、|逮捕から１週間後、刑務所内で何者かに|襲われ、死亡した。=The Housekeeper ultimately refused to speak, but a week after his arrest, he was attacked and killed in prison.
 事件の真相は明かされないまま、|『グラナダ号』事件は終わった…=The Granada case came to an end without the truth ever coming to light...
 !FILE:dat_script.bin/file001_PACK2/file009.bin
@@ -113,9 +113,9 @@
 …犯罪者に同類扱いされるのは|非常に不愉快です。=It is very unpleasant to be made to play games with a criminal.
 Ｊ…\tいや、ジェフリーは|自分は『計画の責任者』だと|言いましたね……=J... no, Jeffrey said he was “in charge of the plan”, hm...
 では、次のフロアに向かいましょう。=Let's head to the next floor.
-ジェフリーの陰に隠れていた|ハウスキーパーを引きずり出せたのは|大きな収穫です。=I’d say that was a good catch, dragging the Housekeeper out from Jeffery’s shadow.
+ジェフリーの陰に隠れていた|ハウスキーパーを引きずり出せたのは|大きな収穫です。=I’d say that was a good catch, dragging the Housekeeper out from Jeffrey’s shadow.
 乱雑な場所は何度か調べてください。\t|一度調べただけではわからない|発見があるかもしれません。=Examine cluttered areas several times.\t|You may discover something new that you didn’t spot the first time.
-ハウスキーパーは、ジェフリーほど|簡単にボロを出しては|くれないでしょう。\tしかし……=The Housekeeper won’t be as easy to pin down as Jeffery.\t Although...
+ハウスキーパーは、ジェフリーほど|簡単にボロを出しては|くれないでしょう。\tしかし……=The Housekeeper won’t be as easy to pin down as Jeffrey.\t Although...
 今まで決して表には出てこなかった|ハウスキーパーが、|なぜ今回に限って……？=Why is it that the Housekeeper, who has never shown his face before, has appeared now...?
 調査が行き詰まった時には、|以前手に入れたアイテムが|役に立つかもしれませんよ。=If your investigation comes to a standstill, look in your inventory. Something you picked up earlier might come in handy.
 ハウスキーパーは、我々の動きを|ずいぶん気にしていますね……=The Housekeeper seems quite concerned with our movements.
@@ -181,7 +181,7 @@
 船を無事停められれば|アロイスを逮捕できます。\tこの船自体が|彼の犯罪の証拠ですから。=This ship is vital evidence.\t If we can stop it safely, we’ll have enough to arrest Alois. 
 この船の航行システムは|ジェフリーの手によるもの…\t|当然、疑ってかかるべきだ……=The ship’s navigation system was designed by Jeffrey...\t|That doesn’t rule it out of suspicion.
 ハウスキーパーも協力してくれとは|言いませんが、せめて私との勝負は|中止して欲しいものです……=I’m not asking the Housekeeper to cooperate, but I would have at least liked him to stop playing games with me.
-これで、ジェフリーも|本気で協力してくれるでしょう。\t|あと一息です。=This time, we have Jeffery’s full support.\t|We’re nearly there.
+これで、ジェフリーも|本気で協力してくれるでしょう。\t|あと一息です。=This time, we have Jeffrey’s full support.\t|We’re nearly there.
 ハウスキーパーとも、そろそろ|決着をつける時か……=It’s time to settle things with the Housekeeper.
 …行きましょう、@n0さん。\t|私も全力でフォローします。=...Let’s go, @n0.\t|I’ll do my best to support you.
 ここが最後のフロアです。\t|……よろしくお願いします。=This is the last floor.\t|...I’m counting on you.
@@ -338,7 +338,7 @@
 ハウスキーパー、計画の責任者は私だ。\t|よけいな事は…=Housekeeper, I’m the one in charge of the plan.\t|Don’t do anything rash...
 よけいな事だと？|おまえみたいにオドオドやってたら|Ｌにつけ込まれるだけだ。\v傷口が広がる前にピッチャー交代だ。|おまえは引っ込んで、コンピュータの|お守りでもしてろ。=Rash? If you keep acting like such a coward, L will only take advantage.\vWe’re just changing pitchers before he has a chance to hit a home run.\t You should go back to babysitting the computer.
 くっ……=Ngh...
-Ｌ、ジェフリーと俺はひと味もふた味も|違うぜ…\tエースで４番の俺はな。=Just so you know, I do things a little differently to Jeffery.\t I’m the MVP here.#qc baseball reference.
+Ｌ、ジェフリーと俺はひと味もふた味も|違うぜ…\tエースで４番の俺はな。=Just so you know, I do things a little differently to Jeffrey.\t I’m the MVP here.#qc baseball reference.
 たいした自信ですね…=You certainly seem confident.
 Ｌ、おまえは人の思考と行動を読み|推理する。\t俺も同じさ。\t|人の行動の先に罠をかける。\vここからは、俺が直接勝負してやる。\t|ベースボールのようなスリリングな|ゲームを味わわせてやるよ。\vまだまだ、試合は始まったばかり。\t|面白いゲームにしようじゃないか。=You read people’s thoughts and predict their movements.\t I can do the same.\vI trap them before they’ve even made their next move.\vFrom here on, I’m going to face you myself.\t I’ll show you the thrill playing for the big leagues.\vThe fun is just getting started.\t|It’ll be a game to die for.
 おもしろい犯罪なんてありませんよ。\t|特に、私の前ではね…=Crime never pays off.\t|I’ll make sure of it...
@@ -347,7 +347,7 @@
 聞き捨ててもらっては困りますよ。\t|私は、私とＦＢＩへの復讐としては|正しくない…と言ったんです。=I’d rather you didn’t, either.\t|Like I said, as revenge against myself and the FBI, this is wrong.
 何が言いたい！？=What are you trying to suggest!?
 今回の@n0さん誘拐事件の目的は|私とＦＢＩへの復讐ではありません。\t|目的は他のところにあります。=The reason @n0 was kidnapped was not about getting revenge on us. There’s some other motive.
-そんなことはない！\t|ジェフリーのヤツが言っていただろう？|忘れたのか！=You’re way off the mark there!\t|Didn’t Jeffery already tell you?|Don’t tell me you forgot?!
+そんなことはない！\t|ジェフリーのヤツが言っていただろう？|忘れたのか！=You’re way off the mark there!\t|Didn’t Jeffrey already tell you?|Don’t tell me you forgot?!
 覚えていますよ。\t|しかし、それは表向きの理由で、|本当の目的は別にあります。=I remember.\t|But that is only the alleged reason.|The true reason lies elsewhere.
 な、なんだと！\t|だったらそれを説明してみせろ！=W-What!?\t|Explain yourself!
 !FILE:dat_script.bin/file006_PACK2/file007.bin
@@ -409,7 +409,7 @@
 ええ、見えました。\t|この大掛かりで、あまりにも単純な|トラップボックスのからくりが──=Yes, it’s all quite clear to me.\t|I see what’s going on with this huge, incredibly simple “trap box”.
 言ってくれるじゃねえか。\t|だったら、そのからくりとは何だ！=You don’t say.\t|Go on then, reveal the trick!
 @n0さんのいるトラップボックスは|ホテルの中ではありませんね。=The trap box that @n0 is in, isn’t|a hotel, is it?
-だったら、どこだというんだ？\t|ジェフリーのようにハッタリで落とせる|ほど、俺は甘くないぜ！=Then, where is it?\t|If you think I’ll just fall for your bluffs like Jeffery, then you’re as dumb as him!
+だったら、どこだというんだ？\t|ジェフリーのようにハッタリで落とせる|ほど、俺は甘くないぜ！=Then, where is it?\t|If you think I’ll just fall for your bluffs like Jeffrey, then you’re as dumb as him!
 いいでしょう、説明して差し上げます。=Alright then, allow me to explain.
 !FILE:dat_script.bin/file008_PACK2/file007.bin
 @n0さん、そろそろここが|『ホテル』ではなく何なのか、|確かめに行きましょう。\v今、解除したトラップに使用されていた|爆弾を使わせてもらいますが、異論は|ありませんね、ハウスキーパー？=@n0, I believe it’s time you see for|yourself what this place actually is.\vI’d like to use the bomb from the trap we just disarmed. You’ve no objections, do you, Housekeeper?
@@ -432,7 +432,7 @@
 私が『糸』を切ってあげますよ。=I’ll cut those “strings” for you.
 !FILE:dat_script.bin/file009_PACK2/file007.bin
 わ、私はただの監視役で…\t|それ以上のことは何も…=I-I’m just an observer.\t|I don’t know anything...
-ジェフリー、もういい。\t|初めまして、Ｌ。=It’s fine, Jeffery.\t|Nice to meet you, L.
+ジェフリー、もういい。\t|初めまして、Ｌ。=It’s fine, Jeffrey.\t|Nice to meet you, L.
 あなたがこの事件の首謀者なのですね？=I take it that you’re the mastermind behind this, then?
 ああ…\tとりあえずＡと名乗っておこう。=That’s right.\t You can call me A.
 このゲームへの参加を感謝する。|モルモットのＬ君…=I appreciate your participation in this game. You make for a wonderful guinea pig.
@@ -448,7 +448,7 @@
 まあ、好きにしたまえ。\t|ジェフリー、後は予定通りに処理しろ。=Well, suit yourself.\t|Jeffrey, just make sure things stay on schedule.
 わ、わかりました、会長…=Y-Yes, sir.
 予定通りの処理…\t気になりますね。|まだ何か隠し玉があるとすれば…=On schedule...?\t I wonder.|Could they still be hiding something from us...?
-急いでジェフリーを止めなくては…！=...You have to stop Jeffery!
+急いでジェフリーを止めなくては…！=...You have to stop Jeffrey!
 @n0さん、\tジェフリーはおそらく|ブリッジにいます。|彼を逮捕して計画を阻止しましょう！\vまずプロムナードデッキに|出てください。\vプロムナードデッキは|一般客デッキの下層……|\tつまり、４階だった場所の下です。\v今度こそ、時間がありませんよ。=@n0,\t Jeffrey is probably on the bridge.|Arrest him and halt their plan!\vHead for the walkway first.\vIt’s on the lower level of the standard class deck.\t In other words, below where the ‘4th floor’ was.\vHurry, you don’t have much time!
 !FILE:dat_script.bin/file009_PACK2/file008.bin
 @n0さん、\t|その扉を開けてください。=@n0, please open that door.
@@ -504,7 +504,7 @@
 か、会長…\tそれが…トラブルです！\t|オートパイロットに異常が…！=S-Sir!\t We have a problem!\t|There's something wrong with the autopilot...!
 どうした、\tトラブルとは何だ？=Huh?\t What’s the problem?
 外洋へ向うはずが、沿岸ぞいに…\t|アルテア港に向かっています！=We're supposed to be heading out to sea, but we're heading along the coast...\t towards Port Altair!
-なんだと？　バグがあったのか。\t|ジェフリー、君が何度も確認した|はずだろう！=What? Is it a bug?\t|Jeffery, you were supposed to have checked the system!
+なんだと？　バグがあったのか。\t|ジェフリー、君が何度も確認した|はずだろう！=What? Is it a bug?\t|Jeffrey, you were supposed to have checked the system!
 そ、そうですが…\tオートパイロットの|設定と航路データに何か間違いが…=I-I did, but...\t There’s a mistake with the autopilot settings and the route data.
 弁解はいい！\t　くっ…あまり騒ぎを|大きくしたくはなかったが…\v港の人間を避難させるしかない。\t|Ｌ、君やＦＢＩの出番だよ。=Give me a break!\t Ugh, here I was trying to avoid a scene.\vI guess we’ll have to evacuate the people in the port.\t|L, you and the FBI can do that.
 いえ、そうはうまく行きません。\t|アルテア港といえば、クリエラ政府の|支配地域。\vそこに爆弾を積んだ船が突入し、|爆発を起こせば…\t死者の有無に関係なく|それは反政府勢力の仕業となります。=No, that’s not going to work.\t|Port Altair is controlled by the Criellan government.\vIf a ship loaded with explosives crashes into the port and blows up...\t even if no one dies, they’ll see it as an act of aggression.
@@ -520,7 +520,7 @@
 なんだと？=What?
 私はあなたにお世話になった…\t|あなたの力がなければ、私は学ぶことも|生きることもできなかった…=I am indebted to you.\t|Without your help, I wouldn’t have had the opportunity to learn and to grow.
 しかし、私には紛争をプロデュースする|なんて、できません…\t|今まで、ありがとうございました。=But, I will not be the cause of a war.\t|Thank you for everything you have done for me, and goodbye.
-な、なんだと…\tジェフリー…？=W-What are you talking about?\t Jeffery...?
+な、なんだと…\tジェフリー…？=W-What are you talking about?\t Jeffrey...?
 アロイス会長との通信を|断ったのですか？=You cut off communications with Mr. Alois?
 はい。|これで会長からの妨害はありません。\t|船を停めましょう。私も手伝います。=Yes.|Now he can’t interfere anymore.\t|Let’s stop this ship. I’ll help you.
 では、@n0さんと協力して、|全システムの再起動を行ってください。=Right. Please help @n0 to reboot the system.
@@ -533,28 +533,28 @@
 「あなたにはお世話になった」か。|気になるセリフですね。\t|ワタリに調べてもらいましょう。=“I am indebted to you”, hm?|There’s more to this story.\t|I’ll have Watari look into it.
 !FILE:dat_script.bin/file011_PACK2/file006.bin
 急いで次に進みましょう。=Let’s move on.
-Ｌ、こんなことをしていたら|間に合わない…\v命が惜しくて言っているわけじゃない。|本当に時間がないんだ…！\t|頼む、米軍に要請だけでもしてくれ…\vもし船が港に突っ込んでしまったら、|会長は情報操作をして、あなたの関与を|確実に世界に広める…\tそういう人だ！\vそうなれば、あなたの証言すら意味が|なくなってしまう！=L, we’re never going to make it at this rate.\vI’m not just saying this for my sake.|We really don’t have enough time--!\t|I’m begging you, please contact the military.\vIf this ship crashes into the port, the chairman will make sure that word of your involvement is spread around the world.\vIf that happens, no one will ever trust you again.
+Ｌ、こんなことをしていたら|間に合わない…\v命が惜しくて言っているわけじゃない。|本当に時間がないんだ…！\t|頼む、米軍に要請だけでもしてくれ…\vもし船が港に突っ込んでしまったら、|会長は情報操作をして、あなたの関与を|確実に世界に広める…\tそういう人だ！\vそうなれば、あなたの証言すら意味が|なくなってしまう！=L, we’re never going to make it at this rate.\vI’m not just saying this for my sake.|We really don’t have enough time--!\t|I’m begging you, please contact the military.\vIf this ship crashes into the port, Alois will make sure that word of your involvement is spread around the world.\vIf that happens, no one will ever trust you again.
 そうならないための努力です。\t|爆発の惨劇も、紛争も、あなただって|見たくはないでしょう？=We’re trying to prevent that from happening.\vYou don’t want to see the fallout of the explosion, or the start of a new war either, do you?
 Ｌ…私は…！=L... I--!
 （…状況は確かに絶望的だが…|　ジェフリーの態度は極端すぎる…|　米軍の介入をなぜそこまで望む？）=(...It’s true that the situation is desperate, but Jeffrey’s attitude is too extreme.)\v(Why does he want the US military to intervene so badly?)
 情報キーワード|@fR【米軍介入】@fW|を入手した。=Keyword added:|@fR“Military Intervention"@fW
 …………\t|ジェフリー、あなたはまだ何か|隠していますね。=...\t|Jeffrey, I know that you are still hiding something.
 えっ？=Huh?
-あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=You seem to want to sink the ship more than you want to stop it.\t|What is your real purpose?
+あなたは船を停めたいというより、|船を沈めたがっているように見えます。\t|本当の目的は何なのですか？=You seem to want to sink the ship more than you want to stop it.\t|What is your goal?
 な、何を言うのですか？\t|私は爆発を食い止めたい、|それだけです！=What are talking about?\t|I just want to stop the explosion, that’s all!
 !FILE:dat_script.bin/file011_PACK2/file007.bin
 もう、その言葉を…|家族を失った悲しみを…\t|あなたは忘れてしまったのですか？=Have you already forgotten those words... \tthe grief of losing your family?
 …忘れるものか…=Who could...
-忘れられるはずがないだろう！\vそうだ…私は、戦争が憎い。\t|金を得るために人の命を奪い続ける|ＣＬＮのような連中が許せない…\vだから、この船を沈めるために|米軍を引っ張り出し、ＣＬＮを叩く|口実を作らせたい…！\vＣＬＮのような悪魔がいる限り、|この世界は平和にはならない…\t|私のような子供が増え続けるんだ…\v憎しみの連鎖を誰かが断たなければ|ならないんだ…！=How could I ever forget!\vYes... I hate war.\t|I can’t stand people like the CLN who destroy lives all for a profit.\vThat’s why I wanted to get the US military to sink this ship and give them an excuse to attack the CLN!\vAs long as there are evil organizations like the CLN, this world will never be at peace.\vThe number of children like me will continue to grow...\t Someone has to break the cycle of hatred!
-あなたの言う通りです。=You are right.
+忘れられるはずがないだろう！\vそうだ…私は、戦争が憎い。\t|金を得るために人の命を奪い続ける|ＣＬＮのような連中が許せない…\vだから、この船を沈めるために|米軍を引っ張り出し、ＣＬＮを叩く|口実を作らせたい…！\vＣＬＮのような悪魔がいる限り、|この世界は平和にはならない…\t|私のような子供が増え続けるんだ…\v憎しみの連鎖を誰かが断たなければ|ならないんだ…！=How could I ever forget!\vYes... I hate war.\t|I can’t stand people like the CLN who destroy lives all for a profit.\vThat’s why I wanted to get the US military to sink this ship and give them an excuse to attack the CLN!\vAs long as evil organizations like the CLN exist, this world will never be at peace.\vThe number of children like me will only continue to grow...\t Someone has to break the cycle of hatred!
+あなたの言う通りです。=You’re right.
 えっ……？=Huh...?
 だが、その連鎖を断つためにこの船を|米軍が沈めれば、クリエラで再び紛争が|始まり、新たな憎しみが生まれる…=But if the US military sinks this ship, it will only fuel tensions in Criella and create new hatred...
-戦争被害者のあなたが、戦争被害者を|生み出すその矛盾にあなたは気づかない|というのですか？=Don’t you, a victim of war, understand the discord that create war victims?
+戦争被害者のあなたが、戦争被害者を|生み出すその矛盾にあなたは気づかない|というのですか？=Don’t you, a victim of war, realize the paradox of what you’re suggesting?
 …………！=...!
 この船を停め、アロイスとＣＬＮの悪を|暴くことが、あなたの願いをかなえる|ベストの方法なのではありませんか？=Isn’t the best way to fulfil your wish to stop this ship and expose the crimes of Alois and the CLN?
 私は…\t私は…どうしたら…=I...\t I... what should I...?
 この船を停めるために、|力を貸してください…|今度こそ…=Please help me to stop this ship.|We can do it, together.
-…わかりました。\t|全力でサポートします。=...I understand.\t|I’ll help you in any way I can.
+…わかりました。\t|全力でサポートします。=...Alright.\t|I’ll help you in any way I can.
 ありがとう。=Thank you.
 では@n0さん、先へ進みましょう。|いよいよ最後の仕事です。=Well, @n0, let’s move on.|We have one last job to do.
 !FILE:dat_script.bin/file011_PACK2/file008.bin
@@ -565,7 +565,7 @@
 ああ、聞こえる。\t何の用だ？=Yeah, I’m here.\t What do you want?
 あなたのワールドシリーズですが、|今すぐ中止していただけませんか？=Could you deactivate your World Series right now?
 断る。\tこれは俺のプライドの問題だ。|おまえの鼻を明かさなくては|気がすまん。=I refuse.\t This is a matter of pride.|I’m not going to concede to you.
-船と共に沈むことになってもですか？\t|ジェフリー同様、あなたもグラナダ号に|乗っているんでしょう？=Even if it means going down with the ship?\t|You're on the Granada like Jeffery, aren't you?
+船と共に沈むことになってもですか？\t|ジェフリー同様、あなたもグラナダ号に|乗っているんでしょう？=Even if it means going down with the ship?\t|You're on the Granada like Jeffrey, aren't you?
 ああ、そうだ。\t|そんなに俺を心配してくれるなら、|トラップを解除して船を停めてくれ。=That’s right.\t|If you’re so worried about me, disarm my traps and stop the ship.
 エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=There’s still time before the engines burnup.\t|I’ll have you see this through to the end.
 悔しかったら、逆転満塁ホームランを|打ってみろ！=If that upsets you, then you’d better hit it out of the park with a home run!
@@ -585,7 +585,7 @@
 あなたが、アロイスがＣＬＮの幹部だと|知ったのは、この事件の計画がなされる|ずっと前の話ですよね？=You knew that Alois was an executive of the CLN long before all of this, didn’t you?
 えっ…？　ええ…３年ほど前、会長に|プログラムの技術を認めていただき、|計画立案から参加しています。\vＣＬＮとのつながりを知ったのは|参加直後…ですけど、それが何か？=Huh? Yes, I did... About three years ago, he became aware of my programming skills and got me involved in the planning.\vIt was just after I joined that I found out about his connection with the CLN.|But, why does it matter?
 いえ、特に意味はありません。|作業を続けてください。=No reason.|I won’t keep you from your work any longer.
-情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=Keyword added:|@fR“Jeffery Involved in Plan"@fW
+情報キーワード|@fR【ジェフリーの計画参加時期】@fW|を入手した。=Keyword added:|@fR“Jeffrey Involved in Plan"@fW
 !FILE:dat_script.bin/file011_PACK2/file011.bin
 ダメだ…！\t　もうどうにもならない！|早く、早く船を沈めてくれ！=It’s no good!\t There's nothing we can do!|W-We need to sink the ship!
 沈めるのは最後の手段です。\t|そのために、@n0さんは命を|かけているんです。=Sinking the ship is the last resort.\t|@n0 has put their life on the line to|prevent that.
@@ -595,9 +595,9 @@
 Ｌ、やはり無理だ！\t　船を停めても、|ここにあるのはガラクタばかりだ…\t|証拠になんてならない…=This isn’t going to work, L!\t Even if we stop the ship, all of this stuff is junk. It’s not evidence...
 いえ、この船の存在そのものが証拠に|なります。なんとか船を停めましょう。\t|ギリギリまでがんばってください！=No, the very existence of this ship is evidence. We will find a way to stop it.\t|Don’t give up!
 !FILE:dat_script.bin/file011_PACK2/file013.bin
-そこは、通信関連をすべて集約した|メイン制御室です。=That’s the main control room where all communications take place.
+そこは、通信関連をすべて集約した|メイン制御室です。=That’s the ship’s main communications hub.
 ここから発せられている強い電波と|いうのは…この船を強制的に制御する|ためのものですね？=The radio signals being sent from this room... Are they being used to control the ship remotely?
-はい…アロイス会長の命令で私が|セットしました。\vアロイス会長の手元にある制御装置で|発電機と推進器を自由にコントロール|することが可能です。=Yes... The chairman ordered me to set it up.\vHe has a control unit which allows him to control the generators and the propulsors at will.
+はい…アロイス会長の命令で私が|セットしました。\vアロイス会長の手元にある制御装置で|発電機と推進器を自由にコントロール|することが可能です。=Yes... Alois ordered me to set it up.\vHe has a control unit which allows him to control the generators and the propulsors at will.
 つまり、暴走させることが可能だと|いうわけですね？=So you’re saying he could send them into overdrive at any time?
 …その通りです。\t|データリンク用の回線を断てば、|発電機と推進器を分離できます。=...That’s right.\t If you cut off the data link, you can uncouple the generators and the propellers.
 …ということです。\t|@n0さん、回線を断ちましょう。=...Well, there we have it.\t|@n0, cut the line.
@@ -1145,7 +1145,7 @@ debug jump?=
 !FILE:dat_script_f04.bin/file001_PACK2/file006.bin
 今回のトラップには、これまでの|ハウスキーパーの方法論とは、|異なるものが混じっています。\vハウスキーパーと依頼人が|仕事をするのは今回が初めての|ようですね…=These traps have had a different methodology to what’s been known of the Housekeeper in the past.\vIt seems that this is the first time the Housekeeper and his client have worked together...
 情報キーワード|@fR【ハウスキーパーの依頼人】@fW|を入手した。=Keyword added:|@fR“The Client”@fW
-見てください。|\t以前には降りていたシャッターが|開いています。\vジェフリーがここを通って行ったことは|間違いありませんね。\vシャッターを閉め忘れるほど|焦っているのでしょうか。=Look, that shutter was closed before.\vJeffery must have gone through here.\vWas he in such a rush that he forgot to close the shutters?
+見てください。|\t以前には降りていたシャッターが|開いています。\vジェフリーがここを通って行ったことは|間違いありませんね。\vシャッターを閉め忘れるほど|焦っているのでしょうか。=Look, that shutter was closed before.\vJeffrey must have gone through here.\vWas he in such a rush that he forgot to close the shutters?
 !FILE:dat_script_f04.bin/file001_PACK2/file010.bin
 シャッターが閉まっている。\vここから３階へは戻れないようだ。=The shutter is closed.\vThere’s no way to get back to|the third floor from here.
 !FILE:dat_script_f04.bin/file002_PACK2/file011.bin
@@ -1734,9 +1734,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 こちら分析では、@n1さんと|Ｌの通信電波が、最も乱れていたのは|このフロアだということです。=My readings show that @n2’s PDA|picked up the most interference whilst on this floor.
 つまり、このフロアに通信室があると|いうことですね。=Meaning, there’s a probably some sort of communications room on this floor.
 そのようです。=It appears so.
-@n0さん、時間がありませんが|気になる情報です。\t|調べてみてください。=@n0, I know we don’t have much time,|but this could be vital information.\t Please see what you can find.
-エレベーターに電力が供給された。=Power is being supplied to the lift.
-@n0さん、よくやってくれました。\t|そろそろ体力的にもつらい頃だと|思いますが、がんばってください。=Well done, @n0\t|You must be feeling quite worn down by now, but you have to keep fighting.
+@n0さん、時間がありませんが|気になる情報です。\t|調べてみてください。=@n0, I know we don’t have much time,|but this could be vital information.\t|Please see what you can find.
+エレベーターに電力が供給された。=Power is being supplied to the elevator.
+@n0さん、よくやってくれました。\t|そろそろ体力的にもつらい頃だと|思いますが、がんばってください。=Well done, @n0.\t|You must be feeling quite worn out by now, but you have to keep fighting.
 ！！=!!
 すみません、@n0さん。|\t通信が入りました。|\t少々お待ちを。=Excuse me, @n0.|\tI have an incoming call.|\tPlease give me a second.
 お待たせしました。|\tさぁ、先に進みましょう。=Thank you for waiting.|\tLet’s keep going.
@@ -1748,7 +1748,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ハウスキーパーは本気です…\t|最後まで油断せずに解除しましょう。=The Housekeeper is serious...\t|Don’t let your guard down for even one second.
 配電盤を調べます。|よろしいですか？=Examine the switchboard?
 !FILE:dat_script_f09.bin/file003_PACK2/file016.bin
-電気は既に通っている。=The electricity is on.
+電気は既に通っている。=The power is on.
 !FILE:dat_script_f09.bin/file004_PACK2/file011.bin
 デジタルロックだ。\v鍵はもう、開いている。=A digital lock.\vIt has already been unlocked.
 デジタルロックだ。=A digital lock.
@@ -1773,12 +1773,12 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ええ…これから必要になりますよ。|きっと…=Yes... I’m sure it will play a key role going forward.
 ではまず１つ目を送ります。=Then, I shall send you the first paper.
 情報キーワード|@fR【ジェフリー・ミラー】@fW|を入手した。=Keyword added:|@fR“Jeffrey Miller"@fW
-ジェフリーが戦争孤児…\tアロイスへの|忠誠心は、ここにあったのですね…\t|もうひとつは？=Jeffery was an orphan of war...\t His loyalty to Alois must stem from here.\t|What else do you have?
+ジェフリーが戦争孤児…\tアロイスへの|忠誠心は、ここにあったのですね…\t|もうひとつは？=Jeffrey was an orphan of war...\t His loyalty to Alois must stem from here.\t|What else do you have?
 情報キーワード|@fR【ジェフリーの家族】@fW|を入手した。=Keyword added:|@fR“Jeffrey’s Family"@fW
 ＣＬＮの爆弾で家族が…？|このことを本人は？=It was CLN orchestrated bombings that killed them...|Does he know about this?
 そこまではわかりません…\t|情報は以上です。=I’m afraid I couldn’t answer that.\t|This is all the information I could find.
 …気になる情報ですね…=It’s certainly worth knowing.
-ジェフリー、\tこの状況下で申し訳ないの|ですが、ひとつ質問をさせてもらっても|いいですか？=Jeffery,\t I hate to ask under these circumstances, but there’s something I need to know.
+ジェフリー、\tこの状況下で申し訳ないの|ですが、ひとつ質問をさせてもらっても|いいですか？=Jeffrey,\t I hate to ask under these circumstances, but there’s something I need to know.
 !FILE:dat_script_f09.bin/file007_PACK2/file010.bin
 パイプを調べた。=Examined pipe.
 !FILE:dat_script_f09.bin/file007_PACK2/file015.bin
@@ -1826,7 +1826,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file018_PACK2/file010.bin
 倉庫Ｄ=Cargo Hold D
 !FILE:dat_script_f09.bin/file019_PACK2/file006.bin
-これは…通信室ですね。\t|ジェフリー、ここが何なのか|教えていただけますか？=This is... a communications room.\t|Jeffery, care to enlighten us?
+これは…通信室ですね。\t|ジェフリー、ここが何なのか|教えていただけますか？=This is... a communications room.\t|Jeffrey, care to enlighten us?
 !FILE:dat_script_f09.bin/file019_PACK2/file007.bin
 倉庫Ｄへ移動します。|よろしいですか？=Return to Cargo Hold D?
 !FILE:dat_script_f09.bin/file019_PACK2/file010.bin
@@ -1847,7 +1847,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ファイルが入っていた。=There is a file inside.
 気になるファイルですね。|よく見せてもらえますか?\v……\v『二階堂　公彦』……|\t『松戸　浩一』……\vほとんどの記録が抹消されていて|読み取れない部分が多いですが、|専門知識を持った人物のリストですね。=That’s interesting.|Can you get a good closeup of it on your camera for me?\v...\v“Kimihiko Nikaido”...|\t“Koichi Matsudo”...\vMost of the records have been erased and many parts are unreadable, but it seems to be a list of specialists.
 『久條希実子』……=“Kimiko Kujo”...
-氏名：不明・通称：久條希実子|国籍：不明・性別：女性\v調査結果：|日本人と思われるが、|国籍など詳細は不明。|\t世界的に有名なウィルス学の権威。|\t頭脳明晰で非常に優秀な科学者だが、|目的の為には手段を選ばない|冷酷な面を持つ。|\t現在の消息不明は不明。\vウィルスの研究関連で|有益と思われるので継続調査中=Real name: Unknown. Alias: Kimiko Kujo.|Nationality: Unknown. Gender: Female.\vBelieved to be Japanese, but nationality and other details are unknown.|\tA world-renowned authority on viruses.\vShe is a clear-headed and extremely talented scientist, but has a ruthless side and will stop at nothing to achieve her goals.|\tCurrent whereabouts unknown.\vInvestigations are continuing.|She may be useful for research on viruses.
+氏名：不明・通称：久條希実子|国籍：不明・性別：女性\v調査結果：|日本人と思われるが、|国籍など詳細は不明。|\t世界的に有名なウィルス学の権威。|\t頭脳明晰で非常に優秀な科学者だが、|目的の為には手段を選ばない|冷酷な面を持つ。|\t現在の消息不明は不明。\vウィルスの研究関連で|有益と思われるので継続調査中=Real name: Unknown.　Alias: Kimiko Kujo.|Nationality: Unknown.　 Gender: Female.\vBelieved to be Japanese, but nationality and other details are unknown.|\tA world-renowned authority on viruses.\vShe is a clear-headed and extremely talented scientist, but has a ruthless|side and will stop at nothing to achieve|her goals.||\tCurrent whereabouts unknown.\vInvestigations are continuing.|She may be useful for research on viruses.
 （久條希実子…、|　Ｋの思想とよく似ている…）\v資料にあるとおり、このレポートは|ウィルス研究者の物ですので、|今回の件と直接関係は無いでしょう。=(Kimiko Kujo... Her profile sounds a lot like K...)\vGiven that this report is about a virus researcher, I think we can say it’s not directly related to this case.#qc I know nothing about K.
 色々な人物の書類がある。=There are documents about various people.
 !FILE:dat_script_f09.bin/file019_PACK2/file019.bin
