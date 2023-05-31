@@ -1,5 +1,5 @@
 船倉=Hold#Below Deck?
-機関室=Engine
+機関室=Engine Room
 客船１Ａ=Ship 1A
 客船３Ａ=Ship 3A
 客船３Ｂ=Ship 1B

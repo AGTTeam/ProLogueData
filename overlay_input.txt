@@ -366,7 +366,7 @@
 何かのパーツだ。|このままでは使い物にならない。|=A part from something else.|It can’t be used in this state.
 安そうなライターだ。|ガスはたっぷり残っている。|=A cheap lighter.|There’s still plenty of gas left in it.
 とても小さい鍵だ。|なくさないように注意しよう。|=A small key.|Be careful not to lose it.
-何かの装置のパーツだ。|大きい四角形をしている。|=A part from some kind of device.|Has a large rectangular shape.
+何かの装置のパーツだ。|大きい四角形をしている。|=A part from some kind of device.|Has a tall rectangular shape.
 スタンガンだ。|電気ショックを与えることができる。|=A stun gun.|Delivers an electrical shock.
 何かの装置のパーツだ。|つぶれた四角形をしている。|=A part from some kind of device.|Has a squat rectangular shape.
 ドーナツの基本形。|シンプルで飽きないおいしさ。||||=A doughnut in its purest form.|Its simple but delicious taste is impossible to tire of.
@@ -1229,7 +1229,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 男={M
 女={F
 %s　%s=%s{{%s
-捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{{Play Time %2.2d:%2.2d
+捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{{ Play Time %2.2d:%2.2d
 『%s %s』の=“%s %s”
 
 !FILE:overlay_0031_dec.bin
@@ -1244,5 +1244,5 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 男={M
 女={F
 %s　%s=%s{{%s
-捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{{Play Time %2.2d:%2.2d
+捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{{ Play Time %2.2d:%2.2d
 『%s %s』の=“%s %s”

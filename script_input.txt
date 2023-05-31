@@ -186,12 +186,12 @@
 …行きましょう、@n0さん。\t|私も全力でフォローします。=...Let’s go, @n0.\t|I’ll do my best to support you.
 ここが最後のフロアです。\t|……よろしくお願いします。=This is the last floor.\t|...I’m counting on you.
 このミッションの成否は|ハウスキーパーを止められるかどうかに|かかっている……=The success or failure of this mission rests on whether we can stop the Housekeeper.
-フロアの安全が確保できたら、|ジェフリーがエンジンを停止させます。\t|それで、今度こそ終わりです。=Once the floor is secure, Jeffrey will stop the engine.\t|Let’s end this.
+フロアの安全が確保できたら、|ジェフリーがエンジンを停止させます。\t|それで、今度こそ終わりです。=Once the floor is secure, Jeffrey will stop the engines.\t|Let’s end this.
 自衛のためとはいえ、|爆弾の数が多すぎる。\t|どういうつもりだ、ハウスキーパー…=There are too many bombs here, even for self-defense.\t|What are you up to, Housekeeper...?
 ヤツにとっては最後の勝負だ。\t|何を仕掛けてくるか……=This is his last play.\t|I wonder what he’s got in store for us...
 ハウスキーパーが、おとなしく|捕まるとは思えません。\tいざと言う時は|よろしくお願いします。=I don’t think the Housekeeper will come along quietly.\t If push comes to shove, I’ll be counting on your skills as an agent.
 おそらく、ハウスキーパーは|フロアの一番奥で待っているでしょう。\t|私に最後の勝負を挑むために……=The Housekeeper is probably waiting at the far end of this floor.\t|All for one last game...
-ハウスキーパーとの駆け引きには、|ヤツに関するあらゆる情報が必要だ。\t|性格、過去、犯罪歴……=To face off with the Housekeeper, I need to know everything I can about him.\t|Personality, history, criminal record...
+ハウスキーパーとの駆け引きには、|ヤツに関するあらゆる情報が必要だ。\t|性格、過去、犯罪歴……=To face off against the Housekeeper, I need to know everything I can about him.\t|Personality, history, criminal record...
 最後のトラップ解除は|万全の態勢で臨んでください。\t|何があるかわかりませんから。=Make sure you’re fully prepared for the final trap.\t|We don’t know what we might find.
 ＠未設定=＠Undefined
 !FILE:dat_script.bin/file002_PACK2/file012.bin
@@ -634,16 +634,16 @@
 どうだ、俺の主催するゲームは？\t|ワールドシリーズにふさわしい|勝負になりそうだろう？=How are you finding this game of mine?\t|It’s a match worthy of a World Series,|isn’t it?
 …いえ、これ以上、くだらない|ゲームはありませんね。=...No, I doubt there has ever been such a pathetic showing.
 なに？=What!?
-ベースボールのワールドシリーズは|栄光を求め互いに競い合い、文字通り|命がけの勝負を繰り広げます。\vそれは命と命のぶつかり合いであって、|命を無駄に奪い合う戦いではない…=The Baseball World Series is a competition for glory, where one’s whole life is at stake.\vIt’s a fight to make a legacy, not a show to throw one’s life away in vain.
+ベースボールのワールドシリーズは|栄光を求め互いに競い合い、文字通り|命がけの勝負を繰り広げます。\vそれは命と命のぶつかり合いであって、|命を無駄に奪い合う戦いではない…=The Baseball World Series is a fight for glory, where players risk it all.\vIt’s a competition to make a legacy, not to see who survives the longest.
 こんな目的もなく、『破滅』を脅迫の|材料にした低俗なゲームと比べては、|ベースボールに失礼ですよ。=It’s disrespectful to baseball to compare it to such a pointless, vulgar game that uses “doom” as a source of intimidation.
 …くっ！　俺をコケにしたな！=Ngh! Mock me all you want...
-だが、俺は絶対にこの勝負に勝つ。|勝って、その鼻をへし折ってやる。=But I will be the winner of this game.|I’ll win and I’ll show you the worth of that meaningless pride!
-（なんという負けず嫌いな性格…\t|　今回の件を除けば、ハウスキーパーの|　仕事成功率は１００％だった…）=(He’s awfully competitive.\t Apart from this incident, the Housekeeper’s success rate has been 100%...)
+だが、俺は絶対にこの勝負に勝つ。|勝って、その鼻をへし折ってやる。=But I will be the winner of this game.|I’ll win and show you the worth of that meaningless pride!
+（なんという負けず嫌いな性格…\t|　今回の件を除けば、ハウスキーパーの|　仕事成功率は１００％だった…）=(He’s awfully competitive. Apart from this incident, the Housekeeper’s success rate has been 100%...)
 情報キーワード|@fR【ハウスキーパーの性格】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Personality"@fW
 勝ちも負けもありませんよ。\t|爆弾と船の爆発を停め、憐れな犯罪者を|我々の手で挙げるだけです。=There is no competition.\t We’re going to stop the ship, and you will be made to surrender.
 この勝負が終わったとき、|笑うのはどっちだろうな。=We’ll see who has the last laugh, L!
 …あくまでも勝負にこだわるのですね。\t|なら、私を敵に回したあなたには|『勝利』はありませんよ。=...I see that you’re set on turning this into a fight.\t Then, you should know that I am an enemy you can’t win against.
-ふん、せいぜい吠えていろ！|もう時間はあまりない…=Hmph, I’d like to see you try!|You’re almost out of time.
+ふん、せいぜい吠えていろ！|もう時間はあまりない…=Hmph, your idle threats don’t scare me!|You’re almost out of time.
 あんなに煽るようなことを言って|大丈夫なんですか？=Are you sure it’s okay to stir him up so much?
 大丈夫かどうかを確かめたんですよ。|そして、答えは『大丈夫』です。\t|ヤツの目的は『勝負』なんです。\v途中で爆破させたりすることは|絶対にありません。=That’s what I was trying to see.|And the answer is yes.\t|His goal is to ‘win’.\vHe would never let the ship explode before the match is over.
 情報キーワード|@fR【ハウスキーパーの目的】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Goal"@fW
@@ -1847,7 +1847,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ファイルが入っていた。=There is a file inside.
 気になるファイルですね。|よく見せてもらえますか?\v……\v『二階堂　公彦』……|\t『松戸　浩一』……\vほとんどの記録が抹消されていて|読み取れない部分が多いですが、|専門知識を持った人物のリストですね。=That’s interesting.|Can you get a good closeup of it on your camera for me?\v...\v“Kimihiko Nikaido”...|\t“Koichi Matsudo”...\vMost of the records have been erased and many parts are unreadable, but it seems to be a list of specialists.
 『久條希実子』……=“Kimiko Kujo”...
-氏名：不明・通称：久條希実子|国籍：不明・性別：女性\v調査結果：|日本人と思われるが、|国籍など詳細は不明。|\t世界的に有名なウィルス学の権威。|\t頭脳明晰で非常に優秀な科学者だが、|目的の為には手段を選ばない|冷酷な面を持つ。|\t現在の消息不明は不明。\vウィルスの研究関連で|有益と思われるので継続調査中=Real name: Unknown.　Alias: Kimiko Kujo.|Nationality: Unknown.　 Gender: Female.\vBelieved to be Japanese, but nationality and other details are unknown.|\tA world-renowned authority on viruses.\vShe is a clear-headed and extremely talented scientist, but has a ruthless|side and will stop at nothing to achieve|her goals.||\tCurrent whereabouts unknown.\vInvestigations are continuing.|She may be useful for research on viruses.
+氏名：不明・通称：久條希実子|国籍：不明・性別：女性\v調査結果：|日本人と思われるが、|国籍など詳細は不明。|\t世界的に有名なウィルス学の権威。|\t頭脳明晰で非常に優秀な科学者だが、|目的の為には手段を選ばない|冷酷な面を持つ。|\t現在の消息不明は不明。\vウィルスの研究関連で|有益と思われるので継続調査中=Real name: Unknown.　Alias: Kimiko Kujo.|Nationality: Unknown.　 Gender: Female.\vBelieved to be Japanese, but nationality and other details are unknown.||\tA world-renowned authority on viruses.\vShe is a clear-headed and extremely talented scientist, but has a ruthless|side and will stop at nothing to achieve|her goals.||\tCurrent whereabouts unknown.\vInvestigations are continuing.|She may be useful for research on viruses.
 （久條希実子…、|　Ｋの思想とよく似ている…）\v資料にあるとおり、このレポートは|ウィルス研究者の物ですので、|今回の件と直接関係は無いでしょう。=(Kimiko Kujo... Her profile sounds a lot like K...)\vGiven that this report is about a virus researcher, I think we can say it’s not directly related to this case.#qc I know nothing about K.
 色々な人物の書類がある。=There are documents about various people.
 !FILE:dat_script_f09.bin/file019_PACK2/file019.bin
@@ -1863,7 +1863,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f09.bin/file020_PACK2/file012.bin
 やはりこの部屋でしたね。|@n0さん、行きましょう。=So there is another room behind here.|@n0, let’s go.
 !FILE:dat_script_f10_a.bin/file001_PACK2/file006.bin
-おそらくこのフロアのどこかに|ハウスキーパーがいます。\vヤツは自分を守るためにも今まで以上に|トラップを張り巡らせているはずです。\vエンジン周りは特に注意してください。\t|『その場にあるものを有効に使う』\t|これがヤツの手口です。\vこの船において、エンジンは最高の|材料となっているはずですから…=The Housekeeper is most likely somewhere on this floor.\vHe will have placed extra traps to protect himself.\vBe especially careful as you get near the engine.\t “Make good use of what’s around”.\t That’s his philosophy.\vI would have thought the engine is the best material on this ship...
+おそらくこのフロアのどこかに|ハウスキーパーがいます。\vヤツは自分を守るためにも今まで以上に|トラップを張り巡らせているはずです。\vエンジン周りは特に注意してください。\t|『その場にあるものを有効に使う』\t|これがヤツの手口です。\vこの船において、エンジンは最高の|材料となっているはずですから…=The Housekeeper is most likely somewhere on this floor.\vHe will have placed extra traps to protect himself.\vBe especially careful as you get near the engine room.\t “Make good use of what’s around”.\t That’s his philosophy.\vWhat could be better material than the ship’s powerful engines...?
 !FILE:dat_script_f10_a.bin/file003_PACK2/file012.bin
 コンテナだ。\v数値を入力するパネルがついている。=A container.\vIt has a panel for entering a PIN.
 なるほど、\tさきほどのメモは|この装置のヒントですね。\vただ、そのままでは|入力できないようです。\vこの装置に入力できるよう戻してあげる|必要があります。\t|答えはいくつだと思いますか？=I see,\t that note you found earlier is a hint for this device.\vWe need a four-digit code.\vHave you worked out the answer?
@@ -1882,8 +1882,8 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_a.bin/file004_PACK2/file013.bin
 開かない。\v扉がロックされているようだ。=It won’t budge.\vThe door must be locked.
 !FILE:dat_script_f10_a.bin/file005_PACK2/file010.bin
-メモが挟まっている。\vいくつかの数字とともに、|「希望とともにあるものはどれか？」|という文が書かれている。=A memo was tucked inside.\vSeveral numbers, and the message|“What is with hope?”|are written on it.
-このメモは暗号になっているようです。\t|暗号を解くのに必要な手順は２つです。\v先頭から数字を２つずつ|アルファベットに当てはめて行きます。\vつぎに、『希望』とともにある物が|何であるかを見てみましょう。\vちなみに、『希望』英語では|『ＨＯＰＥ』です。\v『希望』とともにあるものを|聞いているわけですから、『希望』|自体は排除して考えるべきですね。\vこの文字列が何を表しているかは|今はわかりません。\v必要になったときに|答え合わせをしましょう。|\tあなたも考えてみてください。=It looks like a cipher.\t|It seems there are two steps to solving it.\vFirst, every two numbers need to be applied to a letter in the alphabet.\vThen, we need to figure out what it is that goes with “hope”.\vSince the question states something that is ‘with it’, I think we can exclude “hope” itself.\vAs it stands, we don’t know what this memo is referring to yet.\vWe’ll need to have an answer when the time comes.\t See what you can come up with.
+メモが挟まっている。\vいくつかの数字とともに、|「希望とともにあるものはどれか？」|という文が書かれている。=A memo was tucked inside.\vSeveral numbers and the message|“What is with hope?”|are written on it.
+このメモは暗号になっているようです。\t|暗号を解くのに必要な手順は２つです。\v先頭から数字を２つずつ|アルファベットに当てはめて行きます。\vつぎに、『希望』とともにある物が|何であるかを見てみましょう。\vちなみに、『希望』英語では|『ＨＯＰＥ』です。\v『希望』とともにあるものを|聞いているわけですから、『希望』|自体は排除して考えるべきですね。\vこの文字列が何を表しているかは|今はわかりません。\v必要になったときに|答え合わせをしましょう。|\tあなたも考えてみてください。=It looks like a cipher.\t|It seems there are two steps to solving it.\vFirst, the numbers need to paired up and applied to a letter in the alphabet.\vThen, we need to figure out what it is that goes with “hope”.\vSince the question states something that is ‘with it’, I think we can exclude “hope” itself.\vAs it stands, we don’t know what this memo is referring to yet.\vWe’ll need to have an answer when the time comes.\t See what you can come up with.
 !FILE:dat_script_f10_a.bin/file005_PACK2/file011.bin
 何かの部品だろうか。=It’s some kind of component.
 !FILE:dat_script_f10_a.bin/file006_PACK2/file010.bin
@@ -1904,22 +1904,22 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 !FILE:dat_script_f10_a.bin/file010_PACK2/file010.bin
 制御室Ｂ=Control Room B
 !FILE:dat_script_f10_a.bin/file011_PACK2/file010.bin
-装置が動いているため、|手を加えることはできない。=It’s not safe to touch anything while the device is on.
+装置が動いているため、|手を加えることはできない。=It’s not safe to touch anything|while the device is on.
 ぽっかりと穴が開いている。\vパーツが外された後のようだ。=There is a large hole.\vIt appears that a part has been removed.
 !FILE:dat_script_f10_a.bin/file011_PACK2/file011.bin
 パーツを外します。|よろしいですか？=Remove the part?
 !FILE:dat_script_f10_a.bin/file011_PACK2/file016.bin
 ぽっかりと穴が開いている。=There is a large hole.
-処理装置を取り付けた。=Fit the Processor.
+処理装置を取り付けた。=Fit the processor.
 !FILE:dat_script_f10_a.bin/file011_PACK2/file019.bin
 スイッチを押します。|よろしいですか？=Push the button?
 装置の動作が止まった。=The device turned off.
-処理装置がついていないため、|スイッチが動作しないようだ。=Without the Processor, the button is no longer working.
+処理装置がついていないため、|スイッチが動作しないようだ。=Without the processor, the button|is no longer working.
 装置の稼動音が聞こえる。=The device turned on.
 !FILE:dat_script_f10_a.bin/file011_PACK2/file020.bin
 ランプだ。=A light.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file010.bin
-操作パネルだ。\v通路の奥へとつながる扉を管理している。=A control panel.\vIt controls the door at the end of the corridor.
+操作パネルだ。\v通路の奥へとつながる扉を管理している。=A control panel.\vIt controls the door at|the end of the corridor.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file024.bin
 大量のメーターがある。=There is a large number of meters.
 !FILE:dat_script_f10_a.bin/file012_PACK2/file026.bin
