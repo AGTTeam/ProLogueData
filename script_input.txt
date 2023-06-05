@@ -3303,15 +3303,19 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapbig.bin/file011_PACK2/file013.bin
 @fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
+ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file014.bin
 @fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
+ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file015.bin
 @fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
+ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file016.bin
 @fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
+ネジが緩められている。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file017.bin
 装置のフタだ。=The lid of the device.
 このフタが開けられそうですね。|\tというより、他にできそうな事が|ありません。=It looks like this lid can be opened.|\tWell, that’s about the only thing that can be done at this stage.
@@ -3357,9 +3361,9 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 起爆装置の中に設置された|バッテリーだ。\v接続されていたコードは|抜かれたいる。=A battery is installed in the detonator.\vThe wire that connected it to the detonator has been unplugged.
 起爆装置の中に設置された|バッテリーだ。\v装置とコードで繋がっている。=A battery is installed in the detonator.\vIt is connected to the|detonator by wire.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file027.bin
-装置の側面についているランプだ。\v赤いランプが点灯している。=There are two lights on the side of the device.\vThe red light is lit.
+装置の側面についているランプだ。\v赤いランプが点灯している。=There are two lights|on the side of the device.\vThe red light is lit.
 まだこのランプは|気にする必要がなさそうです。\vおそらく、装置の中に関係する物|ですね。=I don’t think we need to worry about these just yet.\vThey probably relate to something inside.
-装置の側面についているランプだ。\v緑のランプが点灯している。=There are two lights on the side of the device.\vThe green light is lit.
+装置の側面についているランプだ。\v緑のランプが点灯している。=There are two lights|on the side of the device.\vThe green light is lit.
 ロックが解除された印のようです。|\t今なら起爆装置を|外す事ができそうです。=That must be an indication that the lock has been released.\t It should be safe to remove the detonator now.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file029.bin
 大掛かりな装置だ。=A large device.
@@ -3395,7 +3399,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ゾロ目になっています。|\t装置を外しましょう。=That’s a full house.|\tRemove the device.
 ３つの数字をあわせる仕掛けです。|\t操作はそばにあるボタンで|するようですね。=The trick is to get three of the same number.\t It seems that you use the buttons nearby as the controls.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file038.bin
-下にある何かの装置だ。\vほとんどが上の装置に覆われて|詳細が判らない。=There is some kind of device underneath.\vIt is being hidden by what’s on top.
+下にある何かの装置だ。\vほとんどが上の装置に覆われて|詳細が判らない。=There is some kind of device underneath.\vIt’s being hidden by what’s on top.
 この装置はまだ|どうにもできそうにありません。\vまずは上の装置を|調査してみましょう。=There’s not much we can do here.\vWe need to investigate the device above it first.
 スキマが広がって、|外しやすくなっていますね。=The gap has been widened, so it should be easier to take the detonator off now.
 装置との間に@fRスキマ@fWが|できています。\v起爆装置のロックが解除|されたせいでしょうか。=It looks like a @fRgap@fW has opened up between two devices.\vIs this because the lock on the detonator was released?
@@ -3432,8 +3436,8 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 起爆装置のようだ。\v後ろの爆薬と繋がっている。=A detonator.\vIt is connected to the explosives|at the back.
 起爆装置のようだ。\v爆薬から外す事ができれば、|トラップを解除できる。=A detonator.\vIt has been disconnected from the explosives, and the trap is now safe to disarm.
 !FILE:dat_script_trapbig.bin/file011_PACK2/file054.bin
-装置の背面に設置された爆薬だ。=Explosives have been installed at the back of the device.
-装置の背面に設置された爆薬だ。\v３本の爆薬が1つに|まとめられている。=Explosives have been installed at the back of the device.\vThree explosives are combined in one.
+装置の背面に設置された爆薬だ。=Explosives have been installed|into the back of the device.
+装置の背面に設置された爆薬だ。\v３本の爆薬が1つに|まとめられている。=Explosives have been installed|into the back of the device.\vThere are three of them.
 起爆装置を外しても、|爆薬が爆発する心配は|無さそうです。\vおそらく先ほどのロック解除が|爆薬にも影響しているのでしょう。=It doesn’t appear as though the explosives will detonate even if the detonator is removed.\vMaybe the lock you released earlier had an effect on them too.
 爆薬に手をつけるのは、|やはり難しいようですね。\v手前にある起爆装置を|外すしかないようです。\vもう一息です。|\tがんばってください。=It’s difficult to get at the explosives like this.\vIt looks like your only choice is to remove the detonator at the front.\vYou’re almost there.|\tDon’t stop now.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file010.bin
