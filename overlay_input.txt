@@ -1229,7 +1229,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 男={M
 女={F
 %s　%s=%s{{%s
-捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{{ Play Time %2.2d:%2.2d
+捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{`Play Time %2.2d:%2.2d
 『%s %s』の=“%s %s”
 
 !FILE:overlay_0031_dec.bin
@@ -1244,5 +1244,5 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 男={M
 女={F
 %s　%s=%s{{%s
-捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{{ Play Time %2.2d:%2.2d
+捜査レベル %2d　　TotalTime %2.2d:%2.2d={Level %2d{{{{{{`Play Time %2.2d:%2.2d
 『%s %s』の=“%s %s”
