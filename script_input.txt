@@ -53,9 +53,9 @@
 この勝負は俺の勝ちだ、Ｌ。\t|ふっふっふっ……ははははははは！\t|俺は、俺はＬに勝ったぞ！！=I win this match, L.\t|Ahaha... HA HA HA!\t|I-I beat the great L!!
 @n0さん！　ハウスキーパーの|身柄を確保してください！=@n0! Arrest the Housekeeper!
 そうはいくか！=Not so fast!
-あばよ、負け犬Ｌ！\t|おまえとの『勝負』おもしろかったぜ。\t|おまえは意外とショボかったけどな！\vはははははははは……！=Bye bye, L.\t|I enjoyed our little game.\t|I didn’t think you’d be so pathetic, though.\vAh ha ha ha...!
-…@n0さん、ジェフリーを連れて|急いでそこから脱出してください！\t|もう爆発を止めることは不可能です！=....@n0, get Jeffrey and get out of|there as soon as you can!\t|We can’t stop the ship now!
-暴走したグラナダ号は、クリエラ政府の|制圧地域であるアルテア港に向かったが|港に突入する寸前──=The Granada relentlessly headed for the Port Altair, an area controlled by the Criellan government. Moments before disaster stuck...
+あばよ、負け犬Ｌ！\t|おまえとの『勝負』おもしろかったぜ。\t|おまえは意外とショボかったけどな！\vはははははははは……！=Bye bye, L.\t|I enjoyed our little game.\t I didn’t think you’d be this pathetic, though.\vAh ha ha ha...!
+…@n0さん、ジェフリーを連れて|急いでそこから脱出してください！\t|もう爆発を止めることは不可能です！=....@n0, grab Jeffrey and get out of|there as soon as you can!\t|We can’t stop the ship now!
+暴走したグラナダ号は、クリエラ政府の|制圧地域であるアルテア港に向かったが|港に突入する寸前──=The Granada relentlessly headed for|Port Altair, an area controlled by the Criellan government.||Moments before disaster stuck...
 Ｌの要請により介入した米軍の爆撃機に|よって爆沈した──=The Granada was blown up and sunk by the US military who intervened at L’s request.
 事件は未解決のまま、迷宮入りした…=The case remains unsolved...
 !FILE:dat_script.bin/file001_PACK2/file011.bin
@@ -604,15 +604,15 @@
 !FILE:dat_script.bin/file012_PACK2/file006.bin
 ジェフリー、\t@n0さんと合流して|制御パネルを操作してください。=Jeffrey,\t please join up with @n0 and operate the control panel.
 はい！=On it!
-あとは、私に任せてください！=Leave the rest to me!
+あとは、私に任せてください！=Leave this to me!
 おっと、その制御パネルには|まだ触らない方がいい。=Whoa there, I wouldn’t touch that panel if I were you.
 ハウスキーパー…！！=Housekeeper...!
 どういうことですか？=What does that mean?
 この船には、おまえたちの知らない、|最後の爆弾が隠してセットしてある。\v起爆装置は制御パネルと連動していて、|解除するまえに制御パネルをいじれば|……アウト。\vエンジンは暴走して爆発、船内に残る|トラップは誘爆、証拠もおまえたちも|消し飛ぶ…\tトリプルプレーだ。=There’s one last bomb hidden on this ship that you don’t know about.\vThe detonator is linked to the control panel, and if you tamper with the panel before disarming it, well... You’ll be out.\vThe engines will go haywire and explode, any traps left on board will detonate, and both you and all the evidence will be erased.\vA triple play, if you will.
 うそだ…\tそんな話聞いてない！=No way...\t I wasn’t told about this!
-バカか、おまえは？\t|おまえたちだって俺に黙って|色々やってくれただろうに。=Are you that thick?\t|You did plenty of stuff you didn’t tell me, right?
+バカか、おまえは？\t|おまえたちだって俺に黙って|色々やってくれただろうに。=Are you that thick?\t|You did plenty of stuff you didn’t tell me about, right?
 くっ…！=Ngh...!
-@n0さん、ジェフリー、|言うことを聞いてください。\vハウスキーパーの言うことが本当でも|ウソだとしても関係ありません。\v私たちは、７つの起爆装置を|解除しましたが、爆弾そのものは|まだ生きているのですから…！=@n0, Jeffrey, listen to me.\vIt doesn’t matter whether the Housekeeper is telling the truth or not.\vWe’ve disarmed seven detonators, but the explosives themselves are still dangerous.\vWe have no choice but to play along.
+@n0さん、ジェフリー、|言うことを聞いてください。\vハウスキーパーの言うことが本当でも|ウソだとしても関係ありません。\v私たちは、７つの起爆装置を|解除しましたが、爆弾そのものは|まだ生きているのですから…！=@n0, Jeffrey, listen to me.\vIt doesn’t matter whether the Housekeeper is telling the truth or not.\vWe’ve disarmed seven detonators, but the explosives themselves are still dangerous.\t|We have no choice but to play along.
 さすがはＬ、いい判断だ。=How very understanding you are, L.
 よし、じゃあ、最後の勝負と行く前に|おまえたちが隠し持っている物騒な|モノを全部出せ！=Alright, before we start the final round, I’ll have you empty out your pockets so you can’t cheat.#2nd round
 @n1はスタンガンを捨てた。=@n1 threw away their stun gun.
@@ -621,7 +621,7 @@
 ハウスキーパーは２つのスイッチを|床に並べた。=The Housekeeper laid two switches|on the floor.
 さあ選べ。１つは爆破スイッチ…|もう１つは停止スイッチだ。\v本物を見抜ければＬ、おまえの勝ち。\t|見抜けなければ、スイッチを押してから|１０分足らずでこの船は大爆発だ。=It’s your choice. One switch will trigger the detonator, the other will deactivate it.\vIf you can spot the right one, L, you win.\t|Guess wrong, and this ship will blow in less than ten minutes.
 この船を爆破することなど無意味です。=It’s meaningless to blow up the ship.
-意味なんてどうだっていい。|俺が勝つか、あんたが勝つか…|これは勝負なんだよ。\vおまえは、俺との『勝負』を続けるしか|ないんだ…さあ、選べ！=I don’t care about that.|Only one of us can reign supreme.|This is the final showdown.\v...Now, choose!
+意味なんてどうだっていい。|俺が勝つか、あんたが勝つか…|これは勝負なんだよ。\vおまえは、俺との『勝負』を続けるしか|ないんだ…さあ、選べ！=I don’t care about that.|All I’m interested in is which of us will reign supreme.\t This is the final showdown.\v...Now, choose!
 !FILE:dat_script.bin/file012_PACK2/file007.bin
 @n0さん！！|右側が爆破スイッチです！！=@n0!!|The detonation switch is on the right!
 もう勝負は終わったんです！|無駄なことはやめなさい！=The match is already over.|Don’t do anything stupid!

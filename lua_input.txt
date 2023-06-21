@@ -67,7 +67,7 @@
 それで…私を追い詰められますか？=So, you think you have it all worked out?
 あなたが過去の事件で仕掛けたトラップ|には、利き腕の痕跡はまったく残って|いませんでした。=The traps you orchestrated in the past had no signs of a dominant hand at all.
 しかし、この『ワールドシリーズ』では|あなたはその痕跡を１度だけ残した。=But, in this “World Series”, there was a single occurrence where a trace was left.
-それが、スイッチを選ぶ手がかりに|なるはずです。@=That was a hint about which switch to pick.@
+それが、スイッチを選ぶ手がかりに|なるはずです。@=That gives me an idea about which switch to pick.@
 直球ド真ん中だな…|わざと痕跡を残したかもしれないぞ。=Now there’s a straight ball.|I might have made those on purpose, you know.
 このホテルの通路は、普通のホテルと|くらべて狭いように見えます。=
 <name>さんが往来する際の行動線が|予\想しやすい…なのに、通路には１つも|トラップが仕掛けてなかった。=
@@ -82,7 +82,7 @@
 そうですか？　外に仕掛けることで|相手を威かくする場合もありますよ。=
 壁に残された日焼け跡は人目を引き、|トラップにおびきよせるためのエサに|なりやすい…=The marks on the wall could easily have been used as bait to lure us into a trap.#debug only
 それなのに、あなたは利用しなかった。|本物のハウスキーパーなら利用せずには|いられないはずです。@=And yet, you didn’t. The real Housekeeper would never have missed an opportunity like that.@
-ふふっ…苦しい説明ですね、Ｌ。=Heheh... I have to say, I think you’re grasping at straws there, L. 
+ふふっ…苦しい説明ですね、Ｌ。=Heheh... I have to say, I think you’re grasping at straws there, L.
 日焼け跡は窓から差し込む光の紫外線に|よって色あせたものです。|つまり、窓のサイズとほぼ同じ。=The marks on the wall were caused by sunlight. In other words, they’re approximately the size of the windows.#debug only 
 １ｍ四方の窓というのは小さい…|ホテルの窓にしては小さ過ぎます。=A 1m square window... That’s too small for a hotel.#debug only
 世界中のホテルの窓サイズと照合して|みたのですが、そんな窓のホテルは|ありませんでした。@=We looked at information for hotels around the world, but there are none with such windows.@
@@ -100,9 +100,9 @@
 しかし、ハウスキーパーのトラップは|絶対にそれがわからない。|なぜなら、ヤツは両利きだからです。@=But these traps don’t have that. That’s because the Housekeeper is ambidextrous.@
 あなたは、私の質問に対し何と|言いましたっけ？=What did you say you were again?
 み、右利きだが、クセを消すぐらいの|技術は持って…い、いますよ…=I-I’m right-handed, but I know enough to be able to remove any giveaways.
-あなたはトラップに利き腕やその他の|クセを残さないよう、常に細心の注意を|払っている。=You’re always very careful to ensure that your traps don’t contain any tell-tale traits such as a dominant side.
+あなたはトラップに利き腕やその他の|クセを残さないよう、常に細心の注意を|払っている。=You’re always very careful to ensure that your traps don’t contain any tell-tale traits such as the use of a dominant hand.
 そのあなたが、痕跡を残したトラップを|私は先ほど見ました。|その痕跡が、私を正解へと導きます。@=But I have just seen a trap in which you left traces. Those traces will lead me to the right answer.@
-たいした自信だが、痕跡を残したのが|故意なのか偶然なのか、わかるとでも|いうのか？=You seem confident, but are you saying you know if I left those by accidental or deliberately?
+たいした自信だが、痕跡を残したのが|故意なのか偶然なのか、わかるとでも|いうのか？=You seem confident, but are you saying you know whether I left those by accident or if it was deliberate?
 あなたは右利きだと私に言いましたが、|ハウスキーパーのトラップには右利きの|人が作ると出るはずのクセがない…=You told me that you’re right-handed, but the Housekeeper’s traps don’t have any such tells.
 なぜなら、ハウスキーパーは両利き|なんです。@=That’s because the Housekeeper is ambidextrous.@
 そ、それは……=T-That’s...
@@ -269,7 +269,7 @@
 ええ、そういう風にも考えられますが、|今はそんな無駄話をしているときでは|ありません。米軍に要請を…！=That might be true, but now isn’t the best time for speculation. We need the US military--!
 このフロアのトラップに残されていた|『右利き』の痕跡。=There was evidence of right-handed favoritism in the traps on this floor.
 これだけであなたが『右利き』だと|判断するほど、私もマヌケではない。=I’m not so naive as to presume that you are right-handed from this alone.
-しかし、あなたが痕跡を残したことで|推理は難しくなりましたが、その半面、|『判断材料』は増えたのです。@=The fact you left evidence makes it harder for me to judge, but on the other hand, it gives me more material to work with.@
+しかし、あなたが痕跡を残したことで|推理は難しくなりましたが、その半面、|『判断材料』は増えたのです。@=The fact you left evidence makes things more complicated, but it also gives me more material to work with.@
 ほ、ほう、それで…何を判断する？=Oh? So tell me, what’s your answer?
 ジェフリー・ミラー…|いえ、クリロ・ミラニッチ…|それがあなたの本当の名前です。=Jeffrey Miller...|No, Kirilo Milanoviс.|That is your real name.#guess based on Serbian names. Feel free to change.
 英語になまりがあったことから|もしやと思い、ワタリに調べて|もらったんです。=I was curious about your English accent, so I asked Watari to look into it.
@@ -292,14 +292,14 @@
 な、なぜ私がそんなことを…！？=Why would I do that...!?
 ？？？=
 ？？？=
-あなたはこれまで一度も仕事に失敗した|ことはなかった…|そのプライドを私が砕いた。=You had never failed before... and I shattered your pride.
+あなたはこれまで一度も仕事に失敗した|ことはなかった…|そのプライドを私が砕いた。=Until now, you had never failed before...|I shattered your pride.
 あなたの性格から考えて、|私に『負けた』ままでいることは|最も屈辱的なことです。@=Given your personality, staying “beaten” by me is the one thing that would infuriate you the most.@
 その誇りを取り戻すために、あなたは|私と再び『勝負』したいのですね？=So to regain that pride, you want to compete with me again?
 ああそうだ…そして俺は必ず勝つ。=That’s right. And this time, I’ll win.
 たとえばの話ですが、もし今ここで、|私があなたに全面的に敗北を認めたら|どうしますか？@=What would you do if I conceded total defeat to you, right here and now?@
-負けを認めるだと！　ふざけるな！|真剣勝負を挑んでいる俺をバカに|するつもりか！=You, forfeit? Don’t talk bull!|Are you trying to suggest I’m not capable of beating you in a serious match?!
-あなたのアイドルは、ベーブ・ルース|だったんですよね？@=Your idolized Babe Ruth, didn’t you?@
-ああ、ベーブ・ルースのように打ち、|ベーブ・ルースのように投げた。|それがどうした？=Yeah. I hit like him, pitched like him... What of it?
+負けを認めるだと！　ふざけるな！|真剣勝負を挑んでいる俺をバカに|するつもりか！=You, forfeit? Don’t talk crap!|Are you trying to suggest I’m not capable of beating you in a serious match?!
+あなたのアイドルは、ベーブ・ルース|だったんですよね？@=You idolized Babe Ruth, didn’t you?@
+ああ、ベーブ・ルースのように打ち、|ベーブ・ルースのように投げた。|それがどうした？=Yeah. I hit like him, pitched like him...|What of it?
 あなたはベーブ・ルース２世と|おじいさんに呼ばれたんですよね？@=You said your grandfather used to call you Babe Ruth II?@
 ああ、だから何だ？|さっさとスイッチを選べ！=Yeah, so what?|Hurry up and pick a switch!
 Ｊ、ひとつ聞かせていただけませんか？|あなたの組織が扱う武器の中で、現在|最も売れ筋の「商品」は何ですか？@=I’m curious, J. What is the current best- selling “product” in your organization’s line-up?@
@@ -686,7 +686,7 @@
 『僕は戦争で家族を失った。|　僕はこの世界からすべての戦争を|　なくしてしまいたい』=“The war took my family. I want to rid the world of war.”#end dupe
 …………！=...!
 （どっちが停止スイッチなんだ…）=(Which is the stop switch...?)
-私なら、大事なものは自分の守りやすい|ところに置く…つまり、利き腕側に…|爆破スイッチを置くでしょうね。=If it were me, I would put the detonation switch where it was easier to grab, i.e. on my dominant side...
+私なら、大事なものは自分の守りやすい|ところに置く…つまり、利き腕側に…|爆破スイッチを置くでしょうね。=If it were me, I would put the detonation switch where it was easier to grab, i.e.,|on my dominant side...
 ほう、面白い推理だな。|しかし、残念ながら、俺は両利きだ。=Heh, that’s an interesting theory.|Unfortunately for you though, I’m ambidextrous.
 ええ、知っています。=Yes, I know.
 ですが、その『両利き』は訓練して|身に着けたものであって、本来の|あなたの利き手ではありません。=But that ‘ambidexterity’ is something you trained to acquire, not what comes naturally to you.
@@ -719,7 +719,7 @@
 …………=...
 …………=...
 …Ｌ、おまえの推理力とやらもたいした|ことはなかったようだな…=It seems your deductive powers don’t add up to much, L.
-くっ……！=Rrgh...!
+くっ……！=Ghh...!
 もう一度言います。|あなたが先に選んでください。=I’ll say it again.|You choose.#use dupe
 どういうつもりだ？|俺が爆破スイッチを選んでもいいのか！=What are you thinking!?|Are you saying you don’t care if I hit the detonator!?
 ええ…すべてあなたの自由です。|ですが、あなたは爆破スイッチは|選びません。=It’s entirely your choice.|Though, I doubt you’ll hit the detonator.
@@ -763,7 +763,7 @@
 この調書の情報から、ハウスキーパーの|利き腕を導き出すのは難しそうだが…=It’s difficult to derive the Housekeeper’s handedness from this information, but...
 ハウスキーパーという言葉は確か、|ヤツの母国で生まれたものだ…|だがＪの英語は…=The term “housekeeper” originates from England, but J’s English is...
 トラップには本人も気づかないクセが|出るもの…特に、利き手は出やすい。|それが出ないのとすれば利き手は…=Traps tend to reveal the quirks of their maker, even if said person isn’t aware of it. Use of a dominant hand is a common one.
-ヤツはトラップに痕跡が残らないように|細心の注意を払って仕掛ける…しかし、|このフロアではその余裕はなかった…=He takes great care to leave no giveaways in his traps... but there was no time for that on this floor.
+ヤツはトラップに痕跡が残らないように|細心の注意を払って仕掛ける…しかし、|このフロアではその余裕はなかった…=The Housekeeper takes great care to leave no giveaways in his traps... but there was no time for that on this floor.
 完全な右利きの人間がモノを作れば、|かならずそのクセは出てくるはず…=If someone who’s strictly right-handed makes things, you’ll be able to see a pattern...
 ハウスキーパーがＪの利き腕が右だと|知っていて、わざとトラップに右利きの|痕跡を残した可能\性は…=It’s possible that the Housekeeper knew that J is right-handed and deliberately left right-handed quirks in the traps...
 同じトラップを続ければ、相手も対策を|しやすくなる。ハウスキーパーがそんな|ヘマをするとは思えない…ならば…=If you repeat the same traps, they become easier to countermeasure. I don’t think the Housekeeper would make a mistake like that.
@@ -809,9 +809,9 @@
 この情報の中に、リブート社とＣＬＮの|接点はないのか…？=Is there anything here to suggest a link between Reboot Inc. and the CLN?
 さすがに救命ボートが犯人につながる|ようなことはないだろう…=I’m not sure the lifeboat is going to lead me to the criminal...
 これは、ジェフリーにはあまり関係が|ないように思われるが…|揺さぶりぐらいには…なるのか…？=I don’t think that’s really relevant to Jeffrey... But could it elicit a reaction out of him?#dupe
-ヤツのベースボール好きは相当だ…|ベースボールの話題をするヤツには隙が|できる…そこを揺さぶれば…=He’s a big fan of baseball, and that gives me an opening. If I attack him from that angle...
+ヤツのベースボール好きは相当だ…|ベースボールの話題をするヤツには隙が|できる…そこを揺さぶれば…=The Housekeeper is a big fan of baseball, and that gives me an opening. If I attack him from that angle...
 これは、ジェフリーにはあまり関係が|ないように思われるが…|揺さぶりぐらいには…なるのか…？=I don’t think that’s really relevant to Jeffrey... But could it elicit a reaction out of him?#dupe
-これが無意識のうちに出たものなのか、|それとも故意に痕跡を残したのか、|他の情報と合わせて考えなくては…=Was this done unconsciously, or did he deliberately leave traces to throw me...
+これが無意識のうちに出たものなのか、|それとも故意に痕跡を残したのか、|他の情報と合わせて考えなくては…=Was this done unconsciously, or did he deliberately leave traces to throw me?
 ジェフリーは紛争の被害者…|ＣＬＮの幹部であるアロイスへの|憎しみを抱いているはずだ…=Jeffrey is a victim of war...|He must harbor a hatred for Alois,|an executive of the CLN.
 彼の家族を奪ったのはＣＬＮの兵器…|アロイスへの恩があるとはいえ、|ＣＬＮを許せるはずがない…=It was the CLN’s weapons that took his family. Even though he owes a debt of gratitude to Alois, he can’t forgive the CLN.
 計画の立案から立ち会っていれば、|自分の思惑を計画の裏に潜ませることは|不可能\ではない…=If he was present during the planning, it wouldn’t be impossible for him to slip his|own agenda into the works.
