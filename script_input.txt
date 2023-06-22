@@ -1,55 +1,55 @@
-!FILE:dat_script.bin/file001_PACK2/file006.bin
+!FILE:dat_script.bin/file001_PACK2/file006.bin#true end
 うぐっ……！\t|ジェ、ジェフリー…貴様…=Ugk--!\t|J-Jeffrey, you bastard--!
 …や、やったのか…=...I-I did it...
-@n0さん、ジェフリー、喜ぶのは|まだ早い！\t|さあ、船を停めるんです！=@n0, Jeffrey, it’s too early to|celebrate just yet.\t You need to stop the ship!
-停まった…|エンジンの爆発ももう心配ありません。=You’ve done it... Now we don’t have to worry about the engines exploding anymore either.
+@n0さん、ジェフリー、喜ぶのは|まだ早い！\t|さあ、船を停めるんです！=@n0, Jeffrey, it’s too early to|celebrate just yet.\t|You need to stop the ship!
+停まった…|エンジンの爆発ももう心配ありません。=You did it...|Now we don’t have to worry about the engines exploding anymore either.
 終わったんです…=It's over...
 どうやらお迎えがきたようですね。=It looks like they’re here.
 『ご苦労様でした』=“Good work.”
-船に残された証拠やジェフリー、|ハウスキーパーの証言などから|ＣＬＮの全貌が判明。|ＣＬＮが手を打つより早く、|Ｌは全世界のマスコミに事件を公表した。=The evidence found on the ship, as well as the testimonies from Jeffrey and the Housekeeper, painted a clear picture of the scene.|Before the CLN could react, L revealed the news to the worldwide press.
+船に残された証拠やジェフリー、|ハウスキーパーの証言などから|ＣＬＮの全貌が判明。|ＣＬＮが手を打つより早く、|Ｌは全世界のマスコミに事件を公表した。=The evidence found on the ship, as well as the testimonies from Jeffrey and the Housekeeper, painted a clear picture of|the scene.||Before the CLN could react, L revealed the news to the world press.
 アロイスは逮捕され、|ＣＬＮ自体も社会的に壊滅した。\v──そして後日。=Alois was arrested and the CLN collapsed.\vSome time later...
 @n1、今日、Ｌからこれが届いた。\t|君宛てだ。=@n2, this came for you.\t|It’s from L.#Raye
 @n1、今日、Ｌからこれが|届いたわ。\tあなた宛てよ。=@n2, a message arrived from L.\t|It’s addressed to you.#Naomi
-@n0さん、おひさしぶりです。\t|その後、お体の具合はいかがですか？\vこのたび連絡を差し上げたのは、|あの事件の時、伝え忘れたことがあった|のを思い出したからです。\vあの事件は世界中でセンセーショナルに|報道がなされ、ＣＬＮやリブート社の|悪事が日々暴かれています。\vアロイスやハウスキーパー…そして、|ジェフリーの素性や生い立ちを取り上げ|ている。まるでＴＶショーのように…\vしかし、あの事件が起きてしまった|最大の原因…事件の裏にある『叫び』に|誰も耳を貸そうとしていません…\vそう、その叫びとは…=Hello again, @n0.\t|How have you been?\vI’m contacting you because I remembered something I forgot to mention the last time we spoke.\vAfter the news broke about the incident, there has been worldwide interest in the case. New information about wrongdoings of the CLN and Reboot Inc. is being discovered daily.\vAlois, the Housekeeper and even Jeffrey’s identity and history are being covered.|It’s like they’ve become celebrities...\vBut no one has been paying any attention to the real reason why the whole thing happened...\vThat voice crying out...
+@n0さん、おひさしぶりです。\t|その後、お体の具合はいかがですか？\vこのたび連絡を差し上げたのは、|あの事件の時、伝え忘れたことがあった|のを思い出したからです。\vあの事件は世界中でセンセーショナルに|報道がなされ、ＣＬＮやリブート社の|悪事が日々暴かれています。\vアロイスやハウスキーパー…そして、|ジェフリーの素性や生い立ちを取り上げ|ている。まるでＴＶショーのように…\vしかし、あの事件が起きてしまった|最大の原因…事件の裏にある『叫び』に|誰も耳を貸そうとしていません…\vそう、その叫びとは…=Hello again, @n0.\t|How have you been?\vI’m contacting you because I remembered something I forgot to mention the last time we spoke.\vAfter the news broke about the incident, there has been worldwide interest in the case. New information about the wrongdoings of the CLN and Reboot Inc.|is being uncovered daily.\vAlois, the Housekeeper and even Jeffrey’s identity and history are being addressed.|It’s like they’ve become celebrities...\vBut no one has been paying any attention to the real reason why the whole thing happened...\vThat voice crying out...
 ……Ｌ、私はこの事件に関わったことを|後悔していない…\tなぜなら、あなたと|話をする機会を得られたからです…=...I don’t regret being involved in this case.\t After all, it gave me a chance to talk to you, L.
 …………？=...?
 あなたに指摘されたように、私は戦争で|家族も故郷も未来も奪われてしまった。\t|私は戦争が憎い…\v今回の件で、ＣＬＮを壊滅に追い込める|かもしれませんが、世界中で紛争は今も|続いています…\v憎しみや悲しみを生み出す戦争なんて|この地上からなくなってしまえばいい。\t|あなたもそう思いませんか？=As you said, it was war that took away my family, my home and even my future.\t|I hate war...\vWhat happened here might be enough to destroy the CLN, but it won’t stop the conflicts taking place all around the world.\vWar only creates suffering and sadness. Something like that shouldn’t exist in this world.\t Don’t you agree?
 …思います。=...I do.
-ならばなぜあなたは、犯罪捜査などと|いう小さな活動を続けているのです？\vあなたが１０人の殺人犯を追う間に、|紛争地帯では市民も兵士も関係なく、|百人、千人と死んでいく…\v『Ｌ』の頭脳と、各国警察に対する|影響力は、そんな不毛な紛争の解決に|こそ使うべきではないのですか？=Then why are you involved in something so small-scale like criminal investigation?\vWhile you’re chasing ten murderers, hundreds of thousands of people, both soldiers and civilians, are dying in war zones.\vWouldn’t your intelligence and influence be better served by working to resolve these pointless conflicts?
+ならばなぜあなたは、犯罪捜査などと|いう小さな活動を続けているのです？\vあなたが１０人の殺人犯を追う間に、|紛争地帯では市民も兵士も関係なく、|百人、千人と死んでいく…\v『Ｌ』の頭脳と、各国警察に対する|影響力は、そんな不毛な紛争の解決に|こそ使うべきではないのですか？=Then why are you involved in small-scale criminal investigations?\vWhile you’re chasing ten murderers, many thousands of people, both soldiers and civilians, are dying in war zones.\vWouldn’t your intelligence and influence be better served by working to resolve these pointless conflicts?
 …あるいは、そうなのかもしれません。=...You do have a point, but I’m afraid it’s not that simple.
-戦争は、１人の権力者の暴走によって|起こり得ますが、１人の頭脳で解決|できるものではありません。\v１発の爆弾が生み出す悲劇…\t|そこには無数の人間の憎悪や悲しみ、|怒りが渦巻いています。\v複雑に絡み合う負の連鎖を解くためには|当事者を含む、すべての人々の知恵と|勇気と努力が必要なんです。=Wars can be caused by the outburst one person in power, but they cannot be solved by one brain.\vThe suffering that a single bomb can create...\t The human cost, the sadness and hatred...\vIn order to break the negative cycle, it would take the wisdom, courage and determination of everyone involved.
-戦争や紛争という手段は『悪』です。\vしかし、そこに関わる人々には、|戦争に参加するための『正義』が|存在するのです…\vそれがエゴであっても、憎しみだったと|しても…\t彼らにとっては正義なのです。|そこに、私の出る幕はありません。=The acts of war and conflict are “evil”.\vBut, the people who get involved are doing so out of a sense of “justice”.\vWhether that’s their own ego, or out of hatred...\t It’s still justice to them.|It’s not my place to get involved.
+戦争は、１人の権力者の暴走によって|起こり得ますが、１人の頭脳で解決|できるものではありません。\v１発の爆弾が生み出す悲劇…\t|そこには無数の人間の憎悪や悲しみ、|怒りが渦巻いています。\v複雑に絡み合う負の連鎖を解くためには|当事者を含む、すべての人々の知恵と|勇気と努力が必要なんです。=Wars can be caused by the outburst of one person in power, but they cannot be solved by one brain.\vThe suffering that a single bomb can create...\t The human cost, the sadness and hatred...\vIn order to break the negative cycle, it would take the wisdom, courage and determination of everyone involved.
+戦争や紛争という手段は『悪』です。\vしかし、そこに関わる人々には、|戦争に参加するための『正義』が|存在するのです…\vそれがエゴであっても、憎しみだったと|しても…\t彼らにとっては正義なのです。|そこに、私の出る幕はありません。=The acts of war and conflict are “evil”.\vBut, the people who get involved in them are doing so out of a sense of “justice”.\vWhether that’s their own ego, or out of hatred...\t It’s still justice to them.|It’s not my place to get involved.
 …………=...
-…私にできるのは事件の謎を解き、|犯罪者を捕らえることだけです。\vそれに私は、今の仕事がけっこう|気に入っているんです。\v通信端末ごしとはいえ、|あなたのような人とも出会えます。\v今回の事件は、あなたがパートナーで|なければ解決できなかったでしょう。\t|本当にお疲れ様でした。=...All I can do is solve mysteries|and catch criminals.\vAnd, as it happens, I quite like my job.\vI get to meet people like you, even if only on screen.\vThis case would not have been solved without you.\t|Thank you for everything.
-ここまでは前置きです。\t|伝え忘れたのは事件の話ではなく…|例のデザート職人の話です。\v本人の強い意志で名前を教えることは|できないのですが、ヒントをひとつ…\t|『彼』は私のそばにいる人物です。\vそれから最後に…=Well, now I’m waffling.\t|What I wanted to tell you is not|about the case...|It’s about the phantom patissier.\vI’m afraid I can’t reveal his name, but I can give you a hint...\t|“He” is someone close to me.\vAnd, finally...
-!FILE:dat_script.bin/file001_PACK2/file007.bin
+…私にできるのは事件の謎を解き、|犯罪者を捕らえることだけです。\vそれに私は、今の仕事がけっこう|気に入っているんです。\v通信端末ごしとはいえ、|あなたのような人とも出会えます。\v今回の事件は、あなたがパートナーで|なければ解決できなかったでしょう。\t|本当にお疲れ様でした。=...All I can do is solve mysteries|and catch criminals.\vAnd, as it happens, I quite like my job.\vI get to meet people like you,|even if only on screen.\vThis case would not have been solved without you.\t|Thank you for everything.
+ここまでは前置きです。\t|伝え忘れたのは事件の話ではなく…|例のデザート職人の話です。\v本人の強い意志で名前を教えることは|できないのですが、ヒントをひとつ…\t|『彼』は私のそばにいる人物です。\vそれから最後に…=Well, now I’m waffling.\t|What I wanted to tell you is not|about the case...|It’s about the phantom patissier.\vI’m afraid I can’t reveal their name,|but I can give you a hint...\t|“He” is someone close to me.\vAnd, finally...
+!FILE:dat_script.bin/file001_PACK2/file007.bin#good end
 くそっ！　ここまでか！=Damn! Is this it!?
 ゴホッ、ゴホッ…！=＊Cough, cough...!＊
 こ、これは、催涙ガス…！？=Is that... tear gas...!?
 俺は負けない…\t|いつか必ず、おまえに復讐してやる。\t|おぼえておけ、Ｌ！=I haven’t lost yet.\t|One day, I’ll get my revenge on you.\t|Remember that, L!
 …ま、待て…！=W-Wait--!
 @n0さん、ジェフリー！|今は、船を停めることが先です！\t|急いでください！=@n0, Jeffrey!|Right now, stopping the ship is more important!\t Hurry, please!
-グラナダ号の暴走は寸前のところで|阻止され、大惨事は免れた。=The Granada was stopped just in time to avert a catastrophe.
-残された数多くの証拠からリブート社の|アロイス会長の事件への関与が明らかと|なり、ＦＢＩは逮捕状を請求。=The plentiful evidence left on the ship revealed Reboot’s involvement in the case, and the FBI issued an arrest warrant for Alois.
-しかし、その直後、アロイスの自殺体が|スイスの別荘から発見された…=However, shortly afterwards, Alois’s body was found in his Swiss villa in an apparent attempt to take his own life.
+グラナダ号の暴走は寸前のところで|阻止され、大惨事は免れた。=The Granada was stopped just in time|to avert disaster.
+残された数多くの証拠からリブート社の|アロイス会長の事件への関与が明らかと|なり、ＦＢＩは逮捕状を請求。=The plentiful evidence left on the ship attested to Reboot Inc.’s involvement in|the case, and the FBI issued an arrest warrant for Alois.
+しかし、その直後、アロイスの自殺体が|スイスの別荘から発見された…=However, shortly afterwards, Alois’ body was found in his Swiss villa in an apparent attempt to take his own life.
 捜査本部はＣＬＮによる口封じだとし、|必死の捜査を続けたが、決定的な証拠を|見つけることはできなかった…=The investigation team assumed that the CLN was trying to silence him, and a desperate manhunt ensued, but they were unable to find any conclusive evidence.
-事件は、アロイスの死とともに|幕を降ろした──=With his death, the case turns cold...
+事件は、アロイスの死とともに|幕を降ろした──=With his death, the case turned cold...
 クリアデータを保存しますか？=Save game clear data?
-!FILE:dat_script.bin/file001_PACK2/file008.bin
+!FILE:dat_script.bin/file001_PACK2/file008.bin#normal end 1 (stun gun needed)
 …や、やったのか…\t|いや、船を停めなくては…！=...I-I did it...\t|Wait, we still need to stop the ship--!
 システムダウン…！？=The system’s down...!?
 緊急停止システムです！\t|プログラムを無効にしておいたのに、|まさか、アロイス会長が…！=It’s the emergency shutdown protocol!\t|I thought I’d disabled the program, don’t tell me Alois--!
-彼も元はプログラマーです。\t|そのくらいのことはやりかねません。=He used to be a programmer too.\t|It wouldn’t be impossible.
+彼も元はプログラマーです。\t|そのくらいのことはやりかねません。=He used to be a programmer too.\t|It’s not out of the question.
 くそっ、どうして気づけなかったんだ！=Damn it, why didn’t I realize sooner!?
-嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|ジェフリーとハウスキーパーを連れて|脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n0! Take Jeffrey and the|Housekeeper and get out of there!
-大惨事は免れたが、グラナダ号は爆沈し|証拠は海の藻屑と消えた…=The worst-case scenario was averted, but the Granada self-imploded and the evidence was lost to the sea...
-逮捕されたジェフリーの証言から、|アロイスとリブート社が徹底捜査された|が、今回の事件にＣＬＮが関与している|という証拠は見つからなかった。=Jeffrey was arrested, and his testimony prompted a thorough investigation of Alois and Reboot Inc., but no evidence of the CLN’s involvement was found.
-ハウスキーパーは黙秘を続けていたが、|逮捕から１週間後、刑務所内で何者かに|襲われ、死亡した。=The Housekeeper ultimately refused to speak, but a week after his arrest, he was attacked and killed in prison.
+嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|ジェフリーとハウスキーパーを連れて|脱出してください！=We can worry about that later.\t|The engines are about to go into overdrive!\v@n0! Take Jeffrey and the|Housekeeper and get out of there!
+大惨事は免れたが、グラナダ号は爆沈し|証拠は海の藻屑と消えた…=Worst-case scenario averted, the unmanned Granada imploded and the evidence it contained was lost to sea...
+逮捕されたジェフリーの証言から、|アロイスとリブート社が徹底捜査された|が、今回の事件にＣＬＮが関与している|という証拠は見つからなかった。=Jeffrey was arrested, and his testimony prompted a thorough investigation of Alois and Reboot Inc., however, no evidence of the CLN’s involvement was found.
+ハウスキーパーは黙秘を続けていたが、|逮捕から１週間後、刑務所内で何者かに|襲われ、死亡した。=The Housekeeper continually refused|to speak to the authorities.||One week after his arrest, he was|attacked and killed in prison.
 事件の真相は明かされないまま、|『グラナダ号』事件は終わった…=The Granada case came to an end without the truth ever coming to light...
-!FILE:dat_script.bin/file001_PACK2/file009.bin
-嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|急いでそこから脱出してください！=We can worry about that later!\t|The engines are about to go into overdrive!\v@n0! Get out of there!
+!FILE:dat_script.bin/file001_PACK2/file009.bin#normal end 2
+嘆くのは後です！\t|間もなくエンジンの暴走が始まります！\v@n0さん！|急いでそこから脱出してください！=We can worry about that later.\t|The engines are about to go into overdrive!\v@n0! Get out of there!
 ＦＢＩは逃亡したハウスキーパーの|行方を追っているが、未だに足取りは|つかめないままである。=The FBI have been trying to track down the fugitive Housekeeper, but his whereabouts remain unknown.
-!FILE:dat_script.bin/file001_PACK2/file010.bin
+!FILE:dat_script.bin/file001_PACK2/file010.bin#bad end
 この勝負は俺の勝ちだ、Ｌ。\t|ふっふっふっ……ははははははは！\t|俺は、俺はＬに勝ったぞ！！=I win this match, L.\t|Ahaha... HA HA HA!\t|I-I beat the great L!!
 @n0さん！　ハウスキーパーの|身柄を確保してください！=@n0! Arrest the Housekeeper!
 そうはいくか！=Not so fast!
@@ -58,9 +58,9 @@
 暴走したグラナダ号は、クリエラ政府の|制圧地域であるアルテア港に向かったが|港に突入する寸前──=The Granada relentlessly headed for|Port Altair, an area controlled by the Criellan government.||Moments before disaster stuck...
 Ｌの要請により介入した米軍の爆撃機に|よって爆沈した──=The Granada was blown up and sunk by the US military who intervened at L’s request.
 事件は未解決のまま、迷宮入りした…=The case remains unsolved...
-!FILE:dat_script.bin/file001_PACK2/file011.bin
+!FILE:dat_script.bin/file001_PACK2/file011.bin#boat end
 Ｌ、今、合衆国大統領から米軍長官に|グラナダ号撃沈指令が出されました。=L, the President of the United States has given the order to the US Secretary of War to sink the Granada.
-@n1は救命ボートで脱出した。\vグラナダ号はアルテア港に突入する寸前|米軍爆撃機の攻撃を受け沈んだ…\v『グラナダ号』は海中で大破し、|証拠の回収はならず、|事件は未解決のまま幕を下ろした…=@n1 escaped by lifeboat.\vThe Granada was sunk by US bombers just before it managed to reach Port Altair.\vNo evidence was able to be recovered from the shipwreck, and the case was left unsolved...
+@n1は救命ボートで脱出した。\vグラナダ号はアルテア港に突入する寸前|米軍爆撃機の攻撃を受け沈んだ…\v『グラナダ号』は海中で大破し、|証拠の回収はならず、|事件は未解決のまま幕を下ろした…=@n1 escaped by lifeboat.\vThe Granada was sunk by US bombers just before it managed to reach Port Altair.\vNo evidence was able to be recovered|from the shipwreck, and the case was|left unsolved...
 !FILE:dat_script.bin/file001_PACK2/file012.bin
 数年後 ──\v数十件の重犯罪について起訴されていた|アロイス・ベイトソン被告は保釈中、|滞在先のフロリダ州で心臓麻痺により|死亡した…=Several years later...\vAlois Bateson, who had been charged with numerous crimes, died of a heart attack in Florida while out on bail...
 !FILE:dat_script.bin/file002_PACK2/file006.bin
@@ -625,7 +625,7 @@
 !FILE:dat_script.bin/file012_PACK2/file007.bin
 @n0さん！！|右側が爆破スイッチです！！=@n0!!|The detonation switch is on the right!
 もう勝負は終わったんです！|無駄なことはやめなさい！=The match is already over.|Don’t do anything stupid!
-たとえ俺が負けたとしても、|この船をブッ飛ばして、ＦＢＩや|ジェフリーを道連れにすれば…\v犠牲を出したおまえも『負け』同然だ！|ははっ…はははははははっ！=Even if you say I’ve lost, if I blow up this ship and take your friends with me, you’ll be the biggest loser!\vAha... HA HA HA!
+たとえ俺が負けたとしても、|この船をブッ飛ばして、ＦＢＩや|ジェフリーを道連れにすれば…\v犠牲を出したおまえも『負け』同然だ！|ははっ…はははははははっ！=Even if you say I’ve lost, if I blow up this ship and take your friends with me, you’ll be the bigger loser!\vAha... HA HA HA!
 !FILE:dat_script.bin/file012_PACK2/file008.bin
 ジェフリー、あなたの出番も|すぐに来るはずです。\vそろそろ機関室に向かって|おいてもらえますか？=Jeffrey, we’ll be needing you very soon.\vCould you please start heading to the engine room now?
 ただし、@n0さんが|すべてを解除するまでこのフロアには|入らないでください。=Don’t enter until @n0 has disarmed everything.

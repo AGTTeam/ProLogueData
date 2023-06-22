@@ -2,7 +2,7 @@
 レシピ【%s】を追加！=Recipe “%s” added!
 【%s】を手に入れた！=“%s” found!#went with found over obtained to make sense with next line, but may not work in all contexts.
 しかしこれ以上持つことはできない！=You can’t hold any more!
-冒頭=OP#seems to be debug section
+冒頭=Start#seems to be debug section
 ダミー -=Dummy
 プロローグ=Prologue
 通信室=Comms
