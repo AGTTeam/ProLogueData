@@ -32,7 +32,7 @@
 彼等も、どこかで…=Somewhere, they must also be...
 ゼリービーンズ‐青=
 今度、試してみるか。=I’ll have to test that theory next time.
-今のところ７０％か…=I’d say it was about 70％ right now...
+今のところ７０％か…=I’d say it was about 70% right now...
 何か裏がありそうだ。=You seem to have an ulterior motive.
 今夜、もしかすると…=Maybe tonight...
 すっかり夜更けです。=It has gotten very late.
@@ -49,8 +49,8 @@
 夜が明けたら、きっと…=When dawn breaks, surely...
 カンが鈍ったら引退か。=If I start to lose my touch... I guess I’ll retire.
 もうすぐ日が暮れます。=The sun will set soon.
-５０％…|いや３０％か。=50％...|No, 30％.
-１００％スッキリしたい。=I want to feel 100％ refreshed.#tc
+５０％…|いや３０％か。=50%...|No, 30%.
+１００％スッキリしたい。=I want to feel 100% refreshed.#tc
 そういえば…そうだった。=Come to think of it... That’s right.
 が、|追加されました。=〇obtained.
 スウィーツ…糖分の補給…=Sweets... My sugar fix...
@@ -69,7 +69,7 @@
 もう、日が暮れてしまいますね。=It’s already getting dark...
 あなた、ヒマではありませんか？=Don’t you have stuff to do?
 あれは確か、|うーん…まあいい。=I’m quite positive that’s...|Well, I’ll let it slide.
-スウィーツを|持ってまいります。=I’ll bring some snacks.
+スウィーツを|持ってまいります。=I have brought you some snacks.
 夜です。|少し口寂しい気分です。=It’s late. I can feel a craving coming on.
 コーンもサクサクいただきました。=The crunchy cone is nice too.
 行き詰ったら原点に戻ること、か。=When you get stuck, you should go back to the basics, huh?
@@ -97,7 +97,7 @@
 じっくりやれば証拠は必ず出る。|それがあらゆる捜査の基本か。=If you take your time, you will always find evidence. Isn’t that true for all investigations?
 それでは、|電源が切られるまでの間ですが|よろしくお願いします。=Well, until you decide to turn the power off, please enjoy.
 体験版では、そのあたりの機能が|限定されていますので、あしからず。=I’m afraid the trial version’s functions are limited. I hope you understand.#L5
-ピンク色が可愛らしい|ロリポップキャンディ。|女の子に人気のイチゴ味。|=A lollipop with a pretty pink color.|Strawberry flavor is very popular with girls.
+ピンク色が可愛らしい|ロリポップキャンディ。|女の子に人気のイチゴ味。|=A pretty pink lollipop.|Strawberry flavor is very popular with girls.
 ドーナツより、ドーナッツと言う方が、|言葉の響きは良いような気がします。=I think the word “doughnut” sounds better than “donut”.
 体験版で使えるコマンドは、|<red>【話しかける】【スウィーツ】<white>の|２つです。=In this version, only the <red>“Talk”<white> and <red>“Snacks”<white> commands are available.#L3
 お団子はもっちりですが…|鋭くとがった串は、場合によって|凶器に変わります。=The dango are squishy, but the sharp point of the skewer can be used as a weapon.

@@ -1480,7 +1480,7 @@ debug jump?=
 !FILE:dat_script_f07.bin/file005_PACK2/file021.bin
 コードだ。\v爆薬と起爆装置を繋いでいる。=Wires connect the explosives|to the detonator.
 !FILE:dat_script_f07.bin/file007_PACK2/file010.bin
-穴が開いている。=There are two small holes.#qc can be more than one
+穴が開いている。=There are two small holes.
 取っ手を取り付けた。=Attached the handle.
 !FILE:dat_script_f07.bin/file007_PACK2/file011.bin
 箱を開きます。|よろしいですか？=Open the box?
@@ -1975,65 +1975,65 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ここまで来れば、あとは|起爆装置を解除するだけです。=Now that you’ve got this far, all that’s left is to disarm the detonator.
 シリンダーと起爆装置の接続を|切断しながら、解除してください。\v切るべきコードは私が指示します。=Disconnect the cylinder and the detonator.\vI’ll tell you which wires to cut.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file013.bin
-シリンダーからコードが伸びている。\vダミーのコードを切断すると|起爆装置が作動するかもしれない。=Wires extend from the cylinder.\vCutting the wrong wire could trigger the detonator.
+シリンダーからコードが伸びている。\vダミーのコードを切断すると|起爆装置が作動するかもしれない。=Wires extend from the cylinder.\vCutting the wrong wire could|trigger the detonator.
 複数のコードがある。\vしかし全てが起爆センサーと|繋がっているわけではないようだ。=There are a number of wires.\vNot all of them seem to be connected to the detonator.
-接続部分が確認できるようになった。\vメインセンサーと無関係な|衝撃や信号を伝えるコードを|見分けられるようになった。=It is now possible to understand how the trap is wired.\vThe main wire has been identified.
+接続部分が確認できるようになった。\vメインセンサーと無関係な|衝撃や信号を伝えるコードを|見分けられるようになった。=It is now possible to understand|how the trap is wired.\vThe main wire has been identified.
 ハサミを使った。=Used Scissors.
 メインセンサー以外のコードを切った。=Cut all but the main wire.
 起爆装置が作動してしまった！=Triggered the detonator!
 カッターを使った。=Used Box Cutter.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file014.bin
 下のケースはスライド式で|開けられそうだ。\vしかし今は少ししか動かない。=The lower case has a sliding lid.\vIt appears to be stuck.
-爆薬からのコードがつながっている。\v下のケースの中に|起爆装置があるらしい。=Wires extend from the detonator into the case.\vIt appears the detonator could be inside.
-重心の移動に違和感が！\v起爆装置には液体が使われて|いる可能性がある。\v大きく動かすと爆発するかもしれない。=The center of gravity shifted!\vThere may be liquid inside.\vIf it moves too much, the detonator may trigger.
+爆薬からのコードがつながっている。\v下のケースの中に|起爆装置があるらしい。=Wires extend from the|explosive into the case.\vIt appears the detonator could be inside.
+重心の移動に違和感が！\v起爆装置には液体が使われて|いる可能性がある。\v大きく動かすと爆発するかもしれない。=The center of gravity shifted!\vThere may be liquid inside.\vIf it moves too much,|the detonator may trigger.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file015.bin
 フタつきのケースだ。\vフタは@fRネジ止め@fWされているようだ。=A case with a lid.\vThe lid has been @fRscrewed@fW on.
 フタつきのケースだ。\t\v@fRネジ@fWは外されている。=A case with a lid.\vThe @fRscrews@fW have been removed.
 フタには引っ掛かりがあるため、|外すときには注意が必要だ。=The lid seems to be catching on something, so needs to be removed with care.
 フタつきのケースだ。\vこじ開けられて隙間ができている。=A case with a lid.\vA gap has been opened in the side.
-このケースの中には|起爆装置はないようだ=The detonator doesn’t appear to be in this case.
+このケースの中には|起爆装置はないようだ=The detonator doesn’t appear|to be in this case.
 ドライバーを使った。=Used Screwdriver.
 @fRフタ@fWを固定していたネジが緩んだ。=Loosened the screws securing the @fRlid@fW.
 ハンマーでフタの上部をたたいた。\v少しゆがんでしまった。=Hit the top of the lid with a hammer.\vThe lid has been slightly warped.
 ミニバールを使った。=Used Crowbar.
 ケースとフタの間にスキマができた！=Created a gap between the case and the lid!
 !FILE:dat_script_trapbig.bin/file001_PACK2/file016.bin
-解除ボタンのようにも見えるが|これ自体がトラップかもしれない。\vどうしようか？=It looks like a release button, but it could be a trap.\vWhat do you want to do?
+解除ボタンのようにも見えるが|これ自体がトラップかもしれない。\vどうしようか？=It looks like a release button,|but it could be a trap.\vWhat do you want to do?
 あえてボタンを押す=Daringly push the button
 グッとこらえる=Resist the temptation
 ハンマーでボタンをたたいた。\vスイッチが入ってしまった！=Hit the button with a hammer.\vThe switch was pressed!
 !FILE:dat_script_trapbig.bin/file001_PACK2/file017.bin
 下のケースとシリンダーが|@fRハリガネ@fWで固定されている。=The lower case and cylinder have been secured by a @fRmetal wire@fW.
-シリンダーが下のケース内の何かと|@fRハリガネ@fWで固定されている。\v強引に外すと起爆装置が|作動するかもしれない。=@fRMetal wire@fW secures the cylinder to the lower case.\vIt may trigger the detonator if forcibly removed.
-シリンダーと下のケースを固定している|ハリガネを切った。=Cut the metal wire securing the cylinder to the lower case.
+シリンダーが下のケース内の何かと|@fRハリガネ@fWで固定されている。\v強引に外すと起爆装置が|作動するかもしれない。=@fRMetal wire@fW secures the cylinder|to the lower case.\vIt may trigger the detonator|if forcibly removed.
+シリンダーと下のケースを固定している|ハリガネを切った。=Cut the metal wire securing|the cylinder to the lower case.
 カッターを使って|シリンダーと下のケースを固定している|ハリガネを切った。=Used the box cutter to cut the metal wire securing the cylinder to the lower case.
-ハリガネを強く引くと、下のケースから|ガラスが割れる音がし、|液体が漏れてきた！=When the metal wire was tugged, something shattered underneath and liquid came pouring out!
+ハリガネを強く引くと、下のケースから|ガラスが割れる音がし、|液体が漏れてきた！=When the metal wire was tugged,|something shattered underneath|and liquid came pouring out!
 !FILE:dat_script_trapbig.bin/file001_PACK2/file018.bin
-コードがむき出しなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムで@fR絶縁@fWできそうだ。=The wire is exposed, and could be charged by even a slight touch.\vThere should be a way to @fRinsulate@fW it using an item.
+コードがむき出しなため、|少し触れただけでも|通電してしまうかもしれない。\vアイテムで@fR絶縁@fWできそうだ。=The wire is exposed, and could be|charged by even a slight touch.\vThere should be a way to|@fRinsulate@fW it using an item.
 絶縁テープで補修されている。=The wire has been repaired with tape.
 ハサミを使ってコードを切った。|特に効果はないようだ。=Cut the wire with scissors.|Nothing happened.
-コードを切ると同時に|起爆装置が作動した！=As soon as the wire was cut, the detonator triggered!
+コードを切ると同時に|起爆装置が作動した！=As soon as the wire was cut,|the detonator triggered!
 特に効果はないようだ。=Nothing happened.
 絶縁テープを使った。=Used Tape.
-ボタンを押さない限り、|この装置は機能しないだろう。=As long as the button isn’t pressed, the device shouldn’t activate.
+ボタンを押さない限り、|この装置は機能しないだろう。=As long as the button isn’t pressed,|the device shouldn’t activate now.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file019.bin
-このケースの中には|@fR起爆装置@fWはないようだ=The @fRdetonator@fW doesn’t appear to be in this case.
+このケースの中には|@fR起爆装置@fWはないようだ=The @fRdetonator@fW doesn’t appear|to be in this case.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file020.bin
 ケースにしっかり固定されている。\v爆薬の可能性が高い。=The cylinder is securely fixed to the case.\vThere’s a high chance this is the explosive.
 ケースに固定された爆薬。\v衝撃を与えないように注意が必要だ。=The explosive is fixed into the case.\t|Care must be taken to avoid knocking it.
 ハンマーを使った。=Used Hammer.
-確実な手応えと共に閃光がはしった。=There was a metal clang followed by a flash of light.
+確実な手応えと共に閃光がはしった。=There was a metal clang|followed by a flash of light.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file021.bin
-センサーと起爆回路を接続するコード。\v爆弾解除のポイントになりそうだ。=Wires connect the sensor to the detonator.\vIt seems these are the key to disarming the trap.
-この中の１本は、センサーとの|接続解除信号を送るコードのようだ。=One of these wires must be to send the detonation signal.
-センサーからの接続解除信号を|送信するコードを切った！=Cut the wire used to send the detonation signal!
+センサーと起爆回路を接続するコード。\v爆弾解除のポイントになりそうだ。=Wires connect the sensor to the detonator.\vIt seems these are the key|to disarming the trap.
+この中の１本は、センサーとの|接続解除信号を送るコードのようだ。=One of these wires must be to send|the detonation signal.
+センサーからの接続解除信号を|送信するコードを切った！=Cut the wire used to send|the detonation signal!
 !FILE:dat_script_trapbig.bin/file001_PACK2/file022.bin
 カバーが外され、シリンダーを|固定する部分だけ残っている。=Now that the cover has been removed, this is the only part still securing the cylinder.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file023.bin
-しっかりと固定されていて|開ける事はできない。\v中身は起爆装置の回路だろう。=It is stuck firmly in place and cannot be opened.\vThe detonation circuit is likely to be inside.
+しっかりと固定されていて|開ける事はできない。\v中身は起爆装置の回路だろう。=It is stuck firmly in place|and cannot be opened.\vThe detonation circuit is likely to be inside.
 ミニバールに渾身の力を込めた！\vきしむようないやな音がした。=Put your full strength into the crowbar!\vThere was a frightening, creaking sound.
 !FILE:dat_script_trapbig.bin/file001_PACK2/file024.bin
-ガラスのシリンダーの中に|液体が入っている。\vセンサーが液体から出ると、|起爆する仕組みのようだ。=A glass cylinder containing liquid.\vIt appears to be set to detonate if the liquid touches a sensor.
+ガラスのシリンダーの中に|液体が入っている。\vセンサーが液体から出ると、|起爆する仕組みのようだ。=A glass cylinder containing liquid.\vIt appears to be set to detonate if the liquid touches the sensor.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file006.bin
 これは手ごわそうなトラップですね。\t|私もアドバイスをしますので、|一緒に解除して行きましょう。=This looks like a tough trap.\t|I’ll advise you on what to do, so let’s disarm it together.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file010.bin
@@ -3658,8 +3658,8 @@ The @fRscrew@fW has been|fastened in tight.
 下のケースを開ける時は|ケースを揺らさないでください。\t|もちろん、破損してもダメです。=Make sure not to shake the lower case as you remove the lid.\t|Of course, try not to damage it either.
 シリンダーと起爆装置の接続を|切断しながら、解除してください。\t|切るべきコードは私が指示します。=Disconnect the cylinder and the detonator.\t|I’ll tell you which wires to cut.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file013.bin#debug only
-シリンダーからコードが伸びている。\t|ダミーのコードを切断すると|起爆装置が作動するかもしれない。=Wires extend from the cylinder.\t|Cutting the wrong wire could trigger the detonator.
-複数のコードがある。\t|しかし全てが起爆センサーと|繋がっているわけではないようだ。=There are a number of wires.\vNot all of them seem to be connected to the detonator.
+シリンダーからコードが伸びている。\t|ダミーのコードを切断すると|起爆装置が作動するかもしれない。=Wires extend from the cylinder.\t|Cutting the wrong wire could|trigger the detonator.
+複数のコードがある。\t|しかし全てが起爆センサーと|繋がっているわけではないようだ。=There are a number of wires.\vNot all of them seem to be|connected to the detonator.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file014.bin
 しかし何も起こらない=Nothing happened.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file015.bin
@@ -3670,19 +3670,19 @@ The @fRscrew@fW has been|fastened in tight.
 フタつきのケースだ。\vこじ開けられてスキマができている。=A case with a lid.\vA gap has been opened in the side.
 ハンマーでフタの上部をたたいた。\v少し歪んでしまった。=Hit the top of the lid with a hammer.\vThe lid has been slightly warped.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file018.bin
-解除ボタンのようにも見えるが|これ自体がトラップかもしれない。=It looks like a release button, but it could be a trap.#dupe
+解除ボタンのようにも見えるが|これ自体がトラップかもしれない。=It looks like a release button,|but it could be a trap.#dupe
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file020.bin
 ハサミを使ってコードを切った。|特に何も起こらないようだ。=Cut the wire with scissors.|Nothing happened.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file021.bin
 しかし何も起こらない。=Nothing happened.
-このケースの中には|@fR起爆装置@fWはないようだ。=The @fRdetonator@fW doesn’t appear to be in this case.
+このケースの中には|@fR起爆装置@fWはないようだ。=The @fRdetonator@fW doesn’t appear|to be in this case.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file022.bin
 ケースにしっかり固定されている。\t|爆薬の可能性が高い。=The cylinder is securely fixed to the case.\vThere’s a high chance this is the explosive.
 ケースに固定された爆薬。\t|衝撃を与えないように注意が必要だ。=The explosive is fixed into the case.\t|Care must be taken to avoid knocking it.
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file023.bin
-センサーと起爆回路を接続するコード。\t|爆弾解除のポイントになりそうだ。=Wires connect the sensor to the detonator.\vIt seems these are the key to disarming the trap.#dupe
+センサーと起爆回路を接続するコード。\t|爆弾解除のポイントになりそうだ。=Wires connect the sensor to the detonator.\vIt seems these are the key|to disarming the trap.#dupe
 !FILE:dat_script_trapsmall.bin/file001_PACK2/file025.bin
-しっかりと固定されていて|開ける事はできない。\t|中身は起爆装置の回路だろう。=It is stuck firmly in place and cannot be opened.\t|The detonation circuit is likely to be inside.#dupe
+しっかりと固定されていて|開ける事はできない。\t|中身は起爆装置の回路だろう。=It is stuck firmly in place and|cannot be opened.\t|The detonation circuit is likely to be inside.#dupe
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file007.bin
 フタを押さえる！=
 !FILE:dat_script_trapsmall.bin/file002_PACK2/file011.bin
