@@ -1818,7 +1818,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 この部屋のどこかに、通信室へつながる|隠し通路があるはずです。\t|@n0さん、調べてください。=There must be a hidden passage somewhere in this room.\t|@n0, please do another sweep.
 !FILE:dat_script_f09.bin/file017_PACK2/file011.bin
 ノートパソコンを調べた。=Examined laptop.
-キーロックがかかっており、|起動できない。=It is locked and can’t be booted.
+キーロックがかかっており、|起動できない。=It is locked and can’t be accessed.
 !FILE:dat_script_f09.bin/file017_PACK2/file019.bin
 メモ用紙が挟まっている。=A piece of notepaper was hidden.
 なるほど、これはヒントの|使い方のサンプルですね。|\tこれを参考にすれば……=I see, this is an example of how to use the hints.|\tIf you follow this...

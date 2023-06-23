@@ -109,6 +109,6 @@
 バニラ風味がおいしいソフトクリーム。|アイスクリームより|あっさりソフトな食感。|食べすぎ注意！|=Delicious soft serve ice cream with a hint of vanilla. It’s less dense than normal ice cream. Be careful not to eat too much!
 さっとあぶった焦げ目の香ばしさと、|甘辛のくずあんが絶妙な、|串だんごの大定番。|焼きたてが最高。|=A classic skewered dango with a sweet & salty sauce. Nothing beats one freshly made.
 さっくり軽いシュー皮に|ホイップクリームを|たっぷり絞りました。|生クリームが大好きな方にオススメ。|=A light and crisp choux pastry bun with a generous amount of whipped cream. Recommended for cream-lovers everywhere.
-本来なら、<red>壁紙<white>・<red>スウィーツ<white>の追加や|私との<red>「親密度」<white>変化といった|成長要素があるのですが…=Normally, there would also be <red>Wallpapers<white> and additional <red>Snacks<white>, as well as the ability for <red>us to become closer<white>, however...#L4
+本来なら、<red>壁紙<white>・<red>スウィーツ<white>の追加や|私との<red>「親密度」<white>変化といった|成長要素があるのですが…=Normally, there would also be <red>Wallpapers<white> and|additional <red>Snacks<white>, as well as the ability for <red>us to become closer<white>, however...#L4
 ？？？=
 ×%d=

@@ -1,4 +1,4 @@
-船倉=Hold#Below Deck?
+船倉=`Hold#Below Deck?
 機関室=Engine Room
 客船１Ａ=Ship 1A
 客船３Ａ=Ship 3A
