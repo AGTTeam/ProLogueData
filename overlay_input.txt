@@ -1009,7 +1009,7 @@ abcdさんと組むと、|様々な難問を解決できそうです。=When we�
 男性ですよね……|ともかくチョコはいただきました。=You do realize I’m a man, don’t you?|Well, I’ll accept the chocolate anyway.
 完熟メロンがジューシー。|香り高い贅沢なクレープ。|=A luxurious and fragrant crepe with juicy pieces of ripe melon.
 ほろ苦いマーマレードが|ちょっぴり大人のクレープ。|=Bittersweet marmalade makes this crepe a bit more mature.
-abcdさんも私も、|夜更かししてますね。|嬉しいです。=We’re both late workers, huh?|That makes me glad.
+abcdさんも私も、|夜更かししてますね。|嬉しいです。=We’re both late workers, huh?|That makes me happy.
 カラフルでかわいい三色だんご。|１本で３種類の味。|=Colorful, cute dango.|Three flavors on one stick.
 こういう物がとても欲しいと、|思ってたところでした。=I was just thinking that I really fancied one.
 今日はどんな一日でしたか？|私は、相変わらずでした。=How was your day?|Mine was the same old, same old.
@@ -1052,7 +1052,7 @@ abcdさんと私の朝です。|今日という日を分かち合いたいです
 フェリス・クンプレアニョス…|スペイン語で祝ってみました。=Feliz Cumpleanos... I thought I’d celebrate in Spanish.
 昼です。|何か口に入れるものは…|いえ、催促ではありません。=It’s noon.|Something to keep my mouth company... Ah no, I wasn’t trying to suggest anything.
 気持ちの良い朝です。|abcdさんのおかげ、|かもしれないです。=I feel good this morning. Maybe it’s because you’re here.
-abcdさん、|あなたのスウィーツがないと、|私に朝は来ません。=abcd, if I don’t have one of your snacks,|I won’t make it till morning.
+abcdさん、|あなたのスウィーツがないと、|私に朝は来ません。=abcd, if I don’t have one of your|snacks, I won’t make it till morning.
 abcdさん、|スウィーツなしでは私、|もう起きていられません。=I can't stay awake any more without sweets.
 もっと他に、好みの味があります。|あ、お気を悪くなさらずに。=I think I would have preferred something else...|Oh, please don't be offended.
 幼稚さは意外な武器になります。|負けず嫌いも強力な武器です。=Being childish is a surprising useful weapon. So is hating to lose.
@@ -1134,7 +1134,7 @@ abcdさんは私に、|本当の安らぎを与えてくれます。|かけが�
 お団子はもっちりですが…|鋭くとがった串は、場合によって|凶器に変わります。=The dango are squishy, but the sharp point of the skewer can be used as a weapon.
 いきなりですがabcdさん、|かゆいところはありませんか？|私は、足首が少々…。=I know this is out of the blue, but do feel itchy? My ankle is a little...
 明るいグリーンが可愛いらしい|ロリポップキャンディ。|ジューシーなメロン味。|=A colorful green lollipop.|Bursting with the juicy taste of melon.
-あなたのような相棒がいてくれると、|心強いです。|あなたは信頼できる男性です。=It’s reassuring to have a friend like you. You are a man I can trust.
+あなたのような相棒がいてくれると、|心強いです。|あなたは信頼できる男性です。=It’s reassuring to have a partner like you. You’re someone I can trust.
 あなたのような女性がいてくれると、|心強いです。|あなたは信頼できる女性です。=It’s reassuring to have a partner like you. You’re someone I can trust.
 見た目は地味ですが、|職人さんが丁寧に練り上げる|手間ひまかかったお菓子です。|=It may not look like much, but it is a special jelly cake made from red bean paste which has been careful prepared by an artisan.
 abcdさんならわかりますね？|私が心の中で強く求める物は、|もっと他にあることを。=You understand, don’t you abcd?|What my heart so strongly desires is something more...

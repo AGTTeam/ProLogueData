@@ -74,7 +74,7 @@ Android – DraStic (Premium), RetroArch (Free)
 
 iOS - RetroArch
 
-Switch – MelonDS (You will need to install custom firmware on a compatible Switch first.)
+Nintendo Switch – MelonDS (You will need to install custom firmware on a compatible Switch first.)
 
                    *****************************************
                    *               III. Notes              *
