@@ -2038,7 +2038,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 これは手ごわそうなトラップですね。\t|私もアドバイスをしますので、|一緒に解除して行きましょう。=This looks like a tough trap.\t|I’ll advise you on what to do, so let’s disarm it together.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file010.bin
 ケースを外した！=Removed the lid!
-トラップはさらにカバーに|覆われている。=There is another cover inside.
+トラップはさらにカバーに|覆われている。=There are more covers inside.
 ずいぶん慎重なつくりですね。\t|根気よく調べていきましょう。=This trap was very carefully made.\t|Take your time to examine it properly.
 手前のカバーを外した！=Removed the front cover!
 起爆装置が一望できるようになった。=The detonator is now in full view.
@@ -2056,9 +2056,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 慎重にお願いします。=Please be careful.
 ネジを外せば、簡単に外せます。\t|コードに引っ掛けないように|注意してください。=If you remove the screws, it should come off easily.\t Mind you don’t catch the wires as you take it off.
 この意味ありげにあいている|３つの穴を見てください。\t|何かのパーツをはめられそうです。=Take a close look at those three holes.\t|It looks like you could fit a part into them.
-必要なパーツは３つですね。\v手持ちに無いようでしたら、|もう一度調査を行いましょう。=There are three missing parts you’ll need.\vIf you don’t have them, you should pause and look around some more.
-何かパーツが必要なようですね。\t|プラグのような物でしょうか。\v手持ちに無いようでしたら、|解除を中断して、|調査をしてみましょう。=It doesn’t look like we can proceed without the parts.\t|The holes appear to be plug-shaped.\vIf you don’t have any on hand, pause the disarming for now and see what you can find if you look around.
-爆薬を起爆装置から外してしまえば|爆発の危険はありません。=If you can remove the explosives from the detonator, there will be no risk of an explosion.
+必要なパーツは３つですね。\v手持ちに無いようでしたら、|もう一度調査を行いましょう。=There are three missing parts you’ll need.\vIf you don’t have them, you should stop and look around some more.
+何かパーツが必要なようですね。\t|プラグのような物でしょうか。\v手持ちに無いようでしたら、|解除を中断して、|調査をしてみましょう。=It doesn’t look like we can proceed without the parts.\t|The holes appear to be plug-shaped.\vIf you don’t have any on hand, pause the disarming for now and have a look around to see what you can find.
+爆薬を起爆装置から外してしまえば|爆発の危険はありません。=If you can disconnect the explosives from the detonator, there will be no risk of an explosion.
 解除まで後一歩です。\t|がんばりましょう。=There’s just one step left to go.\t|Keep it up.
 ボタンをオン、そしてコードを切断。\t|これで爆薬を外す事ができます。=Push the button and disconnect the wires.\t That will allow you to remove the explosives.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file012.bin
@@ -2067,7 +2067,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 ネジは緩められている。=The screws are loose.
 @fRネジ@fWで止められている。=@fRScrews@fW are holding the lid in place.
 ネジで止められている。=Screws are holding the lid in place.
-歪んでしまい、外れそうにない。=The screws have been warped and can’t be removed.
+歪んでしまい、外れそうにない。=The screws have been warped|and can’t be removed.
 しかしドライバーは壊れてしまった。=The Screwdriver broke.
 ケースを固定していた|ネジが緩んだ。=Loosened the screws holding the lid.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file014.bin
@@ -2104,7 +2104,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬を取り外すには重要そうですね。|=It looks like these will be vital when it comes to removing the explosives.|
 後で調べましょう。\v変なコードを|切らないようにしてください。=Let’s come back to these later.\t|Don’t cut them yet.
 起爆装置と爆薬を繋ぐコードだ。\v起爆用のコードは切断してある。=The wires connect the detonator|to the explosives.\vThe live wire has been cut.
-一安心ですね。=That’s these sorted.
+一安心ですね。=That’s that sorted.
 雰囲気の違うコードがありますね。\t|このコードを@fR切断@fWできますか？=One of the wires seems different from the rest.\t|Can you @fRcut@fW this one?
 しかしハサミは壊れてしまった。=The Scissors broke.
 怪しいコードを切断した。=Cut the suspicious wire.
@@ -2126,10 +2126,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 穴が開いている。=There is a hole.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file023.bin
 ネジは緩められている。=The screw is loose.
-@fRネジ@fWで止められている。=The screw holds the cover in place.
-ネジで止められている。=The @fRscrew@fW holds the cover in place.
-歪んでしまい、外れそうにない。=The screw has been warped and can’t be removed.
-ケースを固定していた|ネジが緩んだ。=Loosened the screw holding the cover.
+@fRネジ@fWで止められている。=The @fRscrew@fW holds the back cover in place.
+ネジで止められている。=The screw holds the back cover in place.
+歪んでしまい、外れそうにない。=The screw has been warped|and can’t be removed.
+ケースを固定していた|ネジが緩んだ。=Loosened the screw holding the back cover.
 !FILE:dat_script_trapbig.bin/file002_PACK2/file025.bin
 起爆装置を覆うカバーだ。\v特に手がかりになりそうな事は無い。=A metal cover connects to the detonator.\t|It has a red panel on it.
 このパーツは後回しにした方が|良さそうですね。=It might be best to return to this part later.
@@ -2142,10 +2142,10 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆薬が詰まったケースだ。\v歪んでしまい、|@fRネジ@fWを外すのは難しそうだ。=The cover hides the explosives.\vIt has been bent out of shape, and the @fRscrew@fW holding it in place won’t budge.#if use crowbar before removing screw
 仕方ないですね。|これはどうにもなりません。=There’s nothing we can do about that now.
 爆薬が詰まったケースだ。\vネジは緩められている。=The cover hides the explosives.\vThe screw holding it in place|has been loosened.
-ただはめ込まれているだけ|みたいですね。\t|ただ、すごくきつそうですが…=It looks like it was just slotted into place.\t|It’s a tight fit, though...
-爆薬が詰まったケースだ。\vネジは緩められ、|スキマもできている。=The cover hides the explosives.\vThe screw holding it in place|has been loosened, and a gap has been made around the sides.
+ただはめ込まれているだけ|みたいですね。\t|ただ、すごくきつそうですが…=It looks like the cover was just slotted into place.\t|It’s a tight fit, though...
+爆薬が詰まったケースだ。\vネジは緩められ、|スキマもできている。=The cover hides the explosives.\vThe screw holding it in place has|been loosened, and a gap has been|made around the sides.
 外し易くなったようですね。=It should be easier to remove now.
-@fRネジ@fW以外ははめ込まれているだけ|みたいですね。\t|まずは@fRネジ@fWを何とかしないと。=It seems like that @fRscrew@fW is the only thing keeping it in place.\t|See what you can do with it first.
+@fRネジ@fW以外ははめ込まれているだけ|みたいですね。\t|まずは@fRネジ@fWを何とかしないと。=It seems like that @fRscrew@fW is the only thing keeping it in place.\t|See what you can do with that first.
 冷却スプレーを使った。=Used Coolant Spray.
 しかし冷却スプレーは壊れてしまった。=The Coolant Spray broke.
 爆薬を冷却した。=Cooled the explosives.
@@ -2186,9 +2186,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 むき出しのボタンだ。\vあからさまなところが、とても怪しい。\v触れない方が良さそうだ。=A button is sticking out.\vThe placement of it is suspicious.\vIt seems better not to touch it.
 このボタンは押してはいけません。=Whatever you do, don’t push the button.
 ボタンを押さない=Don’t press the button
-怪しいボタンだ。\v起爆装置に接続されている事は|間違いないようだ。=A suspicious button.\vThere is a high chance it’s|connected to the detonator.
+怪しいボタンだ。\v起爆装置に接続されている事は|間違いないようだ。=A suspicious button.\vIt’s connected to the detonator.
 まだ押してはいけません。=Don’t push it yet.
-ただの爆発ボタンではなさそうだが、|何の対策もなく押すのは危険すぎる。=It doesn’t appear to be the detonator button, but it’s too dangerous to press it unprepared.
+ただの爆発ボタンではなさそうだが、|何の対策もなく押すのは危険すぎる。=It doesn’t appear to be the detonation button, but it’s too dangerous to|press it unprepared.
 もう少し押さないでおいてください。=Please hold off on pressing that just now.
 プラグをはめた事で、|さっきまでと別の機能に|なっているはずです。\v爆薬との回路を切る事が|できるかもしれません。=Now that the plugs have been fit, it should be in full operation.\vIt may be possible to cut the circuit to the explosives.
 ボタンを押す=Press the button
