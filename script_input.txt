@@ -3042,7 +3042,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 基板が外せるようになった。=The board can now be removed.
 基板を外した！=Removed the board!
 下から起爆装置が現れた。=The detonator is underneath.
-起爆装置を停止させたが、|緊急回路が作動した。=The detonator was deactivated, but the emergency system was triggered.
+起爆装置を停止させたが、|緊急回路が作動した。=The detonator control system|was deactivated, but the|emergency system was triggered.
 爆薬のカバーを外した！=Removed the cover!
 爆薬の本体が見えた。=The explosive is now visible.
 待ってください。|\tこのまま解除を始めても|成功する可能性はゼロです。\vもっとしっかり調査をしましょう。=Please wait.|\tIf you attempt to disarm this now, I estimate that your chance of success is zero.\vWe should look around some more first.
@@ -3062,11 +3062,11 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 爆弾の表面に書いてある文字|これが暗証番号です。\v偶数を順に入力するだけ。|\tたいした仕掛けでもありません。\v答えさえわかれば|後は爆薬を外すだけですね。=The writing on the explosive is our clue.\vJust enter every even number, in ascending order, into the keypad.|\tIt’s not the most impressive system.\vWhen you know the answer, all you need to do is remove the explosive.
 爆薬を外した！=Removed the explosive!
 !FILE:dat_script_trapbig.bin/file009_PACK2/file013.bin
-@fRネジ@fWが締められている。=The @fRscrews@fW are fastened in tight.
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
 ネジが緩んでいる。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file014.bin
-@fRネジ@fWが締められている。=The @fRscrews@fW are fastened in tight.
+@fRネジ@fWが締められている。=The @fRscrews@fW have been|fastened in tight.
 ネジを緩めた。=Loosened the screws.
 ネジが緩んでいる。=The screws are loose.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file015.bin
@@ -3140,6 +3140,9 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 緊急回路から@fRコード@fWがのびている。\v爆薬と繋がっているようだ。=@fRWires@fW extend from the emergency device.\vThey’re connected to the explosive.
 本物とダミーの見分けが付けば|@fRコード@fWを切断できそうです。=If you can identify which is the real wire, you should be able to cut it.
 正解のコードが判明した。\v安全に切断できるようになった。=The live wire has been identified.\vIt can now be safely disconnected.
+コードを切断した。=Cut the wire.
+!FILE:dat_script_trapbig.bin/file009_PACK2/file028.bin
+コードを切断した。=Cut the wire.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file029.bin
 爆薬の本体だ。=The explosive.
 爆薬の本体だ。\v表面に|「even numbers 」|と書かれている。=The explosive.\vThe words “even numbers” have|been written on the front.
@@ -3176,7 +3179,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 番号を入力する装置だ。\v装置は動いていて、|番号の入力ができるようだ。=There is a keypad.\vIt’s powered on.
 番号を入力する装置だ。\v動いていないように見える。=There is a keypad.\vIt doesn’t seem to be powered on.
 番号を入力する装置だ。\vケーブルを抜いたのに|まだ動いている。=There is a keypad.\vIt still seems to be working even though|the cable has been unplugged.
-基板と正常に接続する事で|起動する仕組みだったようです。\vまだ動いているという事は|今後もこの装置を|使う事がありそうですね。=It seems connecting it to the board was all that was needed to start it up.\vThe fact it is still running means we can assume we’ll be needing it again later.
+基板と正常に接続する事で|起動する仕組みだったようです。\vまだ動いているという事は|今後もこの装置を|使う事がありそうですね。=It seems connecting it to the board was all that was needed to start it up.\vThe fact it’s still running means we can assume we’ll be needing it again later.
 番号を入力する装置だ。=There is a keypad.
 どこかに@fR数字@fWに関わる|ヒントがあるはずです。=There must be a hint about the @fRcode@fW somewhere.
 !FILE:dat_script_trapbig.bin/file009_PACK2/file039.bin
@@ -3302,7 +3305,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 液体ケースの中にある金具だ。\vパイプの先についている。=There is a fitting inside the case.\vIt is attached to the end of the pipe.
 いまはそれどころではありません。|\t液体を中和するのが先です。=Now’s not the time for this.|\tWe need to neutralize the liquid first.
 液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているが、|だいぶ緩んでいる。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt holds the pipe to the case,|but it has become loose.
-液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているようだ。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt looks like it’s holding|the case and pipe together.
+液体ケースの中にある金具だ。\vパイプの先についている。\vケースとパイプを固定しているようだ。=There is a fitting inside the case.\vIt is attached to the end of the pipe.\vIt appears to be holding the|case and pipe together.
 何か軽く@fR衝撃@fWを与えてみては|どうでしょうか。|\t緩むかもしれません。=What if you tried @fRhitting@fW it with something? \tIt might come loose.
 金具を叩く事で|金具が緩んだようだ。=Loosened the fitting.
 金具を叩いた衝撃で|パイプからガスが|漏れ出した！=The impact caused gas|to leak out of the pipe!
@@ -3319,10 +3322,10 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 この状態なら解除を|進められそうです。=Now we can continue with disarming the trap.
 液体の入ったケースだ。\v中でガスと液体が化学反応を|起こしている。=A case containing liquid.\vA chemical reaction is occurring between the gas and liquid inside.#dupe
 このままでは危険です。|\t何か@fR中和@fWするための物を|持っていませんか？=We can’t leave it like this.|\tDo you have anything to @fRneutralize@fW the liquid with?
-液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で発熱している。=A case containing liquid.\vThe liquid has been neutralized and is stable, but the neutralization process|has let off heat.#dupe
+液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で発熱している。=A case containing liquid.\vThe liquid has been neutralized and|is stable, but the neutralization|process has let off heat.#dupe
 今のままでは元栓を開ければ、|ガスを追加できてしまいます。\v万全を期すため、|ケースを外しましょう。=If you opened the valve now, the gas would react.\vTo be on the safe side, we should completely remove the case.
 液体の入ったケースだ。|\v液体が中和されて、|落ち着いた状態になっている。=A case containing liquid.\vThe liquid has been neutralized|and is no longer reacting.#dupe
-液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で@fR発熱@fWしている。=A case containing liquid.\vThe liquid has been neutralized and is stable, but the neutralization process|has let off @fRheat@fW.#dupe
+液体の入ったケースだ。\v液体が中和されて|落ち着いた状態になっているが、|中和の反応で@fR発熱@fWしている。=A case containing liquid.\vThe liquid has been neutralized and|is stable, but the neutralization|process has let off @fRheat@fW.#dupe
 ケースを叩いた。\v中の液体が衝撃に反応している！=Hit the case.\vThe impact caused the liquid inside to react!
 ケースを冷やした。=Cooled the case.
 液体のケースに、|中和剤を入れた。\v化学反応を起こしていた液体が|徐々に落ち着いてきた。=Poured the Neutralizer into the case.\vThe chemical reaction gradually|calmed down.
@@ -3543,7 +3546,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 電極を絶縁した。\v電極を外せるようになった。=Insulated the electrodes.\vThey can now be removed.
 !FILE:dat_script_trapbig.bin/file012_PACK2/file024.bin
 @fR発熱@fWしたコイルだ。=The coil is @fRhot@fW.
-冷やされたコイルだ。=The cooled coil.
+冷やされたコイルだ。=The coil has been cooled down.
 @fR発熱@fWしたコイルだ。\v両端の電極を外したので、|冷やせるようになった。=The coil is @fRhot@fW.\vThe electrodes at both ends|have been removed, so it should|be possible to cool it down.
 @fR発熱@fWしたコイルだ。\v両端の電極によって、|熱を起こしているようだ。=The coil is @fRhot@fW.\vThe electrodes at both ends seem|to be causing the heat.
 コイルを冷やした。\v熱すぎて効果が無かった。=The heat was so great that|the spray had no effect.
@@ -3638,7 +3641,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 縦と横の数字の並びに|何か関連性がありそうですね。=There seems to be some connection between the vertical and horizontal numbers.
 !FILE:dat_script_trapbig.fabin/file013_PACK2/file033.bin
 プレートネジを緩め、|プレートを外した。=Loosened the screw and|removed the plate.
-The @fRscrew@fW has been|fastened in tight.
+@fRネジ@fWが締められている。=The @fRscrew@fW has been|fastened in tight.
 !FILE:dat_script_trapbig.bin/file013_PACK2/file034.bin
 金属製のプレートだ。=A metal plate.
 中はどうなっているのでしょう。|\tもし、コードが複雑に|絡み合っているとしたら…=I wonder what’s going on behind there.|\tIf the wires are tangled up...
