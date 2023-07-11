@@ -317,7 +317,7 @@
 !FILE:dat_script.bin/file005_PACK2/file006.bin
 Ｌ、無駄話をしているヒマはないと|思いますよ？=Is now really a good time for idle chit-chat, L?
 無駄話…\tそういう見方もありますね。\t|よろしければＪ、あなたは何利きか|教えていただけませんか？=Idle chit-chat?\t I suppose you could see it that way.\t Speaking of which, J, would you mind telling me what your dominant hand is?
-…右ですよ。\t|右投げ右打ち、利き目も右です。|そういうあなたは？=...I’m right-handed.\t I throw with my right, catch with my right, and my dominant eye is also my right. And you?
+…右ですよ。\t|右投げ右打ち、利き目も右です。|そういうあなたは？=...I’m right-handed.\t I throw with my right, hit with my right, and my dominant eye is also my right. And you?
 鉛筆やスプーン…テニスラケットは、|右手で使っていますから、きっと|右利きなのではないでしょうか。=I use a pencil, a spoon, and a tennis racket with my right hand, so I suppose I must be right-handed.
 これは、なんの誘導尋問ですか？=Was that another one of your leading questions?
 ただの、無駄話ですよ…\t|では、トラップ解除に戻ります。=It’s simply idle-chit chat...\t|Well then, we’d best get back to disabling these traps.
