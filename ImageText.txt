@@ -94,7 +94,7 @@ DEATH NOTE原作 = Death Note Original Work
 金谷 泉=Izumi Kanaya
 演田 直樹=Naoki Hamada
 中村 蘭星=Ransei Nakamura
-横沢 啓予#missing
+横沢 啓予=Hiroyo Yokozawa# Designer from mario party 2 https://youtu.be/-T0BLBSFZCo?t=268 / http://wiki.mobile-gb.com/index.php?title=%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A32
 大廣 将之=Masayuki Ohiro
 河合 真吾=Kawai Shingo
 
@@ -125,7 +125,7 @@ DEATH NOTE原作 = Death Note Original Work
 亀田 岳史=Takeshi Kameta
 浜川 和也=Kazuya Hamakawa
 谷ヶ城 利幸=Toshiyuki Yagashiro
-田原 誠#missing
+田原 誠=Makoto Harada#Maybe? https://www.mobygames.com/person/244546/makoto-harada/
 梅原 成樹#missing – kanji may be wrong
 高橋 宏明=Hiroaki Takahashi
 幡野 幸司#missing
