@@ -88,7 +88,17 @@ Be advised that use of cheats may prevent you from triggering Watari's message d
 NAME FLIP
 In Japanese, a person's name is generally written with their family name first, followed by their given name (e.g., Doe John). This has been flipped in the patch, and the player's name should be input in English name order (e.g., John Doe).
 
-If you have previously created a save using a Japanese name, it will still be compatible, however characters may refer to you by the wrong name (e.g., by using your given name rather than your family name and vice versa.)
+The game utilizes a relationship system, whereby once you reach a certain level in the L Communicator, L will start to call you by your first name. If you have previously created a save using a Japanese name, it will still be compatible, however characters may refer to you by the wrong name (e.g., by using your given name rather than your family name and vice versa.)
+
+L COMMUNICATOR DEMO
+In the "Extras" menu, it is possible to send a trial version of the L Communicator to another DS via Wireless Communication. This has been fully translated, but due to the DS' security protection, can only be played on compatible emulators (see instructions below) or a flashed DS (see https://wiki.gbatemp.net/wiki/FlashMe for more).
+
+Using Download Play on MelonDS:
+1) Download and install the latest version of MelonDS from https://melonds.kuribo64.net/downloads.php
+2) Navigate to Config > Emu Settings > DS-Mode and check "Use external BIOS/firmware files". Then, use the Browse buttons to locate the DS BIOS files. (N.B. You will need to provide these files yourself, they are not included in the emulator/patch downloads.)
+4) Load up the patched game, navigate to Extras > Send Demo, and press "Yes". The game should now be ready to send the demo and looking for devices.
+5) Back in the MelonDS toolbar, go to System > Multiplayer > Launch new instance.
+6) In the new window of MelonDS which appears, go to File > Boot firmware to launch the DS home screen and start DS Download Play. The game should be picked up automatically. Follow the steps to download the demo. If the download gets stuck, return to the original window and press "Send Demo" and "Yes" again. The download should then complete.
 
 OPENING SUBTITLES
 Textboxes were added for several lines at the beginning of the game, which previously only contained audio. These are:
