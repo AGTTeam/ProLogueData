@@ -260,7 +260,7 @@
 とっくに調べがついているのでは？=I thought you’d already done all your research on us.
 その答え合わせをできればと…=If you could please answer the question...
 でしたら、お答えします。\t|陸路です…\tトラックに押し込めて。\vもちろん、難民たちが逃げないよう|私の手下が自動小銃を突きつけて|監視していました。=Alright, I’ll answer.\t|It was overland...\t in trucks.\vOf course, I had armed guards keeping an eye on the refugees so none tried to escape.
-国境では、警備兵を買収してあったので|ノーチェックで通過できましたよ。=The border patrol had been bribed so they’d let us through no questions asked.
+国境では、警備兵を買収してあったので|ノーチェックで通過できましたよ。=The border patrol had been bribed so they’d let us through, no questions asked.
 なるほど…\t確か『クリエラの月』は|難民支援のＮＰＯ団体でしたよね？=I see...\t Criella Moon was set up as a non-profit organization to support refugees, right?
 それがどうしましたか？=What of it?
 いえ、これも答え合わせのために|一応お聞きしたまでです。=Nothing, I just wanted to confirm.
