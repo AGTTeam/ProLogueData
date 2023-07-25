@@ -3788,7 +3788,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ランプの点灯する順番と、|ケーブルの色がポイントですね。=The key to disarming this trap lies in order the lights are flashing and the color of the wires.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file012.bin
 何かのボタンだ。=There's some kind of button.
-このボタンがどのような機能を|持っているのか|今はわかりません。\vまずは他の部分の調査を|進めましょう。|\tここは後回しです。=We don't know what this button does just yet.\vLet's inspect the rest of it for now.\t|We'll come back to this later.
+このボタンがどのような機能を|持っているのか|今はわかりません。\vまずは他の部分の調査を|進めましょう。|\tここは後回しです。=We don't know what this button does just yet.\vLet's inspect the rest of the trap for now. \tWe'll come back to this later.
 ボタンだ。\vこれ以上押しても意味がない。=A button.\vThere’s no need to push it again.
 できそうな事は、全てやりました。\t|あとはこのボタンの出番ですね。=It looks like we’ve done all that we can here.\t|Now it’s the button’s turn.
 何かの装置が動いた。=Something clicked.
@@ -3801,7 +3801,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file019.bin
 ケーブルだ。\v起爆装置と爆薬を繋いでいる。=A cable.\vIt connects the detonator to the explosive.
 ケーブルだ。\v起爆装置と爆薬を繋いでいるが、|切れ目が入っている。=A cable.\vIt used to connect the detonator to the explosive, but it’s been cut.
-これを外すのは大変ですね。|\t何か@fR切断@fWできるアイテムを|持っていませんか？=That could be tricky to disconnect.|\tDo you have any items you could use to @fRsever@fW it?
+これを外すのは大変ですね。|\t何か@fR切断@fWできるアイテムを|持っていませんか？=That could be tricky to disconnect.|\tDo you have any items you could use to @fRcut@fW it?
 ケーブルに切れ目を入れた。=Cut a slit into the cable.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file021.bin
 黄色のコードだ。\v起爆装置と爆薬を繋いでいる。=A yellow wire.\vIt connects the detonator to the explosive.
@@ -3819,7 +3819,7 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file027.bin
 起爆装置だ。\v下の爆薬から外せば|爆発の恐れはなくなるだろう。=The detonator.\vDisconnecting this from the|explosive will disarm the trap.
 @fR目標@fWを見つけたようですね。=@fRObjective@fW identified.
-起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=That's the detonator.\vIf you can remove it from the explosive below, there shouldn't be any danger.
+起爆装置だ。\v爆薬から外す事ができれば、|トラップを解除できる。=The detonator.\vIf you can remove it from the explosive below, there shouldn't be any danger.
 !FILE:dat_script_trapsmall.bin/file005_PACK2/file028.bin
 爆薬が入っている。=Contains the explosive.
 !FILE:dat_script_trapsmall.bin/file006_PACK2/file007.bin

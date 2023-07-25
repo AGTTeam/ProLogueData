@@ -116,7 +116,9 @@ A line of uneditable text which read "緊急回避 (avert disaster)" was removed
 The text for obtaining a new wallpaper in the L Communicator was changed from being centered to left-aligned, due to an issue with the VWF in that section.
 
 KNOWN BUGS
-The step objective images for three late-stage small traps are incorrect. This is a bug inherited from the original game.
+These issues are inherited from the original game:
+- The step objective images for three late-stage small traps are incorrect.
+- During the end credits, the text may appear to flicker (on hardware), and/or black bars may temporarily appear (on emulator).
 
                    *****************************************
                    *              IV. Closing              *
@@ -131,4 +133,17 @@ We hope you enjoy!
                                 PATCH CREDITS       
                          ===========================
 
-tbd
+=Hacking=
+ Illidan
+
+=Translation=
+ Phantom
+ Haribeau
+
+=Proofreading=
+ Allard Yves
+ AmbiguouslyAnonymous
+ Lance
+ Riddle Snowcraft
+ Shreksophoner
+ SVIX
