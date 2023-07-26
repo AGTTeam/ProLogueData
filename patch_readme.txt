@@ -31,7 +31,8 @@ You can either patch the game online, via the ROMhacking.net download page, or l
                                 ONLINE METHOD        
                          ============================
 
--On the ROMhacking.net download page, navigate to "Patch Online NOW!" under the 'Links' header.
+-Login, or create an account at ROMhacking.net
+-On the patch download page, navigate to "Patch Online NOW!" under the 'Links' header (only visible to registered users).
 -Upload your copy of the ROM using the "Choose File" button.
 -Click "Apply Patch", and wait for the download to complete. You should now have a patched copy of the ROM, labelled '-input source- (patched)'.
 
@@ -50,7 +51,7 @@ You can either patch the game online, via the ROMhacking.net download page, or l
                    *         II. Running the Game          *
                    *****************************************
 
-You can play the patched game on the emulator or hardware of your choice.
+You can play the patched game on the hardware or emulator of your choice.
 
                          ===========================
                                  ON HARDWARE        
@@ -101,7 +102,7 @@ Using Download Play on MelonDS:
 6) In the new window of MelonDS which appears, go to File > Boot firmware to launch the DS home screen and start DS Download Play. The game should be picked up automatically. Follow the steps to download the demo. If the download gets stuck, return to the original window and press "Send Demo" and "Yes" again. The download should then complete.
 
 OPENING SUBTITLES
-Textboxes were added for several lines at the beginning of the game, which previously only contained audio. These are:
+Textboxes were added for several lines at the beginning of the game which previously only contained audio. These are:
 "Allow me to ask a few questions."
 "By the way, how do you feel about sweets?"
 "I see. I think we'll get along just fine."
@@ -111,7 +112,7 @@ Textboxes were added for several lines at the beginning of the game, which previ
 MINOR TWEAKS
 The labels on two door images were changed from "Control Room" to "Staff Room", to reflect the content of the rooms.
 
-A line of uneditable text which read "緊急回避 (avert disaster)" was removed from the small trap emergency measures screen.
+A line of uneditable text which read "緊急回避" (avert disaster) was removed from the small trap emergency measures screen.
 
 The text for obtaining a new wallpaper in the L Communicator was changed from being centered to left-aligned, due to an issue with the VWF in that section.
 

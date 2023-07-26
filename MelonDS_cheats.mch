@@ -19,7 +19,12 @@ CODE 0 Disarming Success Rate 100%
 CODE 0 HP does not reduce
 2208AFA4 00000064
 
-CODE 0 Unlock "Album" & "Sound" in Extras
+CODE 0 Intimacy increase when giving L a snack x16
+520C1A38 E0861186
+020C1A3C E0800201
+D0000000 00000000
+
+CODE 0 Unlock "Album" & "Sound" in Extras (Do NOT use if already unlocked)
 22088E7C 00000002
 
 CODE 0 Change gender to male
@@ -36,9 +41,6 @@ CODE 0 Enable debug menu on New Game
 
 
 CAT MAX Levels
-
-CODE 0 Detective Level MAX
-120105DA 0000E3A0
 
 CODE 0 L's Trust MAX
 2208B1C0 000000FF
