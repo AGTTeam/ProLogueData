@@ -369,7 +369,7 @@
 なぜ表に出てきたのでしょう…|気になりますね。=So why is he being so proactive and appearing before us now... It must mean something.
 情報キーワード|@fR【ハウスキーパーの積極性】@fW|を入手した。=Keyword added:|@fR“Being Proactive"@fW
 !FILE:dat_script.bin/file006_PACK2/file009.bin
-おいＬ、さっきの俺のアドバイスを|忘れたのか？\t　もっと急がないと|時間切れで最後まで行けないぜ？=Oi L, did you forget what I said?\t|If you don’t get a move on, you won’t make it to the end.
+おいＬ、さっきの俺のアドバイスを|忘れたのか？\t　もっと急がないと|時間切れで最後まで行けないぜ？=Oi, L, did you forget what I said?\t|If you don’t get a move on, you won’t make it to the end.
 さっきの私の言葉を忘れましたか？\t|@n0さんの命がかかっている以上、|ミスは許されないんです。\vそれに…最後まで行けない方が|あなたにとっては都合が良いのでは|ありませんか？\vまるで、私に最後まで行って欲しいと|言っているように聞こえますよ？=Didn’t you hear what I said?\t|As long as @n0’s life is on the line,|I can’t afford to make any mistakes.\vBesides... Wouldn’t it be better for you if we didn’t make it to the end?\vIt sounds almost as if you’re hoping we make it through.
 ふ、ふん…！\t　そんなことはない。\t|好きなだけのんびりやればいいさ。=H-Hmph!\t You’ve got your wires crossed.\t|Meander all you want, I don’t care.
 ハウスキーパーが私を急がせている|のは、ほぼ間違いありません…\t|しかし、なぜでしょう…=There’s no doubt that the Housekeeper is trying to rush us.\t|But, why...?
@@ -567,7 +567,7 @@
 断る。\tこれは俺のプライドの問題だ。|おまえの鼻を明かさなくては|気がすまん。=I refuse.\t This is a matter of pride.|I’m not going to concede to you.
 船と共に沈むことになってもですか？\t|ジェフリー同様、あなたもグラナダ号に|乗っているんでしょう？=Even if it means going down with the ship?\t|You're on the Granada like Jeffrey, aren't you?
 ああ、そうだ。\t|そんなに俺を心配してくれるなら、|トラップを解除して船を停めてくれ。=That’s right.\t|If you’re so worried about me, disarm my traps and stop the ship.
-エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=There’s still time before the engines burnup.\t|I’ll have you see this through to the end.
+エンジン暴走まで、まだ時間はある。\t|とことん勝負させてもらう。=There’s still time before the engines burn up.\t|I’ll have you see this through to the end.
 悔しかったら、逆転満塁ホームランを|打ってみろ！=If that upsets you, then you’d better hit it out of the park with a home run!
 ……どこまでも、ベースボールとは。\t|そんなに野球好きなら、爆弾魔ではなく|野球選手を目指すべきでしょうに…=Baseball puns, again?\t|If he loves baseball so much, he should be a baseball player, not a bomber...
 情報キーワード|@fR【ベースボール好きの爆弾魔】@fW|を入手した。=Keyword added:|@fR“Baseball-mad Bomber"@fW
@@ -1775,7 +1775,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 情報キーワード|@fR【ジェフリー・ミラー】@fW|を入手した。=Keyword added:|@fR“Jeffrey Miller"@fW
 ジェフリーが戦争孤児…\tアロイスへの|忠誠心は、ここにあったのですね…\t|もうひとつは？=Jeffrey was an orphan of war...\t His loyalty to Alois must stem from here.\t|What else do you have?
 情報キーワード|@fR【ジェフリーの家族】@fW|を入手した。=Keyword added:|@fR“Jeffrey’s Family"@fW
-ＣＬＮの爆弾で家族が…？|このことを本人は？=It was CLN orchestrated bombings that killed them...|Does he know about this?
+ＣＬＮの爆弾で家族が…？|このことを本人は？=It was the CLN who orchestrated the bombings that killed them...|Does he know about this?
 そこまではわかりません…\t|情報は以上です。=I’m afraid I couldn’t answer that.\t|This is all the information I could find.
 …気になる情報ですね…=It’s certainly worth knowing.
 ジェフリー、\tこの状況下で申し訳ないの|ですが、ひとつ質問をさせてもらっても|いいですか？=Jeffrey,\t I hate to ask under these circumstances, but there’s something I need to know.
@@ -3054,7 +3054,7 @@ COMBAT LOGISTICS NETWORK…\t|略してＣＬＮ…\t|中東の多国籍軍需�
 まず、ＩＣチップとケーブルを|正しい位置にはめ込みます。\vあとは暗証番号の入力です。=First, fit the IC chip and plug the cable in.\vThen you can enter the PIN.
 先ほどロックを解除したのは|この基板を外すためです。=Now that the lock has been released, you can work on removing the board.
 特に難しい事はありません。|\t外せそうな物を外していけば、|基板も外れます。=If you remove everything that looks like it should come off, you’ll be able to take the board off too.
-起爆装置がありますね。|\tこれを停止させましょう。\vでも気をつけてください。|\t何か仕掛けがあるような気がします。=There’s the detonator.|\tThat’s what we need to stop.\vI imagine won’t be so simple, though.|\tDo be careful.
+起爆装置がありますね。|\tこれを停止させましょう。\vでも気をつけてください。|\t何か仕掛けがあるような気がします。=There’s the detonator.|\tThat’s what we need to stop.\vI imagine it won’t be so simple, though.|\tDo be careful.
 何かプラグの代わりに|なる物があれば|安全に解除できるかもしれません。\vたとえば同じような形をした|別のプラグです。=If you could replace the plug with something, you may be able to safely disarm the system.\vA similarly shaped plug, for example.
 爆薬のカバーを外しましょう。|\t他にできる事は無さそうです。=It looks like the only thing you can do is take off the cover of the explosive.
 このぐらいなら簡単でしょう。|\tただフタを開ける、|それだけの事です。=There’s nothing complicated here.|\tJust take off the top cover.
