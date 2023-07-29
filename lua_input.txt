@@ -31,7 +31,7 @@
 危険を冒してＦＢＩの捜査官を誘拐した|理由は何か？──人質がＦＢＩの捜査官|である必要があったからです。@=So why take the risk and kidnap an FBI agent? Unless... you needed the hostage|to be part of the FBI.@
 さ……さあどうですかね…=W-Well... What do you think?
 <name>さんの行動は制限しないのに|通路を封じたのは、行動範囲を限定する|ため…=The reason the corridor has been blocked is to limit <name>’s range of movement.
-トラップに対し<name>さんと私が|どの程度適応できるかを試す〝味見〟…|そう、ゲームは始まったばかりだ…@=You wanted to get a “taste” of how|<name> and myself would fair. The game has only just started, after all...@
+トラップに対し<name>さんと私が|どの程度適応できるかを試す〝味見〟…|そう、ゲームは始まったばかりだ…@=You wanted to get a “taste” of how|<name> and myself would fare. The game has only just started, after all...@
 ええ、おっしゃるとおりです…=That’s correct.
 壁は、最近追加されたものです。|あなたが作らせたものですか？@=Those walls were a recent addition.|Did you have them built?@
 ああ、そうだ。それがどうした？=That’s right. What of it?
@@ -88,7 +88,7 @@
 世界中のホテルの窓サイズと照合して|みたのですが、そんな窓のホテルは|ありませんでした。@=We looked at information for hotels around the world, but there are none with such windows.@
 ちっ…壁紙を変えておけば…=Ugh... I should have changed the wallpaper.
 Ｊ、あなたは２０代後半…おそらく|２６、７歳といったところです。=From what I can see, you’re in your late 20's... Maybe 26 or 7.
-この調書にある『最初の犯行』は、|あなたには遂行できるはずがない…=There’s no way you could have carried out the first know crime listed in this document.
+この調書にある『最初の犯行』は、|あなたには遂行できるはずがない…=There’s no way you could have carried out the first known crime listed in this document.
 フォークランド紛争が１９８２年…|今から２０年以上も前の出来事です。|５〜６歳の子供に爆弾は作れません。@=The Falklands War was in 1982... Over 20 years ago now. I doubt very much that a 5 to 6 year-old is capable of building a bomb.@
 ううっ……=Nnh...
 あなたは、１３歳で初仕事をした。|そのときのトラップには、とある|重要な痕跡が残っていた…@=You were thirteen years old when you did your first job, and you left some important clues in that trap...@
@@ -96,7 +96,7 @@
 ハウスキーパーはイギリス出身の|爆弾魔です…=The Housekeeper is a bomber who comes from England.
 それなのに、あなたは英語の|ネイティブスピーカーではない。@|これは大きな矛盾です…=But you’re not a native English speaker.@|That’s an awfully big contradiction.
 し、失礼なことを…！　わ、私の英語は|れっきとしたクイーンズイングリッシュ|ですよ…=H-How rude...! I speak the Queen's English perfectly well, thank you!
-トラップには、かならず製作者のクセが|出ます…特に、右利きか左利きかは、|どうやっても消せないもの…=Traps always have quirks from their makers, especially if they’re right-handed or left- handed.
+トラップには、かならず製作者のクセが|出ます…特に、右利きか左利きかは、|どうやっても消せないもの…=Traps always have quirks from their makers, especially if they’re right-handed or left- handed.#leave space
 しかし、ハウスキーパーのトラップは|絶対にそれがわからない。|なぜなら、ヤツは両利きだからです。@=But these traps don’t have that. That’s because the Housekeeper is ambidextrous.@
 あなたは、私の質問に対し何と|言いましたっけ？=What did you say you were again?
 み、右利きだが、クセを消すぐらいの|技術は持って…い、いますよ…=I-I’m right-handed, but I know enough to be able to remove any giveaways.
@@ -234,7 +234,7 @@
 そ、それは…=
 グラナダ号を購入したリブート社は、|アロイス会長が一代で築き上げた、|完全なるワンマン企業です。=Reboot Inc., the company that bought the Granada, is a sole proprietorship built up by Mr. Alois.
 アロイス会長の目をごまかして|これだけの巨額の資金を動かせるとは|とうてい思えません。=It would be inconceivable for such large sums of money to be moved without him knowing about it.
-となれば、事件に関わった人物は|ただひとりです！@=Which means, there’s only one person behind this case!@
+となれば、事件に関わった人物は|ただひとりです！@=Which means, there’s only one possible culprit behind this case!@
 そ、それは…！=B-But--!
 アロイス会長は投資ファンドを通して|数多くの企業を支配しています。=Mr. Alois has stakes in a number of companies through investment funds.
 そして、その際に利用しているのが|『シュウエイ・ファイナンス』…=All of them were made through the firm “Shuei Finance”.
@@ -568,7 +568,7 @@
 調べるのに少々時間はかかりましたが、|製造者の名前は…|『マーメイド・グループ』です！=It took a bit of digging, but manufacturer’s name is the “Mermaid Group”!
 ……！！！=...!!!
 ……！　だ、だから…何だ？=S-So what?
-建築会社や内装会社でもないのに、|『ホテル』を作ったりはしませんよね？=If they’re aren’t a building company, they wouldn’t make a hotel, would they?
+建築会社や内装会社でもないのに、|『ホテル』を作ったりはしませんよね？=If they aren’t a building company, they wouldn’t make a hotel, would they?
 マーメイド・グループの系列会社で|『ホテルのような建造物』を造るなら…|『アレ』しかありませんよね？=If a subsidiary of the Mermaid Group was going to build “something like a hotel”, it could only be one thing.
 ふ、ふん！　おまえが何を指して|『アレ』と言っているかは知らないが…=Hmph! I don’t know what this ‘thing’ is that you’re trying to suggest.
 このホテルの製造者が、おまえの言う|『マーメイド・グループ』だと、|なぜわかる！？=How do you even know that the owners of the hotel are this “Mermaid Group” you mentioned!?
@@ -723,7 +723,7 @@
 もう一度言います。|あなたが先に選んでください。=I’ll say it again.|You choose.#use dupe
 どういうつもりだ？|俺が爆破スイッチを選んでもいいのか！=What are you thinking!?|Are you saying you don’t care if I hit the detonator!?
 ええ…すべてあなたの自由です。|ですが、あなたは爆破スイッチは|選びません。=It’s entirely your choice.|Though, I doubt you’ll hit the detonator.
-あなたの目的は私と『勝負』して、|私に勝つこと……=Your goal is to have this match, and to beat me.
+あなたの目的は私と『勝負』して、|私に勝つこと……=Your goal is to have this match and beat me.
 その『勝負』を私が放棄してしまえば、|『勝利』も『敗北』もなくなります。|そして、あなたが自爆する意味も…=If I resign from the match, there will be no ‘victory’ or ‘defeat’. And, there’s not much point in blowing yourself up, either.
 …………=...
 …俺を甘く見るなよ…いいんだな。|ＦＢＩの若き捜査官が死ぬことに|なっても平気なんだな、おまえは！=Looking down on me... Fine.|I guess you don’t care if your little FBI friend dies, then!

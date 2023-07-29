@@ -451,7 +451,7 @@
 山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|||=A cool treat made of shaved iced topped with plenty of strawberry sauce.|Nothing could be better on a hot summers day.
 さっとあぶった焦げ目の香ばしさと|甘辛のくずあんが絶妙な|串だんごの大定番。|焼きたてが最高。||=A classic skewered dango with a sweet & salty sauce. Nothing beats one freshly made.
 小豆あんとはまた違った|うぐいす豆の風味。|グリンピースが完熟した|青えんどう豆から作ります。||=The topping made from ripe green peas tastes very different from the red bean paste used in Anko Dango.
-ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|||=A kiwi crepe full of vitamins. The texture of the tiny seeds only adds to the enjoyment.
+ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|||=A kiwi crepe that is full of vitamins. The texture of the tiny seeds only adds to the enjoyment.
 大理石という意味のマーブル。|バニラとチョコレートの|マーブル模様が美しい|アイスクリームです。||=This ice cream has a beautiful marble pattern made from the combination of vanilla and chocolate.
 バニラ風味がおいしいソフトクリーム。|アイスクリームより|あっさりソフトな食感。|食べすぎ注意！||=Delicious soft serve ice cream with a hint of vanilla. It’s less dense than normal ice cream. Be careful not to eat too much!
 チョコレート好きにはたまらない|定番のアイスクリーム。|濃厚なチョコレートの香りが|リッチな気分。||=A classic ice cream that would be any chocoholic’s choice. The smell alone is enough to get mouths watering.
@@ -561,7 +561,7 @@
 ハウスキーパーは冷静さを失いつつ|あるようだ。=>>The Housekeeper seems to be losing his cool.
 大陸も海上も、世界は軍事偵察衛星の|監視下にある。=>>There are military surveillance satellites around the world.
 船は古いが、救命ボートは新品に|取り替えられている。=>>The ship is old, but the lifeboat looks new.
-２０代前半から３０代後半くらいの|健康な男性が多かった。=>>Most men in their early 20s to late 30s are generally healthy.
+２０代前半から３０代後半くらいの|健康な男性が多かった。=>>They were mainly men in their early 20s to late 30s, who were generally healthy.
 トラップに遠隔スイッチがあるかどうか|Ｊは明言を避けた。=>>J didn’t say whether the traps have a remote switch.
 ハウスキーパーはかなりの|ベースボールファンだと思われる。=>>The Housekeeper appears to be a big baseball fan.
 ハウスキーパーの起用では、高額の|報酬が用意されたとみられる。=>>Hiring the Housekeeper would surely come at a high cost.#debug only
@@ -600,7 +600,7 @@
 米軍の介入は事態の混乱を招く恐れが|高いのだが、ジェフリーは必要以上に|米軍への介入要請を口にしている。=>>Intervention by the US military would stir up controversy, but Jeffrey seems insistent on it.
 壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=>>The paint on the walls is rusty and the carpet is moldy. It seems odd for a non-humid area like Criella.{#leave {
 ハウスキーパーは基本的にはトラップを|仕掛けるだけで、表舞台で行動しない。|今回は異例の行動だと思われる。=>>The Housekeep_ typically only sets traps and does not get inv+$d. His actions this time are unprecedented.
-大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=>>The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
+大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=>>The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa”, and “Fox”.
 一連のトラップの製作者である爆弾魔。|３日前、<name>が誘拐された際にも|同様のトラップが仕掛けられていた。=>>The Housekeeper is responsible for a series of traps. A similar trap was set|three days ago when <name> was|abducted.
 トラップボックスは『ホテル』ではなく|『大型客船』だった。搭載された爆弾が|爆発しても周囲への被害は少ない。=>>The “trap box” is not a hotel, but a ship. E$n if the bombs⊃board exploded, there would be little damage to the surrounding area.
 ３階の日焼け跡と同じ形。|日焼けの具合から逆算すると、|窓からの日光の入射角が同じになる。|本来はありえない。=>>The marks were the same as the 3rd floor, right down to the angle. Something doesn’t add up.#debug only
@@ -611,7 +611,7 @@
 ハウスキーパーは何者かに雇われて|今回の犯行に携わっている。|ハウスキーパーと依頼人が手を組むのは|初めてだと思われる。=>>The Housekeeper was hired by someone. This appears to be the first time that he and his client have worked together.
 ２０代後半の男性。|ＦＢＩのデータには一致する声紋なし。|英語のネイティブスピーカーではない。|声に極度の緊張が見られる。=>>Male, late 20s; no matching voiceprint in FBI data. Not a native English speaker.
 本名はクリロ・ミラニッチ。|旧ユーゴ内戦時に戦争孤児となったが、|アロイスの財団によって救助され|学費を支援してもらった。=>>Real name Kirilo Milanoviс. Orphaned during the ^vil war in the form_ Yugoslavia, but was rescued by the Alois Foundation who funded his education.
-少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Housek/per was nicknamed Babe Ruth II as they had a similar way of batting. They also write the same.
+少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Housek/per was nicknamed Babe Ruth II as they had a similar way of batting and writing.
 今回の犯行に使われている部品は、普段|とは異なり、高価で精巧なものばかり。|ハウスキーパーの犯行では、珍しい|ケースといえる。=>>The parts used this time are expensive|and elaborate, not typical for the Housekeeper’s crimes.
 ハウスキーパーのセットしたトラップは|本来なら利き腕がわからない作りだが、|このフロアのトラップには右利きの|クセが出ている。=>>The Housek/p_\traps are normally designed to hide any tells, but the ones|on this fl[r show the quirks of a right- handed mak_.#added space for wordwrap
 アメリカ・メジャーリーグの伝説の|ホームランバッター。背番号３。|通産本塁打７１４本。左投げ左打ち。|ニックネームはバンビーノ。=>>A legendary home run hitter in US Major League Baseball. Had 714 home runs in all. Throws left-handed and bats left-handed. Nicknamed ‘the Bambino’.
@@ -1175,7 +1175,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 ツヤツヤの真っ赤な国産さくらんぼは|美しさからもお値段的にも|赤い宝石にたとえられるほど。|=Shiny red Japanese cherries which are like jewels, both in terms of beauty and price.
 プレーンドーナツに|フリーズドライのいちご果肉入り|ストロベリーチョコレートを|かけました。|=A plain doughnut topped with strawberry chocolate made with freeze-dried berries.
 壁紙は徐々に増えていきますので、|ときどき変更して、気分を変えるのも|よろしいかと思います。=You will unlock new wallpapers as you play, so please feel free to alter it from time to time.#L10
-ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|=A kiwi crepe full of vitamins. The texture of the tiny seeds only adds to the enjoyment.
+ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|=A kiwi crepe that is full of vitamins. The texture of the tiny seeds only adds to the enjoyment.
 山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|=A cool treat made of shaved iced topped with plenty of strawberry sauce.|Nothing could be better on a hot summers day.
 何度もスウィーツを食べさせるうちに、|abcdさんに対するＬの態度が|変わってくるかもしれません。=As you give L food, his attitude towards you may change.#L8
 シュークリームのシューですが、|フランス語でキャベツと言う意味です。|どうでもいいことですが。=In French, “choux” translates to “cabbage”. Not that it really matters.

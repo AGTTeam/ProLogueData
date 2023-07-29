@@ -91,7 +91,7 @@
 ハウスキーパーは冷静さを失いつつ|あるようだ。=>>The Housekeeper seems to be losing his cool.
 大陸も海上も、世界は軍事偵察衛星の|監視下にある。=>>There are military surveillance satellites around the world.
 船は古いが、救命ボートは新品に|取り替えられている。=>>The ship is old, but the lifeboat looks new.
-２０代前半から３０代後半くらいの|健康な男性が多かった。=>>Most men in their early 20s to late 30s are generally healthy.
+２０代前半から３０代後半くらいの|健康な男性が多かった。=>>They were mostly men in their early 20s to late 30s, who were generally healthy.
 トラップに遠隔スイッチがあるかどうか|Ｊは明言を避けた。=>>J didn’t say whether the traps have a remote switch.
 ハウスキーパーはかなりの|ベースボールファンだと思われる。=>>The Housekeeper appears to be a big baseball fan.
 ハウスキーパーの起用では、高額の|報酬が用意されたとみられる。=>>Hiring the Housekeeper would surely come at a high cost.#debug only
@@ -130,7 +130,7 @@
 米軍の介入は事態の混乱を招く恐れが|高いのだが、ジェフリーは必要以上に|米軍への介入要請を口にしている。=>>Intervention by the US military would stir up controversy, but Jeffrey seems insistent on it.
 壁の塗装がはがれ、サビている。|じゅうたんはカビている。|湿気の少ないクリエラ共和国では|考えにくい状況。=>>The paint on the walls is rusty and the carpet is moldy. It seems odd for a non-humid area like Criella.{#leave {
 ハウスキーパーは基本的にはトラップを|仕掛けるだけで、表舞台で行動しない。|今回は異例の行動だと思われる。=>>The Housekeep_ typically only sets traps and does not get inv+$d. His actions this time are unprecedented.
-大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=>>The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa” and “Fox”.
+大株主の名前は不明。取引先リストに|ある主な投資ファンドは『シュウエイ』|『イシマサ』『フォックス』など。=>>The names of the major shareholders are unknown. The main investment funds on the list include “Shuei”, “Ishimasa”, and “Fox”.
 トラップボックスは『ホテル』ではなく|『大型客船』だった。搭載された爆弾が|爆発しても周囲への被害は少ない。=>>The “trap box” is not a hotel, but a ship. E$n if the bombs⊃board exploded, there would be little damage to the surrounding area.
 一連のトラップの製作者である爆弾魔。|３日前、<name>が誘拐された際にも|同様のトラップが仕掛けられていた。=>>The Housekeeper is responsible for a series of traps. A similar trap was set|three days ago when <name> was|abducted.
 ３階の日焼け跡と同じ形。|日焼けの具合から逆算すると、|窓からの日光の入射角が同じになる。|本来はありえない。=>>The marks were the same as the 3rd floor, right down to the angle. Something doesn’t add up.#debug only
@@ -143,9 +143,9 @@
 本名はクリロ・ミラニッチ。|旧ユーゴ内戦時に戦争孤児となったが、|アロイスの財団によって救助され|学費を支援してもらった。=>>Real name Kirilo Milanoviс. Orphaned during the ^vil war in the form_ Yugoslavia, but was rescued by the Alois Foundation who funded his education.
 ハウスキーパーのセットしたトラップは|本来なら利き腕がわからない作りだが、|このフロアのトラップには右利きの|クセが出ている。=>>The Housek/p_\traps are normally designed to hide any tells, but the ones|on this fl[r show the quirks of a right- handed mak_.#added space for wordwrap
 今回の犯行に使われている部品は、普段|とは異なり、高価で精巧なものばかり。|ハウスキーパーの犯行では、珍しい|ケースといえる。=>>The parts used this time are expensive|and elaborate, not typical for the Housekeeper’s crimes.
-少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Housek/per was nicknamed Babe Ruth II as they had a similar way of batting. They also write the same.
+少年時代はベーブ・ルース２世と祖父が|ベタぼめするほどのバッターで、|打ち方もよく似ていた。|モノを書くときにも共通点がある。=>>As a boy, the Housek/per was nicknamed Babe Ruth II as they had a similar way of batting and writing.
 アメリカ・メジャーリーグの伝説の|ホームランバッター。背番号３。|通産本塁打７１４本。左投げ左打ち。|ニックネームはバンビーノ。=>>A legendary home run hitter in US Major League Baseball. Had 714 home runs in all. Throws left-handed and bats left-handed. Nicknamed ‘the Bambino’.
 ＦＢＩ捜査官を誘拐した際、このホテル、|およびクリエラ国内で使用された|トラップはすべてハウスキーパーの|製造したものだと断定。=>>The results show that both the traps used in the hotel and the ones found in the warehouse were made by the Housekeeper.
 ハウスキーパーは、自分の手で|難しいトラップを仕掛けておきながら、|まるで時間内に解いて欲しいといわん|ばかりの話しぶりをしている。=>>The Housekeeper set difficult traps,|but he’s talking like he wants them to be solved.
 ヒジカタ社製ＳＹＧ型。|２０年前まで世界中で販売されていた|定番の品で、使用ホテルの特定は困難。|３階になって初めて存在が確認された。=>>A Hijikata SYG. It is a standard make that used to be very common all over the world.#debug only
-イギリス出身のフリーの爆弾犯。|政治的思想はなく、仕事は金次第。|フォークランド紛争時、英国軍基地内で|最初の犯行を遂行。当時１３歳。=>>A freelance bomber from the UK. Carried out his first attack on a British military base during the Falklands War aged just 13.
+イギリス出身のフリーの爆弾犯。|政治的思想はなく、仕事は金次第。|フォークランド紛争時、英国軍基地内で|最初の犯行を遂行。当時１３歳。=>>A freelance bomber from England. Carried out his first attack on a British military base during the Falklands War aged just 13.

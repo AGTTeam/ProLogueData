@@ -649,7 +649,7 @@
 情報キーワード|@fR【ハウスキーパーの目的】@fW|を入手した。=Keyword added:|@fR“Housekeeper’s Goal"@fW
 !FILE:dat_script.bin/file012_PACK2/file010.bin
 Ｌ、あんたたちに残された時間は|少ないぜ…\tベースボールで言うなら|９回裏２アウト２−３ってとこだ。=You’re running out of time, L.\t In baseball terms, you’re on two outs in the bottom of the ninth inning.
-あなたもよくよくベースボールの|好きな人です…\t|イギリス出身なのに珍しいですね。=You really do like baseball...\t|That’s unusual for someone from the UK.
+あなたもよくよくベースボールの|好きな人です…\t|イギリス出身なのに珍しいですね。=You really do like baseball...\t|That’s unusual for someone from England.
 俺のじいさんはアメリカ出身でな、|ベースボールファンだったんだ。\vじいさん秘蔵のフィルムとか、新聞や|雑誌の切り抜きを見て、俺は育った。|\tバンビーノは俺のアイドルさ。=My gramps was from America and I got my love of baseball from him.\vI grew up with his treasured films and clippings from newspapers and magazines.|\tThe Bambino was my idol.
 （バンビーノ…ベーブ・ルースの|　ニックネームか…）=(The Bambino... That was Babe Ruth’s nickname.)
 情報キーワード|@fR【ベーブ・ルース】@fW|を入手した。=Keyword added:|@fR“Babe Ruth"@fW
