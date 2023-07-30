@@ -420,7 +420,7 @@
 レモン色が可愛いらしい|ロリポップキャンディ。|すっぱい刺激のレモン味。|||=A bright yellow lollipop.|The taste of sour lemons is guaranteed to make your lips pucker.
 オレンジ色が可愛いらしい|ロリポップキャンディ。|元気の出るオレンジ味。|||=A bold orange lollipop.|Adds a little zing back into your step with a fruity orange taste.
 キャラメル風味のカスタードクリームは|甘いもの好きな人にはたまらない味。||||=Those with a sweet tooth won’t be able to resist the moreish caramel custard.
-プリンもアイスもフルーツも。|甘いものが大好きな欲張りさんも|大満足です。|||=Pudding, ice cream and fruit all in a single dish. Sure to satisfy even the most insatiable sweet tooth.
+プリンもアイスもフルーツも。|甘いものが大好きな欲張りさんも|大満足です。|||=Pudding, ice cream, and fruit all in a single dish. Sure to satisfy even the most insatiable sweet tooth.
 明るいグリーンが可愛いらしい|ロリポップキャンディ。|ジューシーなメロン味。|||=A colorful green lollipop.|Bursting with the juicy taste of melon.
 お誕生日おめでとうございます。|お誕生日のための|特製デコレーションケーキ。|||=A special birthday cake.#might be unused?
 解除したトラップから|はずされたパーツだ。|このままでも起爆することができる。|=A part which was removed from the disarmed trap. Even like this, it can still be used to cause an explosion.
@@ -448,10 +448,10 @@
 ツヤツヤの真っ赤な国産さくらんぼは|美しさからもお値段的にも|赤い宝石にたとえられるほど。|||=Shiny red Japanese cherries which are like jewels, both in terms of beauty and price.
 プレーンドーナツに|フリーズドライのいちご果肉入り|ストロベリーチョコレートを|かけました。||=A plain doughnut topped with strawberry chocolate made with freeze-dried berries.
 スイートチョコレートをかけた上に|チョコレートスプレーをトッピング。|カラフルなドーナツ。|||=A colorful doughnut topped with sweet chocolate icing and sprinkles.
-山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|||=A cool treat made of shaved iced topped with plenty of strawberry sauce.|Nothing could be better on a hot summers day.
+山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|||=A cool treat made of shaved iced topped with plenty of strawberry sauce. Nothing could be better on a hot summer day.
 さっとあぶった焦げ目の香ばしさと|甘辛のくずあんが絶妙な|串だんごの大定番。|焼きたてが最高。||=A classic skewered dango with a sweet & salty sauce. Nothing beats one freshly made.
 小豆あんとはまた違った|うぐいす豆の風味。|グリンピースが完熟した|青えんどう豆から作ります。||=The topping made from ripe green peas tastes very different from the red bean paste used in Anko Dango.
-ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|||=A kiwi crepe that is full of vitamins. The texture of the tiny seeds only adds to the enjoyment.
+ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|||=A kiwi crepe that is full of vitamins. The texture of the tiny seeds only adds to|the enjoyment.
 大理石という意味のマーブル。|バニラとチョコレートの|マーブル模様が美しい|アイスクリームです。||=This ice cream has a beautiful marble pattern made from the combination of vanilla and chocolate.
 バニラ風味がおいしいソフトクリーム。|アイスクリームより|あっさりソフトな食感。|食べすぎ注意！||=Delicious soft serve ice cream with a hint of vanilla. It’s less dense than normal ice cream. Be careful not to eat too much!
 チョコレート好きにはたまらない|定番のアイスクリーム。|濃厚なチョコレートの香りが|リッチな気分。||=A classic ice cream that would be any chocoholic’s choice. The smell alone is enough to get mouths watering.
@@ -1125,7 +1125,7 @@ abcdさんは私に、|本当の安らぎを与えてくれます。|かけが�
 今日は勤労感謝の日です。|常に勤勉なワタリに、|私は心から感謝しています。=Today is Thanksgiving Day. I am truly grateful to Watari for his diligence.
 バレンタインのチョコですか。|これは私の想定外です。なぜなら、|あなたは…=Valentine's Day Chocolate?|This wasn’t part of my calculation.|After all, you are...
 バレンタインのチョコですか。|いわゆる義理かどうかは、|すぐ判断できます。=Valentine's Day Chocolate?|I can tell the difference between romantic and obligatory gifts.
-プリンもアイスもフルーツも。|甘いものが大好きな欲張りさんも|大満足です。|=Pudding, ice cream and fruit all in a single dish. Sure to satisfy even the most insatiable sweet tooth.
+プリンもアイスもフルーツも。|甘いものが大好きな欲張りさんも|大満足です。|=Pudding, ice cream, and fruit all in a single dish. Sure to satisfy even the most insatiable sweet tooth.
 お誕生日おめでとうございます。|あなたのための|特製デコレーションケーキ。|=Happy birthday!|It’s a cake especially for you.
 素晴らしいチョイスです。|abcdさんは、まさか…|私の心が読めるんでしょうか。=That was a great decision. Don’t tell me, abcd... Are you a mindreader?
 私の身に何かあったら、その時は、|あなたに…|Ｌの名を継いでもらいたいです。=If something were to happen to me... I want you to carry on the L moniker.
@@ -1175,8 +1175,8 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 ツヤツヤの真っ赤な国産さくらんぼは|美しさからもお値段的にも|赤い宝石にたとえられるほど。|=Shiny red Japanese cherries which are like jewels, both in terms of beauty and price.
 プレーンドーナツに|フリーズドライのいちご果肉入り|ストロベリーチョコレートを|かけました。|=A plain doughnut topped with strawberry chocolate made with freeze-dried berries.
 壁紙は徐々に増えていきますので、|ときどき変更して、気分を変えるのも|よろしいかと思います。=You will unlock new wallpapers as you play, so please feel free to alter it from time to time.#L10
-ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|=A kiwi crepe that is full of vitamins. The texture of the tiny seeds only adds to the enjoyment.
-山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|=A cool treat made of shaved iced topped with plenty of strawberry sauce.|Nothing could be better on a hot summers day.
+ビタミンたっぷり、キウイのクレープ。|プチプチした種の食感も楽しいです。|お肌にもＧｏｏｄ！|=A kiwi crepe that is full of vitamins. The texture of the tiny seeds only adds to|the enjoyment.
+山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|=A cool treat made of shaved iced topped with plenty of strawberry sauce. Nothing could be better on a hot summer day.
 何度もスウィーツを食べさせるうちに、|abcdさんに対するＬの態度が|変わってくるかもしれません。=As you give L food, his attitude towards you may change.#L8
 シュークリームのシューですが、|フランス語でキャベツと言う意味です。|どうでもいいことですが。=In French, “choux” translates to “cabbage”. Not that it really matters.
 Ｋは、ワタリと活動していた頃、|ある犯罪の目的を正当なものと感じ、|犯人を見逃そうとしました。=While K was working with Watari, he felt that the motive behind a certain crime justified it, and wanted to let the perpetrator off.

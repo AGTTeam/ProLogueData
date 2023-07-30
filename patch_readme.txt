@@ -86,6 +86,8 @@ The patch comes with two translated cheats files ready to be used with the emula
 
 Be advised that use of cheats may prevent you from triggering Watari's message during replays of the game, stopping you from being able to unlock the true ending.
 
+If using the 'Unlock "Album" & "Sound" in Extras' cheat, save the game, and then turn the cheat off before next booting the game. If the cheat is accidentally left on, it will trigger a 'corrupt save data' warning on emulator. Despite what the warning reads, this will not corrupt/delete your save data, however it will stop you from being able to progress until the cheat has been turned off.
+
 NAME FLIP
 In Japanese, a person's name is generally written with their family name first, followed by their given name (e.g., Doe John). This has been flipped in the patch, and the player's name should be input in English name order (e.g., John Doe).
 
@@ -99,7 +101,14 @@ Using Download Play on MelonDS:
 2) Navigate to Config > Emu Settings > DS-Mode and check "Use external BIOS/firmware files". Then, use the Browse buttons to locate the DS BIOS files. (N.B. You will need to provide these files yourself, they are not included in the emulator/patch downloads.)
 4) Load up the patched game, navigate to Extras > Send Demo, and press "Yes". The game should now be ready to send the demo and looking for devices.
 5) Back in the MelonDS toolbar, go to System > Multiplayer > Launch new instance.
-6) In the new window of MelonDS which appears, go to File > Boot firmware to launch the DS home screen and start DS Download Play. The game should be picked up automatically. Follow the steps to download the demo. If the download gets stuck, return to the original window and press "Send Demo" and "Yes" again. The download should then complete.
+6) In the new window of MelonDS which appears, go to File > Boot firmware to launch the DS home screen and start DS Download Play. The game should be picked up automatically. Follow the steps to download the demo.
+
+Troubleshooting:
+If the download gets stuck, return to the original window and press "Send Demo" and "Yes" again. The download should then complete.
+
+If the demo downloads but freezes on a white-screen and doesn’t play, turn off all cheats and try again.
+
+If there's no audio, go to Config > Multiplayer Settings, and change the Audio Output to 'Active Instance Only'. You will then need to close both instances of MelonDS and re-send the demo for the change to take effect. Audio will then play on whichever instance is active (if any).
 
 OPENING SUBTITLES
 Textboxes were added for several lines at the beginning of the game which previously only contained audio. These are:

@@ -24,7 +24,7 @@ CODE 0 Intimacy increase when giving L a snack x16
 020C1A3C E0800201
 D0000000 00000000
 
-CODE 0 Unlock "Album" & "Sound" in Extras (Do NOT use if already unlocked)
+CODE 0 Unlock "Album" & "Sound" in Extras (WARNING: Save after activating, then turn off. Do not use if already unlocked.)
 22088E7C 00000002
 
 CODE 0 Change gender to male

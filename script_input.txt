@@ -32,7 +32,7 @@
 グラナダ号の暴走は寸前のところで|阻止され、大惨事は免れた。=The Granada was stopped just in time|to avert disaster.
 残された数多くの証拠からリブート社の|アロイス会長の事件への関与が明らかと|なり、ＦＢＩは逮捕状を請求。=The plentiful evidence left on the ship attested to Reboot Inc.’s involvement in|the case, and the FBI issued an arrest warrant for Alois.
 しかし、その直後、アロイスの自殺体が|スイスの別荘から発見された…=However, shortly afterwards, Alois’ body was found in his Swiss villa in an apparent attempt to take his own life.
-捜査本部はＣＬＮによる口封じだとし、|必死の捜査を続けたが、決定的な証拠を|見つけることはできなかった…=The investigation team assumed that the CLN was trying to silence him, and a desperate manhunt ensued, but they were unable to find any conclusive evidence.
+捜査本部はＣＬＮによる口封じだとし、|必死の捜査を続けたが、決定的な証拠を|見つけることはできなかった…=The investigation team assumed that the CLN was trying to silence him and a desperate manhunt ensued, but they were unable to find any conclusive evidence.
 事件は、アロイスの死とともに|幕を降ろした──=With his death, the case turned cold...
 クリアデータを保存しますか？=Save game clear data?
 !FILE:dat_script.bin/file001_PACK2/file008.bin#normal end 1 (stun gun needed)
@@ -95,7 +95,7 @@
 建物の改装、多数のトラップの設置……\t|目的がなんであれ、舞台装置が|大掛かりすぎる……=To renovate the building and set up all of these traps...\t Whatever the purpose, the scale of it seems way off.
 難易度が高いトラップに|レベルの低いアイテムを使うと|壊れやすいようですね。=It seems low-level items break more easily when you use them on complex traps.
 @fR【捜査レベル】@fWが上がるほど|トラップを解除しやすくなっている|はずです。\tがんばってください。=The higher your @fRDetective Level@fW, the easier it will be to disarm the traps.\t Hang in there.
-確か日本には、|「見てきたような嘘を言い」という|言葉がありましたね……=As I recall, there is a saying in Japan, “to lie as if you knew the truth”.
+確か日本には、|「見てきたような嘘を言い」という|言葉がありましたね……=As I recall, there is a saying in Japan, “to lie as if you know the truth”.
 無知を悟られまいとする時、人間は|無意味によく喋るか、もしくは|意味ありげに言葉を濁します。=When people try to hide their ignorance, they either speak meaninglessly or act evasive.
 トラップ解除の@fR【目標】@fWがなかなか|見つからない時は、一度調べた箇所を|調べ直してみるといいでしょう。=If you’re struggling to find the @fRobjective@fW when disarming a trap, try rechecking a spot you’ve already examined.
 では、次のフロアに向かいましょう。\t|調べ残しはありませんか？=Let’s head to the next floor.\t|Have you finished investigating everything you want to here?
@@ -110,7 +110,7 @@
 ハウスキーパーの犯罪歴は|かなり昔にさかのぼりますね……=The Housekeeper has a long criminal history.
 『クリエラの月』は、ハウスキーパーを|金で雇っていたのでしょう。=Criella Moon must be paying the Housekeeper.
 イギリス出身、か……=From England, hm...
-…犯罪者に同類扱いされるのは|非常に不愉快です。=It is very unpleasant to be made to play games with a criminal.
+…犯罪者に同類扱いされるのは|非常に不愉快です。=It is very unpleasant to be forced to play games with a criminal.
 Ｊ…\tいや、ジェフリーは|自分は『計画の責任者』だと|言いましたね……=J... no, Jeffrey said he was “in charge of the plan”, hm...
 では、次のフロアに向かいましょう。=Let's head to the next floor.
 ジェフリーの陰に隠れていた|ハウスキーパーを引きずり出せたのは|大きな収穫です。=I’d say that was a good catch, dragging the Housekeeper out from Jeffrey’s shadow.
@@ -119,7 +119,7 @@
 今まで決して表には出てこなかった|ハウスキーパーが、|なぜ今回に限って……？=Why is it that the Housekeeper, who has never shown his face before, has appeared now...?
 調査が行き詰まった時には、|以前手に入れたアイテムが|役に立つかもしれませんよ。=If your investigation comes to a standstill, look in your inventory. Something you picked up earlier might come in handy.
 ハウスキーパーは、我々の動きを|ずいぶん気にしていますね……=The Housekeeper seems quite concerned with our movements.
-さっきの地震…気にはなりますが、|ハウスキーパーを追い詰める材料には|ならないでしょう。=The earthquake earlier... It does interest me, but it’s not going to give us material to track down the Housekeeper.
+さっきの地震…気にはなりますが、|ハウスキーパーを追い詰める材料には|ならないでしょう。=The earthquake earlier... It does interest me, but it’s not going to give us material to trip up the Housekeeper.
 同じトラップを|何度も仕掛けるというのは|セオリーに反しますね……=Setting the same traps over and over again goes against logic...
 相手の意図が読みにくい時は、|複数の思惑がからんでいると|考えるべきだ……=When it's hard to read your opponent’s intentions, you should consider that there may be multiple agendas involved.
 要するに、@n0さんは|私を巻き込むために誘拐された、と|いうわけですね。=In short, @n0, you were kidnapped to implicate me.
