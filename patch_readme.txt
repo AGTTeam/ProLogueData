@@ -86,7 +86,7 @@ The patch comes with two translated cheats files ready to be used with the emula
 
 Be advised that use of cheats may prevent you from triggering Watari's message during replays of the game, stopping you from being able to unlock the true ending.
 
-If using the 'Unlock "Album" & "Sound" in Extras' cheat, save the game, and then turn the cheat off before next booting the game. If the cheat is accidentally left on, it will trigger a 'corrupt save data' warning on emulator. Despite what the warning reads, this will not corrupt/delete your save data, however it will stop you from being able to progress until the cheat has been turned off.
+If using the 'Unlock "Album" & "Sound" in Extras' cheat, save the game, and then turn the cheat off before next booting the game. If the cheat is accidentally left on, it will trigger a 'corrupt save data' warning. Despite what the warning reads, this will not corrupt/delete your save data, however it will stop you from being able to progress until the cheat has been turned off.
 
 NAME FLIP
 In Japanese, a person's name is generally written with their family name first, followed by their given name (e.g., Doe John). This has been flipped in the patch, and the player's name should be input in English name order (e.g., John Doe).
