@@ -1132,7 +1132,7 @@ abcdさんは私に、|本当の安らぎを与えてくれます。|かけが�
 ご都合のよい時、|とっておきのスウィーツがあるお店へ|ご一緒したく思います。=When you have time, I’d like to take you to a shop that makes the best sweets.
 海のシーズンです。|コバルトブルーに輝く海の水も…|なめれば塩辛いでしょう。=It’s beach season.|The cobalt blue water of the sea...|It must be salty if you lick it.
 お団子はもっちりですが…|鋭くとがった串は、場合によって|凶器に変わります。=The dango are squishy, but the sharp point of the skewer can be used as a weapon.
-いきなりですがabcdさん、|かゆいところはありませんか？|私は、足首が少々…。=I know this is out of the blue, but do feel itchy? My ankle is a little...
+いきなりですがabcdさん、|かゆいところはありませんか？|私は、足首が少々…。=I know this is out of the blue, but do you feel itchy? My ankle is a little...
 明るいグリーンが可愛いらしい|ロリポップキャンディ。|ジューシーなメロン味。|=A colorful green lollipop.|Bursting with the juicy taste of melon.
 あなたのような相棒がいてくれると、|心強いです。|あなたは信頼できる男性です。=It’s reassuring to have a partner like you. You’re someone I can trust.
 あなたのような女性がいてくれると、|心強いです。|あなたは信頼できる女性です。=It’s reassuring to have a partner like you. You’re someone I can trust.
@@ -1165,7 +1165,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 薄く焼き上げたクレープの中にも|いちごがいっぱい。|甘酸っぱい、フレッシュな一品です。|=The thin crepe is generously stuffed with strawberries. It’s a sweet, tangy and refreshing dish.#I know it means fresh as in ‘fresh juice’, but I didn’t how to make that work here.
 アイスクリームの基本、バニラ味。|バニラの上品な甘い香りが|幸せな気分にしてくれます。|=The staple of all ice creams. The gentle, sweet scent of vanilla will take you to that happy place.
 シュークリームと言えば|カスタードクリーム。|なめらかな食感と卵の風味豊かな|定番の味。|=You can’t think choux bun without thinking custard. The smooth texture and rich flavor make it a classic.
-ワタリのもとを去ったＫは、|研究のため世界中を巡ったそうです。|そこで何を見てきたのか…=After he left Watari, K traveled around the world doing research.|I wonder what he found...
+ワタリのもとを去ったＫは、|研究のため世界中を巡ったそうです。|そこで何を見てきたのか…=After she left Watari, K traveled around the world doing research.|I wonder what she found...
 バニラと抹茶、|二つの味が両方楽しめます。|抹茶の渋みがソフトクリームに|ベストマッチ。|=Enjoy the pleasure of vanilla and matcha in the same mouthful. The bitterness of the matcha pairs well with soft serve ice cream.
 クリスマスケーキですか。|煙突から入ったサンタクロース、|不法侵入罪には問われませんね。=Even though Santa Claus comes in through a chimney, he never gets charged for trespassing, huh.
 健康に良い黒ゴマをたっぷりと|使用しました。|ごまの風味が香ばしい|甘さ控えめのだんご。|=There’s plenty of healthy black sesame seeds to go around in this slightly sweet dango with a crunchy sesame coating.
@@ -1179,7 +1179,7 @@ abcdさん、今日は…|かなり素晴らしい一日になります。|ポ�
 山盛りの氷にたっぷりイチゴシロップを|かけた冷た～い一品。|暑い夏には自然と欲しくなります。|=A cool treat made of shaved iced topped with plenty of strawberry sauce. Nothing could be better on a hot summer day.
 何度もスウィーツを食べさせるうちに、|abcdさんに対するＬの態度が|変わってくるかもしれません。=As you give L food, his attitude towards you may change.#L8
 シュークリームのシューですが、|フランス語でキャベツと言う意味です。|どうでもいいことですが。=In French, “choux” translates to “cabbage”. Not that it really matters.
-Ｋは、ワタリと活動していた頃、|ある犯罪の目的を正当なものと感じ、|犯人を見逃そうとしました。=While K was working with Watari, he felt that the motive behind a certain crime justified it, and wanted to let the perpetrator off.
+Ｋは、ワタリと活動していた頃、|ある犯罪の目的を正当なものと感じ、|犯人を見逃そうとしました。=While K was working with Watari, she felt that the motive behind a certain crime justified it, and wanted to let the perpetrator off.
 小豆あんとはまた違った|うぐいす豆の風味。|グリンピースが完熟した|青えんどう豆から作ります。|=The topping made from ripe green peas tastes very different from the red bean paste used in Anko Dango.
 大理石という意味のマーブル。|バニラとチョコレートの|マーブル模様が美しい|アイスクリームです。|=This ice cream has a beautiful marble pattern made from the combination of vanilla and chocolate.
 バニラ風味がおいしいソフトクリーム。|アイスクリームより|あっさりソフトな食感。|食べすぎ注意！|=Delicious soft serve ice cream with a hint of vanilla. It’s less dense than normal ice cream. Be careful not to eat too much!
