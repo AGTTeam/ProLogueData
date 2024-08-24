@@ -3954,14 +3954,14 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 ガラスのドームだ。\v緑の液体が入っている。=A glass dome.\vThere’s green liquid inside.
 ガラスのドームだ。\v緑の液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s green liquid inside.\vThe amount of liquid is slowly decreasing.
 ガラス内の液体は、下の装置に|落ちて行っているのでしょうか。=Is the liquid in the glass dripping onto the equipment below?
-フラスコがさかさまに|取り付けられている。\v中には、緑の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a green liquid.\vThe liquid is pouring out quickly.
+フラスコがさかさまに|取り付けられている。\v中には、緑の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask has been mounted upside down.\vInside it is a green liquid.\vThe liquid is pouring out quickly.
 液体が落ちきったら爆発です。\t|急がないとまずそうですね。=When that liquid runs out, the whole thing will go boom.\t|You have to hurry.
 この液体が落ちきる前に|爆弾の解除をしなければ|ならないようですね。=We’d best disarm this trap before all of that liquid runs out.#Watari
 フラスコが割れ、|中からガスが噴出した！=The flask broke and gas erupted|from the inside!
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file016.bin
 ガラスのドームだ。\v赤い液体が入っている。=A glass dome.\vThere’s red liquid inside.
 ガラスのドームだ。\v赤い液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s red liquid inside.\vThe amount of liquid is slowly decreasing.
-フラスコがさかさまに|取り付けられている。\v中には、赤い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a red liquid.\vThe liquid is pouring out quickly.
+フラスコがさかさまに|取り付けられている。\v中には、赤い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask has been mounted upside down.\vInside it is a red liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file010_PACK2/file019.bin
 フラスコを固定しているネジだ。\v緩められている。=The screws holding the|flasks in place.\vThey are loose.
 フラスコを固定している@fRネジ@fWだ。=There are @fRscrews@fW holding the|flasks in place.
@@ -4368,11 +4368,11 @@ even numbers…|\t偶数の事ですね。|\t何かの@fR暗号@fWかもしれ�
 !FILE:dat_script_trapsmall.bin/file019_PACK2/file015.bin
 ガラスのドームだ。\v黄色の液体が入っている。=A glass dome.\vThere’s yellow liquid inside.
 ガラスのドームだ。\v黄色の液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s yellow liquid inside.\vThe amount of liquid is slowly decreasing.
-フラスコがさかさまに|取り付けられている。\v中には、黄色の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a yellow liquid.\vThe liquid is pouring out quickly.
+フラスコがさかさまに|取り付けられている。\v中には、黄色の液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask has been mounted upside down.\vInside it is a yellow liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file019_PACK2/file016.bin
 ガラスのドームだ。\v青い液体が入っている。=A glass dome.\vThere’s blue liquid inside.
 ガラスのドームだ。\v青い液体が入っている。\v液体は少しずつだが減っている。=A glass dome.\vThere’s blue liquid inside.\vThe amount of liquid is slowly decreasing.
-フラスコがさかさまに|取り付けられている。\v中には、青い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask had been mounted upside down.\vInside it is a blue liquid.\vThe liquid is pouring out quickly.
+フラスコがさかさまに|取り付けられている。\v中には、青い液体が入っている。\v液体はどんどん|下へ落ちて行っている。=A flask has been mounted upside down.\vInside it is a blue liquid.\vThe liquid is pouring out quickly.
 !FILE:dat_script_trapsmall.bin/file020_PACK2/file011.bin
 この大量のコードの中に|きっと爆弾があります。|\tそれを探してください。=There must be a bomb inside this tangle of wires.\t|See if you can find it.
 これは爆薬が比較的簡単に|外せそうな位置にありますね。|\tこれを外しましょう。=Now you’re in a better position to disarm the trap.\t|Remove the explosives.
